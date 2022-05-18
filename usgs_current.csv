@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-18T06:27:55.252Z,51.1085,178.728,19.25,5.7,mww,,140,0.45,1.08,us,us6000hlxv,2022-05-18T06:47:14.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.6,3.8,0.063,24,reviewed,us,us
+2022-05-18T06:52:11.870Z,33.372,-116.8586667,9.17,1.14,ml,39,33,0.01864,0.21,ci,ci40021655,2022-05-18T06:55:59.405Z,"2km NNE of Palomar Observatory, CA",earthquake,0.21,0.59,0.133,26,automatic,ci,ci
+2022-05-18T06:49:56.865Z,38.1958,-117.8044,1.2,1.6,ml,12,112.19,0.134,0.2842,nn,nn00839081,2022-05-18T06:53:43.980Z,"Nevada",earthquake,,1.7,0.14,7,automatic,nn,nn
+2022-05-18T06:27:55.252Z,51.1085,178.728,19.25,5.7,mww,,140,0.45,1.08,us,us6000hlxv,2022-05-18T06:52:10.326Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.6,3.8,0.063,24,reviewed,us,us
+2022-05-18T06:19:38.840Z,18.0651666666667,-67.3413333333333,7.03,2.61,md,17,232,,0.27,pr,pr71349238,2022-05-18T06:48:42.260Z,"16 km W of Puerto Real, Puerto Rico",earthquake,0.78,0.63,0.124619507934568,13,reviewed,pr,pr
 2022-05-18T05:43:40.299Z,62.9731,-150.5703,88.2,1.5,ml,,,,0.71,ak,ak0226cbed21,2022-05-18T05:45:53.392Z,"54 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-18T05:29:47.770Z,46.8505,-121.91133333333333,8.32,1.1500000000000001,ml,15,69,0.02721,0.1,uw,uw61841191,2022-05-18T05:40:09.820Z,"13 km NE of Ashford, Washington",earthquake,0.29,0.33,0.11543367745863309,5,reviewed,uw,uw
 2022-05-18T05:22:30.200Z,38.8323326,-122.8043365,1.78,1.17,md,20,48,0.009987,0.02,nc,nc73735216,2022-05-18T06:25:10.001Z,"7km W of Cobb, CA",earthquake,0.21,0.47,0.22,3,automatic,nc,nc
@@ -23,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T02:04:06.984Z,41.4791,-125.9302,10.43,2.5,ml,,248,1.578,0.7,us,us6000hlx4,2022-05-18T02:47:24.040Z,"147 km WSW of Crescent City, California",earthquake,7.9,10.1,0.049,54,reviewed,us,us
 2022-05-18T01:52:15.464Z,61.8914,-150.717,20.1,1.2,ml,,,,0.62,ak,ak0226c92i6h,2022-05-18T02:11:44.602Z,"37 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-18T01:47:42.874Z,62.495,-152.086,108.4,1.4,ml,,,,0.56,ak,ak0226c91hpr,2022-05-18T01:50:53.694Z,"66 km NNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-18T01:43:06.136Z,31.63466354,-104.3789403,4.923291016,3,ml,17,145,0.1040412813,0.3,tx,tx2022jqli,2022-05-18T02:15:03.749Z,"59 km S of Whites City, New Mexico",earthquake,1.464585295,2.091318474,0.2,13,reviewed,tx,tx
+2022-05-18T01:43:06.173Z,31.64937654,-104.3779931,6.465771484,3,ml,19,76,0.0989609043,0.3,tx,tx2022jqli,2022-05-18T06:54:33.672Z,"58 km S of Whites City, New Mexico",earthquake,1.411886628,1.745114369,0.2,18,reviewed,tx,tx
 2022-05-18T01:38:36.406Z,12.3941,123.5664,10,4.6,mb,,109,13.372,0.62,us,us6000hlx9,2022-05-18T02:34:51.040Z,"1 km S of Bulo, Philippines",earthquake,11.6,1.9,0.062,77,reviewed,us,us
 2022-05-18T01:34:53.798Z,59.9822,-139.5101,1.1,1.8,ml,,,,1.2,ak,ak0226c8yq8z,2022-05-18T01:47:14.895Z,"50 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-18T01:26:55.580Z,62.5582,-149.1719,62,0.9,ml,,,,0.6,ak,ak0226c8x0nq,2022-05-18T01:29:05.021Z,"49 km ENE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -233,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T07:15:25.820Z,19.1328333333333,-155.4315,29.75,1.55,md,21,225,,0.11,hv,hv73014942,2022-05-17T22:14:04.940Z,"9 km SSE of Pāhala, Hawaii",earthquake,0.66,0.86,0.114571754253519,6,reviewed,hv,hv
 2022-05-17T07:11:30.693Z,-3.5657,140.2848,108.16,4.6,mb,,131,8.048,0.99,us,us6000hlql,2022-05-17T07:26:46.040Z,"113 km SSW of Abepura, Indonesia",earthquake,11.4,7.4,0.091,36,reviewed,us,us
 2022-05-17T07:08:35.360Z,53.8401666666667,-166.4825,10.9,0.08,ml,5,301,,0.1,av,av91058898,2022-05-18T00:24:50.020Z,"5 km SE of Unalaska, Alaska",earthquake,0.7,0.71,0.421976855802961,5,reviewed,av,av
-2022-05-17T06:50:18.057Z,31.66754347,-104.4115265,6.671435547,2.1,ml,11,87,0.07609079535,0.3,tx,tx2022jozy,2022-05-18T06:39:38.484Z,"56 km S of Whites City, New Mexico",earthquake,1.55350123,2.138764982,0.1,11,reviewed,tx,tx
