@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-18T19:46:05.577Z,60.8882,-151.6582,76.2,2.7,ml,,,,0.59,ak,ak0226cjr00d,2022-05-18T19:48:13.219Z,"29 km NW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-18T19:47:22.131Z,36.6277,-116.0887,0,0.7,ml,13,182.24,0.069,0.1642,nn,nn00839109,2022-05-18T19:50:28.312Z,"37 km W of Indian Springs, Nevada",earthquake,,3.3,0.32,8,automatic,nn,nn
+2022-05-18T19:46:05.568Z,60.8878,-151.6572,76.3,2.8,ml,,,,0.57,ak,ak0226cjr00d,2022-05-18T19:49:14.102Z,"29 km NW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-18T19:37:57.290Z,38.815834,-122.8366699,2.51,0.85,md,8,113,0.009091,0.03,nc,nc73735411,2022-05-18T19:45:10.676Z,"8km WNW of The Geysers, CA",earthquake,1.02,1.46,,1,automatic,nc,nc
 2022-05-18T19:28:24.690Z,19.1671657562256,-155.46533203125,35.0200004577637,1.74000001,md,32,102,,0.109999999,hv,hv73016402,2022-05-18T19:31:36.710Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.74,0.99000001,0.620000005,5,automatic,hv,hv
 2022-05-18T19:26:12.970Z,32.5971667,-116.9866667,2.95,1.63,ml,24,206,0.04882,0.17,ci,ci40021927,2022-05-18T19:29:56.564Z,"7km ESE of Chula Vista, CA",quarry blast,0.97,0.55,0.182,21,automatic,ci,ci
@@ -167,6 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-18T01:34:53.798Z,59.9822,-139.5101,1.1,1.8,ml,,,,1.2,ak,ak0226c8yq8z,2022-05-18T01:47:14.895Z,"50 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-18T01:26:55.580Z,62.5582,-149.1719,62,0.9,ml,,,,0.6,ak,ak0226c8x0nq,2022-05-18T01:29:05.021Z,"49 km ENE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-05-18T01:22:02.910Z,38.8348351,-122.7968369,1.75,0.36,md,8,137,0.006201,0.01,nc,nc73735176,2022-05-18T01:33:10.205Z,"6km WNW of Cobb, CA",earthquake,0.51,1.51,,1,automatic,nc,nc
+2022-05-18T01:15:40.750Z,48.27283333333333,-121.87883333333333,11.04,0.49,ml,6,150,0.0841,0.07,uw,uw61841131,2022-05-18T19:49:07.150Z,"Washington",earthquake,0.61,1.35,0.20904286953205153,2,reviewed,uw,uw
 2022-05-18T01:05:12.040Z,38.8343315,-122.7975006,2.09,1.17,md,14,54,0.006915,0.02,nc,nc73735166,2022-05-18T03:48:11.024Z,"7km WNW of Cobb, CA",earthquake,0.33,0.74,,1,automatic,nc,nc
 2022-05-18T01:01:15.870Z,17.8571666666667,-66.8831666666667,13.63,2.42,md,9,251,,0.13,pr,pr71349223,2022-05-18T01:23:09.140Z,"12 km SSE of Guánica, Puerto Rico",earthquake,0.78,0.66,0.138970245792415,8,reviewed,pr,pr
 2022-05-18T00:58:42.210Z,44.5866667,-110.753,5.19,1.56,ml,17,71,0.07549,0.18,uu,uu60498447,2022-05-18T15:19:21.270Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.33,1.56,0.295,4,reviewed,uu,uu
