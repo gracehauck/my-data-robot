@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-31T20:22:34.070Z,60.1558,-153.6903,9.1,1.1,ml,,,,0.31,ak,ak0226y26v1r,2022-05-31T20:24:41.656Z,"35 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-31T20:13:53.892Z,40.1797,-119.6869,12.7,0.9,ml,4,259.2,0.036,0.2016,nn,nn00840009,2022-06-01T02:38:33.847Z,"26 km NNW of Sutcliffe, Nevada",earthquake,,2.9,0.2,3,reviewed,nn,nn
 2022-05-31T20:09:22.450Z,19.1615009307861,-155.492004394531,34.6399993896484,1.94000006,md,29,115,,0.140000001,hv,hv73029567,2022-05-31T20:12:29.800Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.73,0.939999998,1.94000006,4,automatic,hv,hv
-2022-05-31T19:39:51.070Z,38.8018341,-122.8171692,2.61,1.42,md,8,136,0.01815,0.12,nc,nc73739586,2022-05-31T23:22:15.765Z,"6km WNW of The Geysers, CA",earthquake,0.62,0.92,0.03,9,automatic,nc,nc
