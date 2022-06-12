@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T20:47:28.740Z,19.2415008544922,-155.387161254883,32.8600006103516,2.20000005,md,40,145,,0.129999995,hv,hv73042272,2022-06-12T20:50:43.910Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.52,0.810000002,1.23000002,19,automatic,hv,hv
+2022-06-12T20:46:20.290Z,36.0878333,-117.6845,-0.3,1.95,ml,10,143,0.1411,0.15,ci,ci40038959,2022-06-12T20:50:12.742Z,"24km ENE of Coso Junction, CA",earthquake,0.36,31.61,0.156,26,automatic,ci,ci
+2022-06-12T20:41:32.899Z,60.9926,-150.4759,46.9,2,ml,,,,0.15,ak,ak0227hwr3hl,2022-06-12T20:42:50.137Z,"13 km NE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-12T20:33:36.870Z,19.2385005950928,-155.386001586914,33.7599983215332,2.39,ml,47,144,,0.129999995,hv,hv73042252,2022-06-12T20:39:07.950Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,0.699999988,3.65,20,automatic,hv,hv
 2022-06-12T20:27:07.380Z,19.2358341217041,-155.390335083008,32.060001373291,2.11,ml,41,143,,0.129999995,hv,hv73042242,2022-06-12T20:32:38.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.74000001,4.27,4,automatic,hv,hv
 2022-06-12T20:26:00.100Z,18.0248333333333,-66.7425,14.72,1.74,md,5,168,,0.06,pr,pr71353798,2022-06-12T20:38:37.800Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.43,1.14,0.127079477423012,5,reviewed,pr,pr
@@ -91,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T07:38:16.970Z,17.9736666666667,-66.968,4.3,2.86,md,4,196,,0.09,pr,pr71353718,2022-06-12T07:59:27.270Z,"Puerto Rico region",earthquake,1.18,0.98,0.0117770298929418,3,reviewed,pr,pr
 2022-06-12T07:30:00.760Z,18.8731,-64.3505,25,3.47,md,17,298,0.799,0.47,pr,pr2022163003,2022-06-12T08:40:04.040Z,"76 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,2.17,29.2,0.07,7,reviewed,pr,pr
 2022-06-12T07:08:00.400Z,36.3754997,-121.1338348,3.23,2.14,md,8,147,0.3558,0.29,nc,nc73744326,2022-06-12T08:50:17.338Z,"12km ENE of Greenfield, CA",earthquake,10.01,17.64,,1,automatic,nc,nc
-2022-06-12T07:05:55.612Z,0.5316,-78.0072,5.77,4.1,mb,,105,0.317,0.42,us,us7000hgvq,2022-06-12T07:33:11.040Z,"Colombia-Ecuador border region",earthquake,7.1,7.4,0.13,17,reviewed,us,us
+2022-06-12T07:05:55.612Z,0.5316,-78.0072,5.77,4.1,mb,,105,0.317,0.42,us,us7000hgvq,2022-06-12T20:43:26.467Z,"Colombia-Ecuador border region",earthquake,7.1,7.4,0.13,17,reviewed,us,us
 2022-06-12T07:05:19.280Z,33.2483333,-116.1051667,3.96,0.73,ml,19,100,0.1303,0.23,ci,ci40038711,2022-06-12T07:08:50.142Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.39,1.58,0.07,13,automatic,ci,ci
 2022-06-12T06:57:49.877Z,8.4189,-83.0016,22.75,4.2,mb,,150,0.485,0.52,us,us7000hgvm,2022-06-12T13:34:58.363Z,"Costa Rica",earthquake,4.2,8.7,0.215,6,reviewed,us,us
 2022-06-12T06:47:00.040Z,38.7869987,-122.7696686,1.84,0.97,md,22,82,0.01554,0.04,nc,nc73744321,2022-06-12T08:35:23.247Z,"2km NW of The Geysers, CA",earthquake,0.24,0.41,0.07,6,automatic,nc,nc
@@ -163,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T23:43:19.272Z,59.5607,-151.8947,68.6,1.1,ml,,,,0.1,ak,ak0227gb0fzh,2022-06-12T06:39:34.227Z,"16 km WNW of Seldovia Village, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-06-11T23:37:38.360Z,38.8413315,-122.8238297,1.24,0.76,md,18,88,0.009507,0.04,nc,nc73744221,2022-06-12T01:32:10.835Z,"9km WNW of Cobb, CA",earthquake,0.25,0.41,0.11,4,automatic,nc,nc
 2022-06-11T23:15:37.880Z,18.7601666666667,-68.2958333333333,15.45,3.09,md,15,187,,0.49,pr,pr71353613,2022-06-11T23:33:06.520Z,"22 km NNE of Punta Cana, Dominican Republic",earthquake,1.86,4.49,0.0953862786821451,14,reviewed,pr,pr
-2022-06-11T23:10:01.820Z,33.2423333,-116.1063333,3.19,1.53,ml,40,46,0.1007,0.25,ci,ci40038607,2022-06-11T23:13:47.817Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.29,0.75,0.161,27,automatic,ci,ci
+2022-06-11T23:10:01.860Z,33.2356667,-116.1043333,9.05,1.56,ml,62,49,0.09593,0.19,ci,ci40038607,2022-06-12T20:52:02.755Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.15,0.57,0.159,53,reviewed,ci,ci
 2022-06-11T23:09:35.997Z,50.7132,-173.8049,42.1,2.1,ml,,,,0.9,ak,ak0227gat8cv,2022-06-11T23:41:01.608Z,"167 km S of Atka, Alaska",earthquake,,341.2,,,reviewed,ak,ak
 2022-06-11T22:58:54.700Z,37.56,-118.8608333,3.78,0.49,md,8,281,0.03916,0.03,nc,nc73744196,2022-06-12T19:48:14.391Z,"14km SE of Mammoth Lakes, CA",earthquake,0.78,1.19,0.245,8,reviewed,nc,nc
 2022-06-11T22:56:48.130Z,38.8326683,-122.7996674,1.13,0.36,md,7,92,0.009267,0.01,nc,nc73744191,2022-06-11T23:39:14.097Z,"7km W of Cobb, CA",earthquake,0.38,0.75,,1,automatic,nc,nc
@@ -180,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T21:38:37.190Z,19.2148342132568,-155.429000854492,33.0400009155273,2.26,ml,41,133,,0.119999997,hv,hv73041432,2022-06-11T21:44:08.620Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.62,0.720000029,4.62,4,automatic,hv,hv
 2022-06-11T21:19:23.360Z,33.468,-116.4943333,13.02,1.13,ml,62,29,0.07964,0.19,ci,ci40038567,2022-06-12T20:38:05.660Z,"19km ESE of Anza, CA",earthquake,0.16,0.33,0.142,42,reviewed,ci,ci
 2022-06-11T20:56:25.785Z,-50.5399,139.3833,10,5.4,mww,,68,9.373,0.94,us,us7000hgsw,2022-06-11T22:59:28.076Z,"western Indian-Antarctic Ridge",earthquake,10.3,1.9,0.083,14,reviewed,us,us
-2022-06-11T20:45:18.460Z,38.0045,-122.7598333,4.13,1.26,md,13,162,0.04787,0.1,nc,nc73744116,2022-06-12T00:40:13.529Z,"6km WSW of Lagunitas-Forest Knolls, CA",earthquake,0.3,0.89,0.2,11,reviewed,nc,nc
