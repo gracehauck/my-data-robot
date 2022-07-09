@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-09T06:04:03.140Z,36.8759995,-121.6131668,5.42,2.16,md,32,44,0.01898,0.16,nc,nc73756596,2022-07-09T06:07:19.910Z,"3km ESE of Aromas, CA",earthquake,0.35,0.6,0.13,30,automatic,nc,nc
 2022-07-09T05:37:38.455Z,60.4406,-151.5906,60.2,1.8,ml,,,,0.62,ak,ak0228qbb4b9,2022-07-09T05:39:34.223Z,"16 km W of Kalifornsky, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-09T04:56:25.918Z,38.7174,-118.8047,7.2,1,ml,10,163.55,0.238,0.0953,nn,nn00842502,2022-07-09T05:02:16.221Z,"8 km NNW of Walker Lake, Nevada",earthquake,,13.9,0.2,7,automatic,nn,nn
 2022-07-09T04:49:12.920Z,17.9586666666667,-66.8008333333333,17.41,2.35,md,13,192,,0.13,pr,pr71358243,2022-07-09T05:07:39.100Z,"4 km SSE of Indios, Puerto Rico",earthquake,0.41,0.47,0.186453187743472,10,reviewed,pr,pr
@@ -267,10 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T06:39:32.873Z,58.3859,-155.8029,159.4,2.2,ml,,,,0.48,ak,ak0228oodmfb,2022-07-08T07:08:49.040Z,"60 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-08T06:33:32.310Z,17.9988333333333,-66.8651666666667,16.15,2.32,md,6,205,,0.08,pr,pr71358118,2022-07-08T07:02:27.750Z,"1 km SSE of Palomas, Puerto Rico",earthquake,0.68,0.61,0.0411989606787113,3,reviewed,pr,pr
 2022-07-08T06:26:15.470Z,36.54083333,-98.95716667,7.28,1.18,ml,30,86,0.04859046489,0.13,ok,ok2022nfzg,2022-07-08T14:49:18.460Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.23,5,reviewed,ok,ok
-2022-07-08T06:05:54.670Z,33.443,-116.3856667,7.95,0.56,ml,26,96,0.08689,0.11,ci,ci40299568,2022-07-08T23:41:21.845Z,"21km N of Borrego Springs, CA",earthquake,0.19,0.62,0.085,11,reviewed,ci,ci
-2022-07-08T06:04:10.591Z,58.1009,-138.0499,3,2.8,ml,,,,1.03,ak,ak0228oo62n7,2022-07-08T06:29:12.040Z,"Southeastern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-08T06:02:56.028Z,38.5687,-118.5062,6.4,-0.3,ml,6,213.01,0.061,0.1829,nn,nn00842463,2022-07-08T23:34:03.953Z,"11 km ENE of Hawthorne, Nevada",earthquake,,10.1,0,1,reviewed,nn,nn
-2022-07-08T05:58:10.610Z,36.0926667,-120.6556667,8.47,1.87,md,45,99,0.05375,0.08,nc,nc73756191,2022-07-08T12:12:10.064Z,"24km ENE of San Ardo, CA",earthquake,0.2,0.27,0.144,42,reviewed,nc,nc
-2022-07-08T05:57:11.160Z,37.2906667,-120.0363333,17.89,2.08,md,16,77,0.118,0.15,nc,nc73756196,2022-07-08T11:47:09.907Z,"20km ENE of Le Grand, CA",earthquake,0.37,0.47,0.113,21,reviewed,nc,nc
-2022-07-08T05:53:18.290Z,36.0208333,-117.8888333,5.43,1.05,ml,25,74,0.01313,0.11,ci,ci40299552,2022-07-08T23:33:23.808Z,"6km ESE of Coso Junction, CA",earthquake,0.14,0.25,0.2,11,reviewed,ci,ci
-2022-07-08T05:52:18.480Z,35.007,-97.82716667,7.92,1.35,ml,60,48,0.06928640364,0.49,ok,ok2022nfyf,2022-07-08T13:07:04.442Z,"11 km NE of Ninnekah, Oklahoma",earthquake,,1.1,0.2,24,reviewed,ok,ok
