@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-14T14:50:47.170Z,34.0676667,-118.3291667,14.33,1.51,ml,17,90,0.05579,0.26,ci,ci40303704,2022-07-14T14:54:29.756Z,"3km S of Hollywood, CA",earthquake,0.92,0.73,0.389,34,automatic,ci,ci
 2022-07-14T14:36:27.499Z,64.4879,-148.0229,0.1,1.1,ml,,,,0.4,ak,ak0228yqcinx,2022-07-14T14:38:33.467Z,"37 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-14T14:31:43.210Z,17.9981666666667,-66.7636666666667,11.76,2.54,md,13,162,,0.17,pr,pr71359453,2022-07-14T14:51:12.450Z,"2 km SSE of Magas Arriba, Puerto Rico",earthquake,0.64,0.43,0.0354806369733991,6,reviewed,pr,pr
 2022-07-14T14:14:17.890Z,32.6473333,-115.7288333,7.39,2,ml,27,116,0.002872,0.22,ci,ci40303696,2022-07-14T14:25:00.400Z,"16km WNW of Progreso, B.C., MX",earthquake,0.48,0.72,0.208,27,automatic,ci,ci
@@ -115,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T02:23:09.040Z,34.0535,-117.2408333,13.53,2.33,ml,91,22,0.07,0.18,ci,ci40303352,2022-07-14T02:33:58.090Z,"2km ENE of Loma Linda, CA",earthquake,0.18,0.4,0.181,25,automatic,ci,ci
 2022-07-14T02:22:46.014Z,60.669,-152.2807,97.2,0.7,ml,,,,0.91,ak,ak0228yj561s,2022-07-14T02:32:25.855Z,"52 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-14T02:14:25.088Z,-27.4505,-175.3535,10,5.2,mww,19,129,2.893,0.46,us,us6000i29z,2022-07-14T02:34:14.040Z,"Kermadec Islands region",earthquake,12.8,1.9,0.098,10,reviewed,us,us
-2022-07-14T02:09:09.390Z,36.4776649,-120.8686676,15.6,2.26,md,36,115,0.1119,0.17,nc,nc73758416,2022-07-14T03:31:11.837Z,"19km WNW of New Idria, CA",earthquake,0.42,0.75,0.21,29,automatic,nc,nc
+2022-07-14T02:09:09.290Z,36.4763333,-120.8728333,19.05,2.26,md,47,112,0.04249,0.11,nc,nc73758416,2022-07-14T14:53:36.912Z,"19km WNW of New Idria, CA",earthquake,0.26,0.3,0.145,51,reviewed,nc,nc
 2022-07-14T02:08:31.100Z,35.8958333,-117.7073333,11.67,1.21,ml,16,66,0.09453,0.21,ci,ci40303344,2022-07-14T02:12:11.489Z,"18km ESE of Little Lake, CA",earthquake,0.46,1.18,0.148,14,automatic,ci,ci
 2022-07-14T02:03:36.850Z,39.4283333,-110.2935,-2.38,1.37,ml,6,200,0.02484,0.08,uu,uu60505637,2022-07-14T14:43:18.310Z,"15 km SSE of Sunnyside, Utah",earthquake,1.47,2.65,0.143,3,reviewed,uu,uu
 2022-07-14T02:02:43.006Z,61.6654,-148.0843,19.3,0.6,ml,,,,0.26,ak,ak0228yj0298,2022-07-14T02:04:19.248Z,"24 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
