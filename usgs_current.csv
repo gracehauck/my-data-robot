@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-16T19:13:18.190Z,38.8351669,-122.7991638,2.24,1.17,md,12,72,0.007611,0.02,nc,nc73759361,2022-07-16T19:14:52.385Z,"7km WNW of Cobb, CA",earthquake,0.36,1.05,,1,automatic,nc,nc
+2022-07-16T19:25:07.090Z,33.4923333,-116.7561667,6.18,0.3,ml,15,135,0.07452,0.11,ci,ci40064735,2022-07-16T19:28:48.072Z,"10km SW of Anza, CA",earthquake,0.31,0.71,0.072,8,automatic,ci,ci
+2022-07-16T19:21:24.600Z,38.7948341,-122.8115005,3.04,0.85,md,25,74,0.009254,0.03,nc,nc73759366,2022-07-16T19:31:11.887Z,"5km WNW of The Geysers, CA",earthquake,0.28,0.48,0.28,4,automatic,nc,nc
+2022-07-16T19:13:18.190Z,38.8351669,-122.7991638,2.24,1.17,md,12,72,0.007611,0.02,nc,nc73759361,2022-07-16T19:30:12.881Z,"7km WNW of Cobb, CA",earthquake,0.36,1.05,,1,automatic,nc,nc
 2022-07-16T18:50:30.580Z,33.4923333,-116.7566667,6.57,0.36,ml,21,111,0.07465,0.16,ci,ci40064727,2022-07-16T18:54:06.925Z,"10km SW of Anza, CA",earthquake,0.33,0.75,0.13,10,automatic,ci,ci
 2022-07-16T18:44:14.580Z,38.8231659,-122.8423309,1.87,0.37,md,9,79,0.005703,0.01,nc,nc73759351,2022-07-16T19:01:11.680Z,"9km NW of The Geysers, CA",earthquake,0.32,0.92,,1,automatic,nc,nc
 2022-07-16T18:25:17.394Z,63.4014,-144.8423,0,1.6,ml,,,,0.7,ak,ak022923qkez,2022-07-16T18:27:52.365Z,"29 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
