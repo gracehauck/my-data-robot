@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-21T20:04:50.640Z,38.8168335,-122.8235016,2.32,1.09,md,25,51,0.009107,0.03,nc,nc73761396,2022-07-21T20:06:25.066Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.11,4,automatic,nc,nc
+2022-07-21T20:00:33.600Z,32.8173333,-117.0663333,4.01,1,ml,19,112,0.06894,0.16,ci,ci40067431,2022-07-21T20:04:23.576Z,"7km NW of La Mesa, CA",earthquake,0.32,1.26,0.092,6,automatic,ci,ci
 2022-07-21T19:25:44.100Z,39.431,-110.3113333,-1.03,1.33,ml,10,167,0.0127,0.09,uu,uu60506622,2022-07-21T19:44:43.090Z,"14 km SSE of Sunnyside, Utah",earthquake,0.8,0.22,0.116,4,reviewed,uu,uu
 2022-07-21T19:23:11.990Z,34.0141667,-117.2465,18.99,1.23,ml,24,107,0.1091,0.28,ci,ci40067407,2022-07-21T19:26:51.321Z,"4km SSE of Loma Linda, CA",earthquake,0.52,0.82,0.386,18,automatic,ci,ci
 2022-07-21T19:21:28.566Z,60.432,-147.8595,12.7,1.8,ml,,,,0.47,ak,ak0229adzwhk,2022-07-21T19:23:51.948Z,"41 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -18,12 +20,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T17:48:17.943Z,38.6598,-116.1136,1,2.2,ml,6,101.1,0.851,0.2694,nn,nn00843341,2022-07-21T18:37:45.592Z,"95 km S of Eureka, Nevada",earthquake,,4.6,0.12,3,reviewed,nn,nn
 2022-07-21T17:31:22.780Z,38.7869987,-122.7671661,1.88,0.83,md,16,79,0.0148,0.02,nc,nc73761346,2022-07-21T18:02:15.725Z,"1km NW of The Geysers, CA",earthquake,0.32,0.52,0.35,3,automatic,nc,nc
 2022-07-21T17:17:57.860Z,38.786335,-122.7333298,1.52,1.12,md,16,86,0.004076,0.05,nc,nc73761341,2022-07-21T19:29:11.285Z,"2km ENE of The Geysers, CA",earthquake,0.29,0.51,0.11,5,automatic,nc,nc
-2022-07-21T17:15:45.940Z,33.1548333,-116.0855,10.24,0.96,ml,19,155,0.06913,0.2,ci,ci40067343,2022-07-21T17:19:25.928Z,"4km ENE of Ocotillo Wells, CA",earthquake,0.6,0.9,0.227,15,automatic,ci,ci
+2022-07-21T17:15:45.790Z,33.1533333,-116.0781667,9.34,1,ml,30,105,0.07531,0.21,ci,ci40067343,2022-07-21T20:04:38.556Z,"5km ENE of Ocotillo Wells, CA",earthquake,0.34,0.8,0.161,9,reviewed,ci,ci
 2022-07-21T17:14:00.600Z,17.9355,-66.837,12.39,2.25,md,19,206,,0.22,pr,pr71360548,2022-07-21T17:25:30.990Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.75,0.52,0.138854008266241,8,reviewed,pr,pr
-2022-07-21T17:08:08.830Z,33.245,-116.112,9.07,0.85,ml,17,54,0.1006,0.28,ci,ci40067327,2022-07-21T17:11:49.706Z,"12km N of Ocotillo Wells, CA",earthquake,0.54,1.47,0.067,13,automatic,ci,ci
+2022-07-21T17:08:08.770Z,33.239,-116.1053333,8.21,0.84,ml,23,54,0.09826,0.15,ci,ci40067327,2022-07-21T19:58:16.529Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.22,0.85,0.088,9,reviewed,ci,ci
 2022-07-21T17:07:26.499Z,21.1499,99.8632,10,5.9,mww,101,27,0.288,0.85,us,us7000hsg4,2022-07-21T19:35:44.256Z,"53 km S of Kēng Tung, Myanmar",earthquake,6,1.8,0.06,27,reviewed,us,us
 2022-07-21T17:00:40.160Z,37.5443333,-118.8856667,2.85,0.15,md,6,297,0.06403,0.04,nc,nc73761336,2022-07-21T17:43:14.606Z,"13km SE of Mammoth Lakes, CA",earthquake,1.44,2.62,0.002,4,reviewed,nc,nc
-2022-07-21T16:59:06.070Z,34.5723333,-117.2455,0.07,1.31,ml,15,86,0.07037,0.23,ci,ci40067319,2022-07-21T17:02:46.345Z,"6km NE of Victorville, CA",earthquake,0.56,31.61,0.156,28,automatic,ci,ci
+2022-07-21T16:59:06.030Z,34.5631667,-117.2633333,-1.33,1.41,ml,25,55,0.05475,0.14,ci,ci40067319,2022-07-21T19:51:58.486Z,"4km NE of Victorville, CA",quarry blast,0.3,31.61,0.153,31,reviewed,ci,ci
 2022-07-21T16:58:57.860Z,46.213166666666666,-122.19566666666667,-1.41,0.04,md,7,112,0.01368,0.08,uw,uw61855542,2022-07-21T18:02:01.590Z,"38 km S of Morton, Washington",earthquake,0.28,8.21,0.5228371063356271,6,reviewed,uw,uw
 2022-07-21T16:57:10.890Z,35.72,-117.5635,8.69,2.29,ml,37,55,0.09946,0.13,ci,ci40067311,2022-07-21T18:59:24.700Z,"15km NE of Ridgecrest, CA",earthquake,0.14,0.44,0.162,52,reviewed,ci,ci
 2022-07-21T16:47:18.808Z,31.6772,-104.4184,10.86,2.6,ml,35,71,0.07,0.57,us,us7000hsfz,2022-07-21T18:04:28.040Z,"55 km S of Whites City, New Mexico",earthquake,1.1,6.3,0.053,96,reviewed,us,us
@@ -144,6 +146,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T03:35:26.956Z,60.0593,-152.8565,114.5,0.6,ml,,,,0.38,ak,ak0229a4jz6e,2022-07-21T03:37:43.641Z,"63 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-21T03:34:03.430Z,35.9036667,-117.701,9.8,0.61,ml,16,131,0.1051,0.11,ci,ci40067071,2022-07-21T16:56:04.841Z,"19km E of Little Lake, CA",earthquake,0.22,0.4,0.165,4,reviewed,ci,ci
 2022-07-21T03:26:13.854Z,61.1034,-150.6462,17.2,1.4,ml,,,,0.3,ak,ak0229a4i095,2022-07-21T03:28:13.681Z,"20 km N of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-21T03:11:49.315Z,38.5906,-119.4217,4.3,0.8,ml,9,112.38,0.077,0.0878,nn,nn00843355,2022-07-21T20:01:27.742Z,"7 km ENE of Coleville, California",earthquake,,9.5,0.14,3,reviewed,nn,nn
+2022-07-21T03:09:39.803Z,38.2384,-118.7358,10.8,0.1,ml,6,297.29,0.182,0.1495,nn,nn00843354,2022-07-21T19:52:05.893Z,"33 km SSW of Hawthorne, Nevada",earthquake,,7.6,0.3,2,reviewed,nn,nn
 2022-07-21T03:04:54.350Z,38.8206673,-122.8251648,1.72,0.57,md,14,55,0.008085,0.06,nc,nc73761136,2022-07-21T03:50:10.486Z,"8km NW of The Geysers, CA",earthquake,0.29,0.64,0.34,2,automatic,nc,nc
 2022-07-21T02:31:57.150Z,19.4983329772949,-155.660827636719,2.20000004768372,1.77,ml,13,101,,0.100000001,hv,hv73082517,2022-07-21T02:37:27.210Z,"Island of Hawaii, Hawaii",earthquake,0.44,1.28999996,0.92,4,automatic,hv,hv
 2022-07-21T02:20:53.860Z,39.4295,-110.308,-1.31,1.46,ml,8,195,0.0143,0.13,uu,uu60506557,2022-07-21T15:35:56.700Z,"15 km SSE of Sunnyside, Utah",earthquake,1.47,0.67,0.103,5,reviewed,uu,uu
@@ -190,6 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T21:32:09.590Z,19.1744995117188,-155.470672607422,31.6599998474121,2.0999999,md,31,92,,0.100000001,hv,hv73082287,2022-07-20T21:35:15.950Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.54,0.709999979,1.30999994,14,automatic,hv,hv
 2022-07-20T21:14:38.080Z,33.2338333,-116.1,9.31,1.27,ml,48,53,0.09651,0.2,ci,ci40066879,2022-07-21T14:41:23.942Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.18,0.56,0.141,27,reviewed,ci,ci
 2022-07-20T21:06:40.110Z,36.0825,-120.1645,11.31,1.21,md,14,264,0.1243,0.03,nc,nc73761081,2022-07-21T08:09:10.218Z,"9km NNW of Avenal, CA",earthquake,2.29,0.59,0.314,5,reviewed,nc,nc
+2022-07-20T21:05:57.150Z,38.7528333,-122.7281667,1.58,0.38,md,20,77,0.009121,0.04,nc,nc73761076,2022-07-21T20:01:11.798Z,"4km SE of The Geysers, CA",earthquake,0.19,0.32,0.14,4,reviewed,nc,nc
 2022-07-20T21:04:07.050Z,36.0841667,-120.171,12.11,1.57,md,26,192,0.1208,0.06,nc,nc73761071,2022-07-21T07:44:09.904Z,"10km NNW of Avenal, CA",earthquake,0.45,0.37,0.27,21,reviewed,nc,nc
 2022-07-20T21:03:53.932Z,38.1537,-117.9452,11.6,1.6,ml,14,116.08,0.019,0.1111,nn,nn00843299,2022-07-21T02:40:01.805Z,"29 km SSE of Mina, Nevada",earthquake,,1,0.24,4,reviewed,nn,nn
 2022-07-20T20:40:46.880Z,47.384,-117.86616666666667,-0.63,2.11,ml,7,133,0.3678,0.51,uw,uw61855357,2022-07-21T18:52:44.809Z,"12 km NE of Sprague, Washington",explosion,2.59,31.61,0.15881400262369105,5,reviewed,uw,uw
@@ -206,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T20:11:17.810Z,36.1725,-89.6725,4.31,2.47,md,51,26,0.05758,0.24,nm,nm60400662,2022-07-21T17:32:14.545Z,"2 km SSW of Caruthersville, Missouri",earthquake,0.21,0.41,0.164,39,reviewed,nm,nm
 2022-07-20T20:10:21.650Z,35.0473333,-118.3176667,-0.82,1.71,ml,33,36,0.0599,0.16,ci,ci40066839,2022-07-20T22:28:09.262Z,"13km W of Mojave, CA",quarry blast,0.25,31.61,0.243,34,reviewed,ci,ci
 2022-07-20T20:08:02.970Z,39.427,-110.3008333,-1.37,1.33,ml,8,198,0.01902,0.15,uu,uu60506522,2022-07-20T20:18:18.220Z,"15 km SSE of Sunnyside, Utah",earthquake,1.24,0.87,0.001,2,reviewed,uu,uu
-2022-07-20T19:55:43.760Z,19.4063333333333,-155.326666666667,5.07,2.04,ml,44,43,,0.11,hv,hv73082192,2022-07-20T20:55:26.770Z,"10 km WSW of Volcano, Hawaii",earthquake,0.23,0.5,0.133574115477902,11,reviewed,hv,hv
-2022-07-20T19:55:31.860Z,34.1728333,-117.9305,-1.17,0.88,ml,11,138,0.04379,0.12,ci,ci40066831,2022-07-21T14:19:41.089Z,"5km NE of Bradbury, CA",quarry blast,0.43,31.61,0.06,4,reviewed,ci,ci
