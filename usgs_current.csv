@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T01:05:45.946Z,61.6893,-154.0907,0,1.8,ml,,,,0.71,ak,ak0229k0esg2,2022-07-27T01:07:56.347Z,"80 km ENE of Lime Village, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-27T01:03:23.173Z,61.7155,-154.1998,5.7,1.6,ml,,,,1.11,ak,ak0229k0eb6o,2022-07-27T01:05:39.420Z,"76 km ENE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-27T00:43:24.382Z,17.5601,120.8011,10,7,mww,151,18,5.237,0.75,us,us6000i5rd,2022-07-27T14:33:57.491Z,"13 km SE of Dolores, Philippines",earthquake,5,1.6,0.044,50,reviewed,us,us
-2022-07-27T00:32:27.000Z,33.2923317,-116.2139969,9.84,1.22,ml,27,74,0.1049,0.21,ci,ci40070263,2022-07-27T00:35:53.834Z,"16km ENE of Borrego Springs, CA",earthquake,0.35,0.73,0.248,3,automatic,ci,ci
+2022-07-27T00:32:26.960Z,33.2925,-116.2115,9.62,1.13,ml,43,45,0.1057,0.18,ci,ci40070263,2022-07-27T14:44:12.128Z,"16km ENE of Borrego Springs, CA",earthquake,0.19,0.55,0.16,25,reviewed,ci,ci
 2022-07-27T00:29:27.318Z,58.8254,-151.4457,50.2,2,ml,,,,0.56,ak,ak0229jzygl7,2022-07-27T00:31:30.743Z,"62 km SSE of Port Graham, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2022-07-27T00:27:10.990Z,38.8241653,-122.7986679,3.1,0.35,md,8,119,0.008943,0.02,nc,nc73763196,2022-07-27T00:41:20.252Z,"6km NW of The Geysers, CA",earthquake,0.66,1.45,,1,automatic,nc,nc
 2022-07-27T00:23:45.570Z,37.3598333,-118.6916667,14.8,1.29,md,21,104,0.1025,0.06,nc,nc73763191,2022-07-27T06:16:11.157Z,"10km SW of Round Valley, CA",earthquake,0.29,0.99,0.101,11,reviewed,nc,nc
