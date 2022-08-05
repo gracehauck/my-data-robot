@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T04:13:19.520Z,33.5021667,-116.4961667,11.78,0.67,ml,14,135,0.06257,0.16,ci,ci40075479,2022-08-05T04:16:51.065Z,"18km ESE of Anza, CA",earthquake,0.61,1.05,0.415,10,automatic,ci,ci
 2022-08-05T04:11:02.700Z,36.8198318,-121.5481644,5.13,1.13,md,12,103,0.03314,0.1,nc,nc73764425,2022-08-05T08:36:11.595Z,"3km SSW of San Juan Bautista, CA",earthquake,0.54,0.73,0.17,9,automatic,nc,nc
 2022-08-05T04:04:33.152Z,62.8336,-149.4855,74.8,1.4,ml,,,,0.44,ak,ak0229yy0z03,2022-08-05T04:06:38.312Z,"53 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-08-05T03:59:57.980Z,19.4905,-155.587833333333,-1.53,1.55,md,14,59,,0.15,hv,hv73099282,2022-08-05T04:16:03.750Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.28,0.0379159984760657,5,reviewed,hv,hv
+2022-08-05T03:59:57.980Z,19.4905,-155.587833333333,-1.53,1.55,md,14,59,,0.15,hv,hv73099282,2022-08-05T04:16:03.750Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.28,0.0379159984760657,5,reviewed,hv,hv
 2022-08-05T03:50:26.110Z,19.4825,-155.5915,-1.03,1.1,md,9,101,,0.15,hv,hv73099277,2022-08-05T04:09:46.380Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.42,0.24,0.150711648237937,6,reviewed,hv,hv
 2022-08-05T03:46:38.480Z,33.2801667,-115.988,2.15,0.92,ml,18,93,0.1067,0.22,ci,ci40075471,2022-08-05T03:50:07.032Z,"4km SW of Salton City, CA",earthquake,0.55,1,0.143,16,automatic,ci,ci
 2022-08-05T03:45:28.620Z,19.4776666666667,-155.595333333333,-0.86,1.31,md,10,81,,0.12,hv,hv73099272,2022-08-05T04:04:34.130Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.44,0.24,0.138811693505215,7,reviewed,hv,hv
@@ -256,4 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-04T10:31:49.979Z,38.123,-118.0545,8,1,ml,15,147.66,0.077,0.1009,nn,nn00844159,2022-08-04T18:56:02.298Z,"30 km S of Mina, Nevada",earthquake,,2,0.31,4,reviewed,nn,nn
 2022-08-04T10:29:25.620Z,38.8301659,-122.8010025,1.78,0.88,md,18,43,0.009794,0.02,nc,nc73763970,2022-08-04T12:26:14.951Z,"7km W of Cobb, CA",earthquake,0.22,0.42,0.3,4,automatic,nc,nc
 2022-08-04T10:28:48.870Z,36.0896667,-120.1513333,5.87,1.53,md,19,118,0.1371,0.09,nc,nc73763975,2022-08-04T19:19:17.604Z,"10km NNW of Avenal, CA",earthquake,0.52,0.81,0.382,14,reviewed,nc,nc
-2022-08-04T09:52:27.790Z,19.1793327331543,-155.505340576172,33.7400016784668,1.80999994,md,32,85,,0.189999998,hv,hv73098452,2022-08-04T09:55:30.940Z,"3 km SW of Pāhala, Hawaii",earthquake,0.58,1.11000001,0.899999976,3,automatic,hv,hv
