@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T14:43:38.000Z,51.837,178.1519,140,5.4,Mb,52,161.99998704000103,0.2488333,0.57,at,at00rgm0wq,2022-08-14T14:50:23.566Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0,0,,29,reviewed,at,at
 2022-08-14T14:36:29.590Z,19.5303325653076,-155.654663085938,2.72000002861023,2.34,ml,38,70,,0.360000014,hv,hv73108857,2022-08-14T14:42:00.980Z,"23 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.56,0.860000014,3.99,12,automatic,hv,hv
 2022-08-14T14:32:02.930Z,33.625,-116.818,8.18,0.75,ml,10,148,0.08984,0.24,ci,ci40325368,2022-08-14T14:35:27.867Z,"15km SSE of Valle Vista, CA",earthquake,0.8,1.63,0.232,20,automatic,ci,ci
 2022-08-14T14:25:28.941Z,61.5773,-148.0178,19.2,1.1,ml,,,,0.72,ak,ak022adzxx7i,2022-08-14T14:28:07.524Z,"32 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -181,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T18:14:02.230Z,46.14566666666666,-120.4655,7.31,0.73,ml,6,200,0.1373,0.05,uw,uw61863042,2022-08-14T05:12:10.650Z,"20 km NW of Bickleton, Washington",earthquake,1.01,0.61,0.12363231252452267,5,reviewed,uw,uw
 2022-08-13T18:10:35.850Z,43.86933333333333,-122.15333333333334,-1.61,0.89,ml,12,136,0.1218,0.54,uw,uw61863037,2022-08-14T05:52:03.970Z,"28 km ENE of Oakridge, Oregon",explosion,0.98,31.61,0.0946532998636953,9,reviewed,uw,uw
 2022-08-13T18:04:10.027Z,-15.75,167.1382,23.7,4.9,mb,93,55,0.308,0.71,us,us6000iakc,2022-08-13T18:36:39.040Z,"25 km S of Luganville, Vanuatu",earthquake,7.71,4.202,0.056,104,reviewed,us,us
-2022-08-13T18:02:31.850Z,33.1911667,-115.5215,6.65,2.76,ml,36,55,0.08012,0.27,ci,ci40324952,2022-08-13T18:13:18.840Z,"5km S of Niland, CA",earthquake,0.42,1.25,0.176,26,automatic,ci,ci
+2022-08-13T18:02:31.800Z,33.194,-115.5201667,5.61,2.82,ml,48,49,0.08174,0.25,ci,ci40324944,2022-08-14T14:46:37.180Z,"5km S of Niland, CA",earthquake,0.24,0.54,0.173,134,reviewed,ci,ci
 2022-08-13T17:43:12.830Z,39.4078333,-123.3243333,4.8,2.43,md,38,68,0.02256,0.06,nc,nc73767735,2022-08-14T04:24:30.791Z,"3km E of Willits, CA",earthquake,0.13,0.41,0.196,41,reviewed,nc,nc
 2022-08-13T17:38:36.145Z,52.3796,-175.0613,259.845,3.2,ml,22,189,0.53,0.42,us,us6000iakm,2022-08-13T20:42:21.040Z,"62 km WNW of Atka, Alaska",earthquake,20.64,9.421,0.097,14,reviewed,us,us
 2022-08-13T17:38:32.192Z,60.0518,-152.9219,111,3.2,ml,,,,0.46,ak,ak022ace9o3q,2022-08-13T19:07:35.040Z,"67 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
