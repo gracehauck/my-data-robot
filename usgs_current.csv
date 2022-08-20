@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-20T07:18:16.979Z,64.531,-149.2776,11.8,1.1,ml,,,,0.4,ak,ak022ansyg01,2022-08-20T07:20:59.731Z,"9 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-20T06:50:56.324Z,63.2834,-150.395,117.2,1.5,ml,,,,0.19,ak,ak022ansjycg,2022-08-20T06:53:01.628Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-20T06:50:20.659Z,38.1603,-117.8664,11.6,1.2,ml,13,135.5,0.076,0.1653,nn,nn00845523,2022-08-20T06:53:42.700Z,"33 km SE of Mina, Nevada",earthquake,,0.7,0.16,8,automatic,nn,nn
 2022-08-20T06:30:19.920Z,19.2621669769287,-154.988494873047,44.3899993896484,2.03999996,md,44,247,,0.129999995,hv,hv73115262,2022-08-20T06:33:36.110Z,"24 km SSW of Leilani Estates, Hawaii",earthquake,0.63,0.620000005,1.15999997,8,automatic,hv,hv
