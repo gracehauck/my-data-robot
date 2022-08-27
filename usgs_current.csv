@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-27T10:38:03.920Z,34.1628333,-116.5783333,6.03,0.86,ml,24,98,0.1368,0.16,ci,ci40332520,2022-08-27T10:41:29.839Z,"13km N of Morongo Valley, CA",earthquake,0.31,1.15,0.217,14,automatic,ci,ci
 2022-08-27T10:34:57.660Z,33.41,-116.4096667,12.64,0.52,ml,19,77,0.09626,0.23,ci,ci40332512,2022-08-27T10:38:23.873Z,"17km N of Borrego Springs, CA",earthquake,0.52,1.17,0.15,11,automatic,ci,ci
 2022-08-27T10:24:57.640Z,34.056,-117.2718333,14.64,0.93,ml,21,103,0.1063,0.22,ci,ci40332504,2022-08-27T10:28:34.753Z,"1km NW of Loma Linda, CA",earthquake,0.35,0.83,0.26,21,automatic,ci,ci
 2022-08-27T10:16:14.199Z,35.32435608,-97.88274384,1.745355248,1.82,ml,19,60.15586853,0.07117202133,0.7359595578,ok,ok2022qtqb,2022-08-27T10:18:58.651Z,"5 km ENE of Minco, Oklahoma",earthquake,2.820967815,2.356388336,,15,automatic,ok,ok
@@ -238,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-26T10:53:58.460Z,44.789,-110.8036667,4.96,0.7,ml,9,220,0.03336,0.09,uu,uu60511542,2022-08-26T18:01:40.530Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.03,0.58,0.461,2,reviewed,uu,uu
 2022-08-26T10:52:13.249Z,38.1701,-117.8898,7,2.4,ml,21,83.54,0.063,0.1135,nn,nn00845869,2022-08-26T16:27:43.173Z,"31 km SE of Mina, Nevada",earthquake,,1.1,0.28,9,reviewed,nn,nn
 2022-08-26T10:51:02.550Z,33.3686667,-116.309,11.6,0.46,ml,20,147,0.0063,0.14,ci,ci40332032,2022-08-26T16:56:09.690Z,"14km NNE of Borrego Springs, CA",earthquake,0.31,0.66,0.174,8,reviewed,ci,ci
-2022-08-26T10:47:26.806Z,58.239,-155.1099,18,0.5,ml,,,,0.06,ak,ak022axs52aw,2022-08-27T05:04:19.860Z,"84 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-08-26T10:45:38.440Z,38.8338318,-122.87883,1.88,0.62,md,10,125,0.00568,0.02,nc,nc73772060,2022-08-26T12:32:13.497Z,"12km WNW of The Geysers, CA",earthquake,0.39,0.57,0.27,2,automatic,nc,nc
-2022-08-26T10:43:44.380Z,58.2436666666667,-155.124333333333,17.89,0.31,ml,10,114,,0.13,av,av91668926,2022-08-27T04:55:51.160Z,"84 km NNW of Karluk, Alaska",earthquake,0.46,0.6,0.213184177730754,11,reviewed,av,av
