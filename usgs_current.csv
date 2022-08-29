@@ -165,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T18:13:21.550Z,18.369,-67.3016666666667,102.75,3.16,md,34,134,,0.26,pr,pr71368453,2022-08-28T19:20:55.040Z,"6 km WNW of Rincón, Puerto Rico",earthquake,1.27,0.63,0.0917260374910902,15,reviewed,pr,pr
 2022-08-28T18:12:21.870Z,18.3675,-67.302,100.53,3.16,md,24,148,,0.24,pr,pr71368443,2022-08-28T19:18:17.040Z,"6 km WNW of Rincón, Puerto Rico",earthquake,1.39,0.7,0.0524623185065345,14,reviewed,pr,pr
 2022-08-28T18:08:29.130Z,38.8416672,-122.824501,1.65,0.86,md,11,96,0.009114,0.01,nc,nc73772785,2022-08-28T20:16:11.726Z,"9km WNW of Cobb, CA",earthquake,0.39,0.81,,1,automatic,nc,nc
+2022-08-28T18:07:01.701Z,31.72560918,-104.2717462,7.211303711,2,ml,12,67,0.03368263393,0.2,tx,tx2022qwbc,2022-08-29T09:35:46.447Z,"50 km S of Whites City, New Mexico",earthquake,1.167062235,0.7771502126,0.1,8,reviewed,tx,tx
 2022-08-28T18:02:32.645Z,51.7222,179.4384,68.8,1.7,ml,,,,0.48,ak,ak022b17plwd,2022-08-28T23:48:27.224Z,"271 km W of Adak, Alaska",earthquake,,2.6,,,reviewed,ak,ak
 2022-08-28T17:59:39.540Z,38.8321648,-122.8164978,1.82,1.07,md,23,70,0.01009,0.02,nc,nc73772775,2022-08-28T18:18:13.864Z,"8km NW of The Geysers, CA",earthquake,0.2,0.37,0.16,5,automatic,nc,nc
 2022-08-28T17:52:48.010Z,33.2375,-116.0516667,8.96,1.18,ml,40,34,0.08897,0.24,ci,ci40333312,2022-08-28T17:56:14.794Z,"11km SW of Salton City, CA",earthquake,0.3,1.08,0.124,26,automatic,ci,ci
@@ -263,6 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T09:45:11.500Z,33.6593333,-116.7065,15.38,0.34,ml,17,74,0.02889,0.1,ci,ci37441740,2022-08-28T15:49:28.928Z,"9km S of Idyllwild, CA",earthquake,0.27,0.41,0.146,6,reviewed,ci,ci
 2022-08-28T09:45:10.650Z,33.6543333,-116.7115,15.58,0.16,ml,21,75,0.03464,0.15,ci,ci37441732,2022-08-28T15:44:27.902Z,"10km S of Idyllwild, CA",earthquake,0.36,0.48,0.19,7,reviewed,ci,ci
 2022-08-28T09:44:18.991Z,31.56937051,-104.0116446,8.008251953,2.4,ml,15,71,0.05002487911,0.3,tx,tx2022qvkn,2022-08-29T08:33:34.270Z,"35 km NW of Toyah, Texas",earthquake,1.259398582,1.994990698,0.2,22,reviewed,tx,tx
-2022-08-28T09:35:39.580Z,38.8391685,-122.879837,2.42,0.86,md,13,92,0.002978,0.02,nc,nc73772670,2022-08-28T11:29:11.355Z,"12km ENE of Cloverdale, CA",earthquake,0.36,0.47,0.02,2,automatic,nc,nc
-2022-08-28T09:28:48.490Z,35.1608333,-118.9713333,19.31,0.95,ml,13,112,0.1206,0.16,ci,ci40333048,2022-08-28T09:32:15.724Z,"12km SSW of Lamont, CA",earthquake,0.61,1.54,0.192,5,automatic,ci,ci
-2022-08-28T09:26:22.030Z,35.9315,-117.6766667,1.86,1.95,ml,22,135,0.1158,0.2,ci,ci40333040,2022-08-28T09:29:54.948Z,"21km E of Little Lake, CA",earthquake,0.4,0.5,0.114,26,automatic,ci,ci
