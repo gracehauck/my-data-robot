@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-29T11:22:25.870Z,33.3283348,-116.930336,19.09,1.35,ml,56,34,0.1043,0.17,ci,ci40126815,2022-10-29T11:24:31.350Z,"7km WSW of Palomar Observatory, CA",earthquake,0.25,0.53,0.252,8,automatic,ci,ci
+2022-10-29T11:21:57.349Z,35.39972305,-97.90682983,5.08728075,1.82,ml,18,52.36543274,0.0119204307,1.207496598,ok,ok2022veux,2022-10-29T11:23:31.272Z,"3 km ENE of Union City, Oklahoma",earthquake,3.071270499,3.866715871,,12,automatic,ok,ok
 2022-10-29T10:58:09.610Z,33.056,-116.0038333,11.58,0.88,ml,12,102,0.1192,0.2,ci,ci40126791,2022-10-29T11:01:54.280Z,"15km SE of Ocotillo Wells, CA",earthquake,0.45,1.5,0.205,8,automatic,ci,ci
 2022-10-29T10:29:42.170Z,33.7646667,-116.8025,14.14,0.62,ml,25,74,0.06888,0.13,ci,ci40126783,2022-10-29T10:33:11.038Z,"8km WNW of Idyllwild, CA",earthquake,0.23,0.39,0.178,18,automatic,ci,ci
 2022-10-29T10:24:50.520Z,33.5991667,-116.6481667,14.09,0.69,ml,25,68,0.03559,0.15,ci,ci40126767,2022-10-29T10:28:17.482Z,"5km NNE of Anza, CA",earthquake,0.27,0.42,0.203,19,automatic,ci,ci
@@ -217,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T11:33:12.330Z,36.9481659,-121.3223343,8.03,1.11,md,9,98,0.06609,0.06,nc,nc73800256,2022-10-28T13:24:13.172Z,"13km NNE of Hollister, CA",earthquake,0.51,1.4,0.11,6,automatic,nc,nc
 2022-10-28T11:27:45.170Z,34.0606667,-117.2753333,15.86,1.24,ml,58,60,0.04505,0.15,ci,ci40126095,2022-10-28T18:53:54.560Z,"2km NW of Loma Linda, CA",earthquake,0.16,0.34,0.11,37,reviewed,ci,ci
 2022-10-28T11:26:42.228Z,55.5005,158.3825,322.293,4.3,mb,55,71,2.487,0.4,us,us7000ikwt,2022-10-28T11:46:40.040Z,"51 km SSW of Esso, Russia",earthquake,11.02,9.457,0.047,127,reviewed,us,us
-2022-10-28T11:15:14.515Z,64.886,-148.7059,1.1,1.7,ml,,,,0.73,ak,ak022dtzeh5n,2022-10-28T11:17:53.891Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-28T11:13:31.150Z,36.9376678,-121.3399963,1.11,1.44,md,15,84,0.08203,0.07,nc,nc73800251,2022-10-28T12:59:14.044Z,"11km NNE of Hollister, CA",earthquake,0.23,3.02,0.2,9,automatic,nc,nc
