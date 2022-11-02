@@ -199,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T00:41:10.950Z,38.8173332,-122.80867,2.99,1.15,md,22,41,0.006152,0.02,nc,nc73802231,2022-11-02T04:21:12.551Z,"6km NW of The Geysers, CA",earthquake,0.23,0.48,0.34,2,automatic,nc,nc
 2022-11-02T00:39:47.980Z,38.7900009,-122.7610016,1.35,1.64,md,31,63,0.01066,0.05,nc,nc73802226,2022-11-02T03:54:14.240Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.34,0.1,8,automatic,nc,nc
 2022-11-01T23:56:25.610Z,33.7658333,-116.9676667,6.71,0.66,ml,17,93,0.04207,0.15,ci,ci40128183,2022-11-02T00:10:04.231Z,"2km N of Hemet, CA",earthquake,0.3,0.45,0.098,10,reviewed,ci,ci
-2022-11-01T23:46:32.582Z,61.4347,-146.7189,20,1.5,ml,,,,0.33,ak,ak022e0svqze,2022-11-01T23:48:32.340Z,"39 km NNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-11-01T23:45:53.644Z,41.971,145.0536,9.549,5.1,mb,113,134,1.414,1.11,us,us7000ilua,2022-11-02T00:04:32.040Z,"124 km SSE of Kushiro, Japan",earthquake,7.21,4.796,0.045,163,reviewed,us,us
-2022-11-01T23:45:52.830Z,38.829834,-122.8106689,1.92,2.1,md,30,43,0.006446,0.04,nc,nc73802211,2022-11-02T03:28:11.051Z,"8km NW of The Geysers, CA",earthquake,0.2,0.33,0.06,11,automatic,nc,nc
