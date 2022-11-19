@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-19T04:26:23.950Z,33.2181667,-116.7396667,11.92,0.63,ml,22,55,0.02391,0.15,ci,ci40377824,2022-11-19T04:29:54.608Z,"3km SE of Lake Henshaw, CA",earthquake,0.29,0.57,0.205,10,automatic,ci,ci
-2022-11-19T04:25:27.680Z,38.8206673,-122.7881699,1.57,1.02,md,9,124,0.01385,0.01,nc,nc73809076,2022-11-19T04:36:10.204Z,"6km NNW of The Geysers, CA",earthquake,0.42,1.08,,1,automatic,nc,nc
-2022-11-19T04:15:41.750Z,34.1981667,-116.9511667,9.49,2.57,ml,83,23,0.06876,0.15,ci,ci40377816,2022-11-19T04:36:13.158Z,"6km SW of Big Bear Lake, CA",earthquake,0.15,0.36,0.161,24,automatic,ci,ci
+2022-11-19T04:25:27.680Z,38.8206673,-122.7881699,1.57,1.02,md,9,124,0.01385,0.01,nc,nc73809076,2022-11-19T04:40:11.229Z,"6km NNW of The Geysers, CA",earthquake,0.42,1.08,,1,automatic,nc,nc
+2022-11-19T04:15:41.750Z,34.1981667,-116.9511667,9.49,2.57,ml,83,23,0.06876,0.15,ci,ci40377816,2022-11-19T04:42:46.040Z,"6km SW of Big Bear Lake, CA",earthquake,0.15,0.36,0.161,24,automatic,ci,ci
 2022-11-19T04:08:57.610Z,40.9339981,-121.7603302,7.61,1.99,md,15,90,0.1315,0.07,nc,nc73809066,2022-11-19T04:25:11.348Z,"10km NW of Burney, CA",earthquake,0.34,1.85,0.2,9,automatic,nc,nc
 2022-11-19T04:03:46.201Z,-30.8139,-179.8063,406.435,4.1,mb,16,145,2.251,0.61,us,us7000iqwn,2022-11-19T04:36:20.040Z,"Kermadec Islands region",earthquake,15.33,15.203,0.197,8,reviewed,us,us
 2022-11-19T04:03:19.901Z,60.8259,-148.0811,12.2,1.7,ml,,,,0.88,ak,ak022eu8zily,2022-11-19T04:05:52.760Z,"33 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -286,4 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T05:06:53.820Z,58.2571666666667,-155.0825,4.87,-0.2,ml,5,123,,0.23,av,av91076928,2022-11-19T01:42:29.760Z,"85 km NNW of Karluk, Alaska",earthquake,0.58,0.97,0.280333656737256,5,reviewed,av,av
 2022-11-18T05:06:15.490Z,58.2545,-155.073833333333,3.88,0.11,ml,7,107,,0.21,av,av91076923,2022-11-19T01:38:37.670Z,"84 km NNW of Karluk, Alaska",earthquake,0.4,0.95,0.218291246434387,7,reviewed,av,av
 2022-11-18T04:54:05.160Z,37.645,-118.8608333,4.71,0.34,md,10,174,0.02102,0.02,nc,nc73808706,2022-11-18T10:18:11.546Z,"10km E of Mammoth Lakes, CA",earthquake,0.67,1.08,0.178,9,reviewed,nc,nc
-2022-11-18T04:40:25.589Z,34.9205,-96.21516667,5.83,2.01,ml,73,125,0.2753459677,0.33,ok,ok2022wovt,2022-11-18T13:21:47.149Z,"6 km SSE of Calvin, Oklahoma",earthquake,,1.1,0.21,25,reviewed,ok,ok
