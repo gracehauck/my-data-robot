@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-21T08:34:09.597Z,35.42237854,-96.55384064,4.373752117,1.78,ml,19,72.89464569,0.1282605678,0.2132322077,ok,ok2022wupy,2022-11-21T08:36:01.628Z,"9 km S of Paden, Oklahoma",earthquake,3.163773778,2.799576206,,14,automatic,ok,ok
+2022-11-21T08:37:55.580Z,33.2703333,-116.3171667,2.74,1.62,ml,55,43,0.0838,0.21,ci,ci40378760,2022-11-21T08:48:44.050Z,"6km ENE of Borrego Springs, CA",earthquake,0.25,0.51,0.14,25,automatic,ci,ci
+2022-11-21T08:34:09.597Z,35.42237854,-96.55384064,4.373752117,1.8,ml,19,72.89464569,0.1282605678,0.2132322077,ok,ok2022wupy,2022-11-21T08:36:50.849Z,"9 km S of Paden, Oklahoma",earthquake,3.163773778,2.799576206,,15,automatic,ok,ok
+2022-11-21T08:14:48.290Z,17.9653333333333,-66.981,10.5,2.32,md,6,190,0.06032,0.05,pr,pr71383413,2022-11-21T08:38:12.710Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.57,0.79,0.0447684410459352,4,reviewed,pr,pr
 2022-11-21T08:02:02.580Z,33.6358333,-116.6828333,16.39,0.42,ml,12,100,0.07325,0.08,ci,ci40378752,2022-11-21T08:05:39.090Z,"9km N of Anza, CA",earthquake,0.29,0.37,0.123,9,automatic,ci,ci
 2022-11-21T07:16:46.320Z,38.7468338,-122.7034988,1.86,1.47,md,11,103,0.02157,0.05,nc,nc73809906,2022-11-21T08:33:14.886Z,"3km SSW of Anderson Springs, CA",earthquake,0.33,0.46,0.06,5,automatic,nc,nc
 2022-11-21T07:00:26.030Z,38.784668,-122.7460022,0.78,0.21,md,7,85,0.00739,0.02,nc,nc73809896,2022-11-21T07:40:12.591Z,"1km NE of The Geysers, CA",earthquake,0.77,2.26,0.16,2,automatic,nc,nc
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T06:26:51.960Z,17.9603333333333,-66.978,10.75,2.28,md,13,198,0.06368,0.08,pr,pr71383403,2022-11-21T07:06:20.230Z,"7 km WSW of Fuig, Puerto Rico",earthquake,0.39,0.51,0.106761818017177,9,reviewed,pr,pr
 2022-11-21T06:25:34.561Z,64.3517,-149.2079,1.1,1.1,ml,,,,0.92,ak,ak022exldtp3,2022-11-21T06:28:01.817Z,"1 km NW of Anderson, Alaska",earthquake,,5.9,,,automatic,ak,ak
 2022-11-21T06:23:05.705Z,63.1108,-151.4933,0,2.1,ml,,,,0.4,ak,ak022exldc16,2022-11-21T06:24:58.930Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-21T06:21:10.003Z,-6.8531,107.0946,10,5.6,mww,84,40,0.819,0.58,us,us7000ir9t,2022-11-21T08:25:11.797Z,"18 km WSW of Ciranjang-hilir, Indonesia",earthquake,5.78,1.83,0.063,24,reviewed,us,us
+2022-11-21T06:21:10.003Z,-6.8531,107.0946,10,5.6,mww,84,40,0.819,0.58,us,us7000ir9t,2022-11-21T08:50:14.076Z,"18 km WSW of Ciranjang-hilir, Indonesia",earthquake,5.78,1.83,0.063,24,reviewed,us,us
 2022-11-21T06:15:48.336Z,61.977,-148.5348,22.5,1.4,ml,,,,0.24,ak,ak022exlbpld,2022-11-21T06:17:07.577Z,"20 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-21T05:50:28.656Z,38.0397,-118.1957,0,0.7,ml,10,209.72,0.249,0.4063,nn,nn00851726,2022-11-21T05:53:55.450Z,"34 km NE of Benton, California",earthquake,,42.8,0.35,6,automatic,nn,nn
 2022-11-21T05:47:34.118Z,61.9585,-149.9627,32,1.4,ml,,,,0.63,ak,ak022exkx3sz,2022-11-21T05:49:24.540Z,"23 km SSW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
