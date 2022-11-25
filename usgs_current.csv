@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-25T09:06:01.650Z,33.9936667,-118.3485,7.84,2.35,ml,72,57,0.01141,0.25,ci,ci40380672,2022-11-25T09:10:40.451Z,"0km S of View Park-Windsor Hills, CA",earthquake,0.26,0.53,0.195,26,automatic,ci,ci
+2022-11-25T09:00:18.180Z,38.7985001,-122.7511673,1.63,0.93,md,12,96,0.01896,0.02,nc,nc73811336,2022-11-25T09:13:11.264Z,"2km N of The Geysers, CA",earthquake,0.35,0.74,0.06,2,automatic,nc,nc
+2022-11-25T08:59:28.174Z,59.7992,-153.433,124.6,1.2,ml,,,,0.59,ak,ak022f48xd1q,2022-11-25T09:01:56.565Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-25T08:32:31.140Z,33.9995,-118.362,12.41,1.14,ml,19,62,0.008951,0.27,ci,ci40380664,2022-11-25T08:36:09.418Z,"1km ESE of Baldwin Hills, CA",earthquake,0.62,0.9,0.224,33,automatic,ci,ci
 2022-11-25T08:31:08.600Z,34.0095,-118.3625,11.31,1.13,ml,18,57,0.01575,0.24,ci,ci40380656,2022-11-25T08:34:45.409Z,"1km NE of Baldwin Hills, CA",earthquake,0.69,0.91,0.274,25,automatic,ci,ci
 2022-11-25T08:18:32.624Z,59.5242,-152.975,85,2.1,ml,,,,0.27,ak,ak022f48okpq,2022-11-25T08:20:30.124Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -175,7 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T09:15:59.180Z,33.501,-116.7446667,8.15,0.42,ml,14,112,0.06452,0.22,ci,ci40380288,2022-11-24T09:19:31.749Z,"9km SW of Anza, CA",earthquake,0.6,1.33,0.094,10,automatic,ci,ci
 2022-11-24T09:15:57.630Z,19.2066669464111,-155.462997436523,35.3600006103516,2.00999999,md,44,104,,0.109999999,hv,hv73233897,2022-11-24T09:19:05.660Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.860000014,1.30999994,15,automatic,hv,hv
 2022-11-24T09:15:25.457Z,-9.8276,159.5324,10,5.4,mww,68,53,0.563,0.85,us,us7000is0z,2022-11-24T11:19:00.792Z,"25 km SW of Malango, Solomon Islands",earthquake,6.22,1.868,0.073,18,reviewed,us,us
-2022-11-24T09:08:38.210Z,38.8241653,-122.7630005,2.21,0.85,md,11,202,0.008294,0.02,nc,nc73810901,2022-11-24T10:20:12.821Z,"4km W of Cobb, CA",earthquake,0.52,0.91,,1,automatic,nc,nc
-2022-11-24T09:08:04.601Z,60.4229,-151.6731,69.6,2.2,ml,,,,0.37,ak,ak022f2logi4,2022-11-24T09:10:56.889Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-11-24T08:57:21.682Z,39.59,-119.0865,0,1.2,ml,13,150.52,0.26,0.1956,nn,nn00851992,2022-11-24T16:20:44.127Z,"14 km E of Fernley, Nevada",earthquake,,3.4,0.44,6,reviewed,nn,nn
-2022-11-24T08:56:25.892Z,62.3913,-148.4376,28.9,1.8,ml,,,,1.09,ak,ak022f2ldcwr,2022-11-24T08:59:22.760Z,"66 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
