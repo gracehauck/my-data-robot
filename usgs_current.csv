@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T14:53:55.960Z,38.8364983,-122.8119965,2.01,1.18,md,9,71,0.01317,0.01,nc,nc73811011,2022-11-24T17:40:12.523Z,"8km WNW of Cobb, CA",earthquake,0.36,1.96,,1,automatic,nc,nc
 2022-11-24T14:50:25.956Z,62.5578,-152.2238,0,2.3,ml,,,,0.53,ak,ak022f2owo8z,2022-11-24T14:52:36.977Z,"75 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-24T14:48:58.010Z,38.786499,-122.7350006,1.54,0.44,md,10,107,0.003525,0.01,nc,nc73811006,2022-11-24T15:30:11.679Z,"2km ENE of The Geysers, CA",earthquake,0.27,0.52,0.19,4,automatic,nc,nc
-2022-11-24T14:44:36.355Z,62.0212,-147.5189,40.2,2,ml,,,,0.26,ak,ak022f2over7,2022-11-24T14:45:54.293Z,"20 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-24T14:41:42.406Z,52.1693,-175.4046,108.4,2.3,ml,,,,0.2,ak,ak022f2ouqxa,2022-11-24T15:55:06.483Z,"82 km W of Atka, Alaska",earthquake,,0.8,,,reviewed,ak,ak
