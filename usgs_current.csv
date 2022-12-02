@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T23:35:23.850Z,19.2350006103516,-155.375671386719,32.9700012207031,2.6400001,md,47,149,,0.159999996,hv,hv73253497,2022-12-02T23:38:37.690Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.6,0.819999993,1.21000004,37,automatic,hv,hv
+2022-12-02T23:31:25.699Z,57.7508,-154.225,43.4,1.5,ml,,,,0.38,ak,ak022fg2ga0p,2022-12-02T23:33:06.219Z,"24 km NE of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2022-12-02T23:14:33.230Z,38.7613335,-122.716835,1.09,1.1,md,7,150,0.00628,0.04,nc,nc73814031,2022-12-02T23:25:10.725Z,"3km SW of Anderson Springs, CA",earthquake,0.43,0.42,0.16,8,automatic,nc,nc
 2022-12-02T22:57:16.589Z,61.3781,-150.6714,17.5,1.2,ml,,,,0.63,ak,ak022fg20e9y,2022-12-02T22:59:29.060Z,"20 km SSW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-02T22:56:17.214Z,63.4284,-147.4227,66.6,1.6,ml,,,,0.46,ak,ak022fg206rv,2022-12-02T22:58:20.064Z,"76 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -110,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T12:19:28.430Z,19.4473333333333,-155.597166666667,-1.31,1.88,md,7,87,,0.1,hv,hv73252077,2022-12-02T19:49:51.950Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.32,0.170193424349899,6,reviewed,hv,hv
 2022-12-02T12:17:45.070Z,38.7806664,-122.7561646,1.04,1.1,md,16,66,0.01244,0.03,nc,nc73813811,2022-12-02T13:53:13.295Z,"0km N of The Geysers, CA",earthquake,0.24,0.44,0.07,16,automatic,nc,nc
 2022-12-02T12:10:39.520Z,32.2606667,-115.2526667,15.05,2.48,ml,23,84,0.1555,0.22,ci,ci40383600,2022-12-02T22:22:14.851Z,"9km WNW of Alberto Oviedo Mota, B.C., MX",earthquake,0.46,0.74,0.24,25,reviewed,ci,ci
-2022-12-02T12:04:31.626Z,35.3795,140.3819,61.8,4.6,mb,32,134,1.936,0.32,us,us6000j69y,2022-12-02T21:50:55.272Z,"near the east coast of Honshu, Japan",earthquake,7.32,7.749,0.136,16,reviewed,us,us
+2022-12-02T12:04:31.626Z,35.3795,140.3819,61.8,4.6,mb,32,134,1.936,0.32,us,us6000j69y,2022-12-02T23:36:48.052Z,"near the east coast of Honshu, Japan",earthquake,7.32,7.749,0.136,16,reviewed,us,us
 2022-12-02T11:56:30.360Z,19.4593333333333,-155.598666666667,-1.36,1.68,md,8,88,,0.09,hv,hv73252022,2022-12-02T19:44:36.740Z,"Hawaii region, Hawaii",earthquake,0.39,0.35,0.140053041007851,6,reviewed,hv,hv
 2022-12-02T11:33:42.827Z,62.2584,-153.2705,4.4,1.8,ml,,,,0.49,ak,ak022ffvbjzp,2022-12-02T11:40:08.028Z,"101 km SSE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-02T11:33:41.070Z,33.6776667,-116.7335,13.88,0.68,ml,22,107,0.0371,0.1,ci,ci40383592,2022-12-02T13:47:23.036Z,"7km S of Idyllwild, CA",earthquake,0.25,0.42,0.212,21,reviewed,ci,ci
@@ -261,6 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T23:47:26.995Z,62.6421,-151.6658,96,1.7,ml,,,,0.34,ak,ak022fef0d2z,2022-12-02T00:57:11.982Z,"49 km WNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-01T23:40:54.210Z,17.954,-66.9463333333333,9.24,2.21,md,5,209,0.06719,0.07,pr,pr71384983,2022-12-02T00:57:27.935Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.6,0.74,0.0179220826587154,4,reviewed,pr,pr
 2022-12-01T23:39:39.700Z,44.4615,-111.0675,5.91,0.35,md,6,275,0.1662,0.1,uu,uu60526937,2022-12-02T16:27:08.470Z,"22 km S of West Yellowstone, Montana",earthquake,2.22,7.37,0.143,3,reviewed,uu,uu
-2022-12-01T23:38:36.779Z,61.6708,-149.9934,33.6,1.7,ml,,,,0.53,ak,ak022feeyge5,2022-12-02T00:57:44.603Z,"8 km SSE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-01T23:32:45.380Z,44.787,-122.66566666666667,-0.48,1.4000000000000001,ml,7,83,0.0268,0.2,uw,uw61896951,2022-12-02T00:58:02.063Z,"3 km W of Mehama, Oregon",explosion,0.71,31.61,0.07036088418161102,4,reviewed,uw,uw
-2022-12-01T23:30:49.730Z,32.713,-116.6555,17.4,1.11,ml,22,67,0.03573,0.21,ci,ci40383408,2022-12-02T13:54:08.121Z,"16km N of Tecate, B.C., MX",earthquake,0.46,0.68,0.189,18,reviewed,ci,ci
