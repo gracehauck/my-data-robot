@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-09T21:43:00.110Z,33.22,-116.741,19.35,0.87,ml,32,34,0.08128,0.16,ci,ci40144175,2022-12-09T21:46:38.410Z,"3km SE of Lake Henshaw, CA",earthquake,0.24,0.54,0.106,22,automatic,ci,ci
+2022-12-09T21:39:00.750Z,34.0481667,-117.2381667,13.64,1.33,ml,49,50,0.1264,0.21,ci,ci40144167,2022-12-09T21:49:42.780Z,"2km E of Loma Linda, CA",earthquake,0.27,0.65,0.111,28,automatic,ci,ci
+2022-12-09T21:38:34.674Z,63.6055,-147.2711,41.4,1.5,ml,,,,0.74,ak,ak022frm2cyz,2022-12-09T21:41:00.181Z,"82 km E of Denali Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-09T21:31:48.820Z,38.7803345,-122.7203369,1.84,0.8,md,10,86,0.01313,0.02,nc,nc73816731,2022-12-09T21:33:23.543Z,"2km WNW of Anderson Springs, CA",earthquake,0.34,0.78,0.13,9,automatic,nc,nc
 2022-12-09T21:09:42.860Z,33.9788333,-117.4675,0.47,1.06,ml,15,103,0.1621,0.22,ci,ci40144159,2022-12-09T21:17:06.385Z,"1km ENE of Pedley, CA",earthquake,0.53,31.61,0.174,20,automatic,ci,ci
 2022-12-09T20:56:19.800Z,35.9713326,-120.5211639,2.74,0.74,md,14,95,0.02489,0.03,nc,nc73816721,2022-12-09T20:57:54.435Z,"11km NW of Parkfield, CA",earthquake,0.31,0.81,0.23,5,automatic,nc,nc
