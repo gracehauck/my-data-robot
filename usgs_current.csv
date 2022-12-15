@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T09:36:29.300Z,63.0452,-150.9403,114.7,2.2,ml,,,,0.22,ak,ak022g1c4stu,2022-12-15T09:48:30.937Z,"61 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-15T09:30:52.800Z,19.2119998931885,-155.372497558594,32.6699981689453,2,md,44,159,,0.129999995,hv,hv73270137,2022-12-15T09:34:03.250Z,"11 km E of Pāhala, Hawaii",earthquake,0.55,0.620000005,2,12,automatic,hv,hv
 2022-12-15T09:15:59.150Z,17.9815,-66.8991666666667,10.56,2.23,md,13,117,0.01292,0.16,pr,pr71387253,2022-12-15T09:31:21.950Z,"1 km WNW of Maria Antonia, Puerto Rico",earthquake,0.48,0.35,0.186076775986294,5,reviewed,pr,pr
 2022-12-15T09:15:15.840Z,17.9791666666667,-66.886,9.84,2.27,md,7,147,0.00761,0.06,pr,pr71387258,2022-12-15T09:24:30.900Z,"0 km ENE of Maria Antonia, Puerto Rico",earthquake,0.4,0.43,0.0600644761462972,4,reviewed,pr,pr
