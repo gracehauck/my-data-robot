@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-23T14:17:28.700Z,38.3474,-119.314,13.4,1.5,ml,16,127.44,0.099,0.3648,nn,nn00854061,2022-12-23T14:20:24.458Z,"12 km NW of Bridgeport, California",earthquake,,0.6,0.34,8,automatic,nn,nn
 2022-12-23T14:02:20.950Z,61.2291,-149.0421,27.3,2.2,ml,,,,0.76,ak,ak022gen7ftb,2022-12-23T14:04:01.219Z,"26 km SSW of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-23T13:31:11.840Z,33.2785,-115.9685,3.05,1.37,ml,40,43,0.105,0.25,ci,ci40149143,2022-12-23T13:42:06.290Z,"2km SSW of Salton City, CA",earthquake,0.33,0.96,0.204,27,automatic,ci,ci
 2022-12-23T13:27:38.620Z,38.8429985,-122.8278351,1.7,0.34,md,10,140,0.007423,0.02,nc,nc73823686,2022-12-23T14:04:13.568Z,"9km WNW of Cobb, CA",earthquake,0.34,0.87,0.25,12,automatic,nc,nc
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T14:45:08.660Z,37.6016667,-118.8085,3.83,0.32,md,10,238,0.02007,0.03,nc,nc73823131,2022-12-22T17:52:11.330Z,"12km WNW of Toms Place, CA",earthquake,0.56,0.74,0.274,9,reviewed,nc,nc
 2022-12-22T14:31:49.386Z,52.4272,-168.508,10,3.2,ml,11,217,0.824,0.25,us,us6000jb4s,2022-12-22T21:11:25.040Z,"61 km SSE of Nikolski, Alaska",earthquake,3.96,1.991,0.137,9,reviewed,us,us
 2022-12-22T14:30:09.790Z,51.8411666666667,-178.023666666667,-1.8,1.01,ml,4,116,,0.29,av,av91081558,2022-12-22T23:02:00.170Z,"95 km W of Adak, Alaska",earthquake,0.73,2.27,0.470489174560018,4,reviewed,av,av
-2022-12-22T14:25:50.150Z,33.9483333,-116.9031667,12.39,0.85,ml,33,60,0.1174,0.09,ci,ci40148839,2022-12-22T17:31:33.390Z,"4km NW of Banning, CA",earthquake,0.14,0.5,0.148,26,reviewed,ci,ci
-2022-12-22T14:24:15.880Z,38.8233337,-122.7611694,1.93,1.03,md,17,129,0.009871,0.04,nc,nc73823126,2022-12-22T15:22:12.456Z,"3km W of Cobb, CA",earthquake,0.28,0.51,0.17,18,automatic,nc,nc
