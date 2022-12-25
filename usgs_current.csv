@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-25T17:38:56.240Z,33.9113333,-117.8363333,29.03,1.37,ml,9,130,0.1562,0.25,ci,ci40149783,2022-12-25T17:42:35.361Z,"3km NW of Yorba Linda, CA",earthquake,1.17,1.72,0.452,15,automatic,ci,ci
 2022-12-25T17:28:51.920Z,33.487,-116.463,14.75,0.75,ml,18,144,0.09039,0.13,ci,ci40149775,2022-12-25T17:32:25.971Z,"21km ESE of Anza, CA",earthquake,0.34,0.39,0.087,18,automatic,ci,ci
 2022-12-25T17:28:13.522Z,62.3526,-151.2525,81.5,1.9,ml,,,,0.36,ak,ak022gi07zns,2022-12-25T17:30:29.798Z,"29 km WSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-25T17:19:50.970Z,19.1923332214355,-155.394165039062,32.689998626709,2.32999992,md,40,162,,0.140000001,hv,hv73282587,2022-12-25T17:22:56.330Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.519999981,0.239999995,16,automatic,hv,hv
@@ -191,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T18:24:23.050Z,33.6798333,-116.7068333,14.03,0.93,ml,23,74,0.03184,0.17,ci,ci40149455,2022-12-25T16:00:23.191Z,"7km S of Idyllwild, CA",earthquake,0.38,0.55,0.025,2,reviewed,ci,ci
 2022-12-24T18:17:25.280Z,38.7929993,-122.748497,2.19,1.25,md,18,90,0.01161,0.02,nc,nc73824211,2022-12-24T18:51:11.901Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.53,0.19,18,automatic,nc,nc
 2022-12-24T17:58:34.498Z,63.1202,-149.6273,90.1,1.7,ml,,,,0.35,ak,ak022ggcv49l,2022-12-24T18:00:55.019Z,"45 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-24T17:45:20.812Z,51.8011,178.4299,110.995,4,mb,58,163,0.156,0.7,us,us6000jbhw,2022-12-25T02:03:06.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,10.21,4.453,0.09,33,reviewed,us,us
