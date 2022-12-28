@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-28T19:31:05.190Z,37.9404984,-122.0273361,10.28,1.18,md,9,122,0.08602,0.05,nc,nc73826051,2022-12-28T19:32:43.860Z,"3km ESE of Pleasant Hill, CA",earthquake,0.7,1.15,0.17,8,automatic,nc,nc
+2022-12-28T19:42:23.280Z,33.3628333,-116.2423333,10.52,1.17,ml,27,69,0.0563,0.25,ci,ci40150903,2022-12-28T19:45:56.886Z,"17km NE of Borrego Springs, CA",earthquake,0.37,0.79,0.146,26,automatic,ci,ci
+2022-12-28T19:40:11.070Z,36.8925018,-121.6188354,0.46,1.87,md,12,71,0.02299,0.09,nc,nc73826056,2022-12-28T19:44:15.673Z,"2km ENE of Aromas, CA",earthquake,0.29,0.61,0.2,10,automatic,nc,nc
+2022-12-28T19:31:05.190Z,37.9404984,-122.0273361,10.28,1.18,md,9,122,0.08602,0.05,nc,nc73826051,2022-12-28T19:43:10.305Z,"3km ESE of Pleasant Hill, CA",earthquake,0.7,1.15,0.17,8,automatic,nc,nc
 2022-12-28T19:30:58.409Z,63.5432,-147.7295,4.3,2.1,ml,,,,0.41,ak,ak022gn01f8w,2022-12-28T19:32:54.967Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T19:25:51.290Z,38.7796669,-122.7258301,0.54,0.78,md,7,106,0.009231,0.02,nc,nc73826046,2022-12-28T19:27:27.116Z,"3km E of The Geysers, CA",earthquake,0.45,0.75,0.32,7,automatic,nc,nc
 2022-12-28T18:55:57.540Z,38.7973328,-122.7559967,3.72,1.21,md,23,91,0.004386,0.02,nc,nc73826041,2022-12-28T19:12:14.110Z,"2km N of The Geysers, CA",earthquake,0.29,0.62,0.15,22,automatic,nc,nc
@@ -171,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T20:15:14.129Z,78.5782,-19.4663,10,4.6,mb,173,47,6.103,0.84,us,us7000j0i2,2022-12-27T23:06:32.040Z,"eastern Greenland",earthquake,7.53,1.886,0.044,161,reviewed,us,us
 2022-12-27T19:58:01.648Z,61.9184,-149.3061,41.8,1.6,ml,,,,0.43,ak,ak022glcnyf8,2022-12-27T20:00:31.338Z,"19 km N of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-27T19:55:24.700Z,38.8310013,-122.817337,1.97,1.09,md,20,50,0.00948,0.02,nc,nc73825821,2022-12-27T20:27:15.565Z,"8km NW of The Geysers, CA",earthquake,0.22,0.49,0.16,23,automatic,nc,nc
-2022-12-27T19:38:11.424Z,28.9624,83.6209,21.158,4.1,mb,45,85,1.864,1.15,us,us7000j0hw,2022-12-27T21:33:58.193Z,"Nepal",earthquake,8.3,5.696,0.112,27,reviewed,us,us
