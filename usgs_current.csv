@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-29T18:32:30.750Z,35.6523333,-117.456,3.44,1.32,ml,11,119,0.06588,0.17,ci,ci40151159,2022-12-29T18:36:07.256Z,"14km SSW of Searles Valley, CA",earthquake,0.48,1.38,0.17,13,automatic,ci,ci
 2022-12-29T18:13:14.640Z,33.4906667,-116.4333333,13.92,1.08,ml,26,59,0.1054,0.18,ci,ci40151151,2022-12-29T18:16:49.932Z,"22km SSW of La Quinta, CA",earthquake,0.28,0.58,0.196,26,automatic,ci,ci
 2022-12-29T17:53:49.090Z,35.5178333,-118.3948333,5.79,1.33,ml,19,47,0.1584,0.16,ci,ci40151143,2022-12-29T17:57:57.223Z,"12km SE of Bodfish, CA",earthquake,0.25,1.31,0.172,20,automatic,ci,ci
 2022-12-29T17:50:46.140Z,19.1215000152588,-155.395172119141,31.0699996948242,2.38,ml,38,185,,0.119999997,hv,hv73286702,2022-12-29T17:56:16.640Z,"12 km SE of Pāhala, Hawaii",earthquake,0.61,0.860000014,3.72,13,automatic,hv,hv
