@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-31T13:28:23.080Z,36.770668,-121.4738312,5.52,1.82,md,15,113,0.0223,0.11,nc,nc73827221,2022-12-31T13:29:57.321Z,"10km SE of San Juan Bautista, CA",earthquake,0.41,0.39,0.11,16,automatic,nc,nc
+2022-12-31T13:26:41.790Z,36.7815018,-121.4923325,2,1.48,md,9,145,0.02791,0.24,nc,nc73827216,2022-12-31T13:28:17.074Z,"8km SSE of San Juan Bautista, CA",earthquake,0.94,1.6,0.28,8,automatic,nc,nc
 2022-12-31T13:25:53.240Z,36.7729988,-121.501503,3.46,1.69,md,14,104,0.02096,0.28,nc,nc73827211,2022-12-31T13:27:26.916Z,"9km SSE of San Juan Bautista, CA",earthquake,0.71,0.95,0.14,10,automatic,nc,nc
-2022-12-31T13:25:16.620Z,33.4018326,-116.3799973,6.15,1.04,ml,17,135,0.07567,0.13,ci,ci40152039,2022-12-31T13:27:21.774Z,"16km N of Borrego Springs, CA",earthquake,0.48,1.39,0.193,5,automatic,ci,ci
+2022-12-31T13:25:16.580Z,33.4026667,-116.3683333,4.73,0.76,ml,17,121,0.1402,0.16,ci,ci40152039,2022-12-31T13:28:45.497Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.91,0.193,18,automatic,ci,ci
 2022-12-31T13:24:18.190Z,33.4033333,-116.3845,8.81,0.77,ml,24,88,0.1375,0.24,ci,ci40152031,2022-12-31T13:27:42.133Z,"16km N of Borrego Springs, CA",earthquake,0.4,1.33,0.209,18,automatic,ci,ci
 2022-12-31T13:17:36.720Z,33.409,-116.3795,1.84,0.62,ml,20,100,0.1439,0.28,ci,ci40152023,2022-12-31T13:21:08.188Z,"17km N of Borrego Springs, CA",earthquake,0.47,1.1,0.118,15,automatic,ci,ci
 2022-12-31T13:15:12.940Z,33.401,-116.383,2.26,1.86,ml,67,25,0.1272,0.24,ci,ci40152015,2022-12-31T13:18:55.811Z,"16km N of Borrego Springs, CA",earthquake,0.22,1.1,0.154,26,automatic,ci,ci
@@ -19,9 +21,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T12:52:01.780Z,34.3558333,-116.9228333,4.87,1.26,ml,32,68,0.07929,0.16,ci,ci40151943,2022-12-31T13:02:49.550Z,"11km SSE of Lucerne Valley, CA",earthquake,0.26,0.91,0.155,27,automatic,ci,ci
 2022-12-31T12:51:52.810Z,19.4226665496826,-155.274169921875,-0.439999997615814,2.1500001,md,14,89,,0.170000002,hv,hv73289082,2022-12-31T12:54:53.220Z,"4 km WSW of Volcano, Hawaii",earthquake,0.23,0.330000013,1.44000006,11,automatic,hv,hv
 2022-12-31T12:50:12.368Z,-58.0365,-25.6677,62.275,4.7,mb,30,82,7.115,0.46,us,us7000j18u,2022-12-31T13:10:49.040Z,"South Sandwich Islands region",earthquake,12.21,8.227,0.104,28,reviewed,us,us
-2022-12-31T12:47:57.911Z,-32.2754,-71.5481,56.199,4.5,mwr,40,101,0.539,0.64,us,us7000j18l,2022-12-31T13:24:18.708Z,"35 km WNW of La Ligua, Chile",earthquake,4.74,6.758,0.04,59,reviewed,us,us
+2022-12-31T12:47:57.911Z,-32.2754,-71.5481,56.199,4.5,mwr,40,101,0.539,0.64,us,us7000j18l,2022-12-31T13:33:32.934Z,"35 km WNW of La Ligua, Chile",earthquake,4.74,6.758,0.04,59,reviewed,us,us
 2022-12-31T12:43:27.339Z,63.2871,-151.2444,8.5,1,ml,,,,0.17,ak,ak022gruk5el,2022-12-31T12:46:02.226Z,"37 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-31T12:38:37.250Z,33.4061667,-116.3696667,3.91,0.57,ml,17,120,0.1432,0.16,ci,ci40151935,2022-12-31T12:42:14.226Z,"17km N of Borrego Springs, CA",earthquake,0.35,1.07,0.114,9,automatic,ci,ci
+2022-12-31T12:38:37.250Z,33.4061667,-116.3696667,3.91,0.57,ml,17,120,0.1432,0.16,ci,ci40151935,2022-12-31T13:35:06.354Z,"17km N of Borrego Springs, CA",earthquake,0.35,1.07,0.114,9,automatic,ci,ci
 2022-12-31T12:37:34.557Z,59.642,-145.7424,36,2,ml,,,,0.98,ak,ak022gruivnz,2022-12-31T12:39:36.869Z,"100 km S of Cordova, Alaska",earthquake,,6.6,,,automatic,ak,ak
 2022-12-31T12:37:22.860Z,33.408,-116.395,2.47,1.2,ml,32,55,0.1407,0.22,ci,ci40151927,2022-12-31T12:41:38.914Z,"17km N of Borrego Springs, CA",earthquake,0.31,1.32,0.138,15,automatic,ci,ci
 2022-12-31T12:36:38.040Z,33.4045,-116.3943333,1.79,2.21,ml,80,31,0.1214,0.21,ci,ci40151919,2022-12-31T12:50:39.458Z,"17km N of Borrego Springs, CA",earthquake,0.18,0.57,0.207,25,reviewed,ci,ci
@@ -35,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T12:26:16.313Z,63.0984,-150.5267,120.6,1.5,ml,,,,0.32,ak,ak022grughdr,2022-12-31T12:28:26.368Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-31T12:25:59.740Z,33.401,-116.388,1.48,0.87,ml,30,88,0.1347,0.22,ci,ci40151879,2022-12-31T12:40:58.470Z,"16km N of Borrego Springs, CA",earthquake,0.32,0.7,0.143,23,reviewed,ci,ci
 2022-12-31T12:25:39.600Z,33.551,-116.9323333,9.52,0.86,ml,34,39,0.1058,0.15,ci,ci40151863,2022-12-31T12:43:21.690Z,"14km NNW of Aguanga, CA",earthquake,0.19,0.67,0.184,20,reviewed,ci,ci
-2022-12-31T12:24:52.730Z,33.4063333,-116.3848333,4.96,0.62,ml,17,146,0.1404,0.23,ci,ci40151855,2022-12-31T12:28:35.918Z,"17km N of Borrego Springs, CA",earthquake,0.47,8.19,0.178,15,automatic,ci,ci
+2022-12-31T12:24:52.730Z,33.4063333,-116.3848333,4.96,0.62,ml,17,146,0.1404,0.23,ci,ci40151855,2022-12-31T13:36:33.193Z,"17km N of Borrego Springs, CA",earthquake,0.47,8.19,0.178,15,automatic,ci,ci
 2022-12-31T12:22:18.540Z,33.4031667,-116.3761667,1.8,0.77,ml,33,108,0.1389,0.22,ci,ci40151847,2022-12-31T12:25:59.355Z,"16km N of Borrego Springs, CA",earthquake,0.34,0.72,0.136,19,automatic,ci,ci
 2022-12-31T12:21:41.940Z,33.4026667,-116.3808333,3.21,0.71,ml,20,101,0.1375,0.23,ci,ci40151839,2022-12-31T12:41:15.908Z,"16km N of Borrego Springs, CA",earthquake,0.38,1.52,0.136,18,reviewed,ci,ci
 2022-12-31T12:21:30.542Z,58.1749,-155.3896,1.1,0.8,ml,,,,0.14,ak,ak022gruffwe,2022-12-31T12:23:38.156Z,"87 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -44,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T12:17:51.150Z,33.401,-116.3833333,1.84,1.15,ml,36,95,0.1354,0.2,ci,ci40151823,2022-12-31T13:14:33.789Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.59,0.17,25,automatic,ci,ci
 2022-12-31T12:15:55.000Z,33.4021667,-116.37,3.79,1.6,ml,28,121,0.1296,0.18,ci,ci40151815,2022-12-31T12:49:38.796Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.8,0.319,5,automatic,ci,ci
 2022-12-31T12:15:02.560Z,19.3396666666667,-155.303833333333,2.36,0.73,md,15,81,,0.09,hv,hv73289047,2022-12-31T12:38:35.130Z,"13 km SSW of Volcano, Hawaii",earthquake,0.26,0.31,0.0595608904732979,5,reviewed,hv,hv
-2022-12-31T12:12:26.570Z,33.3981667,-116.3913345,2.46,4.17,mw,119,16,0.07407,0.2,ci,ci40151807,2022-12-31T13:23:03.822Z,"16km N of Borrego Springs, CA",earthquake,0.18,0.68,,6,reviewed,ci,ci
+2022-12-31T12:12:26.570Z,33.3981667,-116.3913345,2.46,4.17,mw,119,16,0.07407,0.2,ci,ci40151807,2022-12-31T13:35:54.144Z,"16km N of Borrego Springs, CA",earthquake,0.18,0.68,,6,reviewed,ci,ci
 2022-12-31T12:10:45.550Z,34.3571667,-116.9193333,5.25,1.19,ml,26,107,0.07656,0.14,ci,ci40151799,2022-12-31T12:14:26.430Z,"11km SSE of Lucerne Valley, CA",earthquake,0.26,0.81,0.136,29,automatic,ci,ci
 2022-12-31T12:09:20.220Z,33.1598333,-116.459,9.53,0.74,ml,18,122,0.1136,0.19,ci,ci40151791,2022-12-31T12:41:50.100Z,"13km SW of Borrego Springs, CA",earthquake,0.44,0.9,0.233,10,reviewed,ci,ci
 2022-12-31T12:06:29.210Z,38.822834,-122.8088303,1.19,0.76,md,10,94,0.001121,0.02,nc,nc73827171,2022-12-31T12:42:20.357Z,"7km NW of The Geysers, CA",earthquake,0.31,0.73,0.13,10,automatic,nc,nc
