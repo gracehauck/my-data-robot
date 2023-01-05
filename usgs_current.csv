@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-05T21:43:08.962Z,60.7888,-148.3015,20,1.6,ml,,,,0.78,ak,ak0238mg2nk,2023-01-05T21:45:05.153Z,"20 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-05T21:41:34.610Z,19.4063333333333,-155.270166666667,1.1,0.29,md,9,112,,0.11,hv,hv73297002,2023-01-05T21:53:39.300Z,"5 km SW of Volcano, Hawaii",earthquake,0.25,0.53,0.0773558913886528,2,reviewed,hv,hv
+2023-01-05T21:36:54.520Z,19.411,-155.274166666667,0.63,0.33,md,10,93,,0.1,hv,hv73296992,2023-01-05T21:56:01.130Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.41,0.0535463986784871,3,reviewed,hv,hv
 2023-01-05T21:17:22.320Z,19.3841666666667,-155.281666666667,1.01,0.91,md,9,155,,0.04,hv,hv73296932,2023-01-05T21:47:37.670Z,"8 km SW of Volcano, Hawaii",earthquake,0.37,0.28,0.223954200944921,2,reviewed,hv,hv
 2023-01-05T21:12:02.259Z,62.8133,-148.942,59.7,1.4,ml,,,,0.96,ak,ak0238m9ext,2023-01-05T21:14:46.966Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-05T21:05:56.506Z,62.4147,-150.5637,59.5,2.2,ml,,,,0.64,ak,ak0238m812y,2023-01-05T21:31:03.040Z,"13 km SE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
