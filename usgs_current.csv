@@ -157,5 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T11:52:17.340Z,63.2399,-148.8108,0,3.2,ml,,,,1,ak,ak0236t0c6k,2023-01-05T05:12:39.040Z,"18 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-04T11:40:58.762Z,31.61029574,-103.970824,8.740930176000003,2.9,ml,16,56,0.001740209346,0.1,tx,tx2023agjr,2023-01-05T05:01:23.040Z,"36 km WSW of Mentone, Texas",earthquake,0.4342602897,0.4104288839,0.1,10,reviewed,tx,tx
 2023-01-04T11:28:52.763Z,62.6234,-149.6585,55.1,1.4,ml,,,,0.89,ak,ak0236sv9r0,2023-01-04T11:31:30.608Z,"Central Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-01-04T11:20:52.113Z,63.0824,-151.5124,2.6,1.7,ml,,,,0.37,ak,ak0236stjyz,2023-01-04T11:22:40.011Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-04T11:19:33.980Z,35.679,-117.515,11.66,1.24,ml,15,167,0.1521,0.18,ci,ci40153607,2023-01-04T11:23:09.315Z,"14km SW of Searles Valley, CA",earthquake,0.49,1.24,0.113,14,automatic,ci,ci
