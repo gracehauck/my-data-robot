@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-05T05:48:39.830Z,19.1905002593994,-155.370498657227,34.9000015258789,2.1500001,md,14,210,,0.0599999987,hv,hv73295517,2023-01-05T05:51:50.900Z,"11 km E of Pāhala, Hawaii",earthquake,1.07,2.18000007,1.07000005,3,automatic,hv,hv
+2023-01-05T05:44:26.660Z,19.2318325042725,-155.398498535156,29.7800006866455,2.17,ml,39,141,,0.180000007,hv,hv73295512,2023-01-05T05:49:56.670Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.66,0.870000005,3.62,6,automatic,hv,hv
+2023-01-05T05:44:04.460Z,19.1520004272461,-155.486831665039,33.9500007629395,2.41,ml,23,215,,0.150000006,hv,hv73295507,2023-01-05T05:49:38.430Z,"5 km S of Pāhala, Hawaii",earthquake,1.28,1.14999998,0.23,4,automatic,hv,hv
 2023-01-05T05:18:59.357Z,60.6673,-146.8449,16.7,1.5,ml,,,,0.46,ak,ak0238crvyn,2023-01-05T05:21:50.100Z,"23 km SSW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-05T05:03:42.997Z,61.6265,-149.5833,30.2,2.1,ml,,,,0.35,ak,ak0238comyj,2023-01-05T05:05:13.294Z,"0 km ENE of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-05T05:02:37.449Z,60.831,-147.7621,19.1,1.7,ml,,,,0.53,ak,ak0238coetc,2023-01-05T05:04:39.996Z,"50 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
