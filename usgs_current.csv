@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-07T02:39:42.402Z,44.534,-114.6824,10,2.3,ml,13,81,0.581,0.53,us,us7000j2q2,2023-01-07T02:53:31.040Z,"35 km W of Challis, Idaho",earthquake,1.81,2.011,0.081,20,reviewed,us,us
 2023-01-07T02:38:57.820Z,38.7941666,-122.7805023,3.69,1.05,md,16,123,0.005878,0.03,nc,nc73829546,2023-01-07T02:40:34.147Z,"3km NW of The Geysers, CA",earthquake,0.36,0.77,0.28,14,automatic,nc,nc
-2023-01-07T02:37:54.310Z,38.7939987,-122.7799988,3.56,1.1,md,19,78,0.006242,0.02,nc,nc73829541,2023-01-07T02:39:29.129Z,"3km NW of The Geysers, CA",earthquake,0.32,0.6,0.18,18,automatic,nc,nc
+2023-01-07T02:37:54.310Z,38.7939987,-122.7799988,3.56,1.1,md,19,78,0.006242,0.02,nc,nc73829541,2023-01-07T02:52:10.264Z,"3km NW of The Geysers, CA",earthquake,0.32,0.6,0.18,18,automatic,nc,nc
 2023-01-07T02:37:25.230Z,38.7956657,-122.7816696,3.64,0.77,md,8,151,0.005478,0.02,nc,nc73829536,2023-01-07T02:38:59.498Z,"3km NW of The Geysers, CA",earthquake,0.68,1.74,0.3,8,automatic,nc,nc
 2023-01-07T02:06:14.220Z,35.7133331,-117.5458298,10.16,1.01,ml,12,153,0.1105,0.09,ci,ci40154207,2023-01-07T02:08:19.456Z,"14km WSW of Searles Valley, CA",earthquake,0.55,1.16,0.171,7,automatic,ci,ci
 2023-01-07T01:58:43.369Z,-31.4627,-68.5701,108.094,4.4,mb,21,183,0.128,1.02,us,us7000j2pr,2023-01-07T02:41:13.040Z,"4 km WNW of Chimbas, Argentina",earthquake,4.11,6.751,0.309,3,reviewed,us,us
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T12:21:15.049Z,60.9959,-146.5116,9,1.4,ml,,,,0.9,ak,ak023a4htf4,2023-01-06T12:24:14.175Z,"17 km NNE of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-06T12:11:33.405Z,60.1759,-151.3687,51.1,1.3,ml,,,,0.32,ak,ak023a4fpoc,2023-01-06T12:14:14.511Z,"6 km SSE of Clam Gulch, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-01-06T12:01:54.150Z,17.962,-66.9583333333333,9.48,2.36,md,13,196,0.07638,0.19,pr,pr71391263,2023-01-06T12:39:30.480Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.69,0.98,0.0463670101870601,5,reviewed,pr,pr
-2023-01-06T11:56:13.316Z,58.2501,-155.0811,2,0.7,ml,,,,0.28,ak,ak023a43vqr,2023-01-06T11:57:49.991Z,"84 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-01-06T11:56:13.316Z,58.2501,-155.0811,2,0.7,ml,,,,0.28,ak,ak023a43vqr,2023-01-07T02:57:07.860Z,"84 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-06T11:56:00.540Z,38.8321648,-122.8808365,1.86,0.59,md,8,131,0.006385,0.01,nc,nc73829311,2023-01-06T11:57:32.733Z,"12km ENE of Cloverdale, CA",earthquake,0.4,0.54,0.32,9,automatic,nc,nc
 2023-01-06T11:55:34.800Z,38.8301659,-122.8768311,1.39,1.06,md,11,169,0.009564,0.05,nc,nc73829306,2023-01-06T11:57:07.904Z,"12km WNW of The Geysers, CA",earthquake,0.4,0.61,0.3,12,automatic,nc,nc
 2023-01-06T11:52:37.947Z,-24.7533,-179.948,505.104,5.9,mww,103,23,4.841,1.12,us,us7000j2ig,2023-01-06T12:11:33.040Z,"south of the Fiji Islands",earthquake,9.9,5.241,0.068,21,reviewed,us,us
@@ -148,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T10:21:59.581Z,53.5216,-167.0348,5.5,1.7,ml,,,,0.45,ak,ak023a3b03d,2023-01-06T18:48:37.100Z,"51 km SW of Unalaska, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-01-06T10:10:47.748Z,31.60856591,-104.2434178,8.908032227,2.3,ml,59,58,0.1048701528,0.2,tx,tx2023ajxr,2023-01-06T22:37:11.491Z,"53 km NW of Toyah, Texas",earthquake,0.8167793502000001,1.244122569,0.1,33,reviewed,tx,tx
 2023-01-06T10:08:28.253Z,62.7733,-150.5148,13.9,1.8,ml,,,,0.52,ak,ak023a386x5,2023-01-06T10:10:18.125Z,"33 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-06T10:02:17.700Z,53.9153333333333,-166.391833333333,8.52,0.4,ml,11,165,,0.3,av,av91083323,2023-01-07T02:53:01.660Z,"10 km ENE of Dutch Harbor, Alaska",earthquake,2.13,3.31,0.220829129642172,10,reviewed,av,av
 2023-01-06T09:44:38.338Z,62.1747,-149.4883,52.7,1.3,ml,,,,0.65,ak,ak023a2uhvd,2023-01-06T09:46:30.953Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-06T09:30:27.239Z,64.8014,-150.46,11.6,0.7,ml,,,,1.02,ak,ak023a2rgh0,2023-01-06T18:41:06.075Z,"23 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-01-06T09:01:22.470Z,18.8315,-67.168,47.4,3.37,md,16,299,0.3661,0.1,pr,pr71391233,2023-01-06T10:02:21.870Z,"38 km N of San Antonio, Puerto Rico",earthquake,0.57,1.2,0.0980093561937756,5,reviewed,pr,pr
@@ -217,8 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T03:07:29.730Z,19.4076666666667,-155.278333333333,0.4,1.54,md,15,52,,0.1,hv,hv73297702,2023-01-06T05:59:01.090Z,"6 km SW of Volcano, Hawaii",earthquake,0.14,0.22,0.161047107497261,4,reviewed,hv,hv
 2023-01-06T03:04:39.530Z,19.4208333333333,-155.279,-0.09,1.93,md,13,70,,0.09,hv,hv73297697,2023-01-06T06:39:48.700Z,"5 km WSW of Volcano, Hawaii",earthquake,0.13,0.16,0.0645392297272347,3,reviewed,hv,hv
 2023-01-06T03:01:25.110Z,38.7628326,-122.7699966,-0.67,1.54,md,8,181,0.02232,0.24,nc,nc73829141,2023-01-06T04:46:12.450Z,"2km SW of The Geysers, CA",earthquake,2.13,4.86,0.22,9,automatic,nc,nc
-2023-01-06T02:58:25.140Z,44.5156667,-111.1728333,6.02,0.83,md,11,120,0.1996,0.24,uu,uu60529252,2023-01-06T15:16:45.410Z,"17 km SSW of West Yellowstone, Montana",earthquake,0.9,12.42,0.231,7,reviewed,uu,uu
-2023-01-06T02:57:27.360Z,38.8046684,-122.8174973,2.98,1.03,md,20,68,0.01004,0.02,nc,nc73829136,2023-01-06T03:52:13.133Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.59,0.2,19,automatic,nc,nc
-2023-01-06T02:55:46.040Z,38.8043327,-122.8176651,2.98,1.34,md,30,60,0.01007,0.03,nc,nc73829131,2023-01-06T04:18:12.294Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.38,0.23,31,automatic,nc,nc
-2023-01-06T02:55:30.950Z,38.8043327,-122.8180008,2.96,1.57,md,31,60,,0.03,nc,nc73829126,2023-01-06T03:52:12.133Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.36,0.12,28,automatic,nc,nc
-2023-01-06T02:52:54.619Z,36.27233333,-97.2465,6.85,1.31,ml,72,33,0.01529699821,0.25,ok,ok2023ajjf,2023-01-06T13:26:20.721Z,"Oklahoma",earthquake,,0.4,0.24,33,reviewed,ok,ok
