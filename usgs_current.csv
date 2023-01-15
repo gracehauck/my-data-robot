@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T09:39:01.357Z,64.2403,-149.927,0,1.8,ml,,,,0.87,ak,ak023oyngvr,2023-01-15T09:41:11.888Z,"36 km W of Clear, Alaska, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-01-15T09:37:25.080Z,38.8358345,-122.8066635,2.3,0.43,md,8,86,0.0127,0.01,nc,nc73832211,2023-01-15T09:39:00.715Z,"7km WNW of Cobb, CA",earthquake,0.48,1.43,0.3,8,automatic,nc,nc
+2023-01-15T09:37:11.800Z,36.0786667,-121.7281647,17.14,2.65,md,22,230,0.1238,0.15,nc,nc73832206,2023-01-15T09:38:45.919Z,"16km WNW of Lopez Point, CA",earthquake,1.24,0.65,0.18,24,automatic,nc,nc
 2023-01-15T09:30:25.398Z,63.4758,-149.0048,89.9,1.9,ml,,,,0.5,ak,ak023oyllaj,2023-01-15T09:32:33.164Z,"9 km NNW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-15T09:27:05.848Z,57.9808,-155.5561,105.5,1.6,ml,,,,0.76,ak,ak023oykwmw,2023-01-15T09:29:02.599Z,"79 km NW of Karluk, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-01-15T09:08:55.891Z,61.6343,-151.8413,101.6,3,ml,,,,0.59,ak,ak023oygxu7,2023-01-15T09:22:33.040Z,"46 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -45,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T04:46:43.260Z,38.8263321,-122.8111649,1.38,0.7,md,12,64,0.02025,0.02,nc,nc73832101,2023-01-15T05:49:13.827Z,"7km NW of The Geysers, CA",earthquake,0.23,1.1,0.09,13,automatic,nc,nc
 2023-01-15T04:42:14.932Z,29.9605,139.1939,396.19,5.2,mww,125,61,3.189,0.83,us,us7000j4gm,2023-01-15T05:00:05.040Z,"Izu Islands, Japan region",earthquake,8.78,6.593,0.093,11,reviewed,us,us
 2023-01-15T04:40:38.581Z,62.2477,-150.4409,19.6,1.6,ml,,,,0.44,ak,ak023ovolg2,2023-01-15T04:42:15.469Z,"13 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-15T04:32:55.560Z,-17.9034,168.4539,151.267,4.8,mb,32,70,2.721,0.59,us,us7000j4gk,2023-01-15T05:06:31.040Z,"23 km SE of Port-Vila, Vanuatu",earthquake,6.73,8.613,0.111,29,reviewed,us,us
+2023-01-15T04:32:55.560Z,-17.9034,168.4539,151.267,4.8,mb,32,70,2.721,0.59,us,us7000j4gk,2023-01-15T09:34:51.833Z,"23 km SE of Port-Vila, Vanuatu",earthquake,6.73,8.613,0.111,29,reviewed,us,us
 2023-01-15T04:27:05.780Z,38.7883339,-122.7785034,0.1,1.02,md,8,142,0.008806,0.02,nc,nc73832086,2023-01-15T04:28:38.567Z,"2km WNW of The Geysers, CA",earthquake,0.32,0.58,0.15,8,automatic,nc,nc
 2023-01-15T04:26:03.770Z,38.8018341,-122.7911682,14.32,0.7,md,8,102,0.006925,0.05,nc,nc73832081,2023-01-15T04:27:38.593Z,"4km NW of The Geysers, CA",earthquake,1.67,6.85,,1,automatic,nc,nc
 2023-01-15T04:25:59.130Z,38.7879982,-122.7798309,-0.1,0.88,md,8,96,0.008167,0.02,nc,nc73832076,2023-01-15T04:27:33.422Z,"2km WNW of The Geysers, CA",earthquake,0.27,0.71,0.11,9,automatic,nc,nc
