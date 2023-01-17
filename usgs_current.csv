@@ -25,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T18:46:00.820Z,35.49533333,-98.1055,7.86,1.23,ml,25,81,0.09448145951,0.46,ok,ok2023berf,2023-01-17T18:55:41.746Z,"11 km S of Calumet, Oklahoma",earthquake,,1.1,0.2,13,reviewed,ok,ok
 2023-01-17T18:42:34.190Z,38.8238335,-122.7978363,2.98,0.26,md,7,105,0.01597,0.01,nc,nc73833246,2023-01-17T19:00:13.443Z,"6km NW of The Geysers, CA",earthquake,0.48,1.46,0.14,8,automatic,nc,nc
 2023-01-17T18:40:00.409Z,-16.6678,-73.7684,47.886,4.3,mb,17,160,3.682,0.39,us,us7000j4yg,2023-01-17T19:52:20.040Z,"53 km SSW of Atico, Peru",earthquake,5.74,22.166,0.265,4,reviewed,us,us
+2023-01-17T18:39:22.230Z,14.3416,122.9821,10,4.6,mb,73,117,9.143,0.8,us,us7000j4z5,2023-01-17T21:47:21.040Z,"15 km NNE of Sabang Indan, Philippines",earthquake,6.3,1.844,0.07,61,reviewed,us,us
 2023-01-17T18:28:06.338Z,59.744,-153.1116,106.5,2.7,ml,,,,0.31,ak,ak023sf0ptj,2023-01-17T19:27:16.040Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T18:11:33.870Z,19.099666595459,-155.422836303711,29.1599998474121,1.98000002,md,29,187,,0.129999995,hv,hv73306017,2023-01-17T18:14:50.780Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.970000029,1.79999995,10,automatic,hv,hv
 2023-01-17T18:05:42.309Z,-24.614,-70.0847,60.489,4.4,mb,44,70,0.291,0.9,us,us7000j4y9,2023-01-17T18:35:52.040Z,"Antofagasta, Chile",earthquake,7.24,6.497,0.096,34,reviewed,us,us
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T22:08:28.660Z,35.00133333,-97.66083333,7,2.38,ml,101,33,0.09988040006,0.28,ok,ok2023bdcj,2023-01-17T00:05:33.291Z,"4 km SW of Dibble, Oklahoma",earthquake,,0.5,0.23,24,reviewed,ok,ok
 2023-01-16T21:57:38.829Z,14.4102,122.9956,10,5.2,mww,90,73,7.723,0.55,us,us7000j4sk,2023-01-16T23:25:06.543Z,"22 km NNE of Sabang Indan, Philippines",earthquake,4.36,1.776,0.098,10,reviewed,us,us
 2023-01-16T21:56:21.289Z,61.7056,-149.5089,36.7,1.6,ml,,,,0.4,ak,ak023qtfpcg,2023-01-16T21:58:24.020Z,"9 km NNW of Tanaina, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-01-16T21:47:03.560Z,36.4711685,-121.0378342,8.23,1.2,md,8,195,0.02269,0.02,nc,nc73832926,2023-01-16T23:13:15.314Z,"12km SE of Pinnacles, CA",earthquake,0.71,0.6,0.27,6,automatic,nc,nc
