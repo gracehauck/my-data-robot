@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-17T21:06:49.685Z,36.84837723,-97.78092194,1.955002189,2.16,ml,30,66.32809448,0.1472973973,0.6837188754,ok,ok2023bevv,2023-01-17T21:10:11.852Z,"6 km NW of Medford, Oklahoma",earthquake,2.24066923,1.867663581,,22,automatic,ok,ok
+2023-01-17T21:02:39.620Z,38.8341675,-122.8021698,2.13,1.66,md,28,34,,0.02,nc,nc73833316,2023-01-17T21:04:16.104Z,"7km W of Cobb, CA",earthquake,0.18,0.32,0.11,34,automatic,nc,nc
+2023-01-17T20:46:36.013Z,-17.7397,-171.0694,15.64,5.1,mb,32,72,1.716,1.72,us,us7000j4z6,2023-01-17T21:07:04.040Z,"Tonga region",earthquake,5.27,4.451,0.102,31,reviewed,us,us
 2023-01-17T20:44:28.400Z,38.8361664,-122.8183365,1.67,1,md,19,68,0.01361,0.02,nc,nc73833301,2023-01-17T20:46:05.982Z,"8km W of Cobb, CA",earthquake,0.23,0.5,0.24,20,automatic,nc,nc
 2023-01-17T20:37:33.858Z,59.7945,-152.8966,20,1.2,ml,,,,0.42,ak,ak023sg9kll,2023-01-17T20:39:19.438Z,"59 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-17T20:31:03.730Z,38.8306656,-122.8180008,1.75,1.03,md,21,50,0.009542,0.03,nc,nc73833296,2023-01-17T20:32:40.758Z,"8km NW of The Geysers, CA",earthquake,0.22,0.39,0.21,21,automatic,nc,nc
@@ -191,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T21:30:07.953Z,-10.9927,166.1624,11.316,4.8,mb,60,62,4.542,0.55,us,us7000j4sf,2023-01-16T22:00:29.040Z,"Santa Cruz Islands",earthquake,9.77,4.172,0.07,62,reviewed,us,us
 2023-01-16T21:29:16.130Z,61.6788,-149.8806,32.7,1.4,ml,,,,0.47,ak,ak023qt9wm5,2023-01-16T21:32:16.946Z,"6 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-16T21:24:12.418Z,58.2804,-155.0054,1.1,1.1,ml,,,,0.42,ak,ak023qt8tqx,2023-01-16T21:26:00.190Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-16T21:01:57.485Z,60.0283,-147.9891,25.7,2.1,ml,,,,0.17,ak,ak023qt3zr8,2023-01-16T21:03:20.190Z,"4 km SSE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
