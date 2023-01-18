@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T19:40:22.950Z,19.1844997406006,-155.349166870117,27.6599998474121,2.11999989,md,40,191,,0.129999995,hv,hv73306932,2023-01-18T19:44:24.340Z,"13 km E of Pāhala, Hawaii",earthquake,0.61,0.920000017,0.50999999,17,automatic,hv,hv
 2023-01-18T19:40:01.530Z,38.824501,-122.80233,2.02,0.78,md,12,76,0.006149,0.02,nc,nc73833656,2023-01-18T20:34:13.590Z,"7km NW of The Geysers, CA",earthquake,0.3,0.67,0.21,16,automatic,nc,nc
 2023-01-18T19:20:07.420Z,38.7573318,-122.7261658,0.86,1.03,md,8,112,0.004376,0.05,nc,nc73833646,2023-01-18T19:51:14.321Z,"3km SE of The Geysers, CA",earthquake,0.3,0.48,0.31,7,automatic,nc,nc
-2023-01-18T19:14:52.180Z,32.9425,-80.1993333333333,8.81,1.38,md,8,86,0.04541,0.09,se,se60500298,2023-01-18T20:51:08.476Z,"6 km SSW of Centerville, South Carolina",earthquake,0.34,0.43,0.313578609750622,6,reviewed,se,se
+2023-01-18T19:14:52.180Z,32.9425,-80.1993333333333,8.81,1.38,md,8,86,0.04541,0.09,se,se60500298,2023-01-18T21:52:43.688Z,"6 km SSW of Centerville, South Carolina",earthquake,0.34,0.43,0.313578609750622,6,reviewed,se,se
 2023-01-18T19:12:34.440Z,33.2315,-116.7795,11.67,0.76,ml,27,36,0.01795,0.13,ci,ci40403672,2023-01-18T21:42:55.314Z,"2km SW of Lake Henshaw, CA",earthquake,0.18,0.45,0.128,11,reviewed,ci,ci
 2023-01-18T19:08:59.240Z,33.68,-116.758,17.85,0.51,ml,19,130,0.04798,0.08,ci,ci40403664,2023-01-18T21:35:48.308Z,"8km SSW of Idyllwild, CA",earthquake,0.25,0.32,0.056,7,reviewed,ci,ci
 2023-01-18T19:08:56.568Z,-17.4728,-174.6542,227.978,4.5,mb,87,79,1.325,0.65,us,us7000j5ba,2023-01-18T20:11:34.040Z,"148 km NNW of Neiafu, Tonga",earthquake,10.94,7.213,0.063,73,reviewed,us,us
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T15:43:30.596Z,2.9006,127.2076,35,4.9,mb,45,137,2.121,0.91,us,us7000j59h,2023-01-18T16:01:09.040Z,"Molucca Sea",earthquake,7.87,1.269,0.092,37,reviewed,us,us
 2023-01-18T15:41:25.867Z,63.1317,-150.2671,97.8,1.3,ml,,,,0.44,ak,ak023u0ulbe,2023-01-18T15:43:43.684Z,"72 km WSW of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-18T15:37:27.960Z,38.8346672,-122.807663,1.92,0.67,md,6,157,0.01403,0.01,nc,nc73833601,2023-01-18T16:06:12.012Z,"8km W of Cobb, CA",earthquake,0.54,1.18,0.36,8,automatic,nc,nc
+2023-01-18T15:27:32.430Z,38.8073333,-122.7643333,0.57,-0.08,md,14,93,0.00761,0.04,nc,nc73833596,2023-01-18T21:55:07.986Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.31,0.155,4,reviewed,nc,nc
 2023-01-18T15:25:29.020Z,38.8354988,-122.8071671,1.83,0.84,md,10,66,0.0123,0.02,nc,nc73833591,2023-01-18T15:43:11.885Z,"7km WNW of Cobb, CA",earthquake,0.33,1.07,0.24,10,automatic,nc,nc
 2023-01-18T15:25:24.750Z,19.1866664886475,-155.470672607422,32.7200012207031,2.01999998,md,39,93,,0.119999997,hv,hv73306707,2023-01-18T15:28:41.160Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.66,1.05999994,0.99000001,7,automatic,hv,hv
 2023-01-18T15:06:05.190Z,19.2253341674805,-155.469329833984,31.4300003051758,1.84000003,md,25,95,,0.150000006,hv,hv73306692,2023-01-18T15:09:08.080Z,"2 km NNE of Pāhala, Hawaii",earthquake,0.76,1,1.80999994,6,automatic,hv,hv
@@ -216,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T22:18:52.930Z,46.9175,-121.95616666666666,13.22,0.36,ml,9,265,0.05069,0.13,uw,uw61893887,2023-01-18T19:32:54.430Z,"18 km NNE of Ashford, Washington",earthquake,0.65,0.84,0.056911394008959504,4,reviewed,uw,uw
 2023-01-17T22:11:11.182Z,0.3371,122.3181,124.933,4.3,mb,27,99,1.443,0.54,us,us7000j50a,2023-01-17T22:33:57.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,9.65,8.261,0.122,20,reviewed,us,us
 2023-01-17T22:05:11.580Z,6.2754,126.0942,137.129,4.5,mb,42,118,0.94,0.87,us,us7000j509,2023-01-17T22:25:51.040Z,"13 km SW of Pondaguitan, Philippines",earthquake,10.25,6.728,0.096,33,reviewed,us,us
-2023-01-17T21:56:54.157Z,60.2189,-153.1116,114.2,2,ml,,,,0.3,ak,ak023sgz4dj,2023-01-17T22:18:13.040Z,"66 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
