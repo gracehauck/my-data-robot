@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-23T11:12:52.920Z,38.757,-122.7291641,2.1,1.11,md,11,111,0.005688,0.03,nc,nc73836241,2023-01-23T11:46:11.158Z,"3km SE of The Geysers, CA",earthquake,0.42,0.28,0.09,9,automatic,nc,nc
+2023-01-23T11:12:52.920Z,38.757,-122.7291641,2.1,1.11,md,11,111,0.005688,0.03,nc,nc73836241,2023-01-23T11:47:17.161Z,"3km SE of The Geysers, CA",earthquake,0.42,0.28,0.09,9,automatic,nc,nc
 2023-01-23T10:51:56.890Z,38.8154984,-122.795166,2.36,0.51,md,7,107,0.00752,0.01,nc,nc73836231,2023-01-23T11:12:12.968Z,"5km NW of The Geysers, CA",earthquake,0.48,1.23,0.27,7,automatic,nc,nc
 2023-01-23T10:45:14.100Z,38.8344994,-122.8136673,1.28,0.89,md,11,63,0.01144,0.04,nc,nc73836226,2023-01-23T11:02:14.906Z,"8km W of Cobb, CA",earthquake,0.36,0.75,0.36,11,automatic,nc,nc
 2023-01-23T10:37:52.930Z,35.0331,14.1929,10,5.1,mww,101,46,5.117,1.15,us,us7000j6bz,2023-01-23T11:42:45.378Z,"92 km SSW of Qrendi, Malta",earthquake,2.44,1.834,0.045,48,reviewed,us,us
