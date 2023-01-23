@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-23T19:12:21.731Z,58.1875,-155.392,0,1.8,ml,,,,0.57,ak,ak02312cqu4d,2023-01-23T19:14:03.223Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-23T19:02:10.647Z,60.0058,-150.3038,36,1.8,ml,,,,0.23,ak,ak02312coo3s,2023-01-23T19:03:36.144Z,"40 km ENE of Fox River, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-23T18:46:31.690Z,19.246166229248,-155.389999389648,29.8799991607666,1.79999995,md,35,138,,0.119999997,hv,hv73310977,2023-01-23T18:49:49.690Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.53,1.05999994,0.639999986,11,automatic,hv,hv
 2023-01-23T18:42:39.270Z,38.757,-122.7348328,1.51,1.18,md,10,106,0.008702,0.03,nc,nc73836366,2023-01-23T19:09:11.886Z,"3km SE of The Geysers, CA",earthquake,0.3,0.37,0.24,10,automatic,nc,nc
