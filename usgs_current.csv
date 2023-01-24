@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-24T07:13:49.750Z,37.1160011,-121.5066681,6.85,1.19,md,11,61,0.04989,0.1,nc,nc73836591,2023-01-24T07:15:22.814Z,"10km ENE of San Martin, CA",earthquake,0.4,1.18,0.19,8,automatic,nc,nc
+2023-01-24T07:34:20.350Z,36.1651667,-118.0868333,2.31,2.06,ml,21,74,0.1937,0.24,ci,ci40405256,2023-01-24T07:37:57.574Z,"15km SSW of Olancha, CA",earthquake,0.39,1.8,0.275,26,automatic,ci,ci
+2023-01-24T07:13:49.750Z,37.1160011,-121.5066681,6.85,1.19,md,11,61,0.04989,0.1,nc,nc73836591,2023-01-24T07:32:12.028Z,"10km ENE of San Martin, CA",earthquake,0.4,1.18,0.19,8,automatic,nc,nc
 2023-01-24T06:59:42.450Z,19.1971664428711,-155.401336669922,31.5200004577637,2.41,ml,47,159,,0.140000001,hv,hv73311377,2023-01-24T07:07:41.040Z,"8 km E of Pāhala, Hawaii",earthquake,0.51,0.660000026,2.82,10,automatic,hv,hv
 2023-01-24T06:57:59.017Z,64.6092,-149.2603,13.7,1.5,ml,,,,0.24,ak,ak02313st9ul,2023-01-24T07:00:03.397Z,"6 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-24T06:45:02.540Z,38.8326683,-122.7971649,1.72,0.22,md,8,78,0.007825,0.01,nc,nc73836581,2023-01-24T06:46:37.085Z,"6km W of Cobb, CA",earthquake,0.39,0.83,0.09,9,automatic,nc,nc
-2023-01-24T06:38:05.890Z,38.8173332,-122.8059998,3.29,1.07,md,12,96,0.006839,0.02,nc,nc73836571,2023-01-24T07:03:11.873Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,0.19,14,automatic,nc,nc
+2023-01-24T06:38:05.890Z,38.8173332,-122.8059998,3.29,1.07,md,12,96,0.006839,0.02,nc,nc73836571,2023-01-24T07:34:12.040Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,0.19,14,automatic,nc,nc
 2023-01-24T06:37:55.450Z,38.8183327,-122.8066635,3.14,1.01,md,9,92,0.005714,0.01,nc,nc73836566,2023-01-24T07:13:10.932Z,"6km NW of The Geysers, CA",earthquake,0.74,1.15,0.18,12,automatic,nc,nc
 2023-01-24T06:37:39.990Z,38.8173332,-122.805336,3.03,1.04,md,16,60,0.007095,0.01,nc,nc73836561,2023-01-24T07:13:12.932Z,"6km NW of The Geysers, CA",earthquake,0.27,0.59,0.3,19,automatic,nc,nc
 2023-01-24T06:34:46.510Z,38.8160019,-122.7948303,2.64,0.73,md,15,85,0.008031,0.01,nc,nc73836556,2023-01-24T06:51:12.814Z,"5km NW of The Geysers, CA",earthquake,0.26,0.69,0.16,15,automatic,nc,nc
