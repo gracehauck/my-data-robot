@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-28T13:50:24.900Z,33.649334,-116.8720016,16.68,1.21,ml,37,74,0.02792,0.19,ci,ci40163167,2023-01-28T13:53:52.388Z,"11km S of Valle Vista, CA",earthquake,0.38,0.57,0.263,10,automatic,ci,ci
+2023-01-28T13:48:06.120Z,33.4426667,-116.9551667,22.85,0.73,ml,9,178,0.2117,0.06,ci,ci40163159,2023-01-28T13:51:46.748Z,"8km W of Aguanga, CA",earthquake,0.69,1.54,0.243,9,automatic,ci,ci
 2023-01-28T13:22:50.160Z,19.0463333129883,-155.411666870117,34.9300003051758,2.63,ml,43,243,,0.140000001,hv,hv73314537,2023-01-28T13:28:20.290Z,"17 km E of Naalehu, Hawaii",earthquake,0.6,1.05999994,0.28,5,automatic,hv,hv
 2023-01-28T13:06:56.810Z,33.6801667,-116.7376667,14.08,0.67,ml,15,74,0.0366,0.1,ci,ci40163151,2023-01-28T13:10:27.994Z,"7km SSW of Idyllwild, CA",earthquake,0.35,0.54,0.193,10,automatic,ci,ci
 2023-01-28T13:02:38.064Z,63.1184,-149.0048,57.1,1.6,ml,,,,0.66,ak,ak0231aisv26,2023-01-28T13:04:38.674Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -233,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T14:06:34.000Z,38.8370018,-122.8130035,10.53,0.71,md,9,102,0.01378,0.05,nc,nc73838271,2023-01-27T16:10:15.567Z,"8km WNW of Cobb, CA",earthquake,1.6,7.75,0.29,12,automatic,nc,nc
 2023-01-27T14:03:28.250Z,19.1690006256104,-155.374496459961,29.3400001525879,2.35,ml,48,173,,0.159999996,hv,hv73313902,2023-01-27T14:10:25.040Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.51,0.74000001,2.69,6,automatic,hv,hv
 2023-01-27T13:59:51.040Z,38.8116684,-122.8291702,1.44,0.26,md,8,104,0.002796,0.01,nc,nc73838266,2023-01-27T15:45:14.429Z,"7km WNW of The Geysers, CA",earthquake,0.35,0.73,0.09,8,automatic,nc,nc
-2023-01-27T13:45:57.890Z,60.9902,-146.0913,26.3,1.2,ml,,,,1.29,ak,ak02318virvx,2023-01-27T13:48:29.026Z,"20 km SE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
