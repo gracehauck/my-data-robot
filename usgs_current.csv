@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-03T20:18:46.500Z,19.4223327636719,-155.378997802734,7.01999998092651,1.88,ml,29,78,,0.119999997,hv,hv73318682,2023-02-03T20:24:18.090Z,"15 km W of Volcano, Hawaii",earthquake,0.44,0.910000026,4.44,3,automatic,hv,hv
 2023-02-03T20:04:43.196Z,60.2944,-152.5272,106,1.5,ml,,,,0.55,ak,ak0231kk7f34,2023-02-03T20:07:33.796Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-03T20:03:38.490Z,35.679,-117.5115,6.3,0.74,ml,13,101,0.1007,0.16,ci,ci40410432,2023-02-03T20:07:16.083Z,"14km SW of Searles Valley, CA",earthquake,0.43,1.89,0.18,7,automatic,ci,ci
 2023-02-03T20:02:29.128Z,36.9073,-115.2936,0.6,1.1,ml,13,318.11,0.538,0.1764,nn,nn00855664,2023-02-03T20:03:42.222Z,"50 km NE of Indian Springs, Nevada",earthquake,,37.8,0.25,4,automatic,nn,nn
