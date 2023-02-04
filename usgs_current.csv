@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T22:01:47.290Z,36.2051666666667,-91.2051666666667,12.51,1.77,md,6,122,0.0601,0.07,nm,nm60500383,2023-02-04T14:20:02.730Z,"2 km W of Imboden, Arkansas",earthquake,0.47,0.73,0.348045301940462,5,reviewed,nm,nm
 2023-02-03T21:39:08.121Z,61.6666,-147.1608,29,1.2,ml,,,,0.47,ak,ak0231kl0a1o,2023-02-03T21:40:47.207Z,"30 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-03T21:34:41.470Z,44.0681667,-110.7268333,6.98,0.88,md,8,124,0.2104,0.17,uu,uu60530081,2023-02-03T22:09:41.600Z,"42 km NE of Alta, Wyoming",earthquake,0.63,1.54,0.252,3,reviewed,uu,uu
-2023-02-03T21:22:52.552Z,36.4123,70.7751,199.36,4.3,mb,56,82,3.166,0.64,us,us6000jl9j,2023-02-03T22:01:46.040Z,"50 km S of Jurm, Afghanistan",earthquake,7.2,7.682,0.08,44,reviewed,us,us
