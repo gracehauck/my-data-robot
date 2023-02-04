@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-04T17:23:44.538Z,61.5172,-149.9072,41,1.2,ml,,,,0.56,ak,ak0231m62jh1,2023-02-04T17:25:02.859Z,"2 km E of Big Lake, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-02-04T17:02:47.890Z,19.1593341827393,-155.499328613281,34.5999984741211,2.14,ml,43,152,,0.119999997,hv,hv73319272,2023-02-04T17:08:19.680Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.55,0.730000019,4.37,4,automatic,hv,hv
 2023-02-04T16:55:47.390Z,38.8339996,-122.8174973,1.77,1.02,md,13,59,0.01207,0.02,nc,nc73841871,2023-02-04T17:12:15.276Z,"8km NW of The Geysers, CA",earthquake,0.26,0.77,0.25,16,automatic,nc,nc
 2023-02-04T16:53:53.397Z,60.4757,-151.4219,45,1.2,ml,,,,0.69,ak,ak0231m5nk17,2023-02-04T16:55:43.884Z,"9 km NW of Kalifornsky, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T17:27:38.500Z,58.1861666666667,-155.287166666667,0.73,-0.18,ml,5,149,,0.02,av,av91087103,2023-02-04T02:24:28.120Z,"84 km NW of Karluk, Alaska",earthquake,0.21,1.04,0.216951487634466,5,reviewed,av,av
 2023-02-03T17:27:34.900Z,58.1866666666667,-155.291333333333,1.09,-0.4,ml,6,150,,0.06,av,av91087098,2023-02-04T02:18:50.240Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.83,0.124344396665676,6,reviewed,av,av
 2023-02-03T17:27:18.450Z,58.1863333333333,-155.2905,1.96,-0.02,ml,8,150,,0.07,av,av91754726,2023-02-04T02:16:12.060Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.55,0.284605379474217,8,reviewed,av,av
-2023-02-03T17:24:20.526Z,36.4308,-117.4411,4.3,0.8,ml,7,263.63,0.475,0.1508,nn,nn00855673,2023-02-03T23:12:37.986Z,"22 km NE of Darwin, California",earthquake,,3.5,1.03,5,reviewed,nn,nn
-2023-02-03T17:23:40.643Z,2.6348,126.8338,34.348,4.9,mb,102,90,1.926,0.59,us,us6000jl7m,2023-02-03T18:01:20.040Z,"164 km NW of Tobelo, Indonesia",earthquake,8.39,5.089,0.061,91,reviewed,us,us
