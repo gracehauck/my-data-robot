@@ -32,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-05T00:03:19.589Z,32.6723,141.7624,10,5.8,mww,176,72,1.698,0.85,us,us6000jlh9,2023-02-05T02:10:19.667Z,"Izu Islands, Japan region",earthquake,6.05,1.813,0.058,29,reviewed,us,us
 2023-02-05T00:00:32.436Z,59.2328,-153.6589,93.8,1.7,ml,,,,0.43,ak,ak0231njcka3,2023-02-05T00:02:53.572Z,"59 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-04T23:42:26.650Z,46.8535,-121.7555,1.48,0.75,ml,14,91,0.02353,0.08,uw,uw61905331,2023-02-05T04:38:36.180Z,"23 km ENE of Ashford, Washington",earthquake,0.25,0.42,0.15791568897935682,8,reviewed,uw,uw
+2023-02-04T23:33:50.330Z,47.54,-120.634,6.45,1.06,ml,12,94,0.2142,0.26,uw,uw61905326,2023-02-05T04:45:38.810Z,"6 km SSE of Leavenworth, Washington",earthquake,0.54,0.91,0.0958502538306652,9,reviewed,uw,uw
 2023-02-04T23:26:02.590Z,35.11923599,-95.56084442,1.5007447,2.37,ml,16,97.89111328,0.1116842851,0.368907115,ok,ok2023clxm,2023-02-04T23:28:52.334Z,"9 km E of Crowder, Oklahoma",earthquake,3.337104827,2.342852278,,13,automatic,ok,ok
 2023-02-04T23:18:22.842Z,62.0025,-144.1179,15.1,1.5,ml,,,,0.71,ak,ak0231m9m0uk,2023-02-04T23:20:26.137Z,"53 km NE of Kenny Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-04T22:55:32.783Z,60.3523,-152.0069,78.6,2.2,ml,,,,0.49,ak,ak0231m98ji6,2023-02-04T23:29:20.040Z,"36 km WNW of Clam Gulch, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -50,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T21:03:51.948Z,-17.558,-178.5865,545.131,4.3,mb,34,107,3.209,0.69,us,us6000jlgj,2023-02-04T21:37:41.040Z,"229 km ENE of Levuka, Fiji",earthquake,15.23,9.898,0.116,21,reviewed,us,us
 2023-02-04T20:49:49.678Z,63.5688,-151.9713,32.1,1.7,ml,,,,1.12,ak,ak0231m80fav,2023-02-04T20:52:00.500Z,"12 km WNW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-04T20:41:51.430Z,33.52,-116.5223333,11.82,0.59,ml,22,73,0.0381,0.14,ci,ci40410992,2023-02-04T20:45:20.211Z,"15km ESE of Anza, CA",earthquake,0.27,0.46,0.176,16,automatic,ci,ci
+2023-02-04T20:26:30.830Z,48.428,-123.55983333333333,-0.25,1.26,ml,8,114,0.1571,0.16,uw,uw61905316,2023-02-05T04:52:07.540Z,"4 km WSW of Langford, Canada",explosion,0.56,31.61,0.10146988469690887,4,reviewed,uw,uw
 2023-02-04T19:52:24.711Z,59.9665,-149.1825,18.8,1.4,ml,,,,0.58,ak,ak0231m7fkx3,2023-02-04T19:54:21.454Z,"18 km SE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-04T19:49:37.680Z,33.5223333,-116.524,11.81,0.95,ml,36,40,0.03556,0.21,ci,ci40410976,2023-02-04T20:00:04.580Z,"14km ESE of Anza, CA",earthquake,0.28,0.46,0.196,24,automatic,ci,ci
 2023-02-04T19:40:20.272Z,31.62083591,-103.9802855,7.018493652,3.7,ml,22,52,0.01408549174,0.1,tx,tx2023clqb,2023-02-04T21:44:20.240Z,"37 km WSW of Mentone, Texas",earthquake,0.6114518333999999,0.4077145666,0.3,19,reviewed,tx,tx
