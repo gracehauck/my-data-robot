@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-07T06:32:35.701Z,59.9918,-153.9384,197.3,2.1,ml,,,,0.15,ak,ak0231qy6q2a,2023-02-07T06:34:34.942Z,"24 km NNE of Pedro Bay, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-02-07T06:29:53.308Z,64.3003,-150.9148,20,1.4,ml,,,,0.19,ak,ak0231qy649u,2023-02-07T06:32:04.389Z,"79 km S of Manley Hot Springs, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-07T06:20:29.223Z,62.3979,-148.9573,68.5,1.3,ml,,,,0.91,ak,ak0231qy44yy,2023-02-07T06:22:10.036Z,"53 km ENE of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-02-07T06:00:42.130Z,38.8050003,-122.7710037,1.21,0.91,md,8,113,0.009845,0.02,nc,nc73842881,2023-02-07T06:30:13.540Z,"3km NNW of The Geysers, CA",earthquake,0.41,0.83,0.19,9,automatic,nc,nc
 2023-02-07T06:00:27.900Z,35.5005,-118.3943333,5.57,0.9,ml,16,67,0.1745,0.15,ci,ci40411744,2023-02-07T06:04:16.321Z,"13km SE of Bodfish, CA",earthquake,0.3,1.69,0.124,9,automatic,ci,ci
-2023-02-07T05:59:53.028Z,15.8305,145.9403,118.914,4.7,mb,46,133,2.458,0.73,us,us6000jm66,2023-02-07T06:19:07.095Z,"71 km NNE of Saipan, Northern Mariana Islands",earthquake,11.64,7.527,0.056,96,reviewed,us,us
+2023-02-07T05:59:53.028Z,15.8305,145.9403,118.914,4.7,mb,46,133,2.458,0.73,us,us6000jm66,2023-02-07T06:34:00.810Z,"71 km NNE of Saipan, Northern Mariana Islands",earthquake,11.64,7.527,0.056,96,reviewed,us,us
 2023-02-07T05:36:46.860Z,33.4691667,-116.5601667,8.61,0.81,ml,29,80,0.04339,0.14,ci,ci40411736,2023-02-07T05:40:20.301Z,"14km SE of Anza, CA",earthquake,0.23,0.39,0.181,18,automatic,ci,ci
 2023-02-07T05:29:17.780Z,38.8333321,-122.7791672,0.87,1.36,md,21,133,0.01009,0.04,nc,nc73842871,2023-02-07T05:53:41.946Z,"5km WNW of Cobb, CA",earthquake,0.26,0.4,0.18,22,automatic,nc,nc
 2023-02-07T05:28:08.220Z,38.9173317,-122.6514969,1.35,2.04,md,14,135,0.02622,0.13,nc,nc73842866,2023-02-07T05:53:18.306Z,"4km WNW of Lower Lake, CA",earthquake,0.42,0.92,0.16,14,automatic,nc,nc
@@ -199,7 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T11:28:01.748Z,37.9576,38.2435,15.558,4.3,mb,41,119,1.136,0.47,us,us6000jlr0,2023-02-07T06:10:59.040Z,"eastern Turkey",earthquake,2.89,4.891,0.123,19,reviewed,us,us
 2023-02-06T11:26:09.930Z,38.8683319,-122.8026657,2.09,1.19,md,23,153,0.01203,0.03,nc,nc73842561,2023-02-06T13:30:13.896Z,"9km NW of Cobb, CA",earthquake,0.42,0.38,0.17,25,automatic,nc,nc
 2023-02-06T11:23:17.490Z,38.822834,-122.8343353,2.85,0.78,md,6,184,0.0006114,0.01,nc,nc73842556,2023-02-06T13:03:12.750Z,"8km NW of The Geysers, CA",earthquake,1.78,2.47,0.35,7,automatic,nc,nc
-2023-02-06T11:15:49.588Z,42.8557,-78.7762,2.996,3.8,mb_lg,26,113,0.389,0.51,us,us6000jlqv,2023-02-07T06:22:39.201Z,"2 km ENE of West Seneca, New York",earthquake,2.3,6.437,0.228,5,reviewed,us,us
+2023-02-06T11:15:49.588Z,42.8557,-78.7762,2.996,3.8,mb_lg,26,113,0.389,0.51,us,us6000jlqv,2023-02-07T06:40:08.015Z,"2 km ENE of West Seneca, New York",earthquake,2.3,6.437,0.228,5,reviewed,us,us
 2023-02-06T11:13:49.240Z,33.3508333,-116.2875,11.54,1.96,ml,47,32,0.2073,0.24,ci,ci40411552,2023-02-07T05:54:53.312Z,"13km NE of Borrego Springs, CA",earthquake,0.27,1.67,0.159,27,automatic,ci,ci
 2023-02-06T11:11:41.258Z,37.82,37.2952,17.971,4.9,mb,65,74,0.65,0.83,us,us6000jlqx,2023-02-06T18:17:14.832Z,"8 km N of Çağlayancerit, Turkey",earthquake,5.77,4.455,0.082,47,reviewed,us,us
 2023-02-06T11:05:35.742Z,37.9231,36.6909,10,5.2,mb,55,134,1.14,0.89,us,us6000jlqr,2023-02-06T18:18:05.114Z,"20 km ESE of Göksun, Turkey",earthquake,6.76,1.706,0.087,43,reviewed,us,us
@@ -208,7 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T10:46:14.490Z,56.4107,-156.7716,39.5,2.8,ml,,,,0.8,ak,ak0231pd42dl,2023-02-06T11:43:12.084Z,"101 km E of Chignik, Alaska",earthquake,,7.8,,,automatic,ak,ak
 2023-02-06T10:35:58.653Z,38.0084,37.7505,10,5.8,mb,67,67,0.939,0.88,us,us6000jlqe,2023-02-06T18:15:14.717Z,"13 km SW of Doğanşehir, Turkey",earthquake,4.9,1.844,0.057,112,reviewed,us,us
 2023-02-06T10:26:48.486Z,38.0302,37.9636,20.094,6,mb,59,63,1.045,0.62,us,us6000jm1y,2023-02-06T20:32:23.351Z,"10 km SE of Doğanşehir, Turkey",earthquake,2.91,4.649,0.084,53,reviewed,us,us
-2023-02-06T10:24:49.258Z,38.0235,37.203,10,7.5,mww,135,17,0.85,0.93,us,us6000jlqa,2023-02-07T06:15:37.569Z,"4 km SSE of Ekinözü, Turkey",earthquake,4.94,1.824,0.041,58,reviewed,us,us
+2023-02-06T10:24:49.258Z,38.0235,37.203,10,7.5,mww,135,17,0.85,0.93,us,us6000jlqa,2023-02-07T06:35:18.863Z,"4 km SSE of Ekinözü, Turkey",earthquake,4.94,1.824,0.041,58,reviewed,us,us
 2023-02-06T10:15:26.254Z,38.1887,-118.1076,9.5,1.6,ml,12,67.1,0.097,0.1587,nn,nn00855744,2023-02-06T20:33:23.773Z,"22 km S of Mina, Nevada",earthquake,,1.8,0.11,7,reviewed,nn,nn
 2023-02-06T09:58:52.130Z,44.6126667,-110.969,9.35,0.4,md,8,110,0.05607,0.07,uu,uu60530171,2023-02-06T15:23:05.110Z,"12 km ESE of West Yellowstone, Montana",earthquake,0.59,1.04,0.299,5,reviewed,uu,uu
 2023-02-06T09:53:42.680Z,40.5556679,-124.4896698,20.53,2.89,md,30,230,0.1409,0.14,nc,nc73842546,2023-02-06T15:12:51.268Z,"19km W of Ferndale, CA",earthquake,1.18,0.69,0.09,23,automatic,nc,nc
@@ -247,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T06:54:57.488Z,37.6414,37.3835,10,4.8,mb,85,69,0.489,0.55,us,us6000jlp9,2023-02-06T07:16:55.040Z,"14 km SE of Çağlayancerit, Turkey",earthquake,8.95,1.871,0.065,74,reviewed,us,us
 2023-02-06T06:52:26.907Z,61.8676,-149.6093,17,1.7,ml,,,,0.68,ak,ak0231parn7m,2023-02-06T06:54:59.230Z,"24 km NW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-06T06:45:51.310Z,34.0663333,-116.883,5.13,1.72,ml,56,45,0.05161,0.23,ci,ci40411528,2023-02-06T06:49:28.898Z,"15km ENE of Yucaipa, CA",earthquake,0.24,0.71,0.163,26,automatic,ci,ci
-2023-02-06T06:32:44.616Z,38.8219,-119.6927,12,0.9,ml,11,108.82,0.133,0.1165,nn,nn00855774,2023-02-07T00:42:12.838Z,"6 km SW of Carter Springs, Nevada",earthquake,,3.3,0.11,2,reviewed,nn,nn
