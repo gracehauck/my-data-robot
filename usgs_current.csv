@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-10T08:39:28.760Z,38.8310013,-122.8138351,1.76,0.76,md,10,86,0.008144,0.01,nc,nc73844446,2023-02-10T08:41:04.712Z,"8km NW of The Geysers, CA",earthquake,0.33,0.89,0.36,14,automatic,nc,nc
+2023-02-10T08:35:56.100Z,19.0278339385986,-155.417999267578,32.8300018310547,1.90999997,md,23,249,,0.140000001,hv,hv73322397,2023-02-10T08:38:59.110Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.89,1.57000005,2,4,automatic,hv,hv
 2023-02-10T08:26:50.510Z,34.1858333,-117.3126667,6.79,1.44,ml,51,26,0.04826,0.19,ci,ci40413000,2023-02-10T08:37:12.250Z,"5km NE of Muscoy, CA",earthquake,0.21,0.52,0.132,25,automatic,ci,ci
 2023-02-10T08:26:44.290Z,33.9406667,-117.7258333,12.42,1.14,ml,16,108,0.1652,0.28,ci,ci40412992,2023-02-10T08:30:27.125Z,"7km SSE of Chino Hills, CA",earthquake,0.85,31.61,0.39,6,automatic,ci,ci
 2023-02-10T08:22:53.200Z,61.4979,-147.8975,20,1.8,ml,,,,0.56,ak,ak0231vxxiy0,2023-02-10T08:24:49.959Z,"36 km SSW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
