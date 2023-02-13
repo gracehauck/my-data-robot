@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T15:09:16.440Z,38.8173332,-122.8065033,3.11,1.08,md,20,50,0.006665,0.02,nc,nc73845296,2023-02-12T15:42:14.448Z,"6km NW of The Geysers, CA",earthquake,0.25,0.63,0.16,21,automatic,nc,nc
 2023-02-12T15:08:43.937Z,61.4098,-150.162,33.1,1.7,ml,,,,0.49,ak,ak0231zd38fd,2023-02-12T21:50:20.456Z,"11 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-12T15:03:20.280Z,33.5365,-116.4475,7.72,0.63,ml,14,79,0.02241,0.14,ci,ci40413808,2023-02-12T15:06:54.513Z,"19km SW of La Quinta, CA",earthquake,0.26,0.58,0.146,12,automatic,ci,ci
-2023-02-12T14:52:16.410Z,19.1359996795654,-155.490005493164,11.8500003814697,2.36999989,md,37,162,,0.219999999,hv,hv73323297,2023-02-12T16:56:38.040Z,"7 km S of Pāhala, Hawaii",earthquake,0.63,0.50999999,1.19000006,21,automatic,hv,hv
-2023-02-12T14:50:13.435Z,64.9476,-149.033,17.9,1.2,ml,,,,0.44,ak,ak0231zcqqjj,2023-02-12T14:53:26.135Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
