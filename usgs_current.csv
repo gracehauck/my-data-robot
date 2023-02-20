@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-20T05:10:16.570Z,33.499,-116.4955,11.18,0.66,ml,23,93,0.06319,0.19,ci,ci40416728,2023-02-20T05:13:46.664Z,"18km ESE of Anza, CA",earthquake,0.31,0.61,0.173,19,automatic,ci,ci
 2023-02-20T05:02:30.660Z,33.1656667,-115.648,2.52,1.49,ml,23,47,0.02754,0.2,ci,ci40416720,2023-02-20T05:06:13.613Z,"13km WNW of Calipatria, CA",earthquake,0.37,0.56,0.226,27,automatic,ci,ci
 2023-02-20T05:01:53.770Z,33.1736667,-115.648,2.12,1.2,ml,15,78,0.02332,0.1,ci,ci40416712,2023-02-20T05:05:37.935Z,"14km WNW of Calipatria, CA",earthquake,0.24,0.37,0.248,19,automatic,ci,ci
 2023-02-20T04:57:45.130Z,38.8216667,-122.7866669,1.75,1.53,md,29,33,0.009608,0.02,nc,nc73848826,2023-02-20T05:09:11.092Z,"6km W of Cobb, CA",earthquake,0.16,0.31,0.15,31,automatic,nc,nc
@@ -213,7 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T06:23:24.933Z,63.4887,-147.6527,67.7,1.6,ml,,,,0.41,ak,ak0232askxpp,2023-02-19T06:25:17.715Z,"65 km E of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-19T06:20:18.900Z,38.7613335,-122.7286682,1.23,0.72,md,7,152,0.002988,0.02,nc,nc73848481,2023-02-19T08:00:15.403Z,"3km SE of The Geysers, CA",earthquake,0.92,1.49,0.08,6,automatic,nc,nc
 2023-02-19T05:48:41.550Z,32.9266667,-116.28,11.36,1.19,ml,19,109,0.1187,0.16,ci,ci40416232,2023-02-19T05:52:14.961Z,"26km ENE of Pine Valley, CA",earthquake,0.3,0.62,0.185,16,automatic,ci,ci
-2023-02-19T05:24:34.922Z,43.4184,-127.3272,10,3.2,ml,20,292,1.765,0.71,us,us6000jq1r,2023-02-19T21:04:51.339Z,"off the coast of Oregon",earthquake,8.44,2.026,0.038,91,reviewed,us,us
-2023-02-19T05:21:18.742Z,56.1715,-152.0829,10,3,ml,30,258,1.639,0.5,us,us6000jq1q,2023-02-19T05:38:55.040Z,"137 km SSE of Old Harbor, Alaska",earthquake,4.35,2.013,0.069,28,reviewed,us,us
-2023-02-19T05:20:04.670Z,19.2315006256104,-155.386169433594,29.6000003814697,1.92999995,md,28,150,,0.119999997,hv,hv73327237,2023-02-19T05:23:01.400Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.709999979,0.959999979,8,automatic,hv,hv
-2023-02-19T05:19:38.544Z,52.7568,-168.1233,35,3.8,mb,7,248,0.493,0.6,us,us6000jq1s,2023-02-19T06:54:14.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,4.9,2,0.12,18,reviewed,us,us
