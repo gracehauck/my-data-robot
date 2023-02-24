@@ -35,12 +35,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T01:30:40.960Z,18.5895,-68.587,156,3.93,md,10,211,0.2191,0.01,pr,pr2023055000,2023-02-24T02:28:21.083Z,"Mona Passage",earthquake,2.7,1.21,0.04,4,reviewed,pr,pr
 2023-02-24T01:20:41.642Z,19.688,-75.1623,10,3.3,ml,12,136,0.243,1.12,us,us6000jr6w,2023-02-24T05:20:20.605Z,"50 km S of Guantánamo, Cuba",earthquake,4.62,2.003,0.097,14,reviewed,us,us
 2023-02-24T01:19:38.716Z,43.0096,-111.2416,5,1.9,ml,20,129,0.265,0.33,us,us6000jr5w,2023-02-24T01:49:19.880Z,"16 km W of Freedom, Idaho",earthquake,2.06,1.901,0.062,34,reviewed,us,us
-2023-02-24T01:06:32.422Z,33.7854,72.7967,10,4.1,mb,21,175,0.416,1.23,us,us6000jr5s,2023-02-24T05:14:10.170Z,"Pakistan",earthquake,6.54,1.989,0.175,9,reviewed,us,us
+2023-02-24T01:06:32.422Z,33.7854,72.7967,10,4.1,mb,21,175,0.416,1.23,us,us6000jr5s,2023-02-24T05:39:37.125Z,"Pakistan",earthquake,6.54,1.989,0.175,9,reviewed,us,us
 2023-02-24T01:02:14.577Z,61.5869,-150.0858,31,1.5,ml,,,,0.46,ak,ak0232iz5zbl,2023-02-24T01:04:12.158Z,"10 km NW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-24T00:57:53.966Z,-32.0822,-71.8371,35,3.9,mb,34,173,0.733,0.33,us,us6000jr5n,2023-02-24T01:40:20.040Z,"70 km NW of La Ligua, Chile",earthquake,3.54,1.79,0.195,7,reviewed,us,us
 2023-02-24T00:50:44.560Z,36.8193321,-121.4293365,7.14,1.38,md,7,143,0.05703,0.17,nc,nc73850866,2023-02-24T04:02:13.538Z,"4km SW of Hollister, CA",earthquake,0.94,1.98,0.15,9,automatic,nc,nc
 2023-02-24T00:37:15.887Z,-32.0831,-71.913,12.788,4.4,mwr,37,176,0.798,0.5,us,us6000jr5j,2023-02-24T01:21:21.871Z,"76 km WNW of La Ligua, Chile",earthquake,3.48,5.952,,,reviewed,us,guc
-2023-02-24T00:17:54.441Z,42.9833,-111.1582,11.862,3.3,ml,48,61,0.222,0.6,us,us6000jr5d,2023-02-24T04:24:42.954Z,"9 km W of Freedom, Idaho",earthquake,2.49,8.12,0.043,71,reviewed,us,us
+2023-02-24T00:17:54.441Z,42.9833,-111.1582,11.862,3.3,ml,48,61,0.222,0.6,us,us6000jr5d,2023-02-24T05:39:58.268Z,"9 km W of Freedom, Idaho",earthquake,2.49,8.12,0.043,71,reviewed,us,us
 2023-02-24T00:14:01.850Z,64.9263,-147.2829,0,1.3,ml,,,,0.95,ak,ak0232iyn3bt,2023-02-24T00:16:26.290Z,"13 km WNW of Two Rivers, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-24T00:07:24.299Z,63.1749,-150.8134,128.4,2.1,ml,,,,0.43,ak,ak0232iyln1p,2023-02-24T00:10:07.472Z,"61 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-23T23:53:28.710Z,38.8380013,-122.8093338,2,1.68,md,29,35,0.0146,0.03,nc,nc73850841,2023-02-24T02:38:13.908Z,"8km WNW of Cobb, CA",earthquake,0.18,0.34,0.2,30,automatic,nc,nc
@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T06:00:13.270Z,40.4828339,-124.2710037,14.02,2.34,md,6,302,0.161,0.05,nc,nc73850531,2023-02-23T08:11:20.178Z,"10km S of Ferndale, CA",earthquake,3.86,2.09,0.11,5,automatic,nc,nc
 2023-02-23T05:54:55.480Z,35.7061667,-117.5575,4.74,1.29,ml,21,156,0.1023,0.14,ci,ci40417968,2023-02-23T17:38:28.991Z,"14km NE of Ridgecrest, CA",earthquake,0.23,0.62,0.131,13,reviewed,ci,ci
 2023-02-23T05:41:43.685Z,61.9706,-150.4098,32.8,1.4,ml,,,,0.6,ak,ak0232he8sf4,2023-02-23T05:56:57.727Z,"31 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-23T05:33:08.130Z,44.1468333,-110.6375,10.35,0.89,md,13,120,0.1412,0.12,uu,uu60531941,2023-02-23T14:17:48.820Z,"54 km NE of Alta, Wyoming",earthquake,0.44,1.1,0.027,6,reviewed,uu,uu
