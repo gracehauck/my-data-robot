@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-27T15:45:02.410Z,35.7635,-117.568,10.38,1.23,ml,14,147,0.05738,0.17,ci,ci40419224,2023-02-27T15:48:37.395Z,"15km W of Searles Valley, CA",earthquake,0.51,0.61,0.109,13,automatic,ci,ci
+2023-02-27T15:40:31.230Z,19.2151660919189,-155.380996704102,30.1399993896484,1.76999998,md,25,160,,0.129999995,hv,hv73331427,2023-02-27T15:43:31.740Z,"10 km E of Pāhala, Hawaii",earthquake,0.88,1.13,1.87,4,automatic,hv,hv
 2023-02-27T15:27:34.752Z,60.7008,-151.8264,69.2,2,ml,,,,0.55,ak,ak0232o69hqb,2023-02-27T15:30:11.473Z,"29 km WNW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-27T15:16:35.030Z,37.3961678,-118.4749985,9.64,2.52,md,19,90,0.04941,0.07,nc,nc73852406,2023-02-27T15:23:14.546Z,"4km NNW of West Bishop, CA",earthquake,0.41,0.67,0.25,25,automatic,nc,nc
 2023-02-27T14:54:38.120Z,38.8191681,-122.8048325,2.31,1.15,md,15,74,0.00588,0.02,nc,nc73852401,2023-02-27T15:12:12.487Z,"6km NW of The Geysers, CA",earthquake,0.3,0.5,0.32,15,automatic,nc,nc
