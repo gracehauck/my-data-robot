@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T06:10:08.642Z,31.63946508,-104.176648,6.157275391,2.7,ml,41,65,0.07515569572,0.2,tx,tx2023eapw,2023-02-27T16:27:14.040Z,"51 km NW of Toyah, Texas",earthquake,0.6703646788,0.6677453367,0.2,22,reviewed,tx,tx
 2023-02-27T06:10:02.120Z,33.7248333,-116.8205,16.3,0.58,ml,20,183,0.08967,0.2,ci,ci40419088,2023-02-27T20:33:52.007Z,"7km ESE of Valle Vista, CA",earthquake,0.51,0.72,0.229,13,reviewed,ci,ci
 2023-02-27T06:01:40.160Z,33.4868333,-116.7531667,10.87,1.38,ml,52,41,0.04694,0.16,ci,ci40419080,2023-02-28T00:42:37.710Z,"11km SW of Anza, CA",earthquake,0.14,0.4,0.15,28,reviewed,ci,ci
-2023-02-27T05:47:02.333Z,64.1733,-147.6993,0,1.2,ml,,,,0.53,ak,ak0232o0fdi1,2023-02-27T05:49:15.921Z,"54 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
