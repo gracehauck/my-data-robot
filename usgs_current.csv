@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-01T20:33:15.290Z,33.8286667,-117.7093333,9.3,1.21,ml,18,114,0.06666,0.27,ci,ci40419912,2023-03-01T20:36:41.020Z,"10km E of Villa Park, CA",earthquake,0.63,0.98,0.19,18,automatic,ci,ci
 2023-03-01T20:06:08.401Z,57.889,-155.7721,58.6,2,ml,,,,0.72,ak,ak0232rk6so8,2023-03-01T20:08:15.680Z,"86 km WNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-01T19:54:01.760Z,38.8266678,-122.8174973,3.05,0.66,md,7,76,0.01415,0.01,nc,nc73854096,2023-03-01T20:13:11.356Z,"8km NW of The Geysers, CA",earthquake,0.58,1.79,0.31,9,automatic,nc,nc
 2023-03-01T19:44:19.460Z,38.7746658,-122.7296677,1.51,1.24,md,11,84,0.01018,0.03,nc,nc73854091,2023-03-01T20:01:12.283Z,"2km E of The Geysers, CA",earthquake,0.37,0.67,0.19,12,automatic,nc,nc
