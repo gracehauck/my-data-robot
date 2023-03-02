@@ -154,6 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T18:26:34.710Z,33.033,-115.5475,7.44,1.49,ml,15,76,0.02938,0.2,ci,ci40419888,2023-03-01T19:54:01.051Z,"6km NNW of Brawley, CA",earthquake,0.44,0.61,0.168,11,reviewed,ci,ci
 2023-03-01T17:59:19.870Z,17.816,-66.9438333333333,8.27,1.81,md,3,300,0.1697,0.05,pr,pr71397928,2023-03-01T18:11:33.110Z,"17 km SSW of Guánica, Puerto Rico",earthquake,0.86,9.02,0.151721092113482,3,reviewed,pr,pr
 2023-03-01T17:49:41.784Z,62.7553,-151.0653,94.5,1.8,ml,,,,0.3,ak,ak0232rins82,2023-03-01T17:51:27.342Z,"32 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-01T17:48:28.250Z,39.3767,-119.0411,8.5,1.6,ml,11,106.25,0.52,0.1504,nn,nn00856486,2023-03-02T01:04:09.623Z,"16 km ESE of Silver Springs, Nevada",earthquake,,5,0.35,8,reviewed,nn,nn
-2023-03-01T17:48:20.480Z,38.6566658,-122.658165,8.24,1.97,md,8,179,0.2029,0.32,nc,nc73854056,2023-03-01T18:41:18.758Z,"11km NW of Calistoga, CA",earthquake,5.32,9.05,0.14,4,automatic,nc,nc
-2023-03-01T17:48:15.900Z,38.7900009,-122.7611694,1.48,2.2,md,22,71,0.01067,0.03,nc,nc73854051,2023-03-01T22:10:13.053Z,"2km NNW of The Geysers, CA",earthquake,0.21,0.38,0.14,23,automatic,nc,nc
