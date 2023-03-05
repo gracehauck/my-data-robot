@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-05T17:01:40.898Z,60.6138,-150.4179,45.4,1.8,ml,,,,0.68,ak,ak0232y4ivrd,2023-03-05T17:03:14.811Z,"20 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-05T17:00:10.330Z,38.788166,-122.8261642,-0.69,0.87,md,5,200,0.01805,0.05,nc,nc73855731,2023-03-05T17:17:19.418Z,"6km WNW of The Geysers, CA",earthquake,0.8,6.95,0.26,9,automatic,nc,nc
+2023-03-05T16:49:39.385Z,7.4277,126.2713,10,4.6,mb,29,123,0.773,0.76,us,us7000jhhc,2023-03-05T17:34:47.040Z,"Mindanao, Philippines",earthquake,6.2,1.888,0.11,25,reviewed,us,us
+2023-03-05T16:37:28.222Z,5.9279,125.6499,151.604,4.4,mb,29,111,1.137,0.7,us,us7000jhh9,2023-03-05T17:27:58.040Z,"1 km NE of Caburan, Philippines",earthquake,7.37,7.411,0.112,23,reviewed,us,us
 2023-03-05T16:17:52.595Z,61.5264,-151.8917,9.5,1.8,ml,,,,0.68,ak,ak0232y40wij,2023-03-05T16:19:41.831Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-05T16:09:31.910Z,19.6756666666667,-65.3881666666667,20.26,3.4,md,12,291,1.365,0.22,pr,pr71398388,2023-03-05T16:35:02.650Z,"146 km NNE of Vieques, Puerto Rico",earthquake,1.06,19.97,0.0584221946921228,6,reviewed,pr,pr
 2023-03-05T16:04:35.630Z,38.0400009,-122.2118301,8.63,2,md,36,67,0.0511,0.13,nc,nc73855721,2023-03-05T16:25:54.593Z,"1km S of Crockett, CA",earthquake,0.24,0.39,0.16,31,automatic,nc,nc
@@ -166,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T18:01:23.289Z,58.1662,-154.1762,65.5,2.4,ml,,,,0.26,ak,ak0232whkxig,2023-03-04T18:03:38.043Z,"68 km NNE of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-04T17:48:09.240Z,33.474,-116.4218333,11.23,1.09,ml,31,62,0.04938,0.2,ci,ci40420936,2023-03-05T15:05:07.390Z,"24km SSW of La Quinta, CA",earthquake,0.3,0.64,0.123,26,reviewed,ci,ci
 2023-03-04T17:43:23.060Z,-15.6802,-71.1498,156.222,4.4,mb,53,138,2.483,1.19,us,us7000jhcm,2023-03-04T19:15:22.040Z,"10 km WSW of Huarichancara, Peru",earthquake,9.35,8.024,0.086,45,reviewed,us,us
-2023-03-04T17:30:55.030Z,37.4703331,-121.7756653,6.81,1.36,md,8,125,0.05111,0.02,nc,nc73855401,2023-03-04T18:50:11.158Z,"12km NNE of Alum Rock, CA",earthquake,0.42,0.77,0.31,2,automatic,nc,nc
