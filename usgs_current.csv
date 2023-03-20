@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T01:30:01.010Z,38.8248329,-122.7965012,2.67,0.78,md,15,54,0.0107,0.02,nc,nc73859495,2023-03-20T03:24:10.137Z,"6km NNW of The Geysers, CA",earthquake,0.28,0.6,0.13,17,automatic,nc,nc
 2023-03-20T01:25:26.100Z,32.7323333,-115.493,15.89,2.16,ml,28,64,0.08254,0.31,ci,ci40187287,2023-03-20T01:36:15.400Z,"3km E of Heber, CA",earthquake,0.5,0.8,0.174,25,automatic,ci,ci
 2023-03-20T01:24:58.169Z,61.4879,-146.6179,21.6,1.6,ml,,,,0.86,ak,ak0233mo74ag,2023-03-20T01:26:48.175Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-20T01:09:27.070Z,38.8058319,-122.8146667,3.36,1.07,md,24,62,0.01174,0.03,nc,nc73859490,2023-03-20T02:55:10.958Z,"6km WNW of The Geysers, CA",earthquake,0.29,0.43,0.15,22,automatic,nc,nc
+2023-03-20T01:09:27.070Z,38.8058319,-122.8146667,3.36,1.07,md,24,62,0.01174,0.03,nc,nc73859490,2023-03-20T03:58:14.348Z,"6km WNW of The Geysers, CA",earthquake,0.29,0.43,0.15,22,automatic,nc,nc
 2023-03-20T00:58:44.065Z,37.0724,-117.7577,3.7,1.1,ml,8,206.68,0.184,0.3218,nn,nn00857245,2023-03-20T00:59:52.270Z,"48 km ESE of Big Pine, California",earthquake,,20.4,1.57,6,automatic,nn,nn
 2023-03-20T00:42:49.432Z,63.4954,-151.099,4.6,1.5,ml,,,,0.57,ak,ak0233mnpiwf,2023-03-20T00:44:28.582Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-20T00:35:56.680Z,38.8181648,-122.807663,4.23,0.26,md,6,180,0.005552,0.01,nc,nc73859475,2023-03-20T01:30:14.452Z,"6km NW of The Geysers, CA",earthquake,1.4,3.21,0.15,8,automatic,nc,nc
