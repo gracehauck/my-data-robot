@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-04T00:24:40.570Z,38.8089981,-122.8306656,0.87,1.02,md,7,141,0.001169,0.02,nc,nc73866490,2023-04-04T01:05:14.306Z,"7km WNW of The Geysers, CA",earthquake,0.61,0.91,0.35,8,automatic,nc,nc
 2023-04-04T00:09:48.121Z,65.024,-147.0371,14.2,1.3,ml,,,,1,ak,ak0234bgknks,2023-04-04T00:12:21.814Z,"16 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-03T23:33:18.390Z,38.8233337,-122.7883301,2.08,0.93,md,6,116,0.01605,0.01,nc,nc73866460,2023-04-04T00:20:12.001Z,"6km W of Cobb, CA",earthquake,0.61,1.96,0.22,8,automatic,nc,nc
-2023-04-03T23:30:44.450Z,38.8368333,-122.8066667,2.18,0.41,md,12,59,0.01947,0.02,nc,nc73866455,2023-04-04T06:39:11.321Z,"7km WNW of Cobb, CA",earthquake,0.34,1.15,0.078,11,reviewed,nc,nc
+2023-04-03T23:30:44.450Z,38.8368333,-122.8066667,2.18,0.41,md,12,59,0.01947,0.02,nc,nc73866455,2023-04-04T07:25:11.572Z,"7km WNW of Cobb, CA",earthquake,0.34,1.15,0.078,11,reviewed,nc,nc
 2023-04-03T23:14:36.580Z,38.8243332,-122.7914963,1.33,2.23,md,22,40,0.01661,0.04,nc,nc73866425,2023-04-04T02:32:12.839Z,"6km W of Cobb, CA",earthquake,0.19,0.35,0.19,21,automatic,nc,nc
 2023-04-03T23:00:56.880Z,38.8100014,-122.7913361,3.03,0.8,md,9,132,0.003705,0.01,nc,nc73866415,2023-04-03T23:49:12.795Z,"5km NW of The Geysers, CA",earthquake,0.53,1.19,0.13,9,automatic,nc,nc
 2023-04-03T22:52:27.550Z,38.8238333,-122.7911667,1.29,1.71,md,31,39,0.01617,0.05,nc,nc73866410,2023-04-04T06:53:14.385Z,"6km W of Cobb, CA",earthquake,0.15,0.26,0.23,24,reviewed,nc,nc
@@ -140,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:40:40.270Z,51.868,-178.123166666667,5.44,1.11,ml,4,231,,0.12,av,av91832506,2023-04-04T03:56:26.750Z,"102 km W of Adak, Alaska",earthquake,0.78,1.05,0.268482428001884,4,reviewed,av,av
 2023-04-03T12:36:06.553Z,12.2693,-89.3896,10,5,mww,75,150,1.501,0.71,us,us6000k1pd,2023-04-03T13:49:51.363Z,"135 km S of La Libertad, El Salvador",earthquake,7.75,1.883,0.051,37,reviewed,us,us
 2023-04-03T12:35:56.860Z,58.2563333333333,-155.114166666667,4.6,-0.39,ml,10,88,,0.16,av,av91832501,2023-04-04T03:53:30.950Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.5,0.131464746161762,10,reviewed,av,av
-2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-04T07:13:02.970Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-04T07:18:17.123Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-03T12:22:56.970Z,58.1765,-155.337666666667,0.86,-0.18,ml,9,172,,0.06,av,av91832476,2023-04-04T03:47:18.360Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.93,0.23939491293607,9,reviewed,av,av
 2023-04-03T12:12:56.352Z,61.0768,-150.5664,39,1,ml,,,,0.62,ak,ak0234a0764j,2023-04-03T12:14:56.645Z,"Southern Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-04-03T12:11:15.080Z,33.8856667,-116.2606667,4.79,0.87,ml,24,60,0.08272,0.15,ci,ci39509402,2023-04-03T20:58:54.031Z,"14km ENE of Thousand Palms, CA",earthquake,0.2,0.5,0.121,12,reviewed,ci,ci
@@ -193,6 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T07:56:06.680Z,58.2688333333333,-154.995333333333,2.85,-0.27,ml,10,129,,0.15,av,av91832216,2023-04-03T22:52:27.930Z,"84 km NNW of Karluk, Alaska",earthquake,0.38,1.05,0.237555604438401,10,reviewed,av,av
 2023-04-03T07:33:09.820Z,58.2471,-155.1443,4.4,0.7,ml,,,,0.53,ak,ak02349xcejq,2023-04-03T22:49:19.890Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T07:31:04.920Z,36.7935,-121.3185,9.16,1.7,md,36,98,0.08877,0.11,nc,nc73866155,2023-04-04T06:07:12.141Z,"0km NNE of Tres Pinos, CA",earthquake,0.26,0.41,0.194,32,reviewed,nc,nc
-2023-04-03T07:26:00.390Z,33.9323333,-116.893,11.35,1.05,ml,40,65,0.07363,0.12,ci,ci39509306,2023-04-03T21:54:56.500Z,"2km WNW of Banning, CA",earthquake,0.15,0.56,0.125,27,reviewed,ci,ci
-2023-04-03T07:24:28.659Z,37.8707,-118.1483,0,2.1,ml,12,100.28,0.353,0.2191,nn,nn00857780,2023-04-04T02:03:55.618Z,"23 km NNW of Dyer, Nevada",earthquake,,0,0.57,8,reviewed,nn,nn
-2023-04-03T07:20:44.570Z,33.2911667,-116.1955,4.85,1.79,ml,67,29,0.1098,0.19,ci,ci39509298,2023-04-03T21:25:36.430Z,"17km ENE of Borrego Springs, CA",earthquake,0.15,0.6,0.131,35,reviewed,ci,ci
