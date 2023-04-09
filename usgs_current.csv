@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-09T13:05:19.295Z,37.7543,-116.0187,4,1.5,ml,15,206.52,0.597,0.3663,nn,nn00858004,2023-04-09T13:07:53.181Z,"27 km WNW of Rachel, Nevada",earthquake,,13.4,0.9,9,automatic,nn,nn
+2023-04-09T13:04:08.530Z,38.793499,-122.765831,3.63,1.05,md,16,76,0.008573,0.02,nc,nc73869795,2023-04-09T13:05:47.093Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.72,0.24,17,automatic,nc,nc
+2023-04-09T12:55:01.290Z,35.4966667,-118.3935,4.97,0.97,ml,13,77,0.1783,0.15,ci,ci40438816,2023-04-09T12:58:31.313Z,"14km SE of Bodfish, CA",earthquake,0.31,2.56,0.168,8,automatic,ci,ci
+2023-04-09T12:47:52.012Z,8.9052,93.9381,10.342,4.4,mb,28,107,2.975,0.34,us,us6000k31k,2023-04-09T13:05:59.040Z,"Nicobar Islands, India region",earthquake,7.33,4.864,0.135,16,reviewed,us,us
 2023-04-09T12:29:15.840Z,19.1531658172607,-155.502334594727,32.2700004577637,1.85000002,md,39,137,,0.140000001,hv,hv73359992,2023-04-09T12:32:42.570Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.71,0.920000017,1.57000005,14,automatic,hv,hv
 2023-04-09T12:29:10.357Z,57.9725,-156.3143,139.2,2,ml,,,,0.61,ak,ak0234jxispn,2023-04-09T12:31:32.150Z,"68 km ESE of Egegik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-09T12:27:34.380Z,38.7890015,-122.7711639,1.09,0.76,md,9,97,0.01466,0.02,nc,nc73869785,2023-04-09T12:46:14.239Z,"2km NW of The Geysers, CA",earthquake,0.38,0.7,0.32,11,automatic,nc,nc
@@ -234,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T13:28:27.321Z,63.7942,-149.288,28.8,1.4,ml,,,,1.33,ak,ak0234iakpf0,2023-04-08T13:30:50.556Z,"17 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-08T13:17:00.410Z,33.6896667,-116.7631667,16.18,0.83,ml,29,46,0.04614,0.17,ci,ci40438280,2023-04-08T13:20:30.702Z,"7km SW of Idyllwild, CA",earthquake,0.35,0.48,0.204,18,automatic,ci,ci
 2023-04-08T13:10:02.433Z,36.7869,-115.7535,6.1,0.3,ml,11,264.62,0.152,0.1084,nn,nn00857973,2023-04-08T13:11:56.624Z,"Nevada",earthquake,,2.1,0.25,7,automatic,nn,nn
-2023-04-08T13:08:04.396Z,36.7973,-115.8639,1.1,0.8,ml,22,93.16,0.064,0.2523,nn,nn00857971,2023-04-08T13:10:08.782Z,"30 km NW of Indian Springs, Nevada",earthquake,,0.7,0.32,15,automatic,nn,nn
-2023-04-08T13:02:30.660Z,33.2513333,-116.0495,5.31,1.49,ml,46,31,0.09821,0.29,ci,ci40438272,2023-04-08T13:13:33.530Z,"10km WSW of Salton City, CA",earthquake,0.3,1.25,0.16,26,automatic,ci,ci
-2023-04-08T12:56:41.600Z,38.7910004,-122.7624969,1.95,1.64,md,29,65,0.009854,0.05,nc,nc73869220,2023-04-08T13:36:14.023Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.38,0.2,31,automatic,nc,nc
