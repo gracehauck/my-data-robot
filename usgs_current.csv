@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-09T23:07:15.600Z,38.7876663,-122.7676697,1.81,0.74,md,10,80,0.01436,0.02,nc,nc73869990,2023-04-09T23:08:52.290Z,"2km NW of The Geysers, CA",earthquake,0.32,0.66,0.06,10,automatic,nc,nc
+2023-04-09T23:03:50.238Z,65.0204,-147.0323,10,1.9,ml,,,,1.12,ak,ak0234k3x2tr,2023-04-09T23:05:58.006Z,"16 km N of Two Rivers, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-04-09T23:02:27.613Z,60.4286,-151.1086,35.7,2.4,ml,,,,0.24,ak,ak0234k3wtd5,2023-04-09T23:08:06.400Z,"Kenai Peninsula, Alaska",earthquake,,6.4,,,automatic,ak,ak
 2023-04-09T22:52:00.029Z,62.1294,-149.1601,33.1,1.9,ml,,,,0.37,ak,ak0234k3m1fm,2023-04-09T22:53:56.979Z,"36 km E of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-09T22:14:09.350Z,38.8294983,-122.8536682,1.67,0.67,md,12,91,0.003173,0.03,nc,nc73869975,2023-04-09T22:30:10.745Z,"10km NW of The Geysers, CA",earthquake,0.28,0.46,0.27,13,automatic,nc,nc
 2023-04-09T22:11:20.270Z,-48.1762,-9.8738,10,5.7,mww,31,100,17.688,0.55,us,us6000k34x,2023-04-09T22:34:00.086Z,"southern Mid-Atlantic Ridge",earthquake,8.11,1.885,0.098,10,reviewed,us,us
 2023-04-09T22:08:03.030Z,19.1544990539551,-155.362335205078,30.7900009155273,2.08999991,md,31,232,,0.100000001,hv,hv73360352,2023-04-09T22:11:27.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.79,0.870000005,1.03999996,8,automatic,hv,hv
-2023-04-09T22:02:17.560Z,38.8361664,-122.7896652,1.99,0.7,md,10,80,0.002301,0.01,nc,nc73869965,2023-04-09T22:20:10.669Z,"6km WNW of Cobb, CA",earthquake,0.36,0.56,0.33,10,automatic,nc,nc
+2023-04-09T22:02:17.560Z,38.8361664,-122.7896652,1.99,0.7,md,10,80,0.002301,0.01,nc,nc73869965,2023-04-09T22:54:16.886Z,"6km WNW of Cobb, CA",earthquake,0.36,0.56,0.33,10,automatic,nc,nc
 2023-04-09T22:01:50.810Z,38.8346672,-122.7904968,1.82,1.65,md,33,39,0.003738,0.04,nc,nc73869960,2023-04-09T22:42:16.823Z,"6km WNW of Cobb, CA",earthquake,0.18,0.29,0.14,34,automatic,nc,nc
 2023-04-09T21:58:09.010Z,17.9538333333333,-66.9471666666667,12.73,2.73,md,10,209,0.068,0.12,pr,pr71403473,2023-04-09T22:25:34.790Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.65,0.31,0.0773745149086689,5,reviewed,pr,pr
 2023-04-09T21:54:43.494Z,62.6821,-151.2293,11.7,1.9,ml,,,,0.65,ak,ak0234k314m5,2023-04-09T21:56:41.239Z,"31 km NW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -23,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-09T20:10:47.230Z,34.9968333,-118.38,0.13,1.38,ml,23,56,0.1712,0.22,ci,ci40438976,2023-04-09T20:14:23.065Z,"16km SSE of Tehachapi, CA",earthquake,0.39,31.61,0.163,27,automatic,ci,ci
 2023-04-09T19:58:26.460Z,17.9398333333333,-66.9575,15.1,2.5,md,11,221,0.0823,0.11,pr,pr71403438,2023-04-09T20:14:39.960Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.46,0.55,0.0206169446780409,8,reviewed,pr,pr
 2023-04-09T19:58:26.330Z,17.9171,-66.9623,14,2.98,md,13,237,0.0972,0.15,pr,pr2023099002,2023-04-09T20:56:16.870Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.78,0.46,0.23,8,reviewed,pr,pr
-2023-04-09T19:56:17.220Z,17.9308333333333,-66.9536666666667,15.35,2.87,md,8,227,0.08337,0.08,pr,pr71403428,2023-04-09T20:12:24.370Z,"Puerto Rico region",earthquake,0.7,0.53,0.0557486506429803,2,reviewed,pr,pr
+2023-04-09T19:56:17.220Z,17.9308333333333,-66.9536666666667,15.35,2.87,md,8,227,0.08337,0.08,pr,pr71403428,2023-04-09T20:12:24.370Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.7,0.53,0.0557486506429803,2,reviewed,pr,pr
 2023-04-09T19:51:39.241Z,60.1416,-151.4527,30.6,1.9,ml,,,,0.63,ak,ak0234k1tlxg,2023-04-09T19:54:01.206Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-09T19:40:15.740Z,51.8628333333333,-178.097333333333,3.05,1.67,ml,4,213,,0.14,av,av91097233,2023-04-09T22:33:18.840Z,"100 km W of Adak, Alaska",earthquake,0.66,2.66,0.177388249969185,4,reviewed,av,av
 2023-04-09T19:39:57.540Z,51.8566666666667,-178.084833333333,3.78,1.62,ml,5,207,,0.16,av,av91841756,2023-04-09T22:31:12.160Z,"99 km W of Adak, Alaska",earthquake,0.87,0.57,0.16646553843995,5,reviewed,av,av
@@ -275,7 +278,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T23:39:33.540Z,38.8115005,-122.8280029,1.59,0.89,md,16,58,0.002784,0.02,nc,nc73869490,2023-04-09T00:19:14.876Z,"7km WNW of The Geysers, CA",earthquake,0.23,0.56,0.19,16,automatic,nc,nc
 2023-04-08T23:39:00.740Z,33.4385,-116.3381667,16.55,0.77,ml,18,207,0.1119,0.28,ci,ci40438536,2023-04-08T23:42:28.331Z,"21km N of Borrego Springs, CA",earthquake,1.17,1.19,0.106,13,automatic,ci,ci
 2023-04-08T23:36:32.764Z,-17.8167,-69.7767,165.564,4.2,mb,19,124,0.362,0.66,us,us6000k2xf,2023-04-09T00:06:23.040Z,"Tarapaca, Chile",earthquake,10.32,8.549,0.236,5,reviewed,us,us
-2023-04-08T23:33:29.190Z,38.4301667,-122.6913333,7.66,1.23,md,30,50,0.01476,0.06,nc,nc73869485,2023-04-09T22:10:11.605Z,"2km SSE of Santa Rosa, CA",earthquake,0.17,0.34,0.196,24,reviewed,nc,nc
-2023-04-08T23:03:38.570Z,17.9318333333333,-66.926,6.24,2.8,md,13,223,0.06187,0.09,pr,pr71402988,2023-04-08T23:32:46.820Z,"Puerto Rico region",earthquake,0.45,0.2,0.108524980837806,5,reviewed,pr,pr
-2023-04-08T23:01:32.900Z,38.815834,-122.8193359,0.67,0.97,md,13,73,0.01037,0.02,nc,nc73869475,2023-04-08T23:45:15.663Z,"7km NW of The Geysers, CA",earthquake,0.22,0.47,0.23,15,automatic,nc,nc
-2023-04-08T22:54:36.949Z,57.4265,-154.2355,42.4,1.6,ml,,,,0.66,ak,ak0234ig377y,2023-04-09T00:04:06.241Z,"Kodiak Island region, Alaska",earthquake,,1.5,,,reviewed,ak,ak
+2023-04-08T23:33:29.190Z,38.4301667,-122.6913333,7.66,1.23,md,30,50,0.01476,0.06,nc,nc73869485,2023-04-09T23:04:14.943Z,"2km SSE of Santa Rosa, CA",earthquake,0.17,0.34,0.196,24,reviewed,nc,nc
