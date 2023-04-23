@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-23T14:55:09.370Z,19.4998340606689,-155.468002319336,1.13999998569489,2.2,ml,35,69,,0.25999999,hv,hv73373747,2023-04-23T15:00:40.240Z,"25 km WNW of Volcano, Hawaii",earthquake,0.44,2.20000005,2.42,10,automatic,hv,hv
-2023-04-23T14:55:05.960Z,38.8160019,-122.822998,2.33,1.34,md,28,49,0.008606,0.02,nc,nc73876960,2023-04-23T15:06:10.960Z,"7km NW of The Geysers, CA",earthquake,0.19,0.36,0.26,28,automatic,nc,nc
+2023-04-23T14:55:05.960Z,38.8160019,-122.822998,2.33,1.34,md,28,49,0.008606,0.02,nc,nc73876960,2023-04-23T15:11:17.988Z,"7km NW of The Geysers, CA",earthquake,0.19,0.36,0.26,28,automatic,nc,nc
 2023-04-23T14:50:55.687Z,62.2892,-149.0493,28.8,1.7,ml,,,,0.46,ak,ak023574d4dc,2023-04-23T14:52:51.023Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-23T14:35:27.990Z,35.509,-118.3851667,3.68,0.75,ml,8,141,0.1877,0.06,ci,ci40444512,2023-04-23T14:38:50.958Z,"13km SE of Bodfish, CA",earthquake,0.31,0.75,0.173,5,automatic,ci,ci
 2023-04-23T14:18:07.890Z,19.4218330383301,-155.241668701172,1.92999994754791,1.73000002,md,15,125,,0.150000006,hv,hv73373712,2023-04-23T14:21:10.570Z,"2 km SSW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.150000006,10,automatic,hv,hv
 2023-04-23T13:53:29.117Z,37.1924,-115.3394,0.3,0.9,ml,11,256.3,0.519,0.3065,nn,nn00858563,2023-04-23T13:55:43.837Z,"24 km SW of Alamo, Nevada",earthquake,,50.3,0.16,5,automatic,nn,nn
-2023-04-23T13:53:13.830Z,36.4718323,-121.0475006,6.87,1.69,md,13,151,0.05232,0.08,nc,nc73876950,2023-04-23T14:10:15.620Z,"11km SE of Pinnacles, CA",earthquake,0.61,1.37,0.18,12,automatic,nc,nc
+2023-04-23T13:53:13.830Z,36.4718323,-121.0475006,6.87,1.69,md,13,151,0.05232,0.08,nc,nc73876950,2023-04-23T15:17:20.020Z,"11km SE of Pinnacles, CA",earthquake,0.61,1.37,0.18,12,automatic,nc,nc
 2023-04-23T13:47:18.560Z,32.9756667,-116.2265,6.03,1.15,ml,34,51,0.06796,0.21,ci,ci40444504,2023-04-23T13:57:31.750Z,"21km SSW of Ocotillo Wells, CA",earthquake,0.25,1.04,0.122,25,automatic,ci,ci
 2023-04-23T13:47:07.464Z,64.9779,-147.1271,10.8,1.2,ml,,,,0.86,ak,ak023573qxwa,2023-04-23T13:49:42.765Z,"12 km NNW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-23T13:40:57.870Z,17.9466666666667,-66.9573333333333,14.14,2.83,md,24,216,0.05285,0.14,pr,pr71406413,2023-04-23T14:04:08.950Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.4,0.37,0.155825739959951,12,reviewed,pr,pr
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T10:13:44.100Z,33.0463333,-115.5713333,4.92,1.2,ml,16,90,0.01199,0.25,ci,ci40444424,2023-04-23T10:17:17.538Z,"5km ENE of Westmorland, CA",earthquake,0.49,0.67,0.196,15,automatic,ci,ci
 2023-04-23T09:59:30.496Z,63.1268,-150.4438,116.7,2,ml,,,,0.3,ak,ak023571ftuh,2023-04-23T10:01:51.570Z,"72 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-23T09:58:13.350Z,35.8711667,-117.7048333,10.69,1.21,ml,15,110,0.07927,0.16,ci,ci40444416,2023-04-23T14:01:34.690Z,"20km ESE of Little Lake, CA",earthquake,0.38,0.56,0.139,10,reviewed,ci,ci
-2023-04-23T09:55:24.910Z,41.5096664,-112.1793365,7.33,2.46,ml,35,79,0.09661,0.15,uu,uu60537991,2023-04-23T12:50:31.305Z,"7 km SW of Corinne, Utah",earthquake,0.26,0.52,0.31,21,reviewed,uu,uu
+2023-04-23T09:55:24.910Z,41.5096664,-112.1793365,7.33,2.46,ml,35,79,0.09661,0.15,uu,uu60537991,2023-04-23T15:12:29.692Z,"7 km SW of Corinne, Utah",earthquake,0.26,0.52,0.31,21,reviewed,uu,uu
 2023-04-23T09:46:47.300Z,36.3026666666667,-89.5323333333333,9.71,2.07,md,26,48,0.03529,0.07,nm,nm60521866,2023-04-23T13:47:34.550Z,"5 km NW of Ridgely, Tennessee",earthquake,0.41,0.44,0.163543557702864,26,reviewed,nm,nm
 2023-04-23T09:44:09.838Z,64.0515,-149.9574,3.9,1.5,ml,,,,0.42,ak,ak023571ckif,2023-04-23T09:46:01.585Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-23T09:38:12.800Z,38.833168,-122.8160019,1.72,1.08,md,18,56,0.01615,0.03,nc,nc73876880,2023-04-23T12:22:13.986Z,"8km NW of The Geysers, CA",earthquake,0.25,0.63,0.22,20,automatic,nc,nc
