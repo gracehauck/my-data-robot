@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-28T20:30:08.859Z,36.2699,-115.3107,2,1.6,ml,8,183.17,0.266,0.3553,nn,nn00858858,2023-04-28T20:33:58.151Z,"17 km N of Summerlin South, Nevada",earthquake,,74.7,0.28,5,automatic,nn,nn
 2023-04-28T20:24:57.950Z,32.6998333,-115.5348333,6.06,1.88,ml,16,74,0.09757,0.22,ci,ci40213327,2023-04-28T20:30:49.422Z,"4km S of Heber, CA",earthquake,0.53,3.05,0.218,29,automatic,ci,ci
 2023-04-28T20:24:41.780Z,32.7316667,-115.5461667,9.07,1.59,ml,13,96,0.07133,0.24,ci,ci40213311,2023-04-28T20:28:20.026Z,"2km W of Heber, CA",earthquake,0.62,1.14,0.309,14,automatic,ci,ci
 2023-04-28T20:16:56.670Z,34.5038333,-119.4,0.71,2.2,ml,32,68,0.1042,0.25,ci,ci40213287,2023-04-28T20:20:42.653Z,"16km WNW of Ojai, CA",earthquake,0.33,31.61,0.125,27,automatic,ci,ci
-2023-04-28T20:15:25.980Z,41.6343346,-124.1638336,6.21,1.9,md,7,209,0.1162,0.02,nc,nc73881481,2023-04-28T20:24:12.010Z,"13km S of Bertsch-Oceanview, CA",earthquake,1.33,1,0.2,4,automatic,nc,nc
+2023-04-28T20:15:25.980Z,41.6343346,-124.1638336,6.21,1.9,md,7,209,0.1162,0.02,nc,nc73881481,2023-04-28T20:32:13.983Z,"13km S of Bertsch-Oceanview, CA",earthquake,1.33,1,0.2,4,automatic,nc,nc
 2023-04-28T20:13:25.020Z,32.6941667,-115.554,11.59,1.34,ml,15,72,0.09059,0.28,ci,ci40213263,2023-04-28T20:17:00.580Z,"5km SSW of Heber, CA",earthquake,0.74,1.09,0.214,13,automatic,ci,ci
 2023-04-28T20:13:01.383Z,61.3782,-142.0332,24.3,0.8,ml,,,,0.31,ak,ak0235fheez1,2023-04-28T20:15:45.593Z,"47 km E of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-28T20:06:56.470Z,32.7095,-115.5445,8.64,1.98,ml,21,46,0.08508,0.25,ci,ci40213239,2023-04-28T20:17:46.060Z,"3km SSW of Heber, CA",earthquake,0.5,1.39,0.244,28,automatic,ci,ci
@@ -51,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T15:34:37.580Z,38.8193321,-122.8228302,2.3,1.32,md,23,52,0.01025,0.02,nc,nc73881421,2023-04-28T18:35:15.203Z,"7km NW of The Geysers, CA",earthquake,0.21,0.37,0.24,25,automatic,nc,nc
 2023-04-28T15:22:18.060Z,38.713,-118.8104,8.4,1.6,ml,18,81.21,0.236,0.1414,nn,nn00858841,2023-04-28T16:14:10.086Z,"8 km NW of Walker Lake, Nevada",earthquake,,2.2,0.31,6,reviewed,nn,nn
 2023-04-28T15:15:46.259Z,60.2603,-152.786,113.3,1.6,ml,,,,0.4,ak,ak0235fefrnl,2023-04-28T15:17:45.311Z,"66 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-28T15:14:09.960Z,46.861,-121.759,-2.28,0.27,ml,11,106,0.02079,0.23,uw,uw61920121,2023-04-28T20:31:11.310Z,"23 km ENE of Ashford, Washington",earthquake,0.4,1.01,0.1435592784727362,7,reviewed,uw,uw
 2023-04-28T15:07:41.326Z,-15.2641,167.3642,138.301,4.6,mb,35,94,6.019,0.52,us,us7000jwpk,2023-04-28T15:28:36.040Z,"35 km NE of Luganville, Vanuatu",earthquake,10.55,5.821,0.083,45,reviewed,us,us
 2023-04-28T15:01:12.570Z,38.7224,-118.8094,0,1.7,ml,20,80.02,0.239,0.1863,nn,nn00858839,2023-04-28T15:58:36.513Z,"9 km NNW of Walker Lake, Nevada",earthquake,,2.5,0.26,8,reviewed,nn,nn
 2023-04-28T15:00:51.990Z,19.3798332214355,-155.284332275391,1.00999999046326,2.42000008,md,10,176,,0.0799999982,hv,hv73380992,2023-04-28T15:03:52.460Z,"8 km SW of Volcano, Hawaii",earthquake,0.41,0.239999995,2.67000008,4,automatic,hv,hv
