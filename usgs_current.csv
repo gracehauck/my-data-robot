@@ -1,6 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-29T21:06:47.880Z,32.708168,-115.541832,11.64,3.71,mw,81,41,0.0625,0.32,ci,ci40214935,2023-04-29T21:14:50.613Z,"3km SSW of Heber, CA",earthquake,0.25,0.46,,4,automatic,ci,ci
-2023-04-29T21:04:00.540Z,38.8283348,-122.8006668,2.73,0.27,md,9,122,0.00885,0.01,nc,nc73881971,2023-04-29T21:15:11.707Z,"7km W of Cobb, CA",earthquake,0.48,1.48,0.08,9,automatic,nc,nc
+2023-04-29T21:23:33.710Z,33.3521652,-116.4233322,10.66,2.31,ml,106,20,0.05344,0.2,ci,ci40214999,2023-04-29T21:25:47.197Z,"12km NNW of Borrego Springs, CA",earthquake,0.16,0.38,0.251,23,automatic,ci,ci
+2023-04-29T21:22:19.570Z,33.3606667,-116.4066667,10.87,0.77,ml,28,54,0.08125,0.19,ci,ci40214991,2023-04-29T21:25:56.146Z,"12km NNW of Borrego Springs, CA",earthquake,0.31,0.56,0.145,17,automatic,ci,ci
+2023-04-29T21:20:36.160Z,33.3573333,-116.4166667,10.59,1.4,ml,47,30,0.0889,0.23,ci,ci40214983,2023-04-29T21:24:18.879Z,"12km NNW of Borrego Springs, CA",earthquake,0.27,0.5,0.15,27,automatic,ci,ci
+2023-04-29T21:20:19.640Z,35.6405,-117.5666667,1.12,0.53,ml,10,86,0.1007,0.17,ci,ci40214975,2023-04-29T21:23:58.460Z,"10km ENE of Ridgecrest, CA",earthquake,0.42,0.68,0.074,5,automatic,ci,ci
+2023-04-29T21:19:17.920Z,32.706,-115.5328333,9,2.1,ml,21,49,0.09488,0.29,ci,ci40214967,2023-04-29T21:23:00.175Z,"3km S of Heber, CA",earthquake,0.55,1.46,0.281,28,automatic,ci,ci
+2023-04-29T21:18:21.850Z,32.7333333,-115.5745,4.54,1.64,ml,12,93,0.05043,0.24,ci,ci40214959,2023-04-29T21:21:59.018Z,"4km W of Heber, CA",earthquake,0.62,1.65,0.208,21,automatic,ci,ci
+2023-04-29T21:14:10.090Z,32.6958333,-115.5351667,7.33,2.26,ml,21,64,0.09963,0.27,ci,ci40214951,2023-04-29T21:21:32.160Z,"4km WNW of Calexico, CA",earthquake,0.53,1.42,0.265,28,automatic,ci,ci
+2023-04-29T21:06:47.880Z,32.708168,-115.541832,11.64,3.71,mw,81,41,0.0625,0.32,ci,ci40214935,2023-04-29T21:17:48.820Z,"3km SSW of Heber, CA",earthquake,0.25,0.46,,4,automatic,ci,ci
+2023-04-29T21:04:00.540Z,38.8283348,-122.8006668,2.73,0.27,md,9,122,0.00885,0.01,nc,nc73881971,2023-04-29T21:19:15.729Z,"7km W of Cobb, CA",earthquake,0.48,1.48,0.08,9,automatic,nc,nc
 2023-04-29T20:49:14.099Z,63.3004,-151.7601,0.8,1.5,ml,,,,0.55,ak,ak0235h55i1d,2023-04-29T20:51:07.721Z,"26 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-29T20:34:51.315Z,61.3379,-151.527,74.8,0.9,ml,,,,0.37,ak,ak0235h52d63,2023-04-29T20:36:33.530Z,"32 km NW of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-04-29T20:33:40.740Z,33.8113333,-116.7728333,11.42,1.32,ml,46,38,0.03017,0.18,ci,ci40214919,2023-04-29T20:44:28.650Z,"9km NNW of Idyllwild, CA",earthquake,0.2,0.46,0.165,28,automatic,ci,ci
@@ -180,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T12:14:41.360Z,32.7026667,-115.535,2.91,1.9,ml,16,109,0.0956,0.29,ci,ci40214175,2023-04-29T12:43:04.859Z,"3km S of Heber, CA",earthquake,0.62,1.11,0.168,28,automatic,ci,ci
 2023-04-29T12:13:54.410Z,32.7076667,-115.5421667,6.92,1.83,ml,19,60,0.08776,0.3,ci,ci40214167,2023-04-29T12:48:11.805Z,"3km SSW of Heber, CA",earthquake,0.62,1.68,0.238,15,automatic,ci,ci
 2023-04-29T12:09:11.230Z,32.7060013,-115.5478363,6.66,3.35,ml,40,46,0.06058,0.25,ci,ci40214159,2023-04-29T16:52:55.802Z,"3km SSW of Heber, CA",earthquake,0.28,0.8,0.214,13,reviewed,ci,ci
-2023-04-29T12:07:03.500Z,32.711,-115.5448333,10.43,4.1,mw,57,43,0.05872,0.3,ci,ci40214151,2023-04-29T21:13:04.905Z,"3km SSW of Heber, CA",earthquake,0.25,0.51,,6,reviewed,ci,ci
+2023-04-29T12:07:03.500Z,32.711,-115.5448333,10.43,4.1,mw,57,43,0.05872,0.3,ci,ci40214151,2023-04-29T21:19:25.402Z,"3km SSW of Heber, CA",earthquake,0.25,0.51,,6,reviewed,ci,ci
 2023-04-29T11:58:33.310Z,38.7966652,-122.7646637,1.44,1.1,md,18,65,0.005532,0.03,nc,nc73881776,2023-04-29T14:08:10.163Z,"2km NNW of The Geysers, CA",earthquake,0.23,0.42,0.13,19,automatic,nc,nc
 2023-04-29T11:57:43.930Z,19.4218330383301,-155.274169921875,0.340000003576279,1.87,md,17,101,,0.109999999,hv,hv73382552,2023-04-29T12:00:31.820Z,"4 km WSW of Volcano, Hawaii",earthquake,0.2,0.400000006,0.620000005,9,automatic,hv,hv
 2023-04-29T11:44:21.947Z,40.1586,-121.0357,4.2,0.9,ml,4,285.07,0.595,0.0556,nn,nn00858893,2023-04-29T15:48:22.020Z,"3 km ESE of Canyondam, California",earthquake,,4.3,0.13,4,reviewed,nn,nn
@@ -210,7 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T10:06:16.270Z,38.8338318,-122.8148346,1.86,1.14,md,19,56,0.01107,0.01,nc,nc73881741,2023-04-29T12:47:19.657Z,"8km W of Cobb, CA",earthquake,0.22,0.47,0.15,21,automatic,nc,nc
 2023-04-29T09:58:58.990Z,37.6496658,-118.9448318,4.63,0.81,md,10,150,0.01683,0.02,nc,nc73881736,2023-04-29T10:15:14.605Z,"3km ENE of Mammoth Lakes, CA",earthquake,0.97,1.1,0.15,9,automatic,nc,nc
 2023-04-29T09:44:56.300Z,37.3696671,-121.731163,5.41,2,md,7,184,0.09759,0.03,nc,nc73881716,2023-04-29T12:05:19.404Z,"8km E of Alum Rock, CA",earthquake,0.68,2.33,0.05,4,automatic,nc,nc
-2023-04-29T09:44:45.840Z,37.3720016,-121.7296677,5.93,2.5,md,57,40,0.09636,0.07,nc,nc73881721,2023-04-29T14:52:56.646Z,"9km E of Alum Rock, CA",earthquake,0.13,0.45,0.16,34,automatic,nc,nc
+2023-04-29T09:44:45.840Z,37.3720016,-121.7296677,5.93,2.5,md,57,40,0.09636,0.07,nc,nc73881721,2023-04-29T21:20:28.334Z,"9km E of Alum Rock, CA",earthquake,0.13,0.45,0.16,34,automatic,nc,nc
 2023-04-29T09:39:31.800Z,37.4169998,-121.776001,3.76,1.94,md,30,54,0.03853,0.08,nc,nc73881711,2023-04-29T11:50:13.334Z,"7km NE of Alum Rock, CA",earthquake,0.21,0.46,0.17,26,automatic,nc,nc
 2023-04-29T09:39:19.410Z,33.2948333,-116.74,12.46,1.26,ml,48,26,0.06076,0.19,ci,ci40214103,2023-04-29T15:20:52.802Z,"6km NNE of Lake Henshaw, CA",earthquake,0.23,0.56,0.14,26,reviewed,ci,ci
 2023-04-29T09:36:14.930Z,19.1963329315186,-155.380828857422,30.8099994659424,2.76,ml,48,163,,0.129999995,hv,hv73382367,2023-04-29T09:53:05.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.5,0.600000024,1.82,23,automatic,hv,hv
@@ -347,5 +354,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-28T21:40:30.850Z,19.4055,-155.287,1.87,2.04,md,25,67,,0.1,hv,hv73381487,2023-04-29T00:30:31.430Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.14,0.16241111709275,8,reviewed,hv,hv
 2023-04-28T21:30:54.760Z,32.6858333,-115.527,3.3,1.48,ml,11,136,0.112,0.28,ci,ci40213407,2023-04-28T21:34:28.454Z,"3km WNW of Calexico, CA",earthquake,0.87,1.59,0.25,15,automatic,ci,ci
 2023-04-28T21:27:31.460Z,32.8315,-115.7066667,7.17,0.95,ml,11,129,0.1378,0.21,ci,ci40213391,2023-04-28T21:31:07.033Z,"13km W of Imperial, CA",earthquake,0.65,2.04,0.093,7,automatic,ci,ci
-2023-04-28T21:23:14.710Z,19.1168327331543,-155.41667175293,30.8500003814697,2.43,ml,44,183,,0.109999999,hv,hv73381477,2023-04-28T21:32:47.040Z,"11 km SE of Pāhala, Hawaii",earthquake,0.71,0.930000007,1.95,21,automatic,hv,hv
-2023-04-28T21:21:17.340Z,55.455,-157.764,35.5,2,ml,,,,0.35,ak,ak0235fi1mdv,2023-04-28T23:51:21.993Z,"100 km ESE of Perryville, Alaska",earthquake,,0,,,reviewed,ak,ak
