@@ -309,4 +309,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T21:59:54.260Z,36.0398333,-117.8216667,1.37,1.21,ml,15,98,0.05816,0.2,ci,ci40215111,2023-04-29T22:03:31.854Z,"11km E of Coso Junction, CA",earthquake,0.38,0.49,0.195,13,automatic,ci,ci
 2023-04-29T21:57:53.320Z,33.3615,-116.4116667,9.96,1.04,ml,40,45,0.08542,0.23,ci,ci40215103,2023-04-30T14:31:00.152Z,"12km NNW of Borrego Springs, CA",earthquake,0.29,0.61,0.157,25,reviewed,ci,ci
 2023-04-29T21:53:46.160Z,32.698,-115.5335,2.03,2.27,ml,28,48,0.09963,0.29,ci,ci40215095,2023-04-29T22:04:39.400Z,"4km S of Heber, CA",earthquake,0.42,0.72,0.295,26,automatic,ci,ci
-2023-04-29T21:47:34.930Z,44.6436666666667,-112.148166666667,10.04,1.33,ml,16,82,0.1828,0.1,mb,mb90011723,2023-04-30T13:45:00.400Z,"31 km N of Spencer, Idaho",earthquake,0.33,1.63,0.198913865114779,9,reviewed,mb,mb
