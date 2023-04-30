@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-30T19:21:11.562Z,59.2697,-151.8126,43.2,1.7,ml,,,,0.59,ak,ak0235irxeok,2023-04-30T19:23:32.868Z,"9 km S of Port Graham, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-04-30T19:21:05.710Z,33.9991667,-116.7136667,23.22,1.23,ml,10,148,0.2521,0.19,ci,ci40216223,2023-04-30T19:24:40.766Z,"11km NE of Cabazon, CA",earthquake,1.25,3.44,0.312,18,automatic,ci,ci
 2023-04-30T19:19:00.186Z,60.0721,-151.995,78.4,1.6,ml,,,,0.35,ak,ak0235irwyde,2023-04-30T19:20:29.922Z,"18 km W of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-04-30T19:09:14.630Z,19.3461666107178,-155.210662841797,5.07000017166138,1.84000003,md,33,115,,0.129999995,hv,hv73384797,2023-04-30T19:12:29.520Z,"10 km SSE of Volcano, Hawaii",earthquake,0.35,0.560000002,1.22000003,15,automatic,hv,hv
 2023-04-30T19:06:42.790Z,59.1906,-153.6685,113.4,1.9,ml,,,,0.38,ak,ak0235iru9cn,2023-04-30T19:08:34.104Z,"62 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T16:28:30.510Z,39.3821678,-122.8993301,0.28,1.59,md,10,115,0.1774,0.15,nc,nc73882306,2023-04-30T17:46:10.243Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.59,12.03,0.09,4,automatic,nc,nc
 2023-04-30T16:23:41.320Z,17.9611666666667,-66.9605,7.05,2.32,md,11,197,0.05056,0.12,pr,pr71407318,2023-04-30T16:53:24.440Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.58,0.27,0.0468957589521872,4,reviewed,pr,pr
 2023-04-30T16:20:44.220Z,39.2903328,-123.2838364,-0.09,1.39,md,7,135,0.08553,0.05,nc,nc73882301,2023-04-30T17:20:11.067Z,"7km WNW of Redwood Valley, CA",earthquake,0.5,2.98,0.03,5,automatic,nc,nc
-2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-30T16:07:06.278Z,62.0604,-148.8287,22.2,1.1,ml,,,,0.42,ak,ak0235iq23fn,2023-04-30T16:09:01.950Z,"31 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-30T16:01:54.230Z,19.4038333892822,-155.259170532227,0.159999996423721,2.17000008,md,13,75,,0.219999999,hv,hv73384632,2023-04-30T16:04:47.990Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.540000021,2.07999992,6,automatic,hv,hv
 2023-04-30T15:58:29.830Z,17.9366666666667,-66.9651666666667,6.83,1.73,md,5,230,0.06437,0.03,pr,pr71407308,2023-04-30T16:11:42.140Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.76,0.31,0.171972009439333,3,reviewed,pr,pr
 2023-04-30T15:50:39.259Z,61.4036,-149.8548,33.9,2,ml,,,,0.17,ak,ak0235ippy5x,2023-04-30T15:51:57.200Z,"8 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -319,5 +321,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T19:43:34.060Z,32.7255,-115.5461667,9.65,1.48,ml,16,58,0.07442,0.3,ci,ci40214887,2023-04-29T19:47:12.663Z,"2km WSW of Heber, CA",earthquake,0.76,1.6,0.295,16,automatic,ci,ci
 2023-04-29T19:42:23.570Z,35.1245,-118.2008333,10.53,0.89,ml,15,86,0.02542,0.2,ci,ci40214871,2023-04-29T19:45:59.208Z,"8km NNW of Mojave, CA",earthquake,0.43,0.65,0.209,8,automatic,ci,ci
 2023-04-29T19:38:52.850Z,19.4038333892822,-155.295669555664,2.09999990463257,1.78999996,md,19,60,,0.109999999,hv,hv73383437,2023-04-29T19:42:04.030Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.200000003,1.72000003,11,automatic,hv,hv
-2023-04-29T19:32:56.000Z,32.7235,-115.5443333,7.01,2.49,ml,30,49,0.0768,0.29,ci,ci40214855,2023-04-29T20:45:54.040Z,"2km WSW of Heber, CA",earthquake,0.44,1.48,0.295,29,automatic,ci,ci
-2023-04-29T19:29:59.782Z,62.3555,-149.14,0.1,2,ml,,,,0.57,ak,ak0235h4fvmy,2023-04-29T19:31:45.681Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
