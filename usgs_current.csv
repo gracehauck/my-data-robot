@@ -252,7 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T10:25:54.740Z,38.8038333,-122.8223333,2.96,0.62,md,8,74,0.00734,0.03,nc,nc73883336,2023-05-04T00:32:11.387Z,"6km WNW of The Geysers, CA",earthquake,1.13,0.53,0.179,7,reviewed,nc,nc
 2023-05-03T10:22:29.714Z,59.3989,-151.3807,30.6,1.6,ml,,,,0.78,ak,ak0235nl6su3,2023-05-03T10:24:28.183Z,"17 km ESE of Seldovia Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-03T10:17:44.760Z,19.2488333333333,-155.360166666667,31.55,1.74,md,42,158,,0.11,hv,hv73387772,2023-05-03T21:31:59.370Z,"Island of Hawaii, Hawaii",earthquake,0.39,0.47,0.0748648388349362,15,reviewed,hv,hv
-2023-05-03T10:10:55.933Z,63.055,-151.3243,0,1.8,ml,,,,0.87,ak,ak0235nl4a9l,2023-05-03T10:14:18.090Z,"57 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-03T10:03:19.392Z,12.4021,-88.2603,45.704,4.5,mb,73,185,1.245,0.62,us,us7000jxqc,2023-05-03T10:19:00.040Z,"90 km SSW of Intipucá, El Salvador",earthquake,9.29,12.468,0.068,63,reviewed,us,us
-2023-05-03T09:56:54.340Z,58.1715,-155.345166666667,0.96,0.25,ml,8,255,,0.08,av,av91872391,2023-05-03T21:45:17.730Z,"85 km NW of Karluk, Alaska",earthquake,0.54,1.38,0.302348258671431,8,reviewed,av,av
-2023-05-03T09:55:30.250Z,58.274,-155.105833333333,4.94,-0.59,ml,4,134,,0.05,av,av91098888,2023-05-03T21:57:53.330Z,"87 km NNW of Karluk, Alaska",earthquake,0.48,0.86,0.257620048606171,4,reviewed,av,av
