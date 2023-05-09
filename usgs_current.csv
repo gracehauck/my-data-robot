@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T21:06:22.250Z,34.189,-117.433,3.93,0.79,ml,18,88,0.005843,0.1,ci,ci40221175,2023-05-09T00:22:03.699Z,"5km SW of Devore, CA",earthquake,0.17,0.24,0.124,9,reviewed,ci,ci
 2023-05-08T21:04:36.840Z,19.195333480835,-155.484161376953,30.9599990844727,1.75,ml,30,90,,0.109999999,hv,hv73393232,2023-05-08T21:10:06.690Z,"1 km SW of Pāhala, Hawaii",earthquake,0.76,0.870000005,5.07,3,automatic,hv,hv
 2023-05-08T21:03:37.706Z,62.0179,-149.4262,35.6,1.8,ml,,,,0.36,ak,ak0235w1b7n6,2023-05-08T21:06:13.022Z,"Central Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-05-08T20:52:02.789Z,62.7025,-150.0453,15.5,1.8,ml,,,,0.52,ak,ak0235w108ra,2023-05-08T20:53:39.937Z,"28 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-08T20:50:21.190Z,19.2173328399658,-155.23567199707,27.1900005340576,1.82000005,md,28,227,,0.109999999,hv,hv73393212,2023-05-08T20:53:29.720Z,"24 km S of Volcano, Hawaii",earthquake,1.45,0.839999974,1.36000001,5,automatic,hv,hv
