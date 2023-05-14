@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-14T03:49:13.290Z,34.4864998,-116.5343323,8.74,1.36,ml,19,64,0.1363,0.14,ci,ci40224791,2023-05-14T03:51:20.980Z,"38km NE of Big Bear City, CA",earthquake,0.32,1.01,0.174,3,automatic,ci,ci
 2023-05-14T03:27:03.330Z,19.3848323822021,-155.281005859375,1.00999999046326,1.74000001,md,16,101,,0.289999992,hv,hv73401307,2023-05-14T03:30:12.330Z,"8 km SW of Volcano, Hawaii",earthquake,0.47,0.25999999,0.860000014,8,automatic,hv,hv
 2023-05-14T02:59:43.750Z,38.8161659,-122.8183365,2.58,1.11,md,26,50,0.009683,0.02,nc,nc73887851,2023-05-14T03:16:14.199Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.17,26,automatic,nc,nc
 2023-05-14T02:49:33.200Z,19.1590003967285,-155.485000610352,31.0799999237061,2,md,30,126,,0.109999999,hv,hv73401267,2023-05-14T02:52:43.080Z,"4 km S of Pāhala, Hawaii",earthquake,0.79,1.02999997,0.25999999,13,automatic,hv,hv
