@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-17T04:59:19.790Z,38.6271667,-119.597168,3.7,2.49,md,15,76,0.07324,0.13,nc,nc73889011,2023-05-17T05:01:06.132Z,"16km NW of Walker, CA",earthquake,0.36,1.27,0.21,9,automatic,nc,nc
-2023-05-17T04:56:28.360Z,38.8143349,-122.8141632,2.96,0.72,md,12,53,0.009594,0.02,nc,nc73889006,2023-05-17T04:58:05.813Z,"6km NW of The Geysers, CA",earthquake,0.34,1.1,0.38,14,automatic,nc,nc
+2023-05-17T04:59:19.710Z,38.6266667,-119.6038333,3.68,2.39,md,18,94,0.07735,0.08,nc,nc73889011,2023-05-17T05:24:46.225Z,"16km NW of Walker, CA",earthquake,0.25,1.12,0.179,23,reviewed,nc,nc
+2023-05-17T04:57:39.070Z,37.5546667,-118.7951667,5.13,0.73,md,11,294,0.04442,0.02,nc,nc73889016,2023-05-17T05:19:45.785Z,"10km W of Toms Place, CA",earthquake,3.15,1.7,0.095,10,reviewed,nc,nc
+2023-05-17T04:56:28.360Z,38.8143349,-122.8141632,2.96,0.72,md,12,53,0.009594,0.02,nc,nc73889006,2023-05-17T05:16:11.036Z,"6km NW of The Geysers, CA",earthquake,0.34,1.1,0.38,14,automatic,nc,nc
 2023-05-17T04:26:27.850Z,38.8323326,-122.8151703,1.58,0.74,md,8,87,0.009772,0.02,nc,nc73889001,2023-05-17T04:28:00.640Z,"8km NW of The Geysers, CA",earthquake,0.34,1.29,0.14,10,automatic,nc,nc
 2023-05-17T04:15:29.930Z,37.6030006,-121.9934998,6.79,1.58,md,14,99,0.02351,0.1,nc,nc73888991,2023-05-17T04:44:13.343Z,"2km ENE of Union City, CA",earthquake,0.39,0.77,0.21,12,automatic,nc,nc
 2023-05-17T04:05:03.790Z,38.8325005,-122.8153305,1.78,0.67,md,11,64,0.009976,0.02,nc,nc73888986,2023-05-17T04:23:19.181Z,"8km NW of The Geysers, CA",earthquake,0.32,1.08,0.13,11,automatic,nc,nc
 2023-05-17T03:53:54.660Z,63.2359,-151.0938,0,1.1,ml,,,,0.64,ak,ak0236amqbmy,2023-05-17T03:55:45.613Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-17T03:47:19.460Z,37.5976677,-122.0031662,5.82,2.25,md,46,51,0.03233,0.15,nc,nc73888976,2023-05-17T04:11:28.750Z,"1km E of Union City, CA",earthquake,0.21,0.56,0.14,44,automatic,nc,nc
-2023-05-17T03:45:26.670Z,38.8134995,-122.8133316,2.57,1.33,md,26,49,0.0102,0.03,nc,nc73888971,2023-05-17T04:02:17.129Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.12,26,automatic,nc,nc
+2023-05-17T03:45:26.670Z,38.8134995,-122.8133316,2.57,1.33,md,26,49,0.0102,0.03,nc,nc73888971,2023-05-17T05:23:10.725Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.12,26,automatic,nc,nc
 2023-05-17T03:33:32.440Z,38.8166656,-122.8236694,2.02,0.82,md,16,51,0.008896,0.02,nc,nc73888961,2023-05-17T03:50:13.917Z,"7km NW of The Geysers, CA",earthquake,0.26,0.46,0.24,16,automatic,nc,nc
 2023-05-17T03:24:33.825Z,61.9946,-150.2891,35.2,1.6,ml,,,,0.44,ak,ak0236amk29i,2023-05-17T03:26:55.519Z,"29 km SW of Susitna North, Alaska",earthquake,,5.5,,,automatic,ak,ak
 2023-05-17T03:14:34.565Z,61.9948,-150.7963,64.2,1.2,ml,,,,0.61,ak,ak0236amhx5s,2023-05-17T03:16:22.902Z,"31 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T17:18:07.350Z,38.8183327,-122.8238297,2.33,0.75,md,14,90,0.009968,0.02,nc,nc73888831,2023-05-16T17:35:15.036Z,"7km NW of The Geysers, CA",earthquake,0.31,0.88,0.13,15,automatic,nc,nc
 2023-05-16T17:15:11.970Z,19.4183333333333,-155.238,0.93,3.12,md,39,75,,0.1,hv,hv73405002,2023-05-17T04:12:26.499Z,"2 km S of Volcano, Hawaii",earthquake,0.15,0.29,0.172713976070057,10,reviewed,hv,hv
 2023-05-16T17:11:27.183Z,53.0285,-173.7693,242.84,4.3,mb,116,144,1.682,0.89,us,us6000kcbw,2023-05-16T18:00:16.617Z,"97 km NNE of Atka, Alaska",earthquake,8.84,8.729,0.043,155,reviewed,us,us
-2023-05-16T17:10:50.510Z,49.36816666666667,-120.51016666666666,-0.37,1.8,ml,8,181,0.5805,0.21,uw,uw61916177,2023-05-16T20:13:04.140Z,"British Columbia, Canada",explosion,1.07,31.61,0.05513288354393708,5,reviewed,uw,uw
+2023-05-16T17:10:50.510Z,49.36816666666667,-120.51016666666666,-0.37,1.8,ml,8,181,0.5805,0.21,uw,uw61916177,2023-05-16T20:13:04.140Z,"9 km S of Princeton, Canada",explosion,1.07,31.61,0.05513288354393708,5,reviewed,uw,uw
 2023-05-16T17:10:45.250Z,18.0318333333333,-66.7528333333333,13.65,2.17,md,4,169,0.1329,0.12,pr,pr71409613,2023-05-16T17:28:06.030Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,5.26,1.71,0.127900584664184,3,reviewed,pr,pr
 2023-05-16T17:04:07.782Z,62.331,-149.6082,44.1,3.8,ml,,,,0.61,ak,ak0236978fur,2023-05-16T23:20:09.907Z,"22 km NE of Susitna North, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-05-16T16:46:47.945Z,61.3868,-150.1307,65.6,1.2,ml,,,,0.15,ak,ak023696w3h6,2023-05-16T16:48:53.048Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
