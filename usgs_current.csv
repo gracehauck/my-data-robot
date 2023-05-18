@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T17:01:07.568Z,66.3859,-149.9608,27.5,0.9,ml,,,,0.51,ak,ak0236ciahrx,2023-05-18T17:03:43.836Z,"57 km NW of Stevens Village, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-05-18T16:57:06.801Z,12.7077,49.0863,10,4.5,mb,59,181,6.213,0.48,us,us6000kcvd,2023-05-18T22:02:36.040Z,"157 km N of Bosaso, Somalia",earthquake,11.64,1.864,0.081,46,reviewed,us,us
 2023-05-18T16:49:41.679Z,61.5116,-150.225,35.7,1.4,ml,,,,0.17,ak,ak0236chzf4n,2023-05-18T16:50:59.699Z,"14 km W of Big Lake, Alaska",earthquake,,3.8,,,automatic,ak,ak
-2023-05-18T16:45:41.182Z,61.1792,-152.2195,5.2,0.8,ml,,,,0.76,ak,ak0236chyk5j,2023-05-18T16:47:33.317Z,"59 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-18T16:45:41.182Z,61.1792,-152.2195,5.2,0.8,ml,,,,0.76,ak,ak0236chyk5j,2023-05-18T16:47:33.317Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-18T16:45:15.280Z,19.2234992980957,-155.375,30.5,1.82000005,md,36,170,,0.100000001,hv,hv73407852,2023-05-18T16:48:22.860Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.53,0.829999983,0.839999974,7,automatic,hv,hv
 2023-05-18T16:40:22.020Z,38.8176651,-122.8231659,2.16,1.08,md,24,50,0.009961,0.02,nc,nc73889646,2023-05-18T16:56:12.993Z,"7km NW of The Geysers, CA",earthquake,0.2,0.38,0.33,25,automatic,nc,nc
 2023-05-18T16:37:06.999Z,58.8147,-153.5186,28,1.6,ml,,,,1.14,ak,ak0236chwru4,2023-05-18T16:39:19.516Z,"91 km NNW of Aleneva, Alaska",earthquake,,7.7,,,automatic,ak,ak
@@ -203,6 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T05:00:57.608Z,61.1442,-146.8768,7.8,1.5,ml,,,,0.57,ak,ak0236cb56m8,2023-05-18T05:03:17.000Z,"28 km W of Valdez, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2023-05-18T04:53:39.660Z,38.7905006,-122.7526703,3.23,0.77,md,9,84,0.01442,0.01,nc,nc73889451,2023-05-18T05:10:14.540Z,"2km NNE of The Geysers, CA",earthquake,0.54,2.4,0.04,9,automatic,nc,nc
 2023-05-18T04:50:12.531Z,37.4477,-116.5807,13.1,0.8,ml,14,278.89,0.192,0.1121,nn,nn00859660,2023-05-18T17:45:10.680Z,"61 km NNE of Beatty, Nevada",earthquake,,4.5,1.1,9,reviewed,nn,nn
+2023-05-18T04:46:57.244Z,36.7372,-116.1357,3.7,-0.3,ml,8,144.59,0.017,0.0721,nn,nn00859678,2023-05-18T22:44:32.734Z,"45 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.05,4,reviewed,nn,nn
 2023-05-18T04:44:30.878Z,37.4669,-116.5904,9.8,0.8,ml,16,254.4,0.212,0.1509,nn,nn00859658,2023-05-18T16:55:25.982Z,"62 km ESE of Goldfield, Nevada",earthquake,,7.1,1.04,9,reviewed,nn,nn
 2023-05-18T04:43:33.420Z,36.8341667,-121.4096667,8.66,2.57,md,74,77,0.01767,0.09,nc,nc73889446,2023-05-18T21:59:23.891Z,"2km SW of Hollister, CA",earthquake,0.15,0.26,0.12,89,reviewed,nc,nc
 2023-05-18T04:40:10.340Z,33.2591667,-116.2458333,11.82,0.89,ml,40,38,0.06665,0.19,ci,ci40227143,2023-05-18T14:22:23.421Z,"12km E of Borrego Springs, CA",earthquake,0.22,0.55,0.08,13,reviewed,ci,ci
@@ -242,7 +243,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-18T01:57:47.559Z,65.6218,-149.0639,1,1.3,ml,,,,0.46,ak,ak0236c93n8j,2023-05-18T01:59:47.618Z,"26 km WNW of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-18T01:54:16.055Z,60.1979,-153.0475,122.6,0.6,ml,,,,0.32,ak,ak0236c92xnp,2023-05-18T01:55:54.890Z,"70 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-18T01:53:52.160Z,9.5591,57.8804,10,4.8,mb,16,124,23.037,0.49,us,us6000kcqx,2023-05-18T05:22:57.040Z,"Carlsberg Ridge",earthquake,7.34,1.922,0.196,8,reviewed,us,us
-2023-05-18T01:35:41.850Z,44.4993333333333,-113.013833333333,2.35,1.19,ml,8,142,0.1768,0.08,mb,mb90014443,2023-05-18T16:12:34.190Z,"33 km SE of Leadore, Idaho",earthquake,0.36,1.16,0.178140679365221,9,reviewed,mb,mb
+2023-05-18T01:35:41.850Z,44.4993333333333,-113.013833333333,2.35,1.19,ml,8,142,0.1768,0.08,mb,mb90014443,2023-05-18T16:12:34.190Z,"Idaho-Montana border region",earthquake,0.36,1.16,0.178140679365221,9,reviewed,mb,mb
 2023-05-18T01:29:06.140Z,38.8026657,-122.7803345,2.24,0.75,md,9,80,0.01058,0.01,nc,nc73889416,2023-05-18T02:00:10.520Z,"4km NW of The Geysers, CA",earthquake,0.5,1.08,0.07,10,automatic,nc,nc
 2023-05-18T01:04:18.365Z,35.3639,-107.5538,14.93,3.8,ml,35,38,0.989,0.71,us,us6000kcpy,2023-05-18T18:21:07.136Z,"8 km ENE of San Mateo, New Mexico",earthquake,2.79,7.259,0.051,50,reviewed,us,us
 2023-05-18T00:59:43.910Z,38.8203333,-122.811,3.54,1.7,md,48,41,0.003142,0.04,nc,nc73889406,2023-05-18T21:35:22.044Z,"7km NW of The Geysers, CA",earthquake,0.16,0.23,0.142,43,reviewed,nc,nc
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T23:04:22.050Z,38.8139992,-122.8274994,1.53,0.76,md,8,172,0.005289,0.01,nc,nc73889366,2023-05-17T23:26:15.419Z,"7km WNW of The Geysers, CA",earthquake,0.45,1.15,0.13,9,automatic,nc,nc
 2023-05-17T23:02:00.237Z,15.1525,-90.8373,252,6.4,mww,151,37,1.61,1.23,us,us6000kcnb,2023-05-18T19:46:50.040Z,"2 km SE of Canillá, Guatemala",earthquake,7.48,1.772,0.024,174,reviewed,us,us
 2023-05-17T22:59:12.720Z,38.8288345,-122.815834,1.71,0.77,md,22,45,0.007053,0.02,nc,nc73889361,2023-05-17T23:16:20.350Z,"8km NW of The Geysers, CA",earthquake,0.19,0.43,0.16,21,automatic,nc,nc
-2023-05-17T22:52:28.800Z,32.827,-115.587,13.22,1.12,ml,14,91,0.06785,0.14,ci,ci40227047,2023-05-17T23:49:12.450Z,"3km SW of Imperial, CA",earthquake,0.36,0.71,0.3,10,reviewed,ci,ci
-2023-05-17T22:51:44.210Z,33.0438333,-116.3768333,13.91,1.03,ml,31,57,0.0614,0.16,ci,ci40227039,2023-05-17T23:43:57.854Z,"21km E of Julian, CA",earthquake,0.2,0.49,0.12,15,reviewed,ci,ci
