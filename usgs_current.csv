@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-29T05:09:23.700Z,19.3396663665771,-155.30549621582,-0.959999978542328,1.97,ml,9,102,,0.349999994,hv,hv73427817,2023-05-29T05:15:01.060Z,"13 km SSW of Volcano, Hawaii",earthquake,0.77,0.610000014,0.13,9,automatic,hv,hv
+2023-05-29T05:09:22.990Z,19.3383331298828,-155.303833007812,2.72000002861023,1.97,ml,37,61,,0.209999993,hv,hv73427812,2023-05-29T05:14:55.110Z,"13 km SSW of Volcano, Hawaii",earthquake,0.32,0.600000024,0.18,11,automatic,hv,hv
+2023-05-29T05:00:10.070Z,34.0421667,-116.7745,13.76,1.06,ml,35,78,0.02851,0.23,ci,ci40236583,2023-05-29T05:03:52.550Z,"14km N of Cabazon, CA",earthquake,0.3,0.5,0.155,30,automatic,ci,ci
+2023-05-29T04:58:50.970Z,33.9379997,-116.93367,-0.44,0.93,ml,13,121,0.1552,0.17,ci,ci40236575,2023-05-29T05:02:13.796Z,"4km ENE of Beaumont, CA",earthquake,0.51,0.86,0.401,9,automatic,ci,ci
+2023-05-29T04:58:11.270Z,19.3848323822021,-155.277496337891,0.899999976158142,2.43,ml,41,64,,0.230000004,hv,hv73427792,2023-05-29T05:03:42.080Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.140000001,0.39,20,automatic,hv,hv
+2023-05-29T04:57:33.108Z,-7.974,-74.3944,147.434,5.1,mww,95,102,1.691,0.71,us,us7000k4qj,2023-05-29T05:13:23.040Z,"Northern Peru",earthquake,8.59,6.471,0.083,14,reviewed,us,us
 2023-05-29T04:53:31.730Z,32.9481667,-116.2233333,12.65,1.11,ml,27,63,0.06761,0.21,ci,ci40236567,2023-05-29T04:57:07.123Z,"23km SSW of Ocotillo Wells, CA",earthquake,0.3,0.8,0.146,19,automatic,ci,ci
 2023-05-29T04:41:37.849Z,61.5367,-149.8709,44.2,1.6,ml,,,,0.51,ak,ak0236uhpba0,2023-05-29T04:43:33.024Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-29T04:40:20.506Z,62.2003,-141.8745,0,2,ml,,,,0.52,ak,ak0236uhp282,2023-05-29T04:42:50.580Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -123,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T14:36:14.970Z,38.8356667,-122.81633,1.2,0.75,md,13,68,0.01319,0.03,nc,nc73890940,2023-05-28T15:10:15.157Z,"8km W of Cobb, CA",earthquake,0.26,0.69,0.17,14,automatic,nc,nc
 2023-05-28T14:08:33.540Z,33.448,-116.6223333,5.79,0.44,ml,15,88,0.04952,0.25,ci,ci40236023,2023-05-28T14:12:09.516Z,"13km SSE of Anza, CA",earthquake,0.53,1.29,0.237,9,automatic,ci,ci
 2023-05-28T13:53:39.390Z,35.6495,-117.572,1.22,0.44,ml,9,126,0.1218,0.12,ci,ci40236007,2023-05-28T13:57:21.186Z,"10km ENE of Ridgecrest, CA",earthquake,0.43,0.58,0.106,3,automatic,ci,ci
-2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T04:35:23.704Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
+2023-05-28T13:41:52.244Z,-37.578,144.8538,9.453,3.6,mb,10,139,0.506,0.41,us,us7000k4me,2023-05-29T05:01:15.315Z,"6 km N of Greenvale, Australia",earthquake,6.66,7.901,0.499,1,reviewed,us,us
 2023-05-28T13:40:31.060Z,38.8185005,-122.8223343,2.3,0.77,md,17,52,0.01075,0.02,nc,nc73890935,2023-05-28T14:14:13.834Z,"7km NW of The Geysers, CA",earthquake,0.28,0.66,0.17,17,automatic,nc,nc
 2023-05-28T13:33:57.622Z,58.1779,-155.251,0.2,0.8,ml,,,,0.88,ak,ak0236szh6zv,2023-05-28T13:39:32.394Z,"82 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-28T13:30:01.478Z,-5.8395,148.0491,112.278,4.4,mb,18,116,3.65,0.93,us,us7000k4mc,2023-05-28T16:19:59.040Z,"82 km NNE of Finschhafen, Papua New Guinea",earthquake,6.76,11.634,0.144,14,reviewed,us,us
@@ -196,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-28T05:24:35.220Z,19.2485008239746,-155.419174194336,31.8299999237061,2.29,ml,55,122,,0.129999995,hv,hv73425807,2023-05-28T05:56:55.040Z,"8 km NE of Pāhala, Hawaii",earthquake,0.55,0.699999988,2.97,24,automatic,hv,hv
 2023-05-28T05:21:55.680Z,36.7756653,-121.4388351,11.69,1.76,md,26,80,0.04782,0.13,nc,nc73890840,2023-05-28T06:21:12.933Z,"8km WSW of Ridgemark, CA",earthquake,0.35,0.68,0.29,22,automatic,nc,nc
 2023-05-28T05:19:23.384Z,61.6036,-150.5925,35,2,ml,,,,0.37,ak,ak0236sumniq,2023-05-28T05:21:08.875Z,"7 km NNW of Susitna, Alaska",earthquake,,25.6,,,automatic,ak,ak
-2023-05-28T05:17:52.750Z,18.0151666666667,-67.1333333333333,13.22,2.55,md,9,202,0.02421,0.13,pr,pr71411343,2023-05-28T05:26:24.280Z,"4 km ESE of Boquerón, Puerto Rico",earthquake,0.88,0.53,0.193085649435128,7,reviewed,pr,pr
