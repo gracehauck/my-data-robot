@@ -4,6 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T13:49:42.071Z,36.9788,-116.2741,10.8,0.3,ml,11,87.18,0.036,0.3368,nn,nn00860910,2023-06-06T13:51:27.678Z,"43 km E of Beatty, Nevada",earthquake,,0.8,0.14,7,automatic,nn,nn
 2023-06-06T13:42:45.690Z,38.8101654,-122.760498,-0.63,0.77,md,8,105,0.009546,0.02,nc,nc73897721,2023-06-06T14:07:15.035Z,"4km WSW of Cobb, CA",earthquake,0.34,1.2,0.23,10,automatic,nc,nc
 2023-06-06T13:41:12.280Z,35.1995,-118.6026667,5.77,1.31,ml,21,46,0.07723,0.14,ci,ci40479360,2023-06-06T13:44:47.918Z,"16km WNW of Tehachapi, CA",earthquake,0.25,0.98,0.165,20,automatic,ci,ci
+2023-06-06T13:40:48.050Z,42.7176667,-110.749,4.91,2.27,ml,18,144,0.2632,0.21,uu,uu60541716,2023-06-06T14:27:38.540Z,"15 km E of Afton, Wyoming",earthquake,0.6,2.06,0.259,6,reviewed,uu,uu
 2023-06-06T13:36:18.431Z,58.2034,-155.2564,2.2,1.9,ml,,,,1.19,ak,ak02377vbuns,2023-06-06T13:44:28.621Z,"85 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-06-06T13:27:58.199Z,58.1509,-154.8692,42.5,1,ml,,,,0.76,ak,ak02377va17v,2023-06-06T13:29:53.129Z,"Alaska Peninsula",earthquake,,3.6,,,automatic,ak,ak
 2023-06-06T13:16:23.017Z,-18.0621,-174.3855,134.256,4.5,mb,29,92,1.754,0.37,us,us7000k6m2,2023-06-06T14:04:44.040Z,"Tonga",earthquake,6.18,8.441,0.116,22,reviewed,us,us
@@ -232,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-05T14:59:55.440Z,38.8358345,-122.7904968,2,1.06,md,17,66,0.002574,0.02,nc,nc73897286,2023-06-05T17:17:15.223Z,"6km WNW of Cobb, CA",earthquake,0.25,0.43,0.09,17,automatic,nc,nc
 2023-06-05T14:53:28.310Z,47.6086666666667,-113.918,16.39,0.72,ml,15,91,0.1135,0.17,mb,mb90016818,2023-06-05T16:04:25.250Z,"13 km ESE of Turtle Lake, Montana",earthquake,0.5,0.63,0.115861894288427,4,reviewed,mb,mb
 2023-06-05T14:40:31.090Z,38.8358345,-122.795166,2.08,0.73,md,12,67,0.00456,0.01,nc,nc73897281,2023-06-05T14:57:13.407Z,"6km WNW of Cobb, CA",earthquake,0.32,0.94,0.18,12,automatic,nc,nc
-2023-06-05T14:35:54.890Z,33.9995,-117.1703333,13.21,1.01,ml,29,79,0.06002,0.13,ci,ci40478728,2023-06-06T00:00:15.126Z,"6km S of Redlands, CA",earthquake,0.23,0.53,0.073,16,reviewed,ci,ci
