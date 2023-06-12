@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-12T03:52:45.580Z,38.7919998,-122.7638321,2.74,1.26,md,16,76,0.01886,0.02,nc,nc73900231,2023-06-12T03:54:22.522Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.71,0.27,16,automatic,nc,nc
-2023-06-12T03:48:31.880Z,38.7921677,-122.7643356,2.6,1.32,md,17,93,0.01846,0.03,nc,nc73900226,2023-06-12T03:50:08.435Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.62,0.17,18,automatic,nc,nc
+2023-06-12T03:52:45.580Z,38.7919998,-122.7638321,2.74,1.26,md,16,76,0.01886,0.02,nc,nc73900231,2023-06-12T04:06:10.215Z,"2km NNW of The Geysers, CA",earthquake,0.29,0.71,0.27,16,automatic,nc,nc
+2023-06-12T03:48:31.880Z,38.7921677,-122.7643356,2.6,1.32,md,17,93,0.01846,0.03,nc,nc73900226,2023-06-12T04:00:11.057Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.62,0.17,18,automatic,nc,nc
 2023-06-12T03:34:32.020Z,35.771,-117.5866667,6.28,1.28,ml,19,126,0.1497,0.2,ci,ci40483640,2023-06-12T03:44:50.980Z,"16km W of Searles Valley, CA",earthquake,0.43,1.41,0.248,10,automatic,ci,ci
 2023-06-12T03:17:20.480Z,33.9386667,-117.0948333,11.98,0.88,ml,17,50,0.09655,0.22,ci,ci40483632,2023-06-12T03:20:49.183Z,"7km SW of Calimesa, CA",earthquake,0.44,1.63,0.097,15,automatic,ci,ci
 2023-06-12T03:17:04.190Z,-7.315,130.1976,96.412,4.6,mb,28,129,2.79,0.64,us,us7000k7xe,2023-06-12T03:34:32.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,9.17,7.68,0.105,27,reviewed,us,us
 2023-06-12T03:11:03.010Z,38.777832,-122.7566681,1.28,0.95,md,9,134,0.0165,0.01,nc,nc73900211,2023-06-12T03:48:13.986Z,"0km NNW of The Geysers, CA",earthquake,0.3,0.67,0.18,8,automatic,nc,nc
-2023-06-12T03:03:44.240Z,37.559,-118.8295,3.84,0.82,md,15,154,0.03097,0.04,nc,nc73900206,2023-06-12T03:26:12.846Z,"13km W of Toms Place, CA",earthquake,0.35,0.56,0.13,16,reviewed,nc,nc
+2023-06-12T03:03:44.240Z,37.559,-118.8295,3.84,0.82,md,15,154,0.03097,0.04,nc,nc73900206,2023-06-12T03:59:15.158Z,"13km W of Toms Place, CA",earthquake,0.35,0.56,0.13,16,reviewed,nc,nc
 2023-06-12T02:59:28.528Z,60.0593,-153.5933,167.8,2,ml,,,,0.33,ak,ak0237hm5580,2023-06-12T03:13:12.670Z,"41 km NE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-12T02:58:40.953Z,62.9517,-149.9977,81.2,1.8,ml,,,,0.49,ak,ak0237hm4ye7,2023-06-12T03:00:52.357Z,"56 km N of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-12T02:39:19.114Z,37.2074,-114.9861,16,1.1,ml,15,205.59,0.206,0.4792,nn,nn00861126,2023-06-12T02:41:51.139Z,"23 km SE of Alamo, Nevada",earthquake,,0.9,0.93,12,automatic,nn,nn
@@ -159,7 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T04:22:48.880Z,38.8185005,-122.8190002,2.61,0.77,md,7,86,0.008515,0.01,nc,nc73899811,2023-06-11T05:52:11.930Z,"7km NW of The Geysers, CA",earthquake,0.6,1.39,0.22,10,automatic,nc,nc
 2023-06-11T04:22:12.660Z,58.1871666666667,-155.275666666667,4.01,0.65,ml,4,226,,0.03,av,av91920111,2023-06-11T05:46:02.130Z,"84 km NW of Karluk, Alaska",earthquake,1.65,0.95,0.265693205477039,4,reviewed,av,av
 2023-06-11T04:14:34.780Z,58.3296666666667,-154.951833333333,2.82,0.45,ml,5,186,,0.07,av,av91920101,2023-06-11T05:43:20.810Z,"89 km NNW of Karluk, Alaska",earthquake,0.53,1.26,0.156614520352606,6,reviewed,av,av
-2023-06-11T04:11:20.130Z,34.057,-117.2571667,15.31,1.16,ml,30,84,0.1169,0.15,ci,ci40483152,2023-06-11T13:47:14.698Z,"1km NNE of Loma Linda, CA",earthquake,0.22,0.48,0.144,32,reviewed,ci,ci
-2023-06-11T04:06:13.400Z,33.143,-116.5178333,4.03,0.84,ml,26,99,0.09111,0.22,ci,ci40483144,2023-06-11T04:09:41.323Z,"11km NE of Julian, CA",earthquake,0.39,1.02,0.162,18,automatic,ci,ci
-2023-06-11T03:56:59.210Z,-5.6977,152.0778,10,4.8,mb,31,90,6.11,1.01,us,us7000k7rd,2023-06-11T04:18:48.040Z,"151 km S of Kokopo, Papua New Guinea",earthquake,4.42,1.872,0.074,59,reviewed,us,us
-2023-06-11T03:56:30.400Z,38.8411674,-122.8736649,2.22,0.33,md,10,105,0.004108,0.01,nc,nc73899806,2023-06-11T05:26:12.750Z,"12km NW of The Geysers, CA",earthquake,0.59,1.11,0.2,11,automatic,nc,nc
