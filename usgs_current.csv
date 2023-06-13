@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-13T05:49:43.830Z,33.2728333,-116.7221667,19.1,0.96,ml,34,49,0.04786,0.18,ci,ci40484432,2023-06-13T05:53:23.609Z,"5km NE of Lake Henshaw, CA",earthquake,0.27,0.61,0.119,25,automatic,ci,ci
 2023-06-13T05:08:20.830Z,32.7616667,-115.4268333,9.35,1.33,ml,13,111,0.04666,0.14,ci,ci40484424,2023-06-13T05:11:47.999Z,"7km SW of Holtville, CA",earthquake,0.68,0.97,0.201,11,automatic,ci,ci
 2023-06-13T05:03:22.400Z,38.8023338,-122.7761688,3.64,0.99,md,22,71,0.01147,0.04,nc,nc73900581,2023-06-13T05:21:13.044Z,"3km NNW of The Geysers, CA",earthquake,0.29,0.64,0.2,23,automatic,nc,nc
 2023-06-13T05:01:59.090Z,17.959,-67.0126666666667,8.28,2.45,md,6,208,0.03178,0.07,pr,pr71413218,2023-06-13T05:11:38.340Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.53,0.6,0.120144855736597,3,reviewed,pr,pr
@@ -128,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T12:38:26.220Z,44.681,-114.2466,6.295,3.7,mwr,38,31,0.602,0.62,us,us7000k7yj,2023-06-12T19:47:14.009Z,"19 km N of Challis, Idaho",earthquake,4.4,5.974,0.033,86,reviewed,us,us
 2023-06-12T12:37:20.162Z,-18.9443,-67.8935,10,4.8,mb,41,72,1.424,0.59,us,us7000k7yi,2023-06-12T12:58:09.040Z,"86 km ENE of Colchane, Chile",earthquake,3.94,1.914,0.065,73,reviewed,us,us
 2023-06-12T12:33:24.100Z,35.6601667,-117.5156667,6.44,0.99,ml,11,117,0.07504,0.12,ci,ci40483840,2023-06-12T12:49:27.225Z,"15km ENE of Ridgecrest, CA",earthquake,0.35,1.05,0.044,7,reviewed,ci,ci
-2023-06-12T12:28:34.080Z,35.7158333,-121.084,6.58,1.47,md,31,72,0.06585,0.1,nc,nc73900321,2023-06-13T04:56:12.894Z,"12km NE of San Simeon, CA",earthquake,0.15,0.36,0.183,25,reviewed,nc,nc
+2023-06-12T12:28:34.080Z,35.7158333,-121.084,6.58,1.47,md,31,72,0.06585,0.1,nc,nc73900321,2023-06-13T05:49:12.217Z,"12km NE of San Simeon, CA",earthquake,0.15,0.36,0.183,25,reviewed,nc,nc
 2023-06-12T12:23:36.910Z,33.9566667,-117.7125,12.96,1.6,ml,59,43,0.05161,0.17,ci,ci40483824,2023-06-12T19:07:02.700Z,"6km SE of Chino Hills, CA",earthquake,0.18,0.36,0.135,39,reviewed,ci,ci
 2023-06-12T12:18:50.392Z,60.3979,-153.0001,147.3,2.5,ml,,,,0.89,ak,ak0237hruqj3,2023-06-12T12:21:13.638Z,"75 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-12T12:13:12.615Z,60.0508,-152.0711,77,1.7,ml,,,,0.19,ak,ak0237hrtl19,2023-06-12T12:14:52.681Z,"22 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
