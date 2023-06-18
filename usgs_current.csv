@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-18T17:35:24.283Z,58.2391,-155.138,35,2,ml,,,,0.15,ak,ak0237rs5ixr,2023-06-18T17:37:26.674Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-06-18T17:16:30.280Z,-23.7974,-175.712,20.795,5.1,mb,57,115,2.657,0.51,us,us7000k9e9,2023-06-18T17:49:32.040Z,"282 km SSW of ‘Ohonua, Tonga",earthquake,9.24,4.694,0.047,143,reviewed,us,us
 2023-06-18T17:04:11.140Z,49.404333333333334,-120.536,-0.37,1.83,ml,10,188,0.5781,0.54,uw,uw61934126,2023-06-18T17:19:19.200Z,"British Columbia, Canada",explosion,2.39,31.61,0.15841521598605368,6,reviewed,uw,uw
 2023-06-18T16:58:43.686Z,31.1228,131.5626,35,4.8,mb,34,114,1.025,0.97,us,us7000k9e7,2023-06-18T17:23:14.040Z,"Kyushu, Japan",earthquake,7.24,1.937,0.083,44,reviewed,us,us
 2023-06-18T16:49:50.870Z,33.9873333,-117.2596667,15.45,1.3,ml,39,96,0.05747,0.24,ci,ci40488272,2023-06-18T17:01:02.510Z,"7km S of Loma Linda, CA",earthquake,0.35,0.44,0.19,28,automatic,ci,ci
