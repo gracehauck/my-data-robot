@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T16:49:50.870Z,33.9873333,-117.2596667,15.45,1.3,ml,39,96,0.05747,0.24,ci,ci40488272,2023-06-18T16:53:23.801Z,"7km S of Loma Linda, CA",earthquake,0.35,0.44,0.19,28,automatic,ci,ci
+2023-06-18T16:34:26.630Z,14.7242,144.2863,10,4.9,mb,45,100,1.54,0.7,us,us7000k9e4,2023-06-18T16:50:03.040Z,"146 km W of San Jose Village, Northern Mariana Islands",earthquake,10.06,1.894,0.081,49,reviewed,us,us
 2023-06-18T16:30:21.411Z,64.771,-147.457,18.8,1.1,ml,,,,0.33,ak,ak0237rrj29p,2023-06-18T16:42:35.907Z,"4 km SE of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-18T16:26:47.420Z,33.1235,-115.6148333,11.15,1.37,ml,14,94,0.02919,0.21,ci,ci40488248,2023-06-18T16:30:29.017Z,"9km W of Calipatria, CA",earthquake,0.77,1.17,0.251,24,automatic,ci,ci
 2023-06-18T16:15:18.281Z,59.5049,-151.9156,53.4,1.9,ml,,,,0.5,ak,ak0237rrfuac,2023-06-18T16:17:14.867Z,"13 km WNW of Seldovia, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -121,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T23:54:40.450Z,47.775333333333336,-122.35666666666667,25.96,1.34,ml,15,115,0.09667,0.27,uw,uw61933881,2023-06-18T00:22:51.400Z,"1 km S of Esperance, Washington",earthquake,0.75,1,0.12702172309741688,6,reviewed,uw,uw
 2023-06-17T23:36:52.767Z,63.1038,-152.3029,5.2,1.7,ml,,,,0.62,ak,ak0237q873q4,2023-06-17T23:38:50.521Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-17T23:23:22.070Z,33.1803333,-116.0235,5.21,0.91,ml,18,60,0.03898,0.21,ci,ci40487944,2023-06-17T23:26:48.930Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.4,0.87,0.101,13,automatic,ci,ci
-2023-06-17T23:16:23.198Z,-23.8814,-175.6535,20.714,5.4,mww,82,89,2.731,0.57,us,us7000k99n,2023-06-18T01:20:55.698Z,"290 km SSW of ‘Ohonua, Tonga",earthquake,9.21,4.363,0.071,19,reviewed,us,us
+2023-06-17T23:16:23.198Z,-23.8814,-175.6535,20.714,5.4,mww,82,89,2.731,0.57,us,us7000k99n,2023-06-18T01:20:55.698Z,"Tonga region",earthquake,9.21,4.363,0.071,19,reviewed,us,us
 2023-06-17T23:14:40.320Z,34.0706667,-117.2906667,11.44,1.38,ml,66,21,0.03524,0.17,ci,ci40487928,2023-06-18T14:22:21.635Z,"2km E of Colton, CA",earthquake,0.15,0.27,0.119,49,reviewed,ci,ci
 2023-06-17T23:14:16.740Z,58.2305,-155.135666666667,5.67,0.06,ml,6,108,,0.05,av,av91928976,2023-06-18T12:23:29.560Z,"84 km NNW of Karluk, Alaska",earthquake,0.35,0.81,0.261965823168815,6,reviewed,av,av
 2023-06-17T23:14:02.591Z,-23.8177,-175.3761,10,5.3,mb,39,94,2.64,0.89,us,us7000k99p,2023-06-18T00:19:52.040Z,"277 km S of ‘Ohonua, Tonga",earthquake,7.28,1.762,0.11,28,reviewed,us,us
