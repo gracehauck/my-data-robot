@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-19T18:16:07.600Z,35.1773338,-119.0826645,17.67,1.94,ml,43,58,0.1185,0.29,ci,ci40489048,2023-06-19T18:18:16.469Z,"18km WSW of Lamont, CA",earthquake,0.34,1.17,0.231,21,automatic,ci,ci
+2023-06-19T18:24:28.210Z,37.0545006,-121.4988327,5.42,1.32,md,13,61,0.05755,0.17,nc,nc73902981,2023-06-19T18:27:12.466Z,"8km NE of Gilroy, CA",earthquake,0.47,3.91,0.13,8,automatic,nc,nc
+2023-06-19T18:16:07.400Z,35.1765,-119.0841667,23.51,2,ml,33,50,0.1684,0.26,ci,ci40489048,2023-06-19T18:26:47.450Z,"18km WSW of Lamont, CA",earthquake,0.36,1.16,0.176,28,automatic,ci,ci
 2023-06-19T17:59:00.890Z,33.7391667,-116.8601667,10.68,1.53,ml,53,31,0.07426,0.18,ci,ci40489032,2023-06-19T18:10:22.800Z,"3km ESE of Valle Vista, CA",earthquake,0.21,0.32,0.183,25,automatic,ci,ci
 2023-06-19T17:48:41.260Z,19.2374992370605,-155.401840209961,31.3500003814697,1.82000005,md,33,153,,0.100000001,hv,hv73455552,2023-06-19T17:50:24.260Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.64,0.730000019,0.910000026,3,automatic,hv,hv
 2023-06-19T17:45:45.369Z,46.2188,153.0898,22.43,4.9,mb,136,135,7.157,0.58,us,us7000k9n3,2023-06-19T18:18:36.040Z,"Kuril Islands",earthquake,7.75,5.506,0.038,218,reviewed,us,us
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T18:38:27.522Z,60.2532,-152.8496,107.7,1.7,ml,,,,0.56,ak,ak0237rsrnog,2023-06-18T18:41:16.229Z,"69 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T18:33:50.642Z,63.2453,-152.7461,9.6,1.2,ml,,,,0.84,ak,ak0237rsqmvq,2023-06-18T18:37:21.948Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-18T18:31:59.990Z,18.0833333333333,-66.9823333333333,13.47,2.57,md,5,161,0.1432,0.08,pr,pr71413918,2023-06-18T18:40:26.880Z,"2 km WNW of Sabana Grande, Puerto Rico",earthquake,1.17,1.55,0.0591360781098258,3,reviewed,pr,pr
-2023-06-18T18:20:31.760Z,46.8798333333333,-112.862833333333,15.72,0.81,ml,13,59,0.1607,0.18,mb,mb90018838,2023-06-19T15:25:59.320Z,"16 km WSW of Lincoln, Montana",earthquake,0.56,0.95,0.164576682071963,5,reviewed,mb,mb
-2023-06-18T18:20:10.310Z,38.7891655,-122.767334,2.02,0.75,md,11,76,0.0129,0.03,nc,nc73902576,2023-06-18T19:17:19.629Z,"2km NW of The Geysers, CA",earthquake,0.33,0.59,0.08,12,automatic,nc,nc
