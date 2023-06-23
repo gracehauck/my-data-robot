@@ -109,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T08:49:38.267Z,58.1922,-155.3124,7.8,0.3,ml,,,,0.68,ak,ak0237zwkftq,2023-06-23T08:52:13.067Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-06-23T08:45:33.057Z,64.7926,-148.0898,1,0.3,ml,,,,0.54,ak,ak0237zwjkg9,2023-06-23T08:47:53.646Z,"7 km SSW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-23T08:44:56.398Z,59.4706,-152.833,90,1.1,ml,,,,0.54,ak,ak0237zwjemf,2023-06-23T08:46:28.607Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-06-23T08:33:14.770Z,54.0003333333333,-167.065,18.11,1.33,ml,6,282,,0.2,av,av91934951,2023-06-23T21:47:09.620Z,"36 km WNW of Dutch Harbor, Alaska",earthquake,1.9,3.03,0.165298435604252,8,reviewed,av,av
 2023-06-23T08:22:34.010Z,33.886,-117.8006667,11.51,0.89,ml,25,66,0.04195,0.17,ci,ci40492616,2023-06-23T20:55:45.011Z,"1km ESE of Yorba Linda, CA",earthquake,0.33,0.45,0.056,11,reviewed,ci,ci
 2023-06-23T08:17:13.680Z,47.970166666666664,-121.63566666666667,11.67,0.97,ml,11,86,0.1888,0.11,uw,uw61926487,2023-06-23T21:19:44.210Z,"Washington",earthquake,0.29,1.89,0.1541645515457557,3,reviewed,uw,uw
 2023-06-23T08:10:56.080Z,33.3881667,-116.8821667,6.11,1.11,ml,53,27,0.03814,0.17,ci,ci40492608,2023-06-23T20:52:11.030Z,"4km NNW of Palomar Observatory, CA",earthquake,0.15,0.45,0.159,28,reviewed,ci,ci
@@ -173,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-23T02:25:57.269Z,65.6969,-145.295,5.4,1.4,ml,,,,0.9,ak,ak0237zsuqge,2023-06-23T02:28:37.655Z,"26 km WNW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-23T02:23:24.780Z,58.1773333333333,-155.3395,2.46,0.2,ml,6,251,,0.14,av,av91934731,2023-06-23T19:29:42.590Z,"85 km NW of Karluk, Alaska",earthquake,0.88,0.63,0.395221826653215,6,reviewed,av,av
 2023-06-23T02:22:52.275Z,56.6388,-148.9231,10,2.9,ml,15,265,2.298,0.28,us,us7000kahi,2023-06-23T02:35:20.040Z,"230 km ESE of Chiniak, Alaska",earthquake,4.93,2.021,0.069,28,reviewed,us,us
+2023-06-23T02:16:59.760Z,40.7141667,-124.2081667,18.84,1.8,md,25,172,0.07054,0.12,nc,nc73904116,2023-06-23T21:48:53.114Z,"2km SW of Humboldt Hill, CA",earthquake,0.45,0.36,0.196,17,reviewed,nc,nc
 2023-06-23T02:15:20.007Z,39.6135,-119.9633,7.2,2.3,ml,28,67.76,0.006,0.1437,nn,nn00861594,2023-06-23T15:39:20.114Z,"7 km S of Cold Springs, Nevada",earthquake,,0.9,0.24,8,reviewed,nn,nn
 2023-06-23T02:10:06.562Z,31.43949959,-103.7479056,0.5015136719,1.9,ml,10,62,0.1230396312,0.1,tx,tx2023megj,2023-06-23T15:55:44.583Z,"14 km NNE of Toyah, Texas",earthquake,1.271044485,2.153071632,0.1,25,reviewed,tx,tx
 2023-06-23T02:01:50.430Z,38.823,-122.794,2.65,0.42,md,27,34,0.01256,0.03,nc,nc73904106,2023-06-23T11:50:13.396Z,"6km NNW of The Geysers, CA",earthquake,0.14,0.29,0.146,26,reviewed,nc,nc
@@ -208,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T22:21:25.220Z,44.6515,-114.372666666667,8.44,1.98,ml,12,95,0.3594,0.17,mb,mb90019398,2023-06-23T14:08:49.800Z,"19 km NW of Challis, Idaho",earthquake,0.6,1.17,0.247401778259244,17,reviewed,mb,mb
 2023-06-22T21:57:42.460Z,38.7799988,-122.7358322,-0.79,0.58,md,8,108,0.02028,0.13,nc,nc73904046,2023-06-22T22:20:14.521Z,"2km E of The Geysers, CA",earthquake,0.33,2.77,0.14,5,automatic,nc,nc
 2023-06-22T21:53:58.060Z,35.46633333,-98.02133333,6.01,1.22,ml,72,62,0.04229170093,0.5,ok,ok2023mdxw,2023-06-23T12:42:22.564Z,"Oklahoma",earthquake,,0.9,0.28,28,reviewed,ok,ok
-2023-06-22T21:49:53.930Z,38.8373337,-122.8099976,1.1,0.69,md,9,66,0.01995,0.02,nc,nc73904041,2023-06-22T22:07:15.451Z,"8km WNW of Cobb, CA",earthquake,0.43,1.1,0.07,9,automatic,nc,nc
-2023-06-22T21:43:52.846Z,38.094,-118.1489,8.7,1.7,ml,7,60.64,0.321,0.1906,nn,nn00861589,2023-06-22T23:51:37.735Z,"33 km S of Mina, Nevada",earthquake,,5.8,0.28,6,reviewed,nn,nn
