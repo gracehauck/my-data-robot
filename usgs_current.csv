@@ -29,8 +29,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T04:26:30.040Z,-56.5325,-27.2332,55.783,4.8,mb,24,131,18.311,0.51,us,us6000knk5,2023-06-28T05:10:26.040Z,"South Sandwich Islands region",earthquake,9.58,7.975,0.111,25,reviewed,us,us
 2023-06-28T04:21:29.480Z,-16.2984,178.5592,10,5.6,mww,61,52,1.518,0.79,us,us6000knjz,2023-06-28T06:30:04.709Z,"87 km W of Labasa, Fiji",earthquake,7.55,1.73,0.098,10,reviewed,us,us
 2023-06-28T04:15:07.880Z,33.3191667,-116.8996667,16.75,2.16,ml,67,30,0.04626,0.22,ci,ci40497728,2023-06-28T04:31:06.523Z,"5km SW of Palomar Observatory, CA",earthquake,0.22,0.61,0.137,26,automatic,ci,ci
-2023-06-28T04:10:49.058Z,58.2557,-155.0852,1.1,1.1,ml,,,,0.29,ak,ak023883n3rd,2023-06-28T04:12:27.283Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
-2023-06-28T04:08:14.895Z,58.2954,-153.3672,249.7,2,ml,,,,0.66,ak,ak023883mlox,2023-06-28T04:10:35.939Z,"Kodiak Island region, Alaska",earthquake,,13.3,,,automatic,ak,ak
+2023-06-28T04:10:49.058Z,58.2557,-155.0852,1.1,1.1,ml,,,,0.29,ak,ak023883n3rd,2023-06-28T04:12:27.283Z,"85 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-06-28T04:08:14.895Z,58.2954,-153.3672,249.7,2,ml,,,,0.66,ak,ak023883mlox,2023-06-28T04:10:35.939Z,"37 km NW of Aleneva, Alaska",earthquake,,13.3,,,automatic,ak,ak
 2023-06-28T03:55:58.532Z,63.0801,-151.4617,8.2,1.3,ml,,,,0.84,ak,ak023883bc3x,2023-06-28T03:58:10.550Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-28T03:54:05.423Z,13.0975,144.5991,55.362,4.9,mb,44,144,2.423,0.53,us,us6000knjq,2023-06-28T07:28:56.393Z,"20 km SSW of Merizo Village, Guam",earthquake,12.89,8.365,0.036,238,reviewed,us,us
 2023-06-28T03:48:47.130Z,38.8123333,-122.8275,1.85,0.4,md,13,86,0.0037,0.01,nc,nc73906211,2023-06-28T04:47:20.319Z,"7km WNW of The Geysers, CA",earthquake,0.29,0.4,0.323,14,reviewed,nc,nc
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T08:01:49.258Z,61.4869,-149.915,31.6,3.2,ml,,,,0.84,ak,ak02386ifk6z,2023-06-28T03:22:55.008Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-06-27T07:58:43.090Z,33.4003333,-116.394,6.72,1.27,ml,66,52,0.07677,0.18,ci,ci40496736,2023-06-27T15:33:21.280Z,"16km N of Borrego Springs, CA",earthquake,0.17,0.48,0.152,44,reviewed,ci,ci
 2023-06-27T07:58:16.760Z,39.1586667,-122.8651667,3.1,1.69,md,22,83,0.04498,0.1,nc,nc73905906,2023-06-27T23:48:12.640Z,"4km E of Upper Lake, CA",earthquake,0.24,0.59,0.1,22,reviewed,nc,nc
-2023-06-27T07:38:37.844Z,39.6224,-119.9658,6.2,0.4,ml,5,119.61,0.015,0.1281,nn,nn00861838,2023-06-27T23:30:14.253Z,"6 km S of Cold Springs, Nevada",earthquake,,1.8,0.18,4,reviewed,nn,nn
