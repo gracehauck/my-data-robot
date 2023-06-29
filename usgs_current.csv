@@ -1,13 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T07:27:58.580Z,37.0526,-115.0903,6.3,1.6,ml,17,168.72,0.55,0.2956,nn,nn00861938,2023-06-29T07:30:39.242Z,"Nevada",earthquake,,1.6,0.82,13,automatic,nn,nn
 2023-06-29T07:18:38.680Z,34.3213333,-117.9608333,1.76,1.21,ml,9,123,0.2012,0.36,ci,ci40498768,2023-06-29T07:22:13.340Z,"19km N of Bradbury, CA",earthquake,1.6,11.32,0.373,19,automatic,ci,ci
 2023-06-29T07:13:50.064Z,58.1782,-155.3776,0,0.8,ml,,,,0.75,ak,ak02389szeal,2023-06-29T07:15:58.400Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-29T07:05:58.116Z,35.8702507,-98.05195618,1.54797256,2.65,ml,72,34.24480772,0.09859204292,0.6497955841,ok,ok2023mppc,2023-06-29T07:10:10.773Z,"Oklahoma",earthquake,1.289375499,1.180720871,0.21,55,automatic,ok,ok
 2023-06-29T07:02:17.649Z,35.87430191,-98.0510025,1.005143285,2.69,ml,73,34.41367722,0.09475570917,0.6952059872,ok,ok2023mpoz,2023-06-29T07:07:03.640Z,"10 km W of Kingfisher, Oklahoma",earthquake,1.303513756,1.17864802,0.22,53,automatic,ok,ok
 2023-06-29T06:59:39.027Z,58.2566,-155.0812,1.1,0.6,ml,,,,0.22,ak,ak02389snsry,2023-06-29T07:01:22.768Z,"85 km NNW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-06-29T06:58:31.010Z,38.8221664,-122.8050003,3.14,1.02,md,14,61,0.004149,0.02,nc,nc73906601,2023-06-29T07:00:04.990Z,"6km NW of The Geysers, CA",earthquake,0.36,0.8,0.26,17,automatic,nc,nc
+2023-06-29T06:58:31.010Z,38.8221664,-122.8050003,3.14,1.02,md,14,61,0.004149,0.02,nc,nc73906601,2023-06-29T07:29:19.066Z,"6km NW of The Geysers, CA",earthquake,0.36,0.8,0.26,17,automatic,nc,nc
 2023-06-29T06:56:54.959Z,-6.1033,154.8982,179.795,4.6,mb,65,68,6.001,0.7,us,us6000kntu,2023-06-29T07:17:10.040Z,"69 km WNW of Panguna, Papua New Guinea",earthquake,8.64,7.266,0.056,109,reviewed,us,us
 2023-06-29T06:55:26.726Z,63.0705,-151.4234,0,1.1,ml,,,,1.12,ak,ak02389smwyw,2023-06-29T06:58:01.983Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T06:55:20.394Z,61.8994,-154.5996,134.1,0.1,ml,,,,0.87,ak,ak02389sn3ro,2023-06-29T06:59:12.549Z,"75 km NE of Lime Village, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2023-06-29T06:52:33.088Z,-35.7461,-73.422,21.6,4.3,mb,25,185,1.017,0.43,us,us6000kntr,2023-06-29T07:33:52.040Z,"Off the coast of Maule, Chile",earthquake,6,7.929,0.239,5,reviewed,us,us
 2023-06-29T06:47:51.787Z,36.5766,-115.3875,0.7,1,ml,13,318.49,0.469,0.2593,nn,nn00861937,2023-06-29T06:49:57.964Z,"25 km E of Indian Springs, Nevada",earthquake,,53.3,0.2,9,automatic,nn,nn
 2023-06-29T06:31:38.740Z,38.8330002,-122.8101654,2.3,0.69,md,9,73,0.009591,0.03,nc,nc73906596,2023-06-29T07:06:16.928Z,"8km W of Cobb, CA",earthquake,0.49,0.94,0.46,9,automatic,nc,nc
 2023-06-29T06:31:07.724Z,61.2368,-150.4355,50.8,1.2,ml,,,,0.13,ak,ak02389shqb8,2023-06-29T06:33:16.797Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
