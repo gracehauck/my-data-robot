@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-04T15:11:13.734Z,61.2609,-149.6097,32.6,1.2,ml,,,,0.53,ak,ak0238i7f3d9,2023-07-04T15:13:10.067Z,"1 km ENE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-04T15:03:41.850Z,35.7801667,-117.6013333,11.98,0.96,ml,10,133,0.1359,0.23,ci,ci40503264,2023-07-04T15:07:25.236Z,"18km W of Searles Valley, CA",earthquake,0.74,1.98,0.049,5,automatic,ci,ci
 2023-07-04T15:03:04.730Z,37.8040009,-122.591835,4.9,1.65,md,18,159,0.08619,0.04,nc,nc73908751,2023-07-04T16:34:13.115Z,"7km S of Muir Beach, CA",earthquake,0.4,0.82,0.11,11,automatic,nc,nc
-2023-07-04T14:58:49.570Z,40.3898333,-124.4095,29.86,3.88,mw,38,223,0.1018,0.16,nc,nc73908746,2023-07-04T21:36:28.384Z,"13km NW of Petrolia, CA",earthquake,0.7,0.45,,4,reviewed,nc,nc
+2023-07-04T14:58:49.570Z,40.3898333,-124.4095,29.86,3.88,mw,38,223,0.1018,0.16,nc,nc73908746,2023-07-04T21:39:45.402Z,"13km NW of Petrolia, CA",earthquake,0.7,0.45,,4,reviewed,nc,nc
 2023-07-04T14:55:45.500Z,38.8221664,-122.8046646,2.88,0.81,md,12,81,0.0044,0.01,nc,nc73908741,2023-07-04T15:52:11.868Z,"6km NW of The Geysers, CA",earthquake,0.37,1.26,0.15,12,automatic,nc,nc
 2023-07-04T14:54:23.492Z,57.7467,-155.9396,0,1.5,ml,,,,0.5,ak,ak0238i72wb1,2023-07-04T14:56:02.003Z,"Alaska Peninsula",earthquake,,28.4,,,automatic,ak,ak
 2023-07-04T14:42:41.440Z,17.9626666666667,-67.0723333333333,6.87,3.11,md,14,233,0.02759,0.19,pr,pr71416208,2023-07-04T16:04:10.280Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.67,0.27,0.108811051790694,8,reviewed,pr,pr
