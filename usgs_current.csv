@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T05:48:46.320Z,17.9623333333333,-66.8413333333333,16.77,2.42,md,14,203,0.03825,0.19,pr,pr71416453,2023-07-06T05:58:03.960Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.61,0.51,0.153423634430236,6,reviewed,pr,pr
 2023-07-06T05:23:17.257Z,60.518,-151.6216,62.9,1.3,ml,,,,0.24,ak,ak0238lcm165,2023-07-06T05:26:27.806Z,"19 km WSW of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-06T05:20:35.203Z,58.1645,-155.4054,0,2,ml,,,,0.42,ak,ak0238lclfeo,2023-07-06T05:48:46.040Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-07-06T05:20:08.170Z,36.6083,-115.9357,6.3,0.5,ml,10,280.45,0.058,0.2282,nn,nn00862217,2023-07-06T05:21:57.495Z,"24 km W of Indian Springs, Nevada",earthquake,,0.9,0.18,8,automatic,nn,nn
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T02:50:00.410Z,38.7963333,-122.8288345,1.56,0.75,md,11,96,0.01212,0.01,nc,nc73909371,2023-07-06T03:27:14.712Z,"7km WNW of The Geysers, CA",earthquake,0.32,0.66,0.11,10,automatic,nc,nc
 2023-07-06T02:45:14.695Z,31.5857,-104.5099,5.802,2.8,ml,14,158,0.083,0.53,us,us6000kqd5,2023-07-06T05:14:52.040Z,"66 km S of Whites City, New Mexico",earthquake,0.97,3.001,0.085,70,reviewed,us,us
 2023-07-06T02:44:38.420Z,32.8863333,-116.2811667,5.04,0.67,ml,13,111,0.0706,0.27,ci,ci40504376,2023-07-06T02:48:07.650Z,"24km ENE of Pine Valley, CA",earthquake,0.71,1.7,0.054,5,automatic,ci,ci
-2023-07-06T02:43:35.170Z,38.7949982,-122.8263321,1.45,1.82,md,32,65,0.01403,0.05,nc,nc73909366,2023-07-06T03:30:10.729Z,"6km WNW of The Geysers, CA",earthquake,0.2,0.29,0.17,34,automatic,nc,nc
+2023-07-06T02:43:35.170Z,38.7949982,-122.8263321,1.45,1.82,md,32,65,0.01403,0.05,nc,nc73909366,2023-07-06T05:50:12.555Z,"6km WNW of The Geysers, CA",earthquake,0.2,0.29,0.17,34,automatic,nc,nc
 2023-07-06T02:43:30.210Z,38.7960014,-122.8280029,2.42,2.15,md,9,98,0.006101,0.06,nc,nc73909361,2023-07-06T05:20:13.377Z,"6km WNW of The Geysers, CA",earthquake,0.61,1.17,0.13,10,automatic,nc,nc
 2023-07-06T02:42:26.330Z,32.7206667,-115.5383333,10.81,1.64,ml,19,54,0.08258,0.22,ci,ci40504368,2023-07-06T02:46:13.436Z,"1km SW of Heber, CA",earthquake,0.45,0.98,0.284,23,automatic,ci,ci
 2023-07-06T02:38:24.130Z,38.831665,-122.8144989,1.45,0.62,md,10,67,0.01779,0.02,nc,nc73909356,2023-07-06T03:07:12.598Z,"8km NW of The Geysers, CA",earthquake,0.31,0.74,0.29,9,automatic,nc,nc
@@ -192,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T06:19:03.566Z,37.2727,-117.6071,8.8,0,ml,4,171.8,0.051,0.0478,nn,nn00862197,2023-07-06T00:34:35.414Z,"California-Nevada border region",earthquake,,4.1,0.81,3,reviewed,nn,nn
 2023-07-05T06:14:44.300Z,38.8276672,-122.8580017,1.78,0.86,md,7,169,0.01484,0.02,nc,nc73909016,2023-07-05T08:28:13.860Z,"10km WNW of The Geysers, CA",earthquake,0.77,0.96,0.39,6,automatic,nc,nc
 2023-07-05T06:04:58.315Z,39.3215,-120.0705,8.4,0.2,ml,6,175.69,0.039,0.0707,nn,nn00862175,2023-07-05T17:27:58.296Z,"9 km SSW of Floriston, California",earthquake,,1.7,0.4,3,reviewed,nn,nn
-2023-07-05T05:58:04.816Z,61.1935,-150.7092,31.7,1.2,ml,,,,0.67,ak,ak0238jpa5s1,2023-07-05T06:00:07.984Z,"20 km ENE of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
