@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-06T17:55:43.912Z,64.849,-151.371,8.6,0.7,ml,,,,0.57,ak,ak0238ljy5ef,2023-07-06T17:58:24.750Z,"38 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-06T17:35:50.790Z,33.4616667,-116.5346667,10.38,0.77,ml,23,122,0.06536,0.15,ci,ci39605786,2023-07-06T17:39:24.309Z,"16km SE of Anza, CA",earthquake,0.3,0.43,0.134,15,automatic,ci,ci
 2023-07-06T17:17:13.470Z,19.2293338775635,-155.400497436523,31.5,1.73000002,md,31,167,,0.140000001,hv,hv73472662,2023-07-06T17:20:24.070Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.59,0.709999979,0.860000014,3,automatic,hv,hv
 2023-07-06T17:13:19.319Z,-7.0351,129.4749,124.939,5.3,mww,80,62,2.532,0.87,us,us6000kqj5,2023-07-06T17:29:39.040Z,"Kepulauan Babar, Indonesia",earthquake,7.58,6.32,0.071,19,reviewed,us,us
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T15:36:57.230Z,38.847332,-122.81633,1.76,0.85,md,12,91,0.009142,0.01,nc,nc73909596,2023-07-06T15:55:14.222Z,"8km WNW of Cobb, CA",earthquake,0.28,0.69,0.18,12,automatic,nc,nc
 2023-07-06T15:12:01.190Z,19.171667098999,-155.495834350586,32.6100006103516,1.88,md,40,95,,0.100000001,hv,hv73472597,2023-07-06T15:15:00.650Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.49,0.800000012,1.38,10,automatic,hv,hv
 2023-07-06T14:45:24.986Z,61.6609,-150.431,29.7,1.2,ml,,,,0.42,ak,ak0238li3nyq,2023-07-06T14:46:51.079Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-06T14:43:01.830Z,38.847332,-122.815834,1.61,1.2,md,25,57,0.00938,0.05,nc,nc73909581,2023-07-06T15:44:11.166Z,"8km WNW of Cobb, CA",earthquake,0.2,0.37,0.16,21,automatic,nc,nc
+2023-07-06T14:43:01.830Z,38.847332,-122.815834,1.61,1.2,md,25,57,0.00938,0.05,nc,nc73909581,2023-07-06T17:58:12.017Z,"8km WNW of Cobb, CA",earthquake,0.2,0.37,0.16,21,automatic,nc,nc
 2023-07-06T14:36:36.730Z,41.2758333,-111.7518333,13.83,0.75,md,10,141,0.1232,0.04,uu,uu60544762,2023-07-06T14:44:04.350Z,"2 km NE of Huntsville, Utah",earthquake,0.54,1.01,0.104,4,reviewed,uu,uu
 2023-07-06T14:33:52.260Z,38.8406677,-122.7925034,1.06,0.43,md,8,94,0.002816,0.06,nc,nc73909576,2023-07-06T14:58:15.886Z,"6km WNW of Cobb, CA",earthquake,0.43,1.2,0.27,7,automatic,nc,nc
 2023-07-06T14:32:16.960Z,36.6554985,-121.3069992,3.89,1.84,md,19,72,0.04497,0.22,nc,nc73909571,2023-07-06T17:26:16.811Z,"15km S of Tres Pinos, CA",earthquake,0.5,1.58,0.16,18,automatic,nc,nc
@@ -182,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T21:56:44.417Z,52.8087,-166.7841,23.3,2.8,ml,,,,0.36,ak,ak0238jysrgb,2023-07-06T01:31:24.181Z,"119 km S of Unalaska, Alaska",earthquake,,2,,,reviewed,ak,ak
 2023-07-05T21:34:46.757Z,62.9363,-150.2615,91,1.2,ml,,,,2,ak,ak0238jyo17g,2023-07-05T21:37:34.945Z,"54 km N of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-05T21:25:32.369Z,34.38783333,-96.84133333,0,1.75,ml,26,179,0.3500313119,0.27,ok,ok2023nbqm,2023-07-06T16:34:34.612Z,"2 km SW of Mill Creek, Oklahoma",quarry blast,,0.5,0.21,4,reviewed,ok,ok
+2023-07-05T21:24:08.077Z,31.61385567,-104.09659,6.337231444999999,1.7,ml,12,64,0.03293472553,0.1,tx,tx2023nbql,2023-07-06T17:59:43.653Z,"43 km NW of Toyah, Texas",earthquake,0.8463060589,0.6640053273999998,0.2,6,reviewed,tx,tx
 2023-07-05T21:19:01.640Z,17.9406666666667,-66.966,6.94,2.91,md,21,215,0.06296,0.12,pr,pr71416388,2023-07-05T23:23:53.689Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.39,0.16,0.172677999805631,14,reviewed,pr,pr
 2023-07-05T21:15:54.540Z,17.969,-66.9661666666667,5.85,2.39,md,6,186,0.0743,0.05,pr,pr71416373,2023-07-05T21:24:40.220Z,"Puerto Rico",earthquake,0.74,0.41,0.0926302884729218,5,reviewed,pr,pr
 2023-07-05T21:12:05.593Z,63.8229,-148.5247,95.6,1.1,ml,,,,0.33,ak,ak0238jyj8kv,2023-07-05T21:14:48.686Z,"Central Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -211,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-05T18:11:31.360Z,32.6403333,-116.1255,10.05,1.21,ml,15,131,0.01667,0.21,ci,ci40504024,2023-07-05T18:14:54.893Z,"16km SW of Ocotillo, CA",earthquake,0.5,0.74,0.258,9,automatic,ci,ci
 2023-07-05T18:07:58.677Z,39.7468,-119.7303,14.1,0.5,ml,5,134.35,0.211,0.0633,nn,nn00862207,2023-07-06T00:53:13.236Z,"11 km N of Spanish Springs, Nevada",earthquake,,3.5,0.33,3,reviewed,nn,nn
 2023-07-05T18:02:22.080Z,33.3141667,-116.7938333,7.97,0.3,ml,23,50,0.06976,0.13,ci,ci40504016,2023-07-06T14:09:35.764Z,"8km SE of Palomar Observatory, CA",earthquake,0.2,0.58,0.05,4,reviewed,ci,ci
-2023-07-05T17:53:19.894Z,64.0443,-22.0652,10,4.5,mb,43,114,0.776,0.67,us,us6000kq9v,2023-07-05T23:25:37.302Z,"6 km SSW of Álftanes, Iceland",earthquake,6.92,1.909,0.062,76,reviewed,us,us
