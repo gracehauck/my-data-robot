@@ -227,7 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-06T07:47:58.678Z,62.2684,-149.9149,16.6,1,ml,,,,0.58,ak,ak0238ldy4rf,2023-07-06T07:50:39.695Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-06T07:47:13.869Z,-41.4401,172.8685,113.351,4.2,mb,24,67,0.324,0.75,us,us6000kqef,2023-07-06T10:12:24.418Z,"15 km WSW of Wakefield, New Zealand",earthquake,5.53,3.454,0.215,8,reviewed,us,us
 2023-07-06T07:46:52.400Z,17.9006666666667,-66.7406666666667,5.76,3.02,md,24,201,0.1282,0.19,pr,pr71416483,2023-07-06T09:05:35.966Z,"10 km SSW of Tallaboa, Puerto Rico",earthquake,0.5,0.34,0.265039244923712,7,reviewed,pr,pr
-2023-07-06T07:44:34.380Z,42.407833333333336,-118.717,-1.46,1.6400000000000001,ml,4,182,0.06491,0.26,uw,uw61938576,2023-07-06T14:29:10.280Z,"46 km N of Denio, Nevada",earthquake,2.33,1.98,0.10989387038565068,3,reviewed,uw,uw
-2023-07-06T07:41:36.480Z,35.722,-121.0876667,7.88,1.41,md,32,77,0.06676,0.08,nc,nc73909456,2023-07-06T22:36:20.809Z,"13km NE of San Simeon, CA",earthquake,0.16,0.39,0.248,30,reviewed,nc,nc
-2023-07-06T07:41:15.620Z,37.5071667,-118.8226667,4.76,2.17,md,25,104,0.08287,0.03,nc,nc73909461,2023-07-06T22:10:13.659Z,"14km WSW of Toms Place, CA",earthquake,0.33,0.94,0.188,32,reviewed,nc,nc
-2023-07-06T07:40:36.385Z,62.7498,-148.8005,5.8,1.5,ml,,,,0.88,ak,ak0238ldwl12,2023-07-06T07:43:11.002Z,"71 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
