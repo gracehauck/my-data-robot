@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-08T10:57:04.050Z,34.0778333,-118.2463333,12.09,1.48,ml,12,171,0.1062,0.27,ci,ci39607586,2023-07-08T11:00:50.909Z,"1km ENE of Echo Park, CA",earthquake,1.17,1.56,0.211,18,automatic,ci,ci
+2023-07-08T10:53:03.861Z,39.4058,-120.2442,8.5,1.1,ml,8,200.39,0.196,0.0732,nn,nn00862326,2023-07-08T10:54:58.521Z,"Northern California",earthquake,,3.2,0.18,7,automatic,nn,nn
+2023-07-08T10:49:23.130Z,35.3536667,-117.615,5.63,1.02,ml,16,94,0.137,0.21,ci,ci39607578,2023-07-08T10:52:54.862Z,"3km SE of Johannesburg, CA",earthquake,0.45,2.29,0.133,13,automatic,ci,ci
 2023-07-08T10:43:09.910Z,36.0353333,-117.7738333,3.08,0.9,ml,6,241,0.05989,0.14,ci,ci39607570,2023-07-08T10:46:38.778Z,"16km E of Coso Junction, CA",earthquake,1.72,1.09,0.131,4,automatic,ci,ci
 2023-07-08T10:29:42.270Z,33.854,-116.9898333,7.61,0.48,ml,8,183,0.1458,0.23,ci,ci39607562,2023-07-08T10:33:11.856Z,"8km NNW of San Jacinto, CA",earthquake,1.17,4.44,0.24,8,automatic,ci,ci
-2023-07-08T10:23:57.370Z,38.8276672,-122.8013306,1.57,1.06,md,18,45,0.008052,0.02,nc,nc73910211,2023-07-08T10:26:39.291Z,"7km W of Cobb, CA",earthquake,0.2,0.47,0.17,19,automatic,nc,nc
+2023-07-08T10:23:57.370Z,38.8276672,-122.8013306,1.57,1.06,md,18,45,0.008052,0.02,nc,nc73910211,2023-07-08T10:55:11.168Z,"7km W of Cobb, CA",earthquake,0.2,0.47,0.17,19,automatic,nc,nc
 2023-07-08T10:13:47.810Z,38.7961655,-122.8093338,3.42,0.88,md,6,132,0.009232,0.01,nc,nc73910201,2023-07-08T10:31:12.997Z,"5km WNW of The Geysers, CA",earthquake,0.59,1.69,0.15,8,automatic,nc,nc
+2023-07-08T10:13:00.166Z,8.9833,127.2022,10,4.5,mb,34,85,2.49,0.61,us,us6000kqy7,2023-07-08T10:51:53.040Z,"98 km E of Aras-asan, Philippines",earthquake,9.99,1.888,0.089,39,reviewed,us,us
 2023-07-08T10:05:43.195Z,63.1123,-151.3638,0,1.1,ml,,,,0.62,ak,ak0238oqk3an,2023-07-08T10:07:44.355Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-08T09:55:15.604Z,62.3217,-154.7643,0.9,1.4,ml,,,,0.6,ak,ak0238oq9bd4,2023-07-08T09:56:58.375Z,"79 km SSW of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-08T09:51:09.930Z,38.8293343,-122.8141632,2.34,0.88,md,17,52,0.006736,0.01,nc,nc73910196,2023-07-08T10:12:12.872Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.23,17,automatic,nc,nc
@@ -42,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-08T04:59:09.630Z,40.7108333,-122.258,18.37,1.55,md,9,99,0.08779,0.09,nc,nc73910126,2023-07-08T07:13:12.792Z,"8km NNW of Bella Vista, CA",earthquake,0.41,0.81,0.111,11,reviewed,nc,nc
 2023-07-08T04:52:28.620Z,38.4878333,-122.54,9.52,1.96,md,81,44,0.06953,0.08,nc,nc73910116,2023-07-08T10:24:12.948Z,"6km WSW of St. Helena, CA",earthquake,0.12,0.22,0.191,78,reviewed,nc,nc
 2023-07-08T04:51:57.460Z,38.7876663,-122.7699966,1.19,0.77,md,9,137,0.01505,0.02,nc,nc73910111,2023-07-08T05:38:14.202Z,"2km NW of The Geysers, CA",earthquake,0.42,0.92,0.04,10,automatic,nc,nc
-2023-07-08T04:51:10.090Z,38.4873333,-122.5448333,7.58,1.32,md,39,44,0.06638,0.08,nc,nc73910121,2023-07-08T06:32:14.524Z,"7km WSW of St. Helena, CA",earthquake,0.15,0.58,0.136,32,reviewed,nc,nc
+2023-07-08T04:51:10.090Z,38.4873333,-122.5448333,7.58,1.32,md,39,44,0.06638,0.08,nc,nc73910121,2023-07-08T10:55:12.167Z,"7km WSW of St. Helena, CA",earthquake,0.15,0.58,0.136,32,reviewed,nc,nc
 2023-07-08T04:42:30.230Z,17.9493333333333,-67.0786666666667,7.03,2.12,md,3,251,0.0384,0.01,pr,pr71416743,2023-07-08T04:59:07.100Z,"4 km SW of La Parguera, Puerto Rico",earthquake,1.29,0.29,0.184128510863373,3,reviewed,pr,pr
 2023-07-08T04:37:45.285Z,39.1156,142.2816,59.376,4.3,mb,31,174,1.916,0.49,us,us6000kqxn,2023-07-08T05:50:43.040Z,"39 km ESE of Kamaishi, Japan",earthquake,8.81,9.056,0.125,18,reviewed,us,us
 2023-07-08T04:37:07.510Z,38.752,-122.4255,6.68,1.24,md,15,96,0.05631,0.11,nc,nc73910106,2023-07-08T09:30:13.611Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.42,1.08,0.153,13,reviewed,nc,nc
@@ -206,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-07T11:30:15.620Z,33.5535,-116.755,4.47,0.47,ml,16,60,0.01896,0.12,ci,ci39606394,2023-07-07T14:34:41.843Z,"8km W of Anza, CA",earthquake,0.23,0.31,0.144,10,reviewed,ci,ci
 2023-07-07T11:28:50.900Z,38.49,-122.6368333,5.64,1.12,md,28,66,0.05333,0.06,nc,nc73909871,2023-07-07T22:28:12.821Z,"8km NE of Santa Rosa, CA",earthquake,0.18,0.36,0.17,24,reviewed,nc,nc
 2023-07-07T11:18:49.770Z,33.3575,-116.2451667,10.25,0.8,ml,32,152,0.1645,0.17,ci,ci39606370,2023-07-07T20:53:46.842Z,"16km NE of Borrego Springs, CA",earthquake,0.3,0.71,0.151,13,reviewed,ci,ci
-2023-07-07T10:59:54.530Z,34.0771667,-117.2666667,17.1,0.44,ml,10,254,0.123,0.09,ci,ci39606362,2023-07-07T14:58:46.871Z,"3km N of Loma Linda, CA",earthquake,0.45,0.7,0.132,7,reviewed,ci,ci
-2023-07-07T10:57:09.280Z,38.7874985,-122.7679977,1.01,0.96,md,17,81,0.01462,0.04,nc,nc73909866,2023-07-07T11:16:12.797Z,"2km NW of The Geysers, CA",earthquake,0.24,0.46,0.22,15,automatic,nc,nc
-2023-07-07T10:56:37.580Z,33.286,-116.2223333,7.98,0.52,ml,18,234,0.1642,0.15,ci,ci39606354,2023-07-07T20:41:23.779Z,"15km ENE of Borrego Springs, CA",earthquake,0.57,2.81,0.055,8,reviewed,ci,ci
