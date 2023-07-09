@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-09T13:44:25.860Z,33.9210014,-117.1068344,17.38,1.03,ml,14,191,0.1011,0.23,ci,ci39608266,2023-07-09T13:46:29.833Z,"9km SSW of Calimesa, CA",earthquake,1.1,1.24,0.072,4,automatic,ci,ci
 2023-07-09T13:33:43.421Z,61.2255,-146.3864,0,1.4,ml,,,,1.11,ak,ak0238qg1qo6,2023-07-09T13:35:44.726Z,"10 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-09T12:52:52.332Z,35.47128677,-98.04328918,0.9373678565,2.13,ml,22,69.52349854,0.04825342074,0.7218821688,ok,ok2023niho,2023-07-09T12:56:40.175Z,"10 km SW of El Reno, Oklahoma",earthquake,2.486048555,1.905774651,0.26,18,automatic,ok,ok
 2023-07-09T12:28:11.885Z,63.3464,-145.454,5.8,1.5,ml,,,,0.72,ak,ak0238qff61w,2023-07-09T12:30:08.125Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
