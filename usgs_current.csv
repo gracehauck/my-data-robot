@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-15T17:23:38.890Z,33.4104996,-116.4455032,12.32,1.13,ml,17,157,0.1439,0.11,ci,ci39613730,2023-07-15T17:25:42.778Z,"18 km NNW of Borrego Springs, CA",earthquake,0.36,1.1,0.57,6,automatic,ci,ci
+2023-07-15T17:23:39.100Z,33.409,-116.4418333,8.69,0.5,ml,14,124,0.1419,0.16,ci,ci39613730,2023-07-15T17:27:13.074Z,"18km NNW of Borrego Springs, CA",earthquake,0.34,1.06,0.11,12,automatic,ci,ci
 2023-07-15T17:21:27.938Z,63.242,-151.5652,6.2,1,ml,,,,0.57,ak,ak02390fky9q,2023-07-15T17:24:12.536Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-15T16:41:39.000Z,33.8206667,-116.9951667,12.15,0.9,ml,25,54,0.1124,0.19,ci,ci39613706,2023-07-15T16:45:10.333Z,"5km NW of San Jacinto, CA",earthquake,0.28,0.81,0.136,25,automatic,ci,ci
 2023-07-15T16:39:53.370Z,38.815834,-122.7943344,2.21,1.07,md,18,60,0.007891,0.01,nc,nc73913331,2023-07-15T17:22:12.832Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.45,0.23,16,automatic,nc,nc
@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T17:51:18.457Z,58.234,-155.1192,34.2,0.8,ml,,,,0.53,ak,ak0238ys80it,2023-07-14T17:53:02.246Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-14T17:49:24.002Z,58.2514,-155.1333,28.4,1.2,ml,,,,0.26,ak,ak0238ys7lio,2023-07-14T17:50:46.512Z,"85 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-14T17:42:30.370Z,38.836,-122.7973333,1.81,0.38,md,19,67,0.005965,0.01,nc,nc73912956,2023-07-14T23:26:59.343Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.44,0.155,18,reviewed,nc,nc
-2023-07-14T17:34:44.200Z,38.8230019,-122.7996674,3.86,0.27,md,7,157,0.01539,0.02,nc,nc73912951,2023-07-14T17:53:18.482Z,"6 km NW of The Geysers, CA",earthquake,0.73,2.21,0.06,8,automatic,nc,nc
-2023-07-14T17:30:20.646Z,39.5065,-119.1723,12.4,0.9,ml,8,108.98,0.262,0.1919,nn,nn00862651,2023-07-15T02:47:48.225Z,"11 km NNE of Silver Springs, Nevada",earthquake,,5.5,0.21,6,reviewed,nn,nn
