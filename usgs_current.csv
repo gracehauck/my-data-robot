@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T09:22:44.390Z,34.8568344,-120.5558319,3.9,1.71,ml,16,91,0.02539,0.21,ci,ci39613506,2023-07-15T09:24:51.249Z,"11 km W of Orcutt, CA",earthquake,0.81,1.45,0.044,4,automatic,ci,ci
+2023-07-15T09:21:29.240Z,32.8921667,-116.5948333,7.7,0.95,ml,32,39,0.03059,0.21,ci,ci39613498,2023-07-15T09:25:08.893Z,"10km NW of Pine Valley, CA",earthquake,0.25,0.62,0.106,14,automatic,ci,ci
+2023-07-15T09:20:30.410Z,32.675,-115.8033333,5.64,1.08,ml,15,112,0.06978,0.21,ci,ci39613490,2023-07-15T09:24:04.467Z,"19km ESE of Ocotillo, CA",earthquake,0.56,1.79,0.16,9,automatic,ci,ci
+2023-07-15T09:18:01.332Z,58.1859,-155.3796,0,0,ml,,,,0.41,ak,ak02390ass85,2023-07-15T09:19:58.314Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-07-15T09:11:33.980Z,61.8288,-149.6186,39.3,1.6,ml,,,,0.24,ak,ak02390arcqe,2023-07-15T09:13:03.442Z,"22 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-15T09:08:14.320Z,38.8226662,-122.7965012,2.91,1.33,md,28,31,0.01063,0.04,nc,nc73913166,2023-07-15T09:11:07.750Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.48,0.18,28,automatic,nc,nc
+2023-07-15T09:08:14.320Z,38.8226662,-122.7965012,2.91,1.33,md,28,31,0.01063,0.04,nc,nc73913166,2023-07-15T09:25:16.040Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.48,0.18,28,automatic,nc,nc
 2023-07-15T08:58:51.452Z,57.3677,-154.0816,39.5,2.2,ml,,,,0.21,ak,ak02390ag14p,2023-07-15T09:04:06.040Z,"20 km SSW of Larsen Bay, Alaska",earthquake,,6.5,,,automatic,ak,ak
 2023-07-15T08:54:35.290Z,37.6251678,-119.0224991,2.23,1.1,md,10,96,0.01213,0.01,nc,nc73913161,2023-07-15T09:12:16.958Z,"4 km WSW of Mammoth Lakes, CA",earthquake,0.35,0.63,0.21,11,automatic,nc,nc
 2023-07-15T08:53:46.841Z,31.5927,-104.3788,5,3.1,ml,23,74,0.663,0.51,us,us7000kfy6,2023-07-15T09:00:36.040Z,"63 km WNW of Toyah, Texas",earthquake,2.99,1.981,0.085,26,reviewed,us,us
