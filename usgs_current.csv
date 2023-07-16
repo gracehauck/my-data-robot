@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T18:34:22.520Z,19.1389999389648,-155.386840820312,31.9899997711182,2.4,ml,46,181,,0.109999999,hv,hv73483992,2023-07-16T18:39:54.000Z,"11 km SE of Pāhala, Hawaii",earthquake,0.51,0.639999986,3.16,22,automatic,hv,hv
 2023-07-16T18:24:59.127Z,65.5987,-149.1239,8.5,1.1,ml,,,,0.77,ak,ak023923qfx4,2023-07-16T18:26:37.335Z,"28 km WNW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T18:23:03.804Z,64.8543,-149.0853,12,0.1,ml,,,,0.37,ak,ak023923q3xo,2023-07-16T18:24:13.720Z,"28 km N of Four Mile Road, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-07-16T18:18:38.141Z,-22.9155,-66.6127,213.583,4.4,mb,75,48,1.444,0.89,us,us7000kg6p,2023-07-16T18:35:17.040Z,"96 km WSW of Abra Pampa, Argentina",earthquake,5.32,6.939,0.064,70,reviewed,us,us
 2023-07-16T18:10:20.179Z,36.02849579,-97.91995239,4.682231903,1.7,ml,24,51.36273193,0.0924045518,0.7902241669,ok,ok2023nvmo,2023-07-16T18:13:59.890Z,"5 km N of Dover, Oklahoma",earthquake,2.638113008,2.413092928,0.28,13,automatic,ok,ok
 2023-07-16T18:03:13.190Z,66.3115,-154.718,0,1.8,ml,,,,1,ak,ak023923luc3,2023-07-16T18:06:50.346Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T17:59:52.820Z,35.6238333,-117.5765,2.18,0.98,ml,14,95,0.1003,0.15,ci,ci39614282,2023-07-16T18:03:21.147Z,"9km E of Ridgecrest, CA",earthquake,0.33,0.66,0.15,5,automatic,ci,ci
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T16:22:44.366Z,60.9338,-152.4246,11,1.9,ml,,,,0.51,ak,ak023922j450,2023-07-16T16:24:31.682Z,"67 km WNW of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-16T16:19:09.630Z,19.4206657409668,-155.276504516602,-0.209999993443489,1.74,ml,13,80,,0.100000001,hv,hv73483902,2023-07-16T16:24:40.980Z,"5 km WSW of Volcano, Hawaii",earthquake,0.23,0.270000011,0.23,4,automatic,hv,hv
 2023-07-16T16:14:00.062Z,-5.7639,148.2707,136.635,5.1,mww,39,66,3.781,0.41,us,us7000kg68,2023-07-16T16:27:49.040Z,"99 km NNE of Finschhafen, Papua New Guinea",earthquake,8.34,6.327,0.098,10,reviewed,us,us
-2023-07-16T16:06:59.787Z,63.2314,-150.4764,125.7,2.4,ml,,,,0.53,ak,ak023922fpvr,2023-07-16T16:19:53.040Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-07-16T16:06:59.787Z,63.2314,-150.4764,125.7,2.4,ml,,,,0.53,ak,ak023922fpvr,2023-07-16T18:34:55.639Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-16T16:06:59.180Z,33.6286667,-116.7158333,15.85,0.56,ml,19,79,0.05329,0.14,ci,ci39614242,2023-07-16T16:10:36.656Z,"9km NNW of Anza, CA",earthquake,0.33,0.65,0.184,12,automatic,ci,ci
 2023-07-16T15:41:28.160Z,19.2836666107178,-155.393997192383,28.2800006866455,1.95000005,md,34,137,,0.129999995,hv,hv73483882,2023-07-16T15:44:35.970Z,"12 km NE of Pāhala, Hawaii",earthquake,0.57,1.02999997,1.94000006,6,automatic,hv,hv
 2023-07-16T15:21:17.678Z,58.1759,-155.3733,1.2,0.3,ml,,,,0.28,ak,ak023921xesr,2023-07-16T15:31:18.885Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
@@ -72,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T12:00:03.773Z,32.2575,142.5001,10,4.8,mb,65,127,2.421,0.47,us,us7000kg4p,2023-07-16T12:16:08.040Z,"Izu Islands, Japan region",earthquake,10.34,1.89,0.039,199,reviewed,us,us
 2023-07-16T11:56:31.690Z,18.0133333333333,-66.789,15.54,2.49,md,7,167,0.09396,0.07,pr,pr71418133,2023-07-16T12:11:30.500Z,"0 km SSE of Guayanilla, Puerto Rico",earthquake,0.47,1.04,0.221229696928837,7,reviewed,pr,pr
 2023-07-16T11:55:27.570Z,17.9648333333333,-66.9036666666667,10.28,2.31,md,12,198,0.008729,0.09,pr,pr71418123,2023-07-16T12:07:14.640Z,"0 km SSE of Guánica, Puerto Rico",earthquake,0.38,0.35,0.0157313972301223,7,reviewed,pr,pr
+2023-07-16T11:54:03.562Z,51.6864,176.5364,22.7,3.3,ml,,,,0.39,ak,ak02391zqrae,2023-07-16T18:31:05.668Z,"262 km ESE of Attu Station, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2023-07-16T11:50:06.258Z,63.6042,-150.8539,0.1,2.1,ml,,,,0.91,ak,ak02391zpv81,2023-07-16T11:52:18.812Z,"43 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-16T11:49:00.700Z,19.2731666564941,-155.391830444336,30.0499992370605,2.35,ml,48,123,,0.150000006,hv,hv73483687,2023-07-16T11:54:31.820Z,"11 km NE of Pāhala, Hawaii",earthquake,0.51,0.579999983,3.22,26,automatic,hv,hv
 2023-07-16T11:46:50.390Z,19.2598323822021,-155.397659301758,29.7299995422363,2.05,ml,43,127,,0.170000002,hv,hv73483682,2023-07-16T11:52:21.270Z,"10 km NE of Pāhala, Hawaii",earthquake,0.54,0.850000024,3.37,7,automatic,hv,hv
@@ -225,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T19:31:50.500Z,34.2918333,-116.8315,5.86,1.08,ml,14,100,0.07956,0.23,ci,ci39613786,2023-07-15T19:46:05.812Z,"4km NNE of Big Bear City, CA",earthquake,0.44,1.11,0.145,24,automatic,ci,ci
 2023-07-15T19:28:48.179Z,57.928,-154.7402,58.1,0.9,ml,,,,0.21,ak,ak02390gtd1t,2023-07-15T19:30:21.908Z,"43 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-15T19:28:25.749Z,62.6607,-150.5693,7,1.2,ml,,,,0.44,ak,ak02390gtbbi,2023-07-15T19:30:23.777Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-15T18:40:17.345Z,68.653,-148.1621,0,2,ml,,,,0.96,ak,ak02390gafnq,2023-07-15T18:42:29.186Z,"122 km WNW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T18:39:32.960Z,38.786499,-122.7249985,0.89,1.07,md,7,117,0.009726,0.01,nc,nc73913366,2023-07-15T19:15:14.566Z,"3 km ENE of The Geysers, CA",earthquake,0.69,2.44,0.18,7,automatic,nc,nc
-2023-07-15T18:38:00.958Z,56.6536,-156.434,34.4,2.5,ml,,,,0.63,ak,ak02390g9yyn,2023-07-15T20:28:36.040Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
