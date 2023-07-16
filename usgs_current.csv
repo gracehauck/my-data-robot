@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-16T04:27:20.040Z,36.0055008,-120.5628357,4.51,1.28,md,10,102,0.02162,0.04,nc,nc73913511,2023-07-16T04:28:57.797Z,"17 km NW of Parkfield, CA",earthquake,0.64,0.67,0.24,6,automatic,nc,nc
+2023-07-16T04:32:47.291Z,63.9442,-150.1605,33.6,0.7,ml,,,,0.69,ak,ak02391vg2au,2023-07-16T04:35:08.089Z,"51 km W of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-16T04:27:20.040Z,36.0055008,-120.5628357,4.51,1.28,md,10,102,0.02162,0.04,nc,nc73913511,2023-07-16T04:38:11.103Z,"17 km NW of Parkfield, CA",earthquake,0.64,0.67,0.24,6,automatic,nc,nc
 2023-07-16T04:16:30.086Z,58.1746,-155.2472,0,0.3,ml,,,,0.37,ak,ak02391vclhc,2023-07-16T04:18:39.701Z,"Alaska Peninsula",earthquake,,117.9,,,automatic,ak,ak
 2023-07-16T04:14:38.240Z,18.6255,-66.581,5.54,2.83,md,9,263,0.3223,0.18,pr,pr71418073,2023-07-16T04:27:49.120Z,"19 km N of Garrochales, Puerto Rico",earthquake,0.87,1.16,0.0904457896731814,4,reviewed,pr,pr
 2023-07-16T04:08:08.500Z,33.9678333,-116.9418333,6.64,1.55,ml,51,41,0.05642,0.21,ci,ci39613986,2023-07-16T04:11:48.758Z,"5km NE of Beaumont, CA",earthquake,0.19,0.56,0.171,26,automatic,ci,ci
@@ -16,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T03:02:21.925Z,61.6749,-150.2771,32.6,1.5,ml,,,,0.42,ak,ak02391uo580,2023-07-16T03:03:52.915Z,"15 km WSW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-16T02:58:35.700Z,46.918166666666664,-121.90816666666667,12.15,0.45,ml,22,108,0.02907,0.13,uw,uw61932002,2023-07-16T04:21:04.440Z,"20 km NNE of Ashford, Washington",earthquake,0.34,0.61,0.16459448139578722,14,reviewed,uw,uw
 2023-07-16T02:49:15.119Z,61.7438,-150.7475,44.8,1.5,ml,,,,0.63,ak,ak02391ucrqv,2023-07-16T02:51:41.577Z,"25 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-07-16T02:48:40.150Z,48.406,-121.85966666666667,3.46,2.05,ml,14,83,0.1611,0.16,uw,uw61931997,2023-07-16T04:40:14.270Z,"14 km NE of Lake Cavanaugh, Washington",earthquake,0.38,15.89,0.0961867385784465,11,reviewed,uw,uw
 2023-07-16T02:45:27.576Z,39.6529,-119.6606,13.6,2.2,ml,18,72.62,0.198,0.3021,nn,nn00862692,2023-07-16T04:07:54.716Z,"4 km E of Spanish Springs, Nevada",earthquake,,0.6,0.28,10,automatic,nn,nn
 2023-07-16T02:16:54.870Z,33.3258333,-116.3911667,8.56,0.89,ml,32,37,0.06146,0.24,ci,ci39613954,2023-07-16T02:20:35.300Z,"8km N of Borrego Springs, CA",earthquake,0.39,1.34,0.134,23,automatic,ci,ci
 2023-07-16T02:08:03.837Z,17.6926,-106.1551,10,4.4,mb,41,201,5.059,0.98,us,us7000kg1w,2023-07-16T02:55:16.040Z,"off the coast of Jalisco, Mexico",earthquake,9.38,1.961,0.036,217,reviewed,us,us
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T23:49:31.067Z,35.00614166,-97.9047699,0.6853352785,1.97,ml,27,57.97462463,0.08018687367,0.8104478851,ok,ok2023nucg,2023-07-15T23:52:48.768Z,"5 km SSE of Chickasha, Oklahoma",earthquake,2.262995496,1.722122242,0.22,20,automatic,ok,ok
 2023-07-15T23:32:22.546Z,31.72577955,-104.5281339,3.45793457,2.5,ml,11,169,0.007296100276,0.1,tx,tx2023nubr,2023-07-15T23:51:34.453Z,"51 km SSW of Whites City, New Mexico",earthquake,0.9196079802,0.6156869694,0.2,10,reviewed,tx,tx
 2023-07-15T23:17:20.933Z,64.9924,-147.397,1.5,1.6,ml,,,,1.01,ak,ak02390j4ohp,2023-07-15T23:20:18.212Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T00:17:13.040Z,"Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
+2023-07-15T23:16:37.863Z,39.6426,-107.4736,5,2.5,ml,17,78,0.257,0.34,us,us7000kg16,2023-07-16T00:17:13.040Z,"7 km NNW of Chacra, Colorado",earthquake,1.6,1.902,0.094,15,reviewed,us,us
 2023-07-15T23:08:40.410Z,38.8381653,-122.8073349,2.15,0.74,md,17,54,0.01327,0.02,nc,nc73913456,2023-07-16T01:16:13.794Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.65,0.27,18,automatic,nc,nc
 2023-07-15T23:00:35.953Z,58.1756,-155.5618,23.6,0.6,ml,,,,0.68,ak,ak02390j12h7,2023-07-15T23:01:59.927Z,"85 km SE of King Salmon, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-07-15T22:37:43.371Z,58.2468,-155.2015,0.1,0.5,ml,,,,0.5,ak,ak02390inkxt,2023-07-15T22:39:10.598Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
