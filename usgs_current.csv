@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-18T11:52:50.020Z,19.4095001220703,-155.407501220703,4.84999990463257,1.96000004,md,37,38,,0.180000007,hv,hv73486602,2023-07-18T11:55:58.810Z,"18 km WSW of Volcano, Hawaii",earthquake,0.32,1.42999995,0.949999988,24,automatic,hv,hv
 2023-07-18T11:41:06.480Z,35.6348333,-117.4568333,9.28,0.85,ml,12,121,0.0405,0.19,ci,ci39615378,2023-07-18T11:44:40.517Z,"16km SSW of Searles Valley, CA",earthquake,0.72,1.17,0.261,4,automatic,ci,ci
 2023-07-18T11:33:59.427Z,62.9407,-150.8316,27.8,1.2,ml,,,,1.02,ak,ak02395ap152,2023-07-18T11:36:02.919Z,"49 km N of Petersville, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-18T10:59:09.447Z,61.0681,-152.4666,24.3,0.7,ml,,,,0.88,ak,ak02395a92ao,2023-07-18T11:01:11.879Z,"71 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
