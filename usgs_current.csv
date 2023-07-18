@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T17:27:48.910Z,38.1168333,-122.1745,-0.12,0.96,md,7,101,0.02082,0.04,nc,nc73914341,2023-07-18T19:12:55.324Z,"5 km E of Vallejo, CA",quarry blast,0.35,31.61,0.048,6,reviewed,nc,nc
 2023-07-18T17:19:48.216Z,37.2685,-117.6085,6.8,0.6,ml,11,103.47,0.046,0.2756,nn,nn00862930,2023-07-18T17:22:14.925Z,"Central California",earthquake,,0.8,0.66,7,automatic,nn,nn
 2023-07-18T17:12:57.480Z,36.5516663,-121.1009979,6.27,2.16,md,32,85,,0.17,nc,nc73914336,2023-07-18T18:07:11.281Z,"4 km ENE of Pinnacles, CA",earthquake,0.46,1.48,0.2,17,automatic,nc,nc
-2023-07-18T17:11:38.891Z,37.0489,-116.2352,4.6,1.1,ml,15,93.98,0.101,0.2497,nn,nn00862928,2023-07-18T17:13:16.641Z,"49 km ENE of Beatty, Nevada",earthquake,,1.7,0.88,12,automatic,nn,nn
+2023-07-18T17:11:38.858Z,37.0715,-116.1942,5.4,1.3,ml,35,48.27,0.073,0.1376,nn,nn00862928,2023-07-18T19:22:37.333Z,"53 km ENE of Beatty, Nevada",earthquake,,1.3,0.29,20,reviewed,nn,nn
 2023-07-18T17:09:41.799Z,37.0705,-116.1967,5.1,0.7,ml,24,49.01,0.071,0.1295,nn,nn00862927,2023-07-18T18:30:05.591Z,"Nevada",earthquake,,1.5,0.25,13,reviewed,nn,nn
 2023-07-18T17:07:07.288Z,58.1878,-155.3625,1.4,1.8,ml,,,,0.55,ak,ak02395e3y4o,2023-07-18T17:08:48.652Z,"87 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-18T16:15:17.380Z,19.1971664428711,-155.406005859375,29.6100006103516,1.97000003,md,24,184,,0.109999999,hv,hv73487062,2023-07-18T16:18:32.090Z,"7 km E of Pāhala, Hawaii",earthquake,0.7,0.99000001,0.589999974,9,automatic,hv,hv
@@ -39,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T13:50:07.822Z,58.1999,-155.4328,0,2.1,ml,,,,1.21,ak,ak02395bzfji,2023-07-18T14:18:38.040Z,"90 km SE of King Salmon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-18T13:41:36.781Z,62.2524,-148.6149,1.6,1.4,ml,,,,0.55,ak,ak02395bxkby,2023-07-18T13:43:39.280Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-18T13:24:50.510Z,44.4821667,-111.0326667,14.53,0.33,md,9,138,0.1329,0.15,uu,uu60545602,2023-07-18T15:20:36.370Z,"Idaho-Montana border region",earthquake,1.07,2.46,0.261,6,reviewed,uu,uu
+2023-07-18T13:14:21.740Z,39.2671667,-123.3056667,4.54,1.21,md,15,74,0.06144,0.08,nc,nc73914281,2023-07-18T19:24:26.089Z,"9 km W of Redwood Valley, CA",earthquake,0.19,0.79,0.172,13,reviewed,nc,nc
 2023-07-18T13:14:00.066Z,63.4915,-148.9111,6.8,1.1,ml,,,,0.33,ak,ak02395brp5y,2023-07-18T13:15:33.690Z,"11 km N of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-18T13:06:25.200Z,38.8138351,-122.8205032,2.17,1.02,md,8,99,0.008398,0.01,nc,nc73914276,2023-07-18T15:34:12.172Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.74,0.25,6,automatic,nc,nc
 2023-07-18T13:04:06.678Z,61.4122,-147.9091,36.9,0.9,ml,,,,0.13,ak,ak02395bpkij,2023-07-18T13:05:11.196Z,"46 km SSW of Glacier View, Alaska",earthquake,,1.3,,,automatic,ak,ak
