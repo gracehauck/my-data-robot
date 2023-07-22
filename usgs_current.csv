@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T08:57:57.260Z,19.2865009307861,-155.422164916992,0.879999995231628,1.80999994,md,26,107,,0.289999992,hv,hv73492222,2023-07-22T09:01:09.630Z,"10 km NNE of Pāhala, Hawaii",earthquake,0.56,0.74000001,1.67999995,6,automatic,hv,hv
 2023-07-22T08:57:55.700Z,33.4793333,-116.8906667,10.79,0.31,ml,19,62,0.07278,0.21,ci,ci39619130,2023-07-22T09:01:43.199Z,"5km NNW of Aguanga, CA",earthquake,0.39,0.81,0.06,10,automatic,ci,ci
 2023-07-22T08:55:25.217Z,39.6103,-119.9761,6,0.7,ml,8,115.01,0.012,0.0826,nn,nn00863111,2023-07-22T14:15:34.776Z,"7 km S of Cold Springs, Nevada",earthquake,,1,0.44,5,reviewed,nn,nn
-2023-07-22T08:52:27.330Z,37.5335,-118.7943333,5.05,0.75,md,22,235,0.04886,0.03,nc,nc73915456,2023-07-22T19:45:53.668Z,"11 km WSW of Toms Place, CA",earthquake,0.8,0.6,0.068,18,reviewed,nc,nc
+2023-07-22T08:52:27.330Z,37.5335,-118.7943333,5.05,0.75,md,22,235,0.04886,0.03,nc,nc73915456,2023-07-22T20:29:19.071Z,"11 km WSW of Toms Place, CA",earthquake,0.8,0.6,0.068,18,reviewed,nc,nc
 2023-07-22T08:51:20.301Z,65.5406,-144.5413,0,1.4,ml,,,,0.57,ak,ak0239bv5w66,2023-07-22T08:53:15.098Z,"12 km ESE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-22T08:43:55.180Z,39.5213,-116.6124,0,1.6,ml,6,170.74,0.817,0.296,nn,nn00863109,2023-07-22T14:12:26.737Z,"39 km E of Austin, Nevada",earthquake,,0,0.18,3,reviewed,nn,nn
 2023-07-22T08:35:55.260Z,18.1846666666667,-67.3913333333333,11.84,2.39,md,11,218,0.203,0.23,pr,pr71418858,2023-07-22T08:50:54.970Z,"21 km SW of Stella, Puerto Rico",earthquake,0.8,0.76,0.183190147175063,6,reviewed,pr,pr
@@ -118,10 +118,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T08:09:03.445Z,58.1373,-154.5352,68.5,1,ml,,,,0.58,ak,ak0239buwuso,2023-07-22T08:10:37.712Z,"63 km N of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-22T08:05:28.300Z,19.4200000762939,-155.277160644531,-0.100000001490116,1.86,ml,13,81,,0.0799999982,hv,hv73492167,2023-07-22T08:10:59.560Z,"5 km WSW of Volcano, Hawaii",earthquake,0.2,0.25,0.29,5,automatic,hv,hv
 2023-07-22T07:40:19.800Z,33.301,-116.2575,0.51,1.31,ml,49,34,0.1377,0.26,ci,ci39619122,2023-07-22T07:44:02.112Z,"12km ENE of Borrego Springs, CA",earthquake,0.26,31.61,0.111,26,automatic,ci,ci
-2023-07-22T07:35:28.360Z,37.7205,-118.7813333,6.18,0.5,md,15,158,0.04965,0.03,nc,nc73915441,2023-07-22T18:59:21.439Z,"20 km ENE of Mammoth Lakes, CA",earthquake,0.4,0.62,0.243,14,reviewed,nc,nc
+2023-07-22T07:35:28.360Z,37.7205,-118.7813333,6.18,0.5,md,15,158,0.04965,0.03,nc,nc73915441,2023-07-22T20:34:14.105Z,"20 km ENE of Mammoth Lakes, CA",earthquake,0.4,0.62,0.243,14,reviewed,nc,nc
 2023-07-22T07:29:53.151Z,61.1422,-147.6839,3.4,1.4,ml,,,,0.6,ak,ak0239buftcj,2023-07-22T07:31:54.113Z,"62 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-22T07:28:52.490Z,36.2393333,-118.351,5.99,1.1,ml,11,180,0.4243,0.28,ci,ci39619114,2023-07-22T07:32:19.942Z,"31km W of Olancha, CA",earthquake,1.5,23.32,0.069,3,automatic,ci,ci
-2023-07-22T07:28:28.680Z,37.5308333,-118.7965,5.36,2.5,md,29,79,0.05199,0.03,nc,nc73915436,2023-07-22T19:54:15.949Z,"11 km WSW of Toms Place, CA",earthquake,0.4,0.49,0.197,41,reviewed,nc,nc
+2023-07-22T07:28:28.680Z,37.5308333,-118.7965,5.36,2.5,md,29,79,0.05199,0.03,nc,nc73915436,2023-07-22T20:34:11.104Z,"11 km WSW of Toms Place, CA",earthquake,0.4,0.49,0.197,41,reviewed,nc,nc
 2023-07-22T07:26:41.466Z,31.6251,-104.4182,5,2.5,ml,22,91,0.083,0.25,us,us7000khkb,2023-07-22T09:42:00.774Z,"61 km S of Whites City, New Mexico",earthquake,2.72,1.964,0.091,27,reviewed,us,us
 2023-07-22T07:26:13.780Z,33.477,-116.4836667,15.93,0.46,ml,21,131,0.1006,0.21,ci,ci39619098,2023-07-22T07:29:45.076Z,"20km ESE of Anza, CA",earthquake,0.45,0.83,0.089,8,automatic,ci,ci
 2023-07-22T07:22:43.150Z,33.4758333,-116.4973333,13.54,0.8,ml,26,96,0.07638,0.16,ci,ci39619090,2023-07-22T07:26:24.801Z,"19km ESE of Anza, CA",earthquake,0.29,0.54,0.182,21,automatic,ci,ci
