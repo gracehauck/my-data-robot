@@ -194,7 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T07:59:34.020Z,36.8294,54.2068,10,4.5,mb,30,180,3.303,0.74,us,us7000khcq,2023-07-21T08:17:09.040Z,"21 km W of Gorgān, Iran",earthquake,8.35,1.974,0.097,31,reviewed,us,us
 2023-07-21T07:54:39.470Z,33.3808333,-116.8955,13.52,1.52,ml,65,35,0.03864,0.18,ci,ci39618234,2023-07-21T19:28:14.510Z,"4km NW of Palomar Observatory, CA",earthquake,0.16,0.38,0.179,26,reviewed,ci,ci
 2023-07-21T07:48:00.414Z,-22.0929,170.1104,10,4.8,mb,24,161,2.52,0.88,us,us7000khcn,2023-07-21T08:05:41.040Z,"238 km ESE of Tadine, New Caledonia",earthquake,11.68,1.927,0.139,16,reviewed,us,us
-2023-07-21T07:38:00.530Z,39.1724,-119.6029,5.6,0.8,ml,5,248.42,0.084,0.063,nn,nn00863077,2023-07-22T02:22:36.806Z,"7 km S of Dayton, Nevada",earthquake,,3.5,0.12,2,reviewed,nn,nn
-2023-07-21T07:36:40.790Z,19.1303329467773,-155.407165527344,31.1499996185303,1.80999994,md,33,219,,0.129999995,hv,hv73490957,2023-07-21T07:39:51.150Z,"11 km SE of Pāhala, Hawaii",earthquake,0.97,0.730000019,1.05999994,6,automatic,hv,hv
-2023-07-21T07:36:06.550Z,34.4618333,-117.948,8.78,0.84,ml,21,40,0.01424,0.12,ci,ci39618226,2023-07-21T19:09:51.635Z,"6km SW of Pearblossom, CA",earthquake,0.19,0.39,0.208,13,reviewed,ci,ci
-2023-07-21T07:32:37.368Z,61.1568,-154.0407,20,1,ml,,,,0.53,ak,ak0239a6x2qp,2023-07-21T07:34:56.870Z,"78 km ESE of Lime Village, Alaska",earthquake,,1.2,,,automatic,ak,ak
