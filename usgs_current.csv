@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-23T11:18:26.348Z,66.0076,-151.4764,11.4,1.5,ml,,,,0.44,ak,ak0239dkahbe,2023-07-23T18:48:41.237Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-23T10:55:59.657Z,12.6732,-44.5645,10,4.7,mb,67,68,10.96,0.44,us,us7000khsg,2023-07-23T11:12:15.040Z,"northern Mid-Atlantic Ridge",earthquake,10.37,1.881,0.038,211,reviewed,us,us
 2023-07-23T10:52:28.834Z,59.8415,-153.3501,128.1,1.8,ml,,,,0.4,ak,ak0239djwc7b,2023-07-23T10:54:29.715Z,"42 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-07-23T10:48:38.974Z,38.157,37.1457,10,4,mb,36,59,0.625,0.57,us,us7000khse,2023-07-23T11:21:35.040Z,"Central Turkey",earthquake,2.35,1.95,0.164,10,reviewed,us,us
