@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-26T08:29:07.950Z,61.5406,-149.9268,34.1,1.6,ml,,,,0.25,ak,ak0239ih6jfv,2023-07-26T08:30:25.326Z,"2 km NE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-26T08:13:41.630Z,33.045,-116.4088333,14.15,0.7,ml,16,99,0.1264,0.14,ci,ci39622434,2023-07-26T08:17:11.814Z,"18km ESE of Julian, CA",earthquake,0.33,0.61,0.123,7,automatic,ci,ci
 2023-07-26T08:11:04.730Z,33.6988333,-117.0221667,11.85,1.55,ml,64,20,0.01954,0.2,ci,ci39622426,2023-07-26T08:21:56.780Z,"6km E of Winchester, CA",earthquake,0.21,0.41,0.17,26,automatic,ci,ci
 2023-07-26T07:51:41.900Z,38.8371658,-122.8068314,2.16,1.77,md,35,32,0.01294,0.02,nc,nc73916821,2023-07-26T08:25:11.705Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.29,0.13,35,automatic,nc,nc
