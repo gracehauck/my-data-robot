@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-26T16:20:32.328Z,-7.3435,121.9408,10,5.1,mb,67,49,3.177,0.85,us,us6000kvqb,2023-07-26T16:38:27.040Z,"144 km NNW of Maumere, Indonesia",earthquake,6.99,1.865,0.095,36,reviewed,us,us
 2023-07-26T16:20:10.750Z,38.8391685,-122.876503,2.25,0.38,md,6,148,0.00621,0.01,nc,nc73917016,2023-07-26T16:21:48.010Z,"12 km WNW of The Geysers, CA",earthquake,0.55,1.54,0.26,8,automatic,nc,nc
 2023-07-26T16:17:57.747Z,61.714,-151.9222,93,0.9,ml,,,,0.27,ak,ak0239ilvjj2,2023-07-26T16:19:33.864Z,"41 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-26T16:01:37.860Z,17.9511666666667,-67.0706666666667,7.66,2,md,5,245,0.03104,0.08,pr,pr71419313,2023-07-26T16:13:29.860Z,"3 km SW of La Parguera, Puerto Rico",earthquake,0.62,0.25,0.158994204686497,3,reviewed,pr,pr
@@ -206,7 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-25T17:09:37.470Z,35.7523333,-117.5733333,7.5,1.48,ml,26,68,0.06625,0.15,ci,ci39621682,2023-07-25T18:03:54.460Z,"15km W of Searles Valley, CA",earthquake,0.24,0.59,0.199,14,reviewed,ci,ci
 2023-07-25T17:06:53.360Z,38.8208351,-122.7908325,1.52,0.77,md,8,74,0.01096,0.02,nc,nc73916576,2023-07-25T19:15:12.915Z,"6 km NNW of The Geysers, CA",earthquake,0.54,1.36,0.13,9,automatic,nc,nc
 2023-07-25T16:47:12.740Z,33.7095,-117.3355,-0.54,1.06,ml,26,59,0.05799,0.17,ci,ci39621634,2023-07-25T17:49:59.077Z,"5km N of Lake Elsinore, CA",quarry blast,0.35,31.61,0.114,13,reviewed,ci,ci
-2023-07-25T16:39:17.730Z,33.4865,-116.8833333,11.08,0.54,ml,18,87,0.02392,0.08,ci,ci39621626,2023-07-25T18:18:42.315Z,"5km NNW of Aguanga, CA",earthquake,0.19,0.38,0.179,18,reviewed,ci,ci
-2023-07-25T16:36:41.244Z,61.1399,-148.8246,26.2,1.1,ml,,,,0.11,ak,ak0239gyg8d8,2023-07-25T16:37:53.978Z,"28 km NE of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-25T16:32:48.202Z,36.6487,-116.2807,6.5,0.4,ml,24,93.28,0.047,0.09,nn,nn00863247,2023-07-25T18:46:28.987Z,"California-Nevada border region",earthquake,,0.9,0.46,9,reviewed,nn,nn
-2023-07-25T16:29:19.749Z,58.1849,-155.301,5.8,0.5,ml,,,,0.9,ak,ak0239gyeoq1,2023-07-25T16:32:16.575Z,"85 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
