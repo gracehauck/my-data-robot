@@ -233,4 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-26T10:43:06.221Z,64.9425,-146.464,13.7,0.9,ml,,,,0.4,ak,ak0239iigeji,2023-07-26T10:44:34.547Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-26T10:40:01.501Z,-57.9809,-23.9688,10,5.3,mww,63,70,16.257,0.82,us,us6000kvm4,2023-07-26T11:02:01.040Z,"South Sandwich Islands region",earthquake,11.96,1.888,0.093,11,reviewed,us,us
 2023-07-26T10:38:19.040Z,39.534,-122.9668333,7.16,1.74,md,26,81,0.1702,0.14,nc,nc73916886,2023-07-26T18:01:13.189Z,"14 km N of Lake Pillsbury, CA",earthquake,0.31,1.24,0.191,26,reviewed,nc,nc
-2023-07-26T10:28:37.919Z,61.3006,-146.8804,29.1,1.4,ml,,,,0.29,ak,ak0239iid98v,2023-07-26T10:29:45.463Z,"34 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
