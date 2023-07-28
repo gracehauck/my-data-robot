@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-28T03:15:21.090Z,38.7883339,-122.7686691,0.89,1.12,md,20,80,0.01413,0.04,nc,nc73917496,2023-07-28T03:16:55.941Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.39,0.14,20,automatic,nc,nc
+2023-07-28T03:18:35.990Z,36.5900002,-121.1305008,11.5,1.21,md,8,179,0.04782,0.08,nc,nc73917501,2023-07-28T03:20:10.565Z,"7 km N of Pinnacles, CA",earthquake,0.95,1.64,0.22,8,automatic,nc,nc
+2023-07-28T03:15:21.090Z,38.7883339,-122.7686691,0.89,1.12,md,20,80,0.01413,0.04,nc,nc73917496,2023-07-28T03:25:10.258Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.39,0.14,20,automatic,nc,nc
+2023-07-28T03:15:18.970Z,17.933,-66.9161666666667,14.62,2.72,md,13,211,0.03964,0.14,pr,pr71419393,2023-07-28T03:25:38.520Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.69,0.42,0.0787458059635604,5,reviewed,pr,pr
 2023-07-28T02:43:29.199Z,63.4905,-149.5892,2.6,2.2,ml,,,,0.92,ak,ak0239loroct,2023-07-28T02:55:00.040Z,"33 km WNW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-28T02:39:34.530Z,34.7401667,-116.2935,6.5,1.64,ml,12,87,0.09535,0.18,ci,ci39624114,2023-07-28T02:43:15.004Z,"12 km W of Ludlow, CA",earthquake,0.44,1.06,0.197,24,automatic,ci,ci
 2023-07-28T02:25:31.540Z,35.703,-117.5153333,2.17,1.09,ml,14,149,0.08362,0.14,ci,ci39624106,2023-07-28T02:29:07.171Z,"12 km SW of Searles Valley, CA",earthquake,0.37,0.61,0.112,7,automatic,ci,ci
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T02:06:47.277Z,11.5913,142.7067,10,4.9,mb,23,131,4.707,1.19,us,us6000kw1y,2023-07-28T02:39:30.040Z,"south of the Mariana Islands",earthquake,15.73,1.91,0.07,64,reviewed,us,us
 2023-07-28T02:06:12.257Z,-14.6541,167.9068,10,4.8,mb,18,191,6.805,0.66,us,us6000kw1s,2023-07-28T02:24:39.040Z,"94 km SSE of Sola, Vanuatu",earthquake,9.13,1.944,0.139,17,reviewed,us,us
 2023-07-28T02:05:42.531Z,61.5061,-147.9904,15.1,0.6,ml,,,,0.18,ak,ak0239lojka5,2023-07-28T02:16:43.089Z,"38 km SSW of Glacier View, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-07-28T01:52:21.049Z,19.1495,-69.6555,84.448,4,mb,26,126,0.726,1.26,us,us6000kw1m,2023-07-28T03:15:38.216Z,"9 km SSW of Sánchez, Dominican Republic",earthquake,6.28,7.693,0.134,16,reviewed,us,us
+2023-07-28T01:52:21.049Z,19.1495,-69.6555,84.448,4,mb,26,126,0.726,1.26,us,us6000kw1m,2023-07-28T03:20:45.451Z,"9 km SSW of Sánchez, Dominican Republic",earthquake,6.28,7.693,0.134,16,reviewed,us,us
 2023-07-28T01:41:34.530Z,33.5863333,-116.7211667,11.98,0.41,ml,21,81,0.02485,0.18,ci,ci39624082,2023-07-28T01:45:16.652Z,"6 km NW of Anza, CA",earthquake,0.36,0.63,0.159,11,automatic,ci,ci
 2023-07-28T01:40:31.682Z,64.863,-148.9992,20,0.3,ml,,,,0.22,ak,ak0239lo5lwg,2023-07-28T01:42:54.539Z,"29 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-28T01:38:25.116Z,-1.9386,-78.0446,139.855,4.8,mb,70,118,0.443,0.86,us,us6000kw1l,2023-07-28T02:29:33.852Z,"27 km SSW of Palora, Ecuador",earthquake,8.49,4.943,0.031,319,reviewed,us,us
@@ -78,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T17:47:59.360Z,38.7784996,-122.7666702,1.14,1.01,md,10,89,0.02215,0.02,nc,nc73917356,2023-07-27T18:34:12.925Z,"1 km W of The Geysers, CA",earthquake,0.3,0.59,0.23,11,automatic,nc,nc
 2023-07-27T17:40:56.160Z,20.0151666666667,-155.274,42.11,2.51,md,46,176,,0.13,hv,hv73499362,2023-07-28T01:51:59.890Z,"5 km NW of Laupāhoehoe, Hawaii",earthquake,0.52,0.75,0.107470481770851,12,reviewed,hv,hv
 2023-07-27T17:39:08.392Z,60.0853,-147.1443,16.7,1.4,ml,,,,0.2,ak,ak0239ka4xkn,2023-07-27T17:40:59.993Z,"48 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-07-27T17:36:51.310Z,60.5118333333333,-152.683333333333,8.65,-0.46,ml,5,194,,0.16,av,av91979606,2023-07-28T03:21:21.770Z,"75 km W of Salamatof, Alaska",earthquake,0.78,1.11,0.173145764036127,5,reviewed,av,av
 2023-07-27T17:34:43.710Z,38.788166,-122.7679977,2.12,1.28,md,24,79,0.01402,0.03,nc,nc73917351,2023-07-27T19:59:19.550Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.42,0.2,23,automatic,nc,nc
 2023-07-27T17:29:02.849Z,57.6048,-153.9404,19.2,2.3,ml,,,,0.39,ak,ak0239ka2rzg,2023-07-27T17:43:05.040Z,"7 km NNE of Larsen Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-27T17:26:45.480Z,33.842,-116.3036667,5.74,0.94,ml,24,93,0.05906,0.16,ci,ci39623722,2023-07-27T17:54:56.284Z,"8km ENE of Thousand Palms, CA",earthquake,0.24,0.84,0.209,24,reviewed,ci,ci
@@ -215,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T03:46:33.541Z,59.722,-153.6192,125.9,1.2,ml,,,,0.49,ak,ak0239k1uf22,2023-07-27T03:48:32.609Z,"28 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-27T03:38:24.720Z,38.7903328,-122.7253342,1.52,0.73,md,8,94,0.01138,0.01,nc,nc73917196,2023-07-27T04:12:14.970Z,"3 km ENE of The Geysers, CA",earthquake,0.57,2.83,0.31,8,automatic,nc,nc
 2023-07-27T03:34:58.305Z,63.5776,-147.8275,7.5,2.6,ml,,,,0.88,ak,ak0239k1rwbb,2023-07-27T03:52:57.040Z,"56 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-27T03:25:11.235Z,59.1318,-152.779,60,1.5,ml,,,,0.39,ak,ak0239k1pvar,2023-07-27T03:27:12.583Z,"54 km WSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
