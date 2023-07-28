@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-28T22:02:54.390Z,19.3436,-63.5918,40,3.86,md,10,327,1.6866,0.14,pr,pr2023209000,2023-07-28T22:35:43.040Z,"136 km NNW of The Valley, Anguilla",earthquake,2.11,11.07,0.05,2,reviewed,pr,pr
 2023-07-28T21:58:47.930Z,33.4691667,-116.4798333,10.96,1.66,ml,57,29,0.07051,0.21,ci,ci39624746,2023-07-28T22:02:40.002Z,"20 km ESE of Anza, CA",earthquake,0.22,0.52,0.151,27,automatic,ci,ci
 2023-07-28T21:52:43.720Z,19.2003326416016,-155.384170532227,31.5499992370605,2.38,ml,48,161,,0.129999995,hv,hv73501387,2023-07-28T22:02:31.040Z,"Island of Hawaii, Hawaii",earthquake,0.61,0.680000007,3.04,23,automatic,hv,hv
 2023-07-28T21:48:28.209Z,62.1586,-152.087,105.9,2,ml,,,,0.41,ak,ak0239m03zgk,2023-07-28T21:50:29.293Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -34,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T19:07:41.626Z,-12.594,166.3406,52.048,4.7,mb,44,125,7.016,0.68,us,us6000kwah,2023-07-28T22:23:19.040Z,"Santa Cruz Islands",earthquake,8.56,5.834,0.088,39,reviewed,us,us
 2023-07-28T18:59:53.700Z,34.9856667,-118.1858333,-0.91,1.15,ml,16,74,0.1122,0.21,ci,ci39624586,2023-07-28T20:31:54.137Z,"8 km S of Mojave, CA",quarry blast,0.45,31.61,0.038,8,reviewed,ci,ci
 2023-07-28T18:49:14.980Z,37.5736667,-118.8635,4.56,1.28,md,22,192,0.03183,0.02,nc,nc73917676,2023-07-28T21:08:10.639Z,"12 km SE of Mammoth Lakes, CA",earthquake,0.45,0.55,0.163,19,reviewed,nc,nc
-2023-07-28T18:31:48.740Z,38.1421667,-122.2305,9.23,2.22,md,87,67,0.03244,0.16,nc,nc73917666,2023-07-28T20:41:11.476Z,"3 km N of Vallejo, CA",earthquake,0.15,0.24,0.119,81,reviewed,nc,nc
+2023-07-28T18:31:48.740Z,38.1421667,-122.2305,9.23,2.22,md,87,67,0.03244,0.16,nc,nc73917666,2023-07-28T22:35:14.195Z,"3 km N of Vallejo, CA",earthquake,0.15,0.24,0.119,81,reviewed,nc,nc
 2023-07-28T18:30:17.880Z,32.596,-117.006,-0.43,1.17,ml,13,209,0.06505,0.27,ci,ci39624514,2023-07-28T20:28:02.015Z,"5 km SE of Chula Vista, CA",quarry blast,1.41,31.61,0.113,6,reviewed,ci,ci
 2023-07-28T18:23:20.984Z,31.61428987,-103.9793146,6.902807617,1.8,ml,25,55,0.009631686099,0.1,tx,tx2023orlc,2023-07-28T21:12:27.800Z,"37 km WSW of Mentone, Texas",earthquake,0.7272361511,0.7272824422,0,7,reviewed,tx,tx
 2023-07-28T18:20:53.470Z,31.61517544,-103.9895401,8.39387207,2.5,ml,13,68,0.02451322626,0.2,tx,tx2023orkz,2023-07-28T20:27:09.653Z,"38 km NNW of Toyah, Texas",earthquake,0.971158629,0.9355015316,0.2,18,reviewed,tx,tx
@@ -202,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-27T22:49:08.220Z,38.8246651,-122.8013306,2.68,1.08,md,26,44,0.006946,0.01,nc,nc73917446,2023-07-28T01:03:15.417Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.44,0.26,25,automatic,nc,nc
 2023-07-27T22:48:58.700Z,56.9015,-158.072833333333,5,0.43,ml,6,242,,0.19,av,av91980026,2023-07-28T04:02:04.320Z,"Alaska Peninsula",earthquake,0.88,1.04,0.490630505173228,6,reviewed,av,av
 2023-07-27T22:44:20.690Z,58.179,-155.330666666667,1.67,-0.07,ml,9,110,,0.06,av,av91980016,2023-07-28T17:46:39.490Z,"85 km NW of Karluk, Alaska",earthquake,0.17,0.52,0.276565520222607,9,reviewed,av,av
-2023-07-27T22:32:21.720Z,58.3261666666667,-154.638166666667,6.34,0.54,ml,11,208,,0.17,av,av91979996,2023-07-28T17:42:01.090Z,"85 km N of Karluk, Alaska",earthquake,0.55,0.94,0.21222429841887,14,reviewed,av,av
