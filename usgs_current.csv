@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T23:38:42.750Z,64.9908,-147.4247,4.4,2,ml,,,,0.8,ak,ak0239m18qmr,2023-07-28T23:40:32.104Z,"9 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-28T23:26:31.110Z,58.1863333333333,-155.283,2.35,0.79,ml,9,92,,0.06,av,av91981666,2023-07-29T05:15:29.110Z,"Alaska Peninsula",earthquake,0.19,0.41,0.30736149668257,9,reviewed,av,av
 2023-07-28T23:05:47.330Z,38.7796669,-122.7649994,0.81,1.12,md,17,86,0.02133,0.04,nc,nc73917771,2023-07-29T02:39:16.569Z,"1 km WNW of The Geysers, CA",earthquake,0.25,0.57,0.14,17,automatic,nc,nc
-2023-07-28T22:58:05.500Z,35.6464996,-121.0619965,5.13,1.33,md,6,117,0.08275,0.03,nc,nc73917766,2023-07-29T02:14:14.451Z,"9 km N of Cambria, CA",earthquake,0.42,1.93,0.13,5,automatic,nc,nc
+2023-07-28T22:58:05.470Z,35.6448333,-121.0591667,6.14,1.44,md,23,116,0.08555,0.09,nc,nc73917766,2023-07-29T06:53:46.332Z,"9 km NNE of Cambria, CA",earthquake,0.21,0.68,0.194,16,reviewed,nc,nc
 2023-07-28T22:53:05.580Z,58.2248333333333,-155.08,3.97,0.53,ml,7,124,,0.13,av,av91981631,2023-07-29T05:11:48.530Z,"81 km NNW of Karluk, Alaska",earthquake,0.43,1.16,0.142589479383871,7,reviewed,av,av
 2023-07-28T22:49:41.391Z,58.1737,-155.0877,19.6,2.4,ml,,,,1.27,ak,ak0239m0pnsr,2023-07-29T05:08:00.110Z,"77 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-28T22:41:55.541Z,62.5485,-151.0682,80.5,1.6,ml,,,,0.35,ak,ak0239m0nz5u,2023-07-28T22:43:44.622Z,"16 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -74,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T21:52:43.720Z,19.2003326416016,-155.384170532227,31.5499992370605,2.38,ml,48,161,,0.129999995,hv,hv73501387,2023-07-28T22:02:31.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.61,0.680000007,3.04,23,automatic,hv,hv
 2023-07-28T21:48:28.209Z,62.1586,-152.087,105.9,2,ml,,,,0.41,ak,ak0239m03zgk,2023-07-28T21:50:29.293Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-28T21:44:06.718Z,62.9237,-151.2958,117.9,1,ml,,,,0.17,ak,ak0239m032xr,2023-07-28T21:46:01.635Z,"54 km NNW of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-07-28T21:30:42.830Z,37.575,-119.0111667,3.48,0.41,md,9,233,0.03734,0.01,nc,nc73917741,2023-07-29T06:49:15.861Z,"7 km SSW of Mammoth Lakes, CA",earthquake,0.93,0.6,0.2,9,reviewed,nc,nc
 2023-07-28T21:14:07.642Z,62.2286,-150.9216,78,1.6,ml,,,,0.57,ak,ak0239lzwnj0,2023-07-28T21:16:11.980Z,"30 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-28T21:04:04.700Z,32.777,-116.8955,-0.34,1.47,ml,32,90,0.05715,0.32,ci,ci39624714,2023-07-28T21:50:53.666Z,"5 km NE of Rancho San Diego, CA",quarry blast,0.45,31.61,0.138,16,reviewed,ci,ci
 2023-07-28T21:01:30.068Z,38.1423,-117.9013,10.1,1.7,ml,5,118.14,0.087,0.1558,nn,nn00863679,2023-07-28T21:42:25.231Z,"32 km SSE of Mina, Nevada",earthquake,,4.2,0.75,4,reviewed,nn,nn
