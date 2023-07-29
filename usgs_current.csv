@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T01:41:18.592Z,58.1941,-155.4083,1.1,0.6,ml,,,,0.21,ak,ak0239nbp53n,2023-07-29T01:43:12.284Z,"89 km NW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-29T01:40:53.870Z,33.4013333,-116.3966667,8.32,0.79,ml,19,142,0.1241,0.23,ci,ci39624842,2023-07-29T01:44:39.236Z,"16 km N of Borrego Springs, CA",earthquake,0.52,1.36,0.123,16,automatic,ci,ci
 2023-07-29T01:34:01.491Z,58.2618,-155.1332,1.5,1,ml,,,,0.5,ak,ak0239nbnlrx,2023-07-29T01:36:37.805Z,"87 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-29T01:34:01.010Z,38.5158333,-119.5203333,4.78,3.13,ml,21,97,0.03182,0.06,nc,nc73917796,2023-07-29T06:35:16.948Z,"4 km W of Walker, CA",earthquake,0.35,0.32,0.174,57,reviewed,nc,nc
+2023-07-29T01:34:01.010Z,38.5158333,-119.5203333,4.78,3.13,ml,21,97,0.03182,0.06,nc,nc73917796,2023-07-29T13:23:21.401Z,"4 km W of Walker, CA",earthquake,0.35,0.32,0.174,57,reviewed,nc,nc
 2023-07-29T01:23:49.578Z,60.4288,-143.2925,19.2,1.3,ml,,,,0.32,ak,ak0239nblclp,2023-07-29T01:25:13.391Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T01:10:37.350Z,33.8926667,-119.1001667,0.87,2.33,ml,19,189,0.2044,0.33,ci,ci39624810,2023-07-29T01:14:28.749Z,"30 km WSW of Malibu, CA",earthquake,1.5,31.61,0.129,26,automatic,ci,ci
 2023-07-29T01:10:35.570Z,33.9138336,-119.2136688,9.86,1.75,ml,24,149,0.2529,0.26,ci,ci39624802,2023-07-29T01:37:25.040Z,"26 km S of Port Hueneme, CA",earthquake,0.77,1.98,0.356,6,automatic,ci,ci
@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T13:43:14.830Z,43.3358,-127.5102,10,2.6,ml,21,287,2.551,0.19,us,us6000kw7i,2023-07-29T04:44:24.040Z,"253 km W of Langlois, Oregon",earthquake,5.09,2.026,0.046,62,reviewed,us,us
 2023-07-28T13:35:23.040Z,-24.2774,-179.9451,507.953,4.7,mb,35,76,5.284,1.06,us,us6000kw7h,2023-07-28T13:54:21.040Z,"south of the Fiji Islands",earthquake,12.44,8.398,0.032,305,reviewed,us,us
 2023-07-28T13:34:20.690Z,46.063,-119.62533333333333,7.16,0.88,ml,8,206,0.1555,0.15,uw,uw61944651,2023-07-28T20:30:32.920Z,"19 km SE of Prosser, Washington",earthquake,1.32,0.54,0.12289300529046421,7,reviewed,uw,uw
-2023-07-28T13:32:54.020Z,53.858,-166.902333333333,3.98,-0.12,ml,6,157,,0.22,av,av91981116,2023-07-29T03:24:30.170Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.55,2.2,0.201137909715011,6,reviewed,av,av
-2023-07-28T13:25:56.540Z,54.2008333333333,-165.9985,7.8,0.15,ml,9,265,,0.1,av,av91981101,2023-07-29T03:30:32.210Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.5,0.31,0.307690768731708,9,reviewed,av,av
