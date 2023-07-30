@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T02:27:54.320Z,38.8353348,-122.8301697,4.72,0.76,md,12,72,0.005273,0.05,nc,nc73918106,2023-07-30T02:44:12.406Z,"9 km NW of The Geysers, CA",earthquake,0.56,0.95,0.12,13,automatic,nc,nc
 2023-07-30T02:27:05.353Z,9.0636,-76.5735,56.342,5.3,mww,72,144,0.289,0.73,us,us6000kwll,2023-07-30T03:17:51.911Z,"28 km NW of Arboletes, Colombia",earthquake,7.75,5.4,0.098,10,reviewed,us,us
 2023-07-30T02:18:42.254Z,63.4,-151.7146,5.9,1.1,ml,,,,0.41,ak,ak0239ozp1jt,2023-07-30T02:22:21.188Z,"15 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-30T02:16:24.208Z,-37.3846,-73.0616,44.969,4.8,mwr,41,80,0.644,0.78,us,us6000kwlf,2023-07-30T03:18:32.797Z,"27 km ENE of Curanilahue, Chile",earthquake,5.57,6.063,0.045,47,reviewed,us,us
+2023-07-30T02:16:24.208Z,-37.3846,-73.0616,44.969,4.8,mwr,41,80,0.644,0.78,us,us6000kwlf,2023-07-30T03:25:26.458Z,"27 km ENE of Curanilahue, Chile",earthquake,5.57,6.063,0.045,47,reviewed,us,us
 2023-07-30T02:11:15.696Z,38.1339,-117.8309,7,1.4,ml,12,127.26,0.112,0.1757,nn,nn00863717,2023-07-30T02:14:03.846Z,"37 km SE of Mina, Nevada",earthquake,,0.4,0.92,8,automatic,nn,nn
 2023-07-30T01:59:31.200Z,38.7955017,-122.8248367,1.79,0.76,md,10,101,0.008253,0.03,nc,nc73918101,2023-07-30T02:32:12.347Z,"6 km WNW of The Geysers, CA",earthquake,0.48,1,0.11,12,automatic,nc,nc
 2023-07-30T01:54:29.099Z,64.5116,-147.1494,0,1.1,ml,,,,0.73,ak,ak0239ozbapp,2023-07-30T01:56:46.981Z,"11 km W of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T03:54:24.722Z,61.3747,-147.2795,34.4,1.4,ml,,,,0.13,ak,ak0239ncyt3c,2023-07-29T03:55:32.143Z,"52 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T03:44:23.535Z,64.747,-147.6022,15,1.2,ml,,,,0.31,ak,ak0239ncwnu9,2023-07-29T03:46:10.334Z,"6 km SSW of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T03:43:52.958Z,64.7505,-147.587,18.1,0.6,ml,,,,0.29,ak,ak0239ncwie7,2023-07-29T03:54:32.894Z,"6 km SSW of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-29T03:31:28.005Z,26.6702,53.1174,10,4,mb,16,189,3.27,0.94,us,us6000kwg3,2023-07-29T03:55:59.040Z,"90 km W of Kīsh, Iran",earthquake,14.18,1.978,0.184,8,reviewed,us,us
-2023-07-29T03:24:30.200Z,-54.2753,-134.0378,10,4.9,mb,19,116,31.219,0.74,us,us6000kwg4,2023-07-29T03:50:52.040Z,"Pacific-Antarctic Ridge",earthquake,15.48,1.902,0.122,21,reviewed,us,us
