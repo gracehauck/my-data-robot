@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T18:53:03.853Z,56.2047,-153.1123,16.6,2.4,ml,,,,0.6,ak,ak0239qwyqyv,2023-07-31T18:56:29.483Z,"Kodiak Island region, Alaska",earthquake,,8.2,,,automatic,ak,ak
+2023-07-31T18:51:09.306Z,59.968,-153.1869,0,0.9,ml,,,,0.96,ak,ak0239qwybte,2023-07-31T18:53:11.349Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T18:37:58.962Z,58.1781,-155.2439,0.1,0.9,ml,,,,0.47,ak,ak0239qwvfma,2023-07-31T18:40:14.302Z,"82 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-31T18:29:19.919Z,58.1856,-155.2829,1.2,0.1,ml,,,,0.64,ak,ak0239qwtmvr,2023-07-31T18:31:09.195Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-31T18:28:50.390Z,38.836834,-122.8026657,2.54,0.38,md,7,114,0.009751,0.01,nc,nc73918776,2023-07-31T18:30:27.829Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.88,0.2,8,automatic,nc,nc
@@ -29,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T15:20:59.160Z,35.6608333,-117.4858333,4.19,0.62,ml,14,100,0.05077,0.16,ci,ci39626130,2023-07-31T18:45:44.545Z,"14 km SSW of Searles Valley, CA",earthquake,0.33,0.85,0.035,3,reviewed,ci,ci
 2023-07-31T15:18:10.993Z,61.6205,-149.9093,45.5,0.9,ml,,,,0.21,ak,ak0239quyyi3,2023-07-31T15:20:08.221Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-07-31T15:15:41.781Z,60.3685,-152.0759,84,1,ml,,,,0.34,ak,ak0239quydqa,2023-07-31T15:16:57.935Z,"40 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-07-31T15:12:34.630Z,46.184666666666665,-122.22016666666667,2.34,-0.29,mh,3,303,0.02536,0.01,uw,uw61936507,2023-07-31T18:50:03.210Z,"Washington",earthquake,5.58,4.02,,0,reviewed,uw,uw
 2023-07-31T14:56:36.596Z,52.2829,179.1871,183.149,4.3,mb,87,55,2.579,0.72,us,us6000kwuz,2023-07-31T17:23:31.414Z,"290 km W of Adak, Alaska",earthquake,6.41,6.52,0.045,142,reviewed,us,us
 2023-07-31T14:52:28.710Z,17.9393333333333,-65.8916666666667,10.67,2.6,md,11,215,0.2057,0.21,pr,pr71419888,2023-07-31T15:14:27.530Z,"6 km S of Emajagua, Puerto Rico",earthquake,0.79,0.7,0.134787418494113,10,reviewed,pr,pr
 2023-07-31T14:51:39.390Z,38.803833,-122.8146667,3.12,0.87,md,14,67,0.0124,0.02,nc,nc73918701,2023-07-31T15:23:14.195Z,"6 km WNW of The Geysers, CA",earthquake,0.33,0.86,0.14,16,automatic,nc,nc
@@ -45,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-31T13:24:23.690Z,65.4445,-144.7774,4.2,1.1,ml,,,,0.63,ak,ak0239qttekh,2023-07-31T13:36:08.505Z,"14 km S of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-31T13:01:34.830Z,38.8289986,-122.814003,1.73,0.71,md,11,78,0.006382,0.02,nc,nc73918686,2023-07-31T13:35:14.452Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.77,0.31,13,automatic,nc,nc
 2023-07-31T12:36:48.056Z,60.2946,-141.066,0,1.7,ml,,,,0.61,ak,ak0239qtalfp,2023-07-31T12:39:29.788Z,"112 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-31T12:29:07.900Z,37.4401667,-121.681,7.57,0.79,md,15,88,0.04347,0.06,nc,nc73918681,2023-07-31T18:49:27.056Z,"15 km ENE of Alum Rock, CA",earthquake,0.27,0.54,0.196,12,reviewed,nc,nc
 2023-07-31T12:28:02.840Z,64.6066,-148.0279,9.9,1.6,ml,,,,1.23,ak,ak0239qt8s7w,2023-07-31T12:29:33.600Z,"25 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-31T12:21:46.450Z,33.686,-116.7393333,15.34,0.71,ml,23,58,0.03272,0.19,ci,ci39626026,2023-07-31T13:22:47.654Z,"6 km SSW of Idyllwild, CA",earthquake,0.36,0.53,0.204,15,reviewed,ci,ci
 2023-07-31T12:12:48.900Z,44.7793333,-110.8021667,3.52,0.23,md,6,201,0.03558,0.1,uu,uu60546607,2023-07-31T18:11:25.950Z,"23 km SSW of Mammoth, Wyoming",earthquake,1,0.94,0.165,4,reviewed,uu,uu
