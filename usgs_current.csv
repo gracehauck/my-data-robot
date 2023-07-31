@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T03:22:03.310Z,17.9366666666667,-66.9635,12.68,2.13,md,5,225,0.08346,0.09,pr,pr71419833,2023-07-31T03:31:46.660Z,"7 km WSW of Guánica, Puerto Rico",earthquake,1.07,0.41,0.0283437040215706,4,reviewed,pr,pr
+2023-07-31T03:18:21.540Z,17.8951666666667,-66.962,11.45,2.52,md,10,243,0.09193,0.08,pr,pr71419818,2023-07-31T03:28:33.890Z,"10 km SW of Guánica, Puerto Rico",earthquake,0.62,0.44,0.068431302354977,5,reviewed,pr,pr
 2023-07-31T03:18:08.050Z,33.7823333,-116.0393333,4.81,1.07,ml,28,63,0.1333,0.17,ci,ci39625898,2023-07-31T03:21:35.254Z,"17 km NE of Coachella, CA",earthquake,0.26,0.86,0.095,25,automatic,ci,ci
 2023-07-31T03:09:40.110Z,33.9695,-116.8181667,12.09,1.22,ml,41,25,0.06241,0.15,ci,ci39625890,2023-07-31T03:20:51.840Z,"6 km NNW of Cabazon, CA",earthquake,0.18,0.45,0.152,27,automatic,ci,ci
 2023-07-31T02:55:42.810Z,38.7781677,-122.7421646,2.21,0.78,md,13,74,0.01988,0.03,nc,nc73918556,2023-07-31T03:23:18.934Z,"1 km E of The Geysers, CA",earthquake,0.35,0.86,0.09,11,automatic,nc,nc
