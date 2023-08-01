@@ -44,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T00:38:14.215Z,61.7913,-150.7042,57.5,1.1,ml,,,,0.51,ak,ak0239s9p3hp,2023-08-01T00:40:42.444Z,"29 km NNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-01T00:16:46.635Z,65.8137,-147.9883,8.8,0.8,ml,,,,0.73,ak,ak0239s9kg8n,2023-08-01T00:18:57.165Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-01T00:11:17.925Z,35.8993988,-97.88298798,3.579665422,2.35,ml,22,45.46217346,0.101463072,0.4613767258,ok,ok2023oxja,2023-08-01T00:14:37.667Z,"6 km NE of Kingfisher, Oklahoma",earthquake,2.211470872,2.294571078,0.19,22,automatic,ok,ok
+2023-08-01T00:00:03.020Z,48.492666666666665,-123.48966666666666,-0.24,0.77,ml,4,164,0.1354,0.34,uw,uw61936792,2023-08-01T04:50:51.410Z,"4 km NNW of Six Mile, Canada",explosion,1.53,31.61,0.070010665340556,3,reviewed,uw,uw
 2023-07-31T23:59:24.000Z,35.9486667,-119.9696667,7.81,1.54,md,20,146,0.2495,0.05,nc,nc73918871,2023-08-01T02:11:11.822Z,"7 km S of Kettleman City, CA",earthquake,0.32,1.41,0.208,19,reviewed,nc,nc
 2023-07-31T23:53:05.700Z,19.4936676025391,-155.461502075195,2.10999989509583,1.7,ml,10,83,,0.0700000003,hv,hv73505277,2023-07-31T23:58:36.410Z,"24 km WNW of Volcano, Hawaii",earthquake,0.43,1.64999998,0.96,4,automatic,hv,hv
 2023-07-31T23:48:25.311Z,61.9123,-152.2066,125.5,1.2,ml,,,,0.27,ak,ak0239qzwvxf,2023-07-31T23:50:50.623Z,"43 km WSW of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
