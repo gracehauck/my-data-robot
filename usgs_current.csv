@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-02T11:11:26.480Z,34.3110008,-116.8679962,4.81,1.71,ml,64,31,0.04989,0.15,ci,ci39627562,2023-08-02T11:13:32.187Z,"6 km NNW of Big Bear City, CA",earthquake,0.18,0.54,0.241,26,automatic,ci,ci
+2023-08-02T11:09:19.690Z,34.0175,-116.6136667,10.01,1.35,ml,40,34,0.03536,0.19,ci,ci39627554,2023-08-02T11:12:49.335Z,"4 km SW of Morongo Valley, CA",earthquake,0.22,0.46,0.142,26,automatic,ci,ci
 2023-08-02T10:56:12.245Z,63.5739,-147.3884,3.6,1.3,ml,,,,0.84,ak,ak0239u3amrs,2023-08-02T10:58:47.581Z,"77 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-02T10:42:37.991Z,64.6612,-149.2828,18.3,0.6,ml,,,,0.34,ak,ak0239u37oqf,2023-08-02T10:44:41.703Z,"10 km NW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-02T10:38:47.049Z,61.6593,-149.4738,35.7,0.9,ml,,,,0.47,ak,ak0239u36ukg,2023-08-02T10:40:40.599Z,"4 km NW of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -246,9 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T11:34:05.320Z,33.6756667,-116.73,15.59,0.22,ml,18,74,0.0412,0.12,ci,ci39626754,2023-08-01T14:35:24.969Z,"7 km S of Idyllwild, CA",earthquake,0.32,0.49,0.136,6,reviewed,ci,ci
 2023-08-01T11:26:18.980Z,34.0278333,-117.2483333,14.21,0.95,ml,49,65,0.08528,0.19,ci,ci39626746,2023-08-01T14:51:15.634Z,"3 km SSE of Loma Linda, CA",earthquake,0.2,0.46,0.082,16,reviewed,ci,ci
 2023-08-01T11:24:02.909Z,64.7793,-153.5591,6.4,0.6,ml,,,,0.96,ak,ak0239sg5p87,2023-08-01T18:13:39.548Z,"82 km WSW of Tanana, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-08-01T11:12:29.250Z,19.1823329925537,-155.480331420898,34.560001373291,1.75,md,28,120,,0.100000001,hv,hv73505742,2023-08-01T11:22:08.606Z,"Island of Hawaii, Hawaii",earthquake,0.78,0.920000017,0.870000005,3,automatic,hv,hv
-2023-08-01T11:09:46.066Z,57.7997,-155.6443,90.4,1,ml,,,,0.23,ak,ak0239sg2pu6,2023-08-01T11:12:32.596Z,"75 km WNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-01T11:06:00.219Z,61.3738,-150.7684,56.3,1,ml,,,,0.49,ak,ak0239sg1z5h,2023-08-01T11:08:14.080Z,"23 km SW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-08-01T11:02:28.420Z,36.5885,-120.9726667,0.73,1.21,md,23,177,0.05477,0.27,nc,nc73918996,2023-08-01T21:13:13.524Z,"16 km ENE of Pinnacles, CA",earthquake,0.63,1.39,0.102,15,reviewed,nc,nc
-2023-08-01T11:02:12.596Z,61.3809,-150.6882,34.9,2.6,ml,,,,0.56,ak,ak0239sg1586,2023-08-01T11:03:37.586Z,"20 km SSW of Susitna, Alaska",earthquake,,1624.4,,,automatic,ak,ak
-2023-08-01T10:59:33.010Z,32.9361667,-116.2421667,9.41,0.78,ml,33,58,0.05466,0.21,ci,ci39626738,2023-08-01T15:58:26.019Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.65,0.139,8,reviewed,ci,ci
