@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T23:11:44.621Z,62.7787,-150.6935,98.7,1.7,ml,,,,0.7,ak,ak0239xludwe,2023-08-04T23:14:05.471Z,"31 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-04T22:58:32.905Z,64.7019,-148.5305,12.7,1.2,ml,,,,1.06,ak,ak0239xlj01m,2023-08-04T23:00:08.064Z,"29 km WSW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T22:57:41.630Z,33.339,-116.3593333,15.36,0.7,ml,18,155,0.04771,0.26,ci,ci40529920,2023-08-04T23:01:47.365Z,"9 km N of Borrego Springs, CA",earthquake,0.65,0.78,0.097,14,automatic,ci,ci
 2023-08-04T22:50:29.890Z,44.8016667,-110.4103333,4.02,1.93,ml,14,138,0.06347,0.14,uu,uu60547007,2023-08-04T22:59:39.000Z,"30 km SE of Mammoth, Wyoming",earthquake,0.6,0.84,0.435,4,reviewed,uu,uu
@@ -205,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T23:39:57.020Z,44.086333333333336,-122.83066666666667,-0.59,1.51,ml,8,101,0.05305,0.31,uw,uw61937807,2023-08-04T04:45:06.150Z,"15 km ENE of Springfield, Oregon",explosion,0.93,31.61,0.1976500062661719,4,reviewed,uw,uw
 2023-08-03T23:32:48.790Z,38.8241653,-122.7993317,3.35,0.36,md,9,121,0.008426,0.01,nc,nc73919926,2023-08-04T00:11:13.177Z,"6 km NW of The Geysers, CA",earthquake,0.64,1.59,0.22,11,automatic,nc,nc
 2023-08-03T23:24:14.152Z,61.992,-148.8404,13,1,ml,,,,0.73,ak,ak0239vydrci,2023-08-03T23:26:31.194Z,"24 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-03T23:15:36.802Z,14.7441,39.4607,10,4.4,mb,34,168,4.591,0.57,us,us6000kxnz,2023-08-03T23:49:17.040Z,"14 km SE of Adi Keyh, Eritrea",earthquake,8.43,1.994,0.107,25,reviewed,us,us
-2023-08-03T23:11:36.946Z,61.5107,-151.6873,99,1.9,ml,,,,0.91,ak,ak0239vyb0x5,2023-08-03T23:24:11.138Z,"52 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
