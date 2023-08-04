@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-04T20:16:39.391Z,36.2954,-115.1899,16,1.5,ml,12,289.34,0.211,0.3679,nn,nn00863969,2023-08-04T20:19:11.006Z,"Nevada",earthquake,,1,0.83,10,automatic,nn,nn
 2023-08-04T20:01:18.390Z,34.3201667,-117.1411667,1.95,1.16,ml,27,47,0.117,0.21,ci,ci40529792,2023-08-04T20:04:50.910Z,"9 km NNE of Lake Arrowhead, CA",earthquake,0.34,0.9,0.195,31,automatic,ci,ci
 2023-08-04T19:47:30.080Z,38.8271675,-122.8003311,1.8,1.47,md,32,32,0.008492,0.02,nc,nc73920316,2023-08-04T20:13:11.960Z,"7 km W of Cobb, CA",earthquake,0.16,0.29,0.17,31,automatic,nc,nc
 2023-08-04T19:46:58.900Z,35.2008333,-118.6698333,6.21,1.36,ml,32,59,0.03392,0.2,ci,ci40529776,2023-08-04T19:50:38.476Z,"14 km E of Arvin, CA",earthquake,0.28,0.83,0.22,19,automatic,ci,ci
@@ -141,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T04:34:07.330Z,17.9216666666667,-66.9915,5.85,2.37,md,10,236,0.0691,0.11,pr,pr71420443,2023-08-04T04:44:51.510Z,"8 km SE of La Parguera, Puerto Rico",earthquake,0.53,0.37,0.0179584343556427,3,reviewed,pr,pr
 2023-08-04T04:27:31.590Z,38.8284988,-122.814003,1.21,0.76,md,8,83,0.005949,0.02,nc,nc73920006,2023-08-04T04:44:13.662Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.86,0.3,10,automatic,nc,nc
 2023-08-04T04:24:49.017Z,39.6362,-119.6452,12,1,ml,7,106.81,0.214,0.0836,nn,nn00863962,2023-08-04T19:17:50.794Z,"Nevada",earthquake,,4.7,0.27,6,reviewed,nn,nn
-2023-08-04T04:09:02.470Z,36.4428333,-121.0113333,6.37,1.35,md,32,123,0.03961,0.17,nc,nc73920001,2023-08-04T18:41:14.439Z,"15 km SE of Pinnacles, CA",earthquake,0.36,0.71,0.156,18,reviewed,nc,nc
+2023-08-04T04:09:02.470Z,36.4428333,-121.0113333,6.37,1.35,md,32,123,0.03961,0.17,nc,nc73920001,2023-08-04T20:22:12.009Z,"15 km SE of Pinnacles, CA",earthquake,0.36,0.71,0.156,18,reviewed,nc,nc
 2023-08-04T03:58:09.220Z,40.2117,-119.8271,5.7,0.5,ml,3,249.86,0.084,0.1001,nn,nn00863961,2023-08-04T19:08:31.305Z,"27 km ENE of Herlong, California",earthquake,,9.9,0.28,2,reviewed,nn,nn
 2023-08-04T03:53:57.509Z,40.1952,-119.806,6.8,2.1,ml,9,233.63,0.062,0.1341,nn,nn00863939,2023-08-04T16:17:58.072Z,"28 km ENE of Herlong, California",earthquake,,1.5,0.17,7,reviewed,nn,nn
 2023-08-04T03:48:01.500Z,46.186,-122.22716666666666,4.95,-0.02,ml,6,192,0.03224,0.07,uw,uw61937862,2023-08-04T04:55:44.830Z,"Washington",earthquake,0.64,0.62,0.11187873484526512,4,reviewed,uw,uw
