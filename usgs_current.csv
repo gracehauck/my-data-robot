@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T15:42:21.000Z,19.2016666666667,-155.373,29.48,2.02,md,38,178,,0.11,hv,hv73509677,2023-08-04T22:51:10.470Z,"11 km E of Pāhala, Hawaii",earthquake,0.62,0.7,0.103241328241049,14,reviewed,hv,hv
 2023-08-04T15:38:17.937Z,63.9742,-151.3307,0,1.3,ml,,,,0.78,ak,ak0239xh8nc1,2023-08-04T15:40:17.877Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-04T15:37:47.280Z,38.7906667,-122.7805,4.11,1.41,md,46,80,0.006317,0.06,nc,nc73920161,2023-08-05T10:31:14.763Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.33,0.162,38,reviewed,nc,nc
-2023-08-04T15:36:17.330Z,48.76233333333333,-121.83116666666666,4.33,1.04,ml,4,157,0.1364,0.15,uw,uw61937972,2023-08-04T17:19:08.130Z,"16 km SSE of Glacier, Washington",earthquake,1.14,13.72,0.05593856703471245,5,reviewed,uw,uw
