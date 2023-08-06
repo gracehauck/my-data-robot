@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T13:34:03.500Z,19.1518325805664,-155.362670898438,27.3199996948242,2.33,ml,50,182,,0.129999995,hv,hv73512397,2023-08-06T13:42:32.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.55,0.74000001,3.58,24,automatic,hv,hv
+2023-08-06T13:31:29.060Z,31.5281667,-115.6221667,8.9,2.12,ml,8,100,0.1942,0.27,ci,ci40530792,2023-08-06T13:34:56.286Z,"89 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.7,4.28,0.169,6,automatic,ci,ci
+2023-08-06T13:23:13.960Z,36.5287,70.9295,75.733,5.2,mb,135,57,2.51,0.67,us,us6000ky9w,2023-08-06T13:39:47.040Z,"38 km SSE of Jurm, Afghanistan",earthquake,6.73,6.404,0.042,183,reviewed,us,us
 2023-08-06T13:11:17.991Z,61.1956,-150.7385,14.7,2.2,ml,,,,0.44,ak,ak023a0qyos7,2023-08-06T13:12:42.710Z,"19 km ENE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T13:08:37.860Z,38.8235016,-122.8068314,2.58,1.07,md,22,49,0.002535,0.02,nc,nc73921036,2023-08-06T13:25:11.122Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.48,0.17,23,automatic,nc,nc
 2023-08-06T13:00:23.906Z,66.1518,-147.5699,0,1.4,ml,,,,0.67,ak,ak023a0qwcd2,2023-08-06T13:02:38.201Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -10,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T12:12:33.420Z,38.7943344,-122.8088303,2.82,1.28,md,27,76,0.007501,0.04,nc,nc73921026,2023-08-06T13:11:12.047Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.43,0.14,28,automatic,nc,nc
 2023-08-06T12:05:34.450Z,38.8300018,-122.8051682,1.39,0.71,md,9,109,0.007629,0.01,nc,nc73921021,2023-08-06T12:33:12.851Z,"7 km W of Cobb, CA",earthquake,0.4,0.88,0.28,10,automatic,nc,nc
 2023-08-06T12:05:33.525Z,36.9973,-114.9608,16,1.2,ml,11,326.12,0.863,0.5137,nn,nn00864041,2023-08-06T12:07:55.879Z,"Nevada",earthquake,,7.3,0.21,6,automatic,nn,nn
-2023-08-06T12:04:11.850Z,38.5066681,-122.5975037,8.45,1.55,md,10,196,0.1103,0.04,nc,nc73921016,2023-08-06T12:44:10.910Z,"8 km S of Calistoga, CA",earthquake,0.79,1.9,0.25,10,automatic,nc,nc
+2023-08-06T12:04:11.850Z,38.5066681,-122.5975037,8.45,1.55,md,10,196,0.1103,0.04,nc,nc73921016,2023-08-06T13:37:13.188Z,"8 km S of Calistoga, CA",earthquake,0.79,1.9,0.25,10,automatic,nc,nc
 2023-08-06T11:52:37.069Z,38.1546,-117.9083,9.9,1.5,ml,11,120.97,0.075,0.2746,nn,nn00864039,2023-08-06T11:55:35.878Z,"31 km SE of Mina, Nevada",earthquake,,0.4,0.36,7,automatic,nn,nn
 2023-08-06T11:50:03.985Z,61.4739,-151.8244,84.7,1.4,ml,,,,0.49,ak,ak023a0q05f2,2023-08-06T11:52:04.281Z,"54 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-06T11:50:03.370Z,34.305,-117.4983333,11.48,1.19,ml,34,40,0.06984,0.22,ci,ci40530776,2023-08-06T12:00:57.000Z,"5 km N of Lytle Creek, CA",earthquake,0.3,0.69,0.264,27,automatic,ci,ci
@@ -154,9 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T13:58:47.334Z,39.6226,-119.6512,8.7,1,ml,10,73.09,0.183,0.2926,nn,nn00864008,2023-08-05T14:00:41.750Z,"Nevada",earthquake,,1.4,0.27,5,automatic,nn,nn
 2023-08-05T13:53:29.590Z,33.4611667,-116.5771667,9.46,0.96,ml,33,77,0.03945,0.17,ci,ci40530296,2023-08-05T13:57:09.697Z,"14 km SE of Anza, CA",earthquake,0.23,0.55,0.163,26,automatic,ci,ci
 2023-08-05T13:53:29.510Z,33.4611664,-116.5759964,10.04,1.09,ml,40,77,0.03998,0.2,ci,ci40530304,2023-08-05T13:55:42.340Z,"14 km SE of Anza, CA",earthquake,0.29,0.65,0.197,13,automatic,ci,ci
-2023-08-05T13:39:28.182Z,61.2964,-150.1107,43.1,1.1,ml,,,,0.39,ak,ak0239z3lce7,2023-08-05T18:54:36.716Z,"10 km SW of Point MacKenzie, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-08-05T13:38:07.708Z,60.1229,-147.2159,19.9,1.8,ml,,,,0.54,ak,ak0239z3l3tu,2023-08-05T13:39:47.043Z,"44 km E of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-05T13:35:44.830Z,38.8230019,-122.8451691,2.06,0.76,md,11,104,0.007921,0.01,nc,nc73920656,2023-08-05T13:37:19.751Z,"9 km WNW of The Geysers, CA",earthquake,0.37,0.73,0.4,12,automatic,nc,nc
-2023-08-05T13:34:43.605Z,62.8317,-149.6885,73.1,1.2,ml,,,,0.44,ak,ak0239z3kbqg,2023-08-05T13:36:22.930Z,"47 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-08-05T13:33:46.250Z,38.8235016,-122.8116684,2.95,0.74,md,16,76,0.00125,0.03,nc,nc73920651,2023-08-05T14:27:15.072Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.86,0.29,17,automatic,nc,nc
-2023-08-05T13:33:25.170Z,43.1791,-126.8594,14.791,2.7,ml,52,238,2.125,0.67,us,us6000ky3v,2023-08-05T16:29:44.040Z,"198 km W of Langlois, Oregon",earthquake,8.22,8.4,0.038,90,reviewed,us,us
