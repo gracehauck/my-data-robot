@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-07T01:39:05.320Z,34.2981667,-118.4868333,8.77,2.13,ml,53,38,0.007177,0.25,ci,ci40531032,2023-08-07T19:09:53.030Z,"3 km NNE of Granada Hills, CA",earthquake,0.24,0.45,0.186,24,reviewed,ci,ci
 2023-08-07T01:33:06.574Z,36.6941,71.2439,188.927,4.1,mb,17,115,2.644,0.89,us,us6000kydf,2023-08-07T03:16:02.040Z,"25 km W of Ashkāsham, Afghanistan",earthquake,8.16,11.72,0.184,8,reviewed,us,us
 2023-08-07T01:13:47.934Z,59.4116,-152.5832,84.3,1.6,ml,,,,0.82,ak,ak023a27dbrd,2023-08-07T01:16:05.240Z,"38 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-07T01:06:09.739Z,57.4703,-153.5769,11.7,3.2,ml,,,,0.72,ak,ak023a27bqst,2023-08-07T01:08:23.186Z,"25 km ESE of Larsen Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-07T01:06:09.739Z,57.4703,-153.5769,11.7,3.2,ml,,,,0.72,ak,ak023a27bqst,2023-08-07T22:25:53.040Z,"25 km ESE of Larsen Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-07T01:00:25.730Z,38.75,-122.736,1.2,0.48,md,9,116,0.007203,0.05,nc,nc73921246,2023-08-07T22:08:37.927Z,"4 km SSE of The Geysers, CA",earthquake,0.4,0.34,0.079,4,reviewed,nc,nc
 2023-08-07T00:57:01.938Z,45.7375,148.9089,162.942,4.6,mb,73,162,4.429,1.04,us,us6000kyd8,2023-08-07T01:16:24.040Z,"98 km NE of Kuril’sk, Russia",earthquake,9.3,7.979,0.033,265,reviewed,us,us
 2023-08-07T00:53:34.860Z,33.5185,-116.5721667,14.68,0.57,ml,25,65,0.03429,0.15,ci,ci37563324,2023-08-07T15:37:46.324Z,"10 km ESE of Anza, CA",earthquake,0.27,0.38,0.239,7,reviewed,ci,ci
@@ -184,4 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T22:48:20.620Z,36.5698318,-121.1941681,6.48,2.13,md,27,75,,0.28,nc,nc73921201,2023-08-07T01:18:17.472Z,"6 km NW of Pinnacles, CA",earthquake,0.56,2.97,0.17,23,automatic,nc,nc
 2023-08-06T22:47:57.670Z,44.1135,-115.058166666667,5.81,2.42,ml,12,129,0.7217,0.14,mb,mb90023743,2023-08-07T20:52:57.170Z,"14 km SW of Stanley, Idaho",earthquake,0.37,0.9,0.198739363855858,21,reviewed,mb,mb
 2023-08-06T22:35:00.750Z,36.0008316,-120.5634995,2.73,1.39,md,13,89,0.02342,0.08,nc,nc73921196,2023-08-07T01:03:14.369Z,"16 km NW of Parkfield, CA",earthquake,0.35,0.59,0.16,5,automatic,nc,nc
-2023-08-06T22:18:18.939Z,60.2969,-153.4159,161.6,1.9,ml,,,,0.39,ak,ak023a0wd3b9,2023-08-06T22:36:32.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
