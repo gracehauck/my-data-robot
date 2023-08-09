@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T07:32:57.270Z,38.8230019,-122.8106689,1.29,0.82,md,14,77,0.0006083,0.01,nc,nc73922086,2023-08-09T07:34:32.570Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.65,0.17,16,automatic,nc,nc
+2023-08-09T07:31:02.683Z,62.0741,-149.7621,45.4,1.2,ml,,,,0.6,ak,ak023a5m4drz,2023-08-09T07:33:17.166Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-09T07:15:24.790Z,33.417,-116.4093333,14.58,0.85,ml,27,124,0.107,0.22,ci,ci40532304,2023-08-09T07:18:58.985Z,"18 km N of Borrego Springs, CA",earthquake,0.42,0.75,0.162,22,automatic,ci,ci
-2023-08-09T07:13:35.770Z,38.8344994,-122.7853317,1.87,1.1,md,15,64,0.005529,0.02,nc,nc73922071,2023-08-09T07:15:13.774Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.46,0.17,18,automatic,nc,nc
+2023-08-09T07:13:35.770Z,38.8344994,-122.7853317,1.87,1.1,md,15,64,0.005529,0.02,nc,nc73922071,2023-08-09T07:27:11.219Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.46,0.17,18,automatic,nc,nc
 2023-08-09T07:09:11.460Z,38.8256683,-122.8111649,0.92,0.77,md,10,210,0.002425,0.01,nc,nc73922066,2023-08-09T07:10:48.446Z,"7 km NW of The Geysers, CA",earthquake,0.59,0.59,0.14,10,automatic,nc,nc
 2023-08-09T07:08:17.303Z,60.0614,-153.2515,126.4,1.7,ml,,,,0.4,ak,ak023a5lzheq,2023-08-09T07:10:03.173Z,"56 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-09T06:57:17.910Z,36.1888351,-120.7668304,6.8,1.48,md,17,144,0.0388,0.12,nc,nc73922056,2023-08-09T07:26:12.213Z,"22 km NNE of San Ardo, CA",earthquake,0.5,0.69,0.14,7,automatic,nc,nc
@@ -234,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T07:47:39.560Z,38.8348351,-122.8156662,2.04,0.77,md,9,151,0.01223,0.01,nc,nc73921696,2023-08-08T09:51:15.733Z,"8 km W of Cobb, CA",earthquake,0.52,1.22,0.3,10,automatic,nc,nc
 2023-08-08T07:47:23.430Z,62.9986,-150.6782,107.1,1.2,ml,,,,0.2,ak,ak023a3yoic7,2023-08-08T07:49:54.457Z,"56 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-08T07:44:31.245Z,60.2167,-153.2177,136.1,2,ml,,,,0.36,ak,ak023a3ynvsk,2023-08-08T07:46:33.458Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-08T07:36:13.280Z,19.1643333333333,-66.506,19.98,3.34,md,14,256,0.6839,0.1,pr,pr71420823,2023-08-08T07:51:49.510Z,"77 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.58,11.55,0.0267917665898949,5,reviewed,pr,pr
