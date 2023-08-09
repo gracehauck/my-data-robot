@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-09T05:44:51.760Z,19.1611671447754,-155.489837646484,31.9200000762939,2.17000008,md,32,116,,0.0900000036,hv,hv73516462,2023-08-09T05:48:10.400Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.67,1.27999997,0.730000019,17,automatic,hv,hv
 2023-08-09T05:24:11.456Z,60.8257,-152.5695,119.7,1.7,ml,,,,0.35,ak,ak023a5kw17e,2023-08-09T05:27:04.753Z,"Southern Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-08-09T05:22:52.663Z,58.3249,-153.9832,53.9,1.4,ml,,,,1.73,ak,ak023a5kvoz6,2023-08-09T05:24:53.478Z,"69 km WNW of Aleneva, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2023-08-09T05:23:05.183Z,58.1776,-155.3201,1.2,0.2,ml,,,,0.4,ak,ak023a5kvoz6,2023-08-09T05:53:25.291Z,"Alaska Peninsula",earthquake,,0.3,,,reviewed,ak,ak
 2023-08-09T05:22:46.270Z,63.5855,-148.8351,0.1,1.1,ml,,,,0.52,ak,ak023a5kvohf,2023-08-09T05:24:51.479Z,"Central Alaska",earthquake,,9.9,,,automatic,ak,ak
 2023-08-09T05:15:07.690Z,33.6663333,-116.9308333,15.88,0.49,ml,11,69,0.0215,0.18,ci,ci40532296,2023-08-09T05:18:38.236Z,"10 km SSW of Valle Vista, CA",earthquake,0.71,0.84,0.117,10,automatic,ci,ci
 2023-08-09T05:10:05.490Z,34.0621667,-117.2681667,14.74,1.87,ml,64,24,0.07172,0.2,ci,ci40532288,2023-08-09T05:21:02.160Z,"2 km NNW of Loma Linda, CA",earthquake,0.2,0.42,0.192,24,automatic,ci,ci
@@ -33,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T00:29:17.660Z,-25.3423,179.7734,528.906,4.6,mb,31,114,13.443,0.75,us,us6000kyrv,2023-08-09T00:48:15.040Z,"south of the Fiji Islands",earthquake,12.64,9.511,0.043,164,reviewed,us,us
 2023-08-09T00:19:22.837Z,60.4267,-152.2788,84.9,1.7,ml,,,,0.39,ak,ak023a5hvtir,2023-08-09T00:43:27.379Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-09T00:09:41.200Z,33.8753333,-116.2708333,2.69,1.11,ml,26,62,0.09522,0.19,ci,ci40532200,2023-08-09T00:23:31.009Z,"13 km ENE of Thousand Palms, CA",earthquake,0.36,0.91,0.126,26,automatic,ci,ci
+2023-08-08T23:55:53.160Z,45.85016666666667,-122.44916666666667,-0.79,2.05,ml,15,99,0.08495,0.17,uw,uw61948516,2023-08-09T05:49:07.670Z,"3 km WSW of Yacolt, Washington",explosion,0.6,31.61,0.2564864343536164,10,reviewed,uw,uw
 2023-08-08T23:49:19.598Z,60.2927,-151.7963,54.4,1.1,ml,,,,0.37,ak,ak023a487vdr,2023-08-08T23:50:56.506Z,"23 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-08T23:34:59.697Z,39.1856,-120.469,9,1.4,ml,14,128.56,0.153,0.1441,nn,nn00864189,2023-08-09T00:48:29.713Z,"15 km SSW of Kingvale, California",earthquake,,3.2,0.16,7,reviewed,nn,nn
 2023-08-08T23:30:57.237Z,65.6907,-150.9367,5,1.7,ml,,,,0.64,ak,ak023a483vgb,2023-08-08T23:32:56.930Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -44,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T22:34:51.000Z,31.67562656,-104.4054095,6.954223633,3.5,ml,39,66,0.0298963161,0.3,tx,tx2023plvw,2023-08-09T05:00:48.575Z,"55 km S of Whites City, New Mexico",earthquake,0.8119695128999999,0.9530765692,0.1,21,reviewed,tx,tx
 2023-08-08T22:28:58.430Z,38.8363342,-122.8011703,2.52,0.76,md,12,73,0.008705,0.01,nc,nc73921926,2023-08-08T22:45:15.291Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.06,0.32,13,automatic,nc,nc
 2023-08-08T22:11:52.350Z,41.767,-112.37,7.69,0.99,md,13,98,0.1152,0.11,uu,uu60547207,2023-08-08T22:51:34.910Z,"Utah",earthquake,0.35,1.26,0.038,5,reviewed,uu,uu
-2023-08-08T22:04:21.777Z,44.3222,-70.2605,9.568,2.5,mb_lg,19,129,0.356,0.38,us,us6000kyr7,2023-08-09T03:36:49.584Z,"6 km S of Livermore, Maine",earthquake,2.69,5.455,0.255,4,reviewed,us,us
+2023-08-08T22:04:21.777Z,44.3222,-70.2605,9.568,2.5,mb_lg,19,129,0.356,0.38,us,us6000kyr7,2023-08-09T05:49:50.414Z,"6 km S of Livermore, Maine",earthquake,2.69,5.455,0.255,4,reviewed,us,us
 2023-08-08T22:00:25.823Z,58.1578,-155.3039,0,0.9,ml,,,,0.26,ak,ak023a47bxxy,2023-08-08T22:01:38.248Z,"82 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-08-08T21:58:49.850Z,61.0278,-152.2608,12.9,1.6,ml,,,,0.46,ak,ak023a472zq1,2023-08-08T22:00:30.043Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-08T21:54:23.180Z,17.938,-66.8596666666667,11.84,2.08,md,10,215,0.0413,0.12,pr,pr71420923,2023-08-08T22:11:53.160Z,"Puerto Rico region",earthquake,0.67,0.39,0.11036656511379,7,reviewed,pr,pr
@@ -179,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-08T10:21:18.015Z,39.329,-119.8929,8.6,0.7,ml,14,78.09,0.016,0.1447,nn,nn00864135,2023-08-08T18:33:13.926Z,"11 km NE of Incline Village, Nevada",earthquake,,1.4,0.22,5,reviewed,nn,nn
 2023-08-08T10:20:50.260Z,47.60616666666667,-121.789,17.28,1.55,ml,32,103,0.1101,0.19,uw,uw61939457,2023-08-08T20:09:16.330Z,"8 km ENE of Fall City, Washington",earthquake,0.33,0.46,0.20446537683505106,15,reviewed,uw,uw
 2023-08-08T10:19:31.560Z,38.7845001,-122.7789993,1.06,0.77,md,9,112,0.01112,0.02,nc,nc73921751,2023-08-08T10:43:16.052Z,"2 km WNW of The Geysers, CA",earthquake,0.28,0.55,0.1,10,automatic,nc,nc
-2023-08-08T10:17:23.550Z,47.60666666666667,-121.71966666666667,17.76,3.85,ml,125,109,0.08882,0.38,uw,uw61939452,2023-08-09T05:42:18.136Z,"11 km NE of Snoqualmie, Washington",earthquake,0.34,0.53,0.1601579994975566,100,reviewed,uw,uw
+2023-08-08T10:17:23.550Z,47.60666666666667,-121.71966666666667,17.76,3.85,ml,125,109,0.08882,0.38,uw,uw61939452,2023-08-09T05:52:31.550Z,"11 km NE of Snoqualmie, Washington",earthquake,0.34,0.53,0.1601579994975566,100,reviewed,uw,uw
 2023-08-08T10:14:01.930Z,37.3273315,-122.2145004,8.51,1.48,md,8,68,0.04329,0.07,nc,nc73921746,2023-08-08T12:56:11.846Z,"7 km SSE of Portola Valley, CA",earthquake,0.46,0.95,0.1,8,automatic,nc,nc
 2023-08-08T09:59:01.110Z,52.8725,-169.533166666667,-1.34,0.86,ml,4,173,,0.16,av,av91112663,2023-08-09T02:40:29.220Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.31,0.35,0.400915247953848,4,reviewed,av,av
 2023-08-08T09:44:18.392Z,38.1714,-117.9992,7.2,2.7,ml,13,68.66,0.03,0.1597,nn,nn00864131,2023-08-08T16:31:33.337Z,"26 km SSE of Mina, Nevada",earthquake,,1.2,0.38,8,reviewed,nn,nn
