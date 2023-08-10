@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-10T11:18:52.460Z,19.2016658782959,-155.38166809082,31.3899993896484,2.11999989,md,40,174,,0.100000001,hv,hv73518302,2023-08-10T11:22:00.500Z,"10 km E of Pāhala, Hawaii",earthquake,0.55,0.810000002,1.57000005,18,automatic,hv,hv
 2023-08-10T11:12:34.314Z,61.3349,-148.9118,30.4,1.4,ml,,,,0.61,ak,ak023a7bxgiv,2023-08-10T11:14:22.236Z,"13 km S of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-08-10T11:02:25.960Z,32.9381667,-116.2663333,7.2,0.77,ml,16,132,0.0352,0.21,ci,ci40533080,2023-08-10T11:06:05.162Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.44,0.76,0.198,8,automatic,ci,ci
 2023-08-10T11:01:41.883Z,61.8396,-148.9096,9.8,2.3,ml,,,,0.48,ak,ak023a7bv48c,2023-08-10T11:08:38.577Z,"10 km NW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -182,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T15:44:42.950Z,37.4136658,-118.5196686,12.4,1.78,md,13,132,0.06967,0.02,nc,nc73922221,2023-08-09T17:04:12.546Z,"7 km E of Round Valley, CA",earthquake,1.36,2.54,0.16,9,automatic,nc,nc
 2023-08-09T15:42:25.110Z,53.8545,-166.8025,5.51,-0.21,ml,5,127,,0.06,av,av91996231,2023-08-10T00:29:51.430Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.87,0.237927258771951,5,reviewed,av,av
 2023-08-09T15:41:37.080Z,53.8496666666667,-166.799166666667,4.87,0.47,ml,7,87,,0.11,av,av91996226,2023-08-10T00:25:58.990Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.31,0.96,0.247299942699085,7,reviewed,av,av
-2023-08-09T15:40:48.890Z,58.2618333333333,-155.132666666667,32.83,0,ml,12,92,,0.12,av,av91996221,2023-08-10T00:19:38.660Z,"87 km NNW of Karluk, Alaska",earthquake,0.48,0.71,0.363777591805238,11,reviewed,av,av
+2023-08-09T15:40:48.890Z,58.2618333333333,-155.132666666667,32.83,0,ml,12,92,,0.12,av,av91996221,2023-08-10T00:19:38.660Z,"Alaska Peninsula",earthquake,0.48,0.71,0.363777591805238,11,reviewed,av,av
 2023-08-09T15:24:27.094Z,-55.6653,-27.2816,33.772,4.8,mb,33,116,5.481,0.78,us,us6000kyvp,2023-08-09T15:42:50.040Z,"South Sandwich Islands region",earthquake,9.51,6.546,0.087,41,reviewed,us,us
 2023-08-09T15:24:23.805Z,64.9141,-149.0886,3.1,0.8,ml,,,,0.99,ak,ak023a5que8c,2023-08-09T15:26:22.599Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-09T15:13:57.530Z,38.8458328,-122.7876663,1.09,0.32,md,7,148,0.007702,0.02,nc,nc73922211,2023-08-09T15:47:15.078Z,"6 km WNW of Cobb, CA",earthquake,0.69,1.04,0.24,8,automatic,nc,nc
@@ -233,7 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T11:31:10.030Z,63.4834,-151.1874,5,1.6,ml,,,,0.56,ak,ak023a5oi4rf,2023-08-09T11:32:57.874Z,"27 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-09T11:30:26.436Z,39.6118,-119.9692,6.6,0.4,ml,5,158.34,0.008,0.1512,nn,nn00864215,2023-08-09T15:44:32.770Z,"Nevada",earthquake,,1.4,0.14,2,reviewed,nn,nn
 2023-08-09T11:30:20.680Z,37.6166667,-122.3755,10.84,1.17,md,31,33,0.04933,0.09,nc,nc73922166,2023-08-09T23:03:14.680Z,"2 km NNE of Millbrae, CA",earthquake,0.22,0.32,0.317,21,reviewed,nc,nc
-2023-08-09T11:22:50.850Z,19.2465000152588,-155.412170410156,28.9500007629395,1.96000004,md,28,153,,0.109999999,hv,hv73516762,2023-08-09T11:25:55.020Z,"8 km NE of Pāhala, Hawaii",earthquake,0.78,1.02999997,0.519999981,5,automatic,hv,hv
-2023-08-09T11:19:06.030Z,38.7994995,-122.7809982,3.03,0.75,md,9,70,0.008311,0.01,nc,nc73922161,2023-08-09T11:56:12.725Z,"3 km NW of The Geysers, CA",earthquake,0.6,1.39,0.1,10,automatic,nc,nc
-2023-08-09T11:17:14.070Z,38.7978325,-122.7805023,3.36,0.59,md,15,64,0.007428,0.02,nc,nc73922156,2023-08-09T11:44:11.662Z,"3 km NW of The Geysers, CA",earthquake,0.39,0.63,0.32,18,automatic,nc,nc
-2023-08-09T11:15:33.310Z,35.9345016,-120.4851685,4.51,1.11,md,12,77,0.01636,0.06,nc,nc73922151,2023-08-09T12:57:14.096Z,"6 km NW of Parkfield, CA",earthquake,0.45,0.73,0.04,3,automatic,nc,nc
