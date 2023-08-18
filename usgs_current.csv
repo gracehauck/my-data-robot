@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-18T10:46:10.430Z,32.3901672,-115.12117,10.69,3.67,mw,32,64,0.05868,0.37,ci,ci39643754,2023-08-18T10:52:42.840Z,"8 km ENE of Delta, B.C., MX",earthquake,0.48,1.05,,4,reviewed,ci,ci
+2023-08-18T10:42:30.510Z,19.4039993286133,-155.299835205078,2.0699999332428,1.83,ml,21,46,,0.150000006,hv,hv73532417,2023-08-18T10:48:01.580Z,"8 km WSW of Volcano, Hawaii",earthquake,0.28,0.330000013,0.16,7,automatic,hv,hv
+2023-08-18T10:27:55.040Z,-16.1071,-75.0833,18.068,5.4,mww,50,120,4.437,1.13,us,us7000kp73,2023-08-18T10:51:07.669Z,"off the coast of southern Peru",earthquake,9.24,5.358,0.066,22,reviewed,us,us
 2023-08-18T10:05:06.510Z,36.7775002,-121.3338318,4.57,1.11,md,8,89,,0.07,nc,nc73925616,2023-08-18T10:37:10.680Z,"2 km SW of Tres Pinos, CA",earthquake,0.51,0.76,0.26,7,automatic,nc,nc
 2023-08-18T10:02:18.620Z,33.0125,-116.2906667,9.8,1.5,ml,48,34,0.05872,0.2,ci,ci39643746,2023-08-18T10:13:29.000Z,"21 km SW of Ocotillo Wells, CA",earthquake,0.25,0.58,0.163,26,automatic,ci,ci
 2023-08-18T09:44:18.880Z,33.6385002,-116.6986694,14.1,1.05,ml,14,58,0.07621,0.13,ci,ci39643738,2023-08-18T09:47:50.516Z,"10 km NNW of Anza, CA",earthquake,0.48,0.86,0.482,6,automatic,ci,ci
@@ -212,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T11:05:04.640Z,41.5523333,-112.8503333,6.69,0.78,md,15,180,0.2341,0.12,uu,uu60547827,2023-08-17T13:08:46.870Z,"Utah",earthquake,0.56,3.34,0.127,7,reviewed,uu,uu
 2023-08-17T10:55:59.990Z,39.6361667,-123.4191667,8.57,1.41,md,16,90,0.005352,0.18,nc,nc73925076,2023-08-17T19:41:16.700Z,"8 km SE of Laytonville, CA",earthquake,0.58,0.79,0.309,16,reviewed,nc,nc
 2023-08-17T10:54:55.269Z,38.1716,-117.8116,15.2,1.9,ml,6,89.94,0.125,0.2042,nn,nn00864586,2023-08-17T20:53:26.569Z,"35 km SE of Mina, Nevada",earthquake,,1.9,0.19,4,reviewed,nn,nn
-2023-08-17T10:49:28.350Z,36.53633333,-98.97116667,7,0.99,ml,21,117,0.04859046489,0.19,ok,ok2023qbkd,2023-08-17T13:46:49.652Z,"9 km WSW of Waynoka, Oklahoma",earthquake,,0.5,0.28,9,reviewed,ok,ok
-2023-08-17T10:47:12.409Z,-17.59,-178.5738,552.732,4.3,mb,48,31,3.22,0.58,us,us7000knzp,2023-08-17T11:21:16.040Z,"229 km ENE of Levuka, Fiji",earthquake,10.53,5.721,0.065,67,reviewed,us,us
-2023-08-17T10:46:50.660Z,52.81,-169.953166666667,14.95,0.64,ml,4,297,,0.08,av,av91113568,2023-08-17T20:55:30.780Z,"74 km WSW of Nikolski, Alaska",earthquake,2.36,0.69,0.355916507444273,4,reviewed,av,av
