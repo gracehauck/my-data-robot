@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T12:11:14.731Z,63.8792,-148.5803,34.1,1.2,ml,,,,0.99,ak,ak023am8crch,2023-08-19T12:13:25.972Z,"19 km E of Healy, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-08-19T11:33:10.880Z,17.945,-66.935,15.1,2.24,md,4,215,0.1068,0.07,pr,pr71421763,2023-08-19T11:45:42.900Z,"Puerto Rico region",earthquake,0.91,1.45,0.0645158213514012,3,reviewed,pr,pr
 2023-08-19T11:32:04.023Z,35.70289993,-98.1220932,7.559745789,1.74,ml,10,82.52392578,0.08587116748,1.077341669,ok,ok2023qfcn,2023-08-19T11:36:02.021Z,"11 km N of Calumet, Oklahoma",earthquake,6.030314013,5.561339017,0.21,6,automatic,ok,ok
 2023-08-19T11:27:03.833Z,-16.0846,-75.1142,26.008,4.8,mb,59,156,4.404,0.99,us,us7000kpg6,2023-08-19T11:49:12.040Z,"79 km S of San Juan, Peru",earthquake,9.65,5.914,0.047,143,reviewed,us,us
@@ -204,9 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T12:35:47.830Z,37.1626667,-121.6616667,5.46,0.86,md,12,68,0.02814,0.07,nc,nc73925666,2023-08-18T17:42:58.472Z,"4 km N of Morgan Hill, CA",earthquake,0.27,0.55,0.314,15,reviewed,nc,nc
 2023-08-18T12:33:04.450Z,61.3106666666667,-152.505,3.63,0.62,ml,8,118,,0.09,av,av92007456,2023-08-19T01:21:51.190Z,"78 km WNW of Tyonek, Alaska",earthquake,0.97,1.13,0.14596287663178,8,reviewed,av,av
 2023-08-18T12:30:39.540Z,38.8245,-122.799,3.22,0.26,md,20,42,0.00872,0.03,nc,nc73925661,2023-08-19T06:32:13.640Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.48,0.271,19,reviewed,nc,nc
-2023-08-18T12:17:03.204Z,17.6671,-81.8214,10,4.7,mb,61,67,4.118,0.53,us,us7000kp7j,2023-08-19T01:34:36.945Z,"185 km SSW of George Town, Cayman Islands",earthquake,6.6,1.894,0.035,256,reviewed,us,us
-2023-08-18T12:15:53.930Z,33.4891667,-116.4318333,10.31,0.58,ml,17,113,0.03453,0.14,ci,ci39643786,2023-08-18T22:20:24.980Z,"22 km SSW of La Quinta, CA",earthquake,0.28,0.5,0.143,13,reviewed,ci,ci
-2023-08-18T12:04:56.050Z,38.7929993,-122.7348328,1.26,1.07,md,13,95,0.00986,0.03,nc,nc73925651,2023-08-18T12:38:13.374Z,"3 km NE of The Geysers, CA",earthquake,0.28,0.75,0.26,15,automatic,nc,nc
-2023-08-18T12:02:11.770Z,38.8274994,-122.8539963,2.35,0.87,md,7,185,0.01545,0.01,nc,nc73925646,2023-08-18T13:39:15.848Z,"10 km WNW of The Geysers, CA",earthquake,0.95,1.23,0.25,8,automatic,nc,nc
-2023-08-18T12:00:59.630Z,38.8429985,-122.7758331,0.92,0.78,md,11,165,0.0005928,0.02,nc,nc73925641,2023-08-18T13:12:14.697Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.44,0.37,10,automatic,nc,nc
-2023-08-18T11:54:30.957Z,58.2416,-155.1702,2.1,0.1,ml,,,,0.45,ak,ak023akkh8as,2023-08-19T00:51:32.190Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
