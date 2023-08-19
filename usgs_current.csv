@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T10:43:42.140Z,33.4783333,-116.8876667,11.66,0.74,ml,26,58,0.07077,0.19,ci,ci39644538,2023-08-19T10:47:13.748Z,"4 km NNW of Aguanga, CA",earthquake,0.32,0.92,0.122,19,automatic,ci,ci
 2023-08-19T10:23:07.220Z,33.5773333,-116.8176667,7.07,0.47,ml,11,122,0.05824,0.12,ci,ci39644530,2023-08-19T10:26:34.766Z,"14 km W of Anza, CA",earthquake,0.45,0.59,0.182,10,automatic,ci,ci
 2023-08-19T10:22:42.110Z,33.4881667,-116.7571667,5.7,0.78,ml,31,75,0.04538,0.17,ci,ci39644522,2023-08-19T10:26:17.109Z,"11 km SW of Anza, CA",earthquake,0.21,0.57,0.165,22,automatic,ci,ci
 2023-08-19T10:17:01.084Z,62.2174,-150.1193,25,0.9,ml,,,,0.22,ak,ak023am775do,2023-08-19T10:18:31.207Z,"11 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -213,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T11:07:32.230Z,46.83083333333333,-121.912,10.84,0.47000000000000003,ml,14,111,0.02755,0.09,uw,uw61942122,2023-08-18T21:37:46.510Z,"12 km NE of Ashford, Washington",earthquake,0.37,0.47,0.1909854494961747,3,reviewed,uw,uw
 2023-08-18T11:04:08.110Z,38.8110008,-122.8296661,1.29,0.75,md,9,66,0.002164,0.03,nc,nc73925631,2023-08-18T12:30:16.334Z,"7 km WNW of The Geysers, CA",earthquake,0.34,0.76,0.23,10,automatic,nc,nc
 2023-08-18T10:54:12.490Z,44.8446666666667,-111.4805,7.63,1.18,ml,17,99,0.03856,0.15,mb,mb90024663,2023-08-18T15:21:15.110Z,"Idaho-Montana border region",earthquake,0.69,0.54,0.200654898160508,13,reviewed,mb,mb
-2023-08-18T10:52:48.550Z,39.1571667,-123.2505,3.86,0.98,md,12,71,0.06245,0.05,nc,nc73925626,2023-08-18T17:39:57.370Z,"4 km WNW of Ukiah, CA",earthquake,0.2,0.97,0.25,11,reviewed,nc,nc
-2023-08-18T10:46:10.340Z,32.3973333,-115.1366667,10.81,3.67,mw,32,67,0.05577,0.29,ci,ci39643754,2023-08-19T00:18:41.382Z,"7 km NE of Delta, B.C., MX",earthquake,0.35,0.77,,4,reviewed,ci,ci
