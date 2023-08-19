@@ -198,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T13:45:35.150Z,38.8258333,-122.7956667,2.71,1.11,md,41,27,0.01151,0.03,nc,nc73925681,2023-08-19T07:27:14.801Z,"6 km W of Cobb, CA",earthquake,0.15,0.27,0.181,35,reviewed,nc,nc
 2023-08-18T13:40:12.830Z,53.849,-166.794666666667,4.73,0.36,ml,7,85,,0.11,av,av92007531,2023-08-19T01:40:37.530Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.31,0.98,0.195815154849181,7,reviewed,av,av
 2023-08-18T13:32:03.823Z,38.541,-118.4342,10.5,2.6,ml,17,45.94,0.295,0.1652,nn,nn00864616,2023-08-18T16:15:18.924Z,"16 km E of Hawthorne, Nevada",earthquake,,1.4,0.19,9,reviewed,nn,nn
-2023-08-18T13:18:21.552Z,28.94805908,-97.62373621,2.518839518,2.3,ml,16,97,0.0923020542,0.1,tx,tx2023qdkq,2023-08-18T18:40:33.385Z,"Southern Texas",earthquake,1.197007927,1.853701452,0.1,6,reviewed,tx,tx
-2023-08-18T13:13:11.964Z,60.5109,-150.9085,38.3,1.2,ml,,,,0.54,ak,ak023aklf9oc,2023-08-18T13:15:16.412Z,"8 km W of Funny River, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-08-18T13:09:22.272Z,-17.8545,-174.3642,59.497,4.9,mb,42,105,0.862,0.77,us,us7000kp7p,2023-08-18T13:28:36.040Z,"96 km NNW of Neiafu, Tonga",earthquake,8.84,7.17,0.043,166,reviewed,us,us
