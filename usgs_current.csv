@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-19T04:11:51.335Z,64.5826,-147.7437,26.4,0.9,ml,,,,0.96,ak,ak023am3ldbx,2023-08-19T04:14:11.093Z,"25 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T04:06:45.479Z,60.3121,-151.8831,59.6,1.2,ml,,,,0.45,ak,ak023am3kaar,2023-08-19T04:08:07.417Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-19T03:55:19.395Z,64.4699,-147.3401,15.8,1.1,ml,,,,0.24,ak,ak023am39arn,2023-08-19T03:57:44.157Z,"21 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T03:43:26.735Z,36.2733,70.858,105.302,4.6,mb,53,78,2.277,0.95,us,us7000kper,2023-08-19T04:02:27.143Z,"65 km S of Jurm, Afghanistan",earthquake,7.15,7.89,0.053,105,reviewed,us,us
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T02:45:33.042Z,35.50927353,-98.00283051,5,2.03,ml,14,96.18028259,0.08749365807,0.6578018412,ok,ok2023qele,2023-08-19T02:48:29.741Z,"5 km WSW of El Reno, Oklahoma",earthquake,3.969960187,,0.28,13,automatic,ok,ok
 2023-08-19T02:34:35.839Z,64.9522,-148.3258,13.2,0.6,ml,,,,0.39,ak,ak023am2jee7,2023-08-19T02:36:51.784Z,"18 km NW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T02:26:04.254Z,61.8516,-149.8519,32.3,2,ml,,,,0.47,ak,ak023am2hm89,2023-08-19T02:27:47.006Z,"15 km NE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-19T02:17:52.877Z,31.67759373,-104.3855085,5.668823242,3.4,ml,11,70,0.0345377578,0.2,tx,tx2023qekg,2023-08-19T02:57:42.596Z,"55 km S of Whites City, New Mexico",earthquake,0.9350991174999999,0.9333514845,0.2,9,reviewed,tx,tx
+2023-08-19T02:17:52.877Z,31.67759373,-104.3855085,5.668823242,3.4,ml,11,70,0.0345377578,0.2,tx,tx2023qekg,2023-08-19T04:21:46.723Z,"55 km S of Whites City, New Mexico",earthquake,0.9350991174999999,0.9333514845,0.2,9,reviewed,tx,tx
 2023-08-19T02:17:05.670Z,19.238000869751,-155.401504516602,30.4400005340576,2.05,ml,39,153,,0.109999999,hv,hv73533127,2023-08-19T02:22:37.510Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.52,0.730000019,3.37,7,automatic,hv,hv
 2023-08-19T02:01:34.464Z,63.1816,-150.4833,110.8,1.6,ml,,,,0.44,ak,ak023am2cbnq,2023-08-19T02:03:55.350Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-19T01:56:35.900Z,40.2433319,-121.1429977,-0.94,2.4,md,10,107,0.2304,0.07,nc,nc73925821,2023-08-19T03:16:12.378Z,"4 km NNE of Prattville, CA",earthquake,0.46,9.55,0.15,12,automatic,nc,nc
@@ -251,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T04:36:07.020Z,36.1425,-118.1845,4.71,1.08,ml,16,134,0.268,0.12,ci,ci39643410,2023-08-18T18:18:11.692Z,"22 km SW of Olancha, CA",earthquake,0.29,2.4,0.084,7,reviewed,ci,ci
 2023-08-18T04:33:49.774Z,0.2443,121.9512,190.517,4.9,mb,60,62,1.452,1.09,us,us7000kp5v,2023-08-18T04:51:06.040Z,"127 km WSW of Gorontalo, Indonesia",earthquake,7.11,6.374,0.084,44,reviewed,us,us
 2023-08-18T04:32:50.480Z,17.9288333333333,-66.8758333333333,9.43,2.24,md,12,219,0.04608,0.19,pr,pr71421718,2023-08-18T04:42:53.430Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.78,0.58,0.103664512196656,5,reviewed,pr,pr
-2023-08-18T04:18:04.168Z,40.7698,14.0333,5,2.8,ml,15,132,0.482,0.48,us,us7000kp5t,2023-08-18T08:16:09.050Z,"2 km NE of Procida, Italy",earthquake,3.83,1.954,0.074,24,reviewed,us,us
-2023-08-18T04:14:07.400Z,38.8180008,-122.8219986,2.23,1.07,md,20,59,0.01071,0.02,nc,nc73925491,2023-08-18T05:03:14.848Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.4,0.13,22,automatic,nc,nc
