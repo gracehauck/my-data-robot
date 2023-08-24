@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-24T09:17:59.800Z,38.8123322,-122.814003,2.24,0.79,md,9,117,0.01147,0.05,nc,nc73927881,2023-08-24T09:19:37.140Z,"6 km NW of The Geysers, CA",earthquake,0.52,0.66,0.12,10,automatic,nc,nc
 2023-08-24T08:53:06.520Z,34.422,-119.1715,1.56,1.35,ml,13,130,0.0318,0.25,ci,ci39649282,2023-08-24T08:56:45.792Z,"7 km ESE of Ojai, CA",earthquake,0.48,0.75,0.134,14,automatic,ci,ci
 2023-08-24T08:39:24.370Z,35.9576667,-117.6433333,1.55,0.67,ml,8,203,0.1365,0.1,ci,ci39649274,2023-08-24T08:42:54.287Z,"24 km E of Little Lake, CA",earthquake,0.4,0.45,0.034,2,automatic,ci,ci
 2023-08-24T08:35:35.990Z,35.6651667,-117.481,2.64,0.84,ml,12,122,0.04665,0.15,ci,ci39649266,2023-08-24T08:39:05.149Z,"13 km SSW of Searles Valley, CA",earthquake,0.65,0.64,0.13,5,automatic,ci,ci
@@ -345,4 +346,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T09:33:20.750Z,19.3895,-155.277833333333,1.29,0.55,md,19,55,,0.07,hv,hv73539152,2023-08-23T09:44:52.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.19,0.170287411709843,5,reviewed,hv,hv
 2023-08-23T09:29:58.981Z,61.9005,-151.3666,58.8,1.2,ml,,,,1.64,ak,ak023asstst6,2023-08-23T09:32:19.259Z,"10 km S of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-08-23T09:29:33.370Z,19.3705005645752,-155.283172607422,1.00999999046326,1.84,ml,27,111,,0.189999998,hv,hv73539147,2023-08-23T09:35:03.510Z,"9 km SSW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.35,9,automatic,hv,hv
-2023-08-23T09:21:39.080Z,35.7061666666667,-84.1528333333333,9.33,2.51,md,12,79,0.0482,0.18,se,se60501053,2023-08-24T04:48:55.040Z,"5 km NNE of Greenback, Tennessee",earthquake,0.39,0.64,0.0248575436507226,6,reviewed,se,se
