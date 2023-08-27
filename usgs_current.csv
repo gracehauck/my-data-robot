@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-27T16:54:47.600Z,33.3226667,-116.3416667,9.09,0.84,ml,27,95,0.08336,0.22,ci,ci39652498,2023-08-27T16:58:20.816Z,"8 km NNE of Borrego Springs, CA",earthquake,0.37,0.98,0.108,16,automatic,ci,ci
 2023-08-27T16:42:35.902Z,65.1159,-146.6351,10.9,1.2,ml,,,,1.31,ak,ak023azj7ysb,2023-08-27T16:45:52.652Z,"28 km NNE of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-08-27T16:41:51.720Z,36.2363319,-120.8805008,2.48,1.55,md,6,182,0.3589,0.04,nc,nc73929961,2023-08-27T16:55:37.855Z,"17 km NE of San Lucas, CA",earthquake,4.67,6.62,,1,automatic,nc,nc
+2023-08-27T16:41:51.720Z,36.2363319,-120.8805008,2.48,1.55,md,6,182,0.3589,0.04,nc,nc73929961,2023-08-27T17:03:13.357Z,"17 km NE of San Lucas, CA",earthquake,4.67,6.62,,1,automatic,nc,nc
 2023-08-27T16:39:57.723Z,58.8178,-153.3983,30,1.6,ml,,,,1.17,ak,ak023azj7czu,2023-08-27T16:42:22.646Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-27T16:37:00.980Z,36.0111656,-120.5771637,2.99,1.48,md,19,172,0.03292,0.12,nc,nc73929956,2023-08-27T16:53:14.295Z,"18 km NW of Parkfield, CA",earthquake,0.57,0.71,0.16,8,automatic,nc,nc
 2023-08-27T16:11:21.795Z,60.725,-148.7309,13.6,1.8,ml,,,,0.66,ak,ak023azj1a9f,2023-08-27T16:13:31.180Z,"6 km SSW of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T11:44:28.330Z,19.365,-155.305833333333,2.16,0.67,md,13,89,,0.1,hv,hv73547417,2023-08-27T12:04:35.390Z,"11 km SW of Volcano, Hawaii",earthquake,0.34,0.58,0.019060446790363,3,reviewed,hv,hv
 2023-08-27T11:35:04.070Z,33.9106674,-118.7531662,17.53,1.23,ml,8,260,0.1036,0.23,ci,ci39652354,2023-08-27T11:38:37.981Z,"12 km SSE of Malibu, CA",earthquake,8.63,2.31,0.403,2,automatic,ci,ci
 2023-08-27T11:33:01.006Z,14.3363,-93.4152,10,4.5,mb,50,188,2.294,0.79,us,us7000krbv,2023-08-27T11:49:53.040Z,"off the coast of Chiapas, Mexico",earthquake,5.54,1.85,0.035,235,reviewed,us,us
-2023-08-27T11:27:00.008Z,61.4432,-150.6973,46.3,3.7,ml,,,,0.55,ak,ak023azg5evm,2023-08-27T16:25:30.811Z,"14 km SW of Susitna, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-08-27T11:27:00.008Z,61.4432,-150.6973,46.3,3.7,ml,,,,0.55,ak,ak023azg5evm,2023-08-27T17:07:47.859Z,"14 km SW of Susitna, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-08-27T11:24:16.090Z,19.3861666666667,-155.2795,1.36,0.52,md,19,64,,0.08,hv,hv73547402,2023-08-27T11:41:29.020Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.17,0.0264129924303748,3,reviewed,hv,hv
 2023-08-27T11:20:52.970Z,37.8258324,-122.0354996,4.84,1.16,md,8,120,0.02371,0.04,nc,nc73929901,2023-08-27T12:11:14.730Z,"3 km S of Alamo, CA",earthquake,0.36,0.65,0.05,6,automatic,nc,nc
 2023-08-27T11:17:42.405Z,61.0101,-151.59,77.8,2,ml,,,,0.26,ak,ak023azg3g4g,2023-08-27T11:38:14.429Z,"25 km WSW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -138,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T03:19:17.943Z,60.1347,-152.7494,103.7,2.3,ml,,,,0.38,ak,ak023azbcctu,2023-08-27T03:28:30.040Z,"60 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-27T03:18:06.200Z,38.8188324,-122.8133316,2.32,0.89,md,13,105,0.005218,0.03,nc,nc73929751,2023-08-27T04:41:18.167Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.85,0.21,15,automatic,nc,nc
 2023-08-27T03:15:29.940Z,38.8258324,-122.795166,2.43,1.03,md,21,49,0.0119,0.03,nc,nc73929746,2023-08-27T04:14:17.008Z,"6 km W of Cobb, CA",earthquake,0.26,0.56,0.28,22,automatic,nc,nc
-2023-08-27T03:09:43.247Z,36.3079,27.8301,69.004,4.4,mb,50,56,0.253,0.8,us,us7000kr9m,2023-08-27T05:51:29.216Z,"9 km NNW of Émponas, Greece",earthquake,6.04,6.06,0.098,30,reviewed,us,us
+2023-08-27T03:09:43.247Z,36.3079,27.8301,69.004,4.4,mb,50,56,0.253,0.8,us,us7000kr9m,2023-08-27T16:57:39.439Z,"9 km NNW of Émponas, Greece",earthquake,6.04,6.06,0.098,30,reviewed,us,us
 2023-08-27T03:03:27.490Z,34.4735,-117.9578333,10.19,0.95,ml,15,61,0.02458,0.2,ci,ci39652194,2023-08-27T03:07:10.090Z,"6 km SW of Pearblossom, CA",earthquake,0.46,0.65,0.276,13,automatic,ci,ci
 2023-08-27T02:47:09.640Z,35.2905,-117.7121667,9.02,0.92,ml,12,122,0.1117,0.06,ci,ci39652178,2023-08-27T02:50:43.857Z,"12 km SW of Johannesburg, CA",earthquake,0.22,0.62,0.126,12,automatic,ci,ci
 2023-08-27T02:46:45.350Z,33.4916667,-116.5868333,9.07,0.72,ml,25,63,0.01377,0.13,ci,ci39652170,2023-08-27T02:50:25.020Z,"11 km SE of Anza, CA",earthquake,0.23,0.48,0.187,16,automatic,ci,ci
