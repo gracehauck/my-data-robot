@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-27T07:52:08.680Z,32.8035,-115.4425,9.05,1.38,ml,14,139,0.004043,0.3,ci,ci39652290,2023-08-27T07:55:33.978Z,"6 km W of Holtville, CA",earthquake,1.09,1.36,0.172,14,automatic,ci,ci
+2023-08-27T07:33:17.519Z,19.0203,-65.3326,35,2.8,ml,10,259,0.754,0.4,us,us7000krau,2023-08-27T07:55:40.040Z,"79 km N of Culebra, Puerto Rico",earthquake,4.16,2.019,0.071,26,reviewed,us,us
 2023-08-27T07:15:10.020Z,34.4478333,-119.2273333,0.95,1.42,ml,20,64,0.07377,0.26,ci,ci39652274,2023-08-27T07:18:46.462Z,"1 km E of Ojai, CA",earthquake,0.39,0.79,0.231,23,automatic,ci,ci
 2023-08-27T06:57:37.260Z,34.1046667,-117.7305,0.16,1.09,ml,11,128,0.1724,0.27,ci,ci39652266,2023-08-27T07:01:10.397Z,"1 km NW of Claremont, CA",earthquake,0.95,31.61,0.357,12,automatic,ci,ci
 2023-08-27T06:56:35.660Z,33.9656667,-116.5695,12.72,0.62,ml,13,96,0.03044,0.18,ci,ci39652258,2023-08-27T07:00:06.391Z,"6 km W of Desert Hot Springs, CA",earthquake,0.41,0.8,0.127,13,automatic,ci,ci
