@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-30T16:33:26.570Z,19.3724994659424,-155.276992797852,2.29999995231628,2.23,ml,38,107,,0.209999993,hv,hv73553392,2023-08-30T16:38:55.900Z,"8 km SSW of Volcano, Hawaii",earthquake,0.28,0.330000013,0.47,15,automatic,hv,hv
 2023-08-30T16:11:08.588Z,61.8235,-149.6802,34.5,1.5,ml,,,,0.91,ak,ak023b4hnaq2,2023-08-30T16:13:12.184Z,"20 km ENE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-30T16:02:12.413Z,37.0512,-105.0224,5,2.8,mb_lg,15,84,0.204,0.35,us,us7000ks4x,2023-08-30T16:13:20.040Z,"11 km S of Stonewall Gap, Colorado",earthquake,1.42,1.609,0.088,58,reviewed,us,us
 2023-08-30T16:00:46.650Z,19.3589992523193,-155.301162719727,1.6599999666214,1.87,ml,29,97,,0.189999998,hv,hv73553352,2023-08-30T16:06:16.880Z,"11 km SW of Volcano, Hawaii",earthquake,0.3,0.449999988,0.23,12,automatic,hv,hv
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T05:50:57.010Z,17.951,-66.932,15.78,2.47,md,15,203,0.03064,0.12,pr,pr71422598,2023-08-30T07:15:38.670Z,"Puerto Rico region",earthquake,0.63,0.32,0.187187037425772,11,reviewed,pr,pr
 2023-08-30T05:49:27.870Z,38.8349991,-122.81633,1.43,1.09,md,13,113,0.01258,0.02,nc,nc73930811,2023-08-30T06:37:13.206Z,"8 km W of Cobb, CA",earthquake,0.3,0.79,0.24,14,automatic,nc,nc
 2023-08-30T05:49:06.371Z,39.3506,-120.0025,3.6,0.9,ml,9,127.67,0.063,0.2174,nn,nn00865265,2023-08-30T05:51:41.498Z,"5 km SSE of Floriston, California",earthquake,,1.1,0.46,6,automatic,nn,nn
-2023-08-30T05:45:04.184Z,39.3501,-120.0087,3.5,0.9,ml,9,131.98,0.061,0.2441,nn,nn00865263,2023-08-30T05:47:41.862Z,"5 km SSE of Floriston, California",earthquake,,1,0.24,7,automatic,nn,nn
+2023-08-30T05:45:04.861Z,39.3485,-119.9959,7.6,1,ml,16,89.47,0.064,0.1321,nn,nn00865263,2023-08-30T16:38:38.537Z,"5 km SSE of Floriston, California",earthquake,,1.3,0.24,8,reviewed,nn,nn
 2023-08-30T05:08:35.646Z,61.4894,-147.7744,20.8,1.2,ml,,,,0.58,ak,ak023b4b2y0c,2023-08-30T05:10:36.098Z,"36 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-30T05:05:42.548Z,31.60325829,-104.102984,6.234399414,2.2,ml,20,58,0.03176024668,0.1,tx,tx2023qysi,2023-08-30T08:39:52.655Z,"43 km NW of Toyah, Texas",earthquake,0.6939308466,0.5510098019000002,0.1,21,reviewed,tx,tx
 2023-08-30T04:55:53.980Z,38.7970009,-122.7388306,1.96,0.74,md,8,118,0.01384,0.01,nc,nc73930801,2023-08-30T06:01:11.983Z,"3 km NE of The Geysers, CA",earthquake,0.45,1.03,0.05,9,automatic,nc,nc
@@ -108,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T02:54:52.360Z,63.569,-147.2603,4.3,1.3,ml,,,,0.45,ak,ak023b49kjf8,2023-08-30T02:58:24.871Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-30T02:51:33.720Z,38.8419991,-122.8789978,2.61,0.95,md,13,95,0.005131,0.02,nc,nc73930756,2023-08-30T03:11:15.014Z,"13 km ENE of Cloverdale, CA",earthquake,0.36,0.55,0.22,15,automatic,nc,nc
 2023-08-30T02:43:10.980Z,38.8241653,-122.8108368,1.24,1.09,md,19,84,0.000973,0.02,nc,nc73930746,2023-08-30T03:06:14.124Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.43,0.11,21,automatic,nc,nc
-2023-08-30T02:42:48.172Z,38.2008,-117.727,0.8,1.7,ml,17,137.35,0.125,0.2968,nn,nn00865260,2023-08-30T02:45:41.442Z,"Nevada",earthquake,,4.1,0.75,11,automatic,nn,nn
+2023-08-30T02:42:49.057Z,38.1831,-117.7365,11.9,1.8,ml,8,81.79,0.109,0.1509,nn,nn00865260,2023-08-30T16:32:20.685Z,"Nevada",earthquake,,1.7,0.37,6,reviewed,nn,nn
 2023-08-30T02:37:04.960Z,38.8303337,-122.8043365,1.23,0.53,md,6,116,0.008252,0,nc,nc73930741,2023-08-30T02:55:11.917Z,"7 km W of Cobb, CA",earthquake,0.47,0.82,0.35,8,automatic,nc,nc
 2023-08-30T02:32:09.680Z,40.2291679,-124.1804962,12.22,1.98,md,9,181,0.02229,0.08,nc,nc73930736,2023-08-30T04:55:12.648Z,"14 km SE of Petrolia, CA",earthquake,0.66,1.11,0.02,6,automatic,nc,nc
 2023-08-30T02:24:57.310Z,35.5766678,-120.753334,6.81,1.32,md,10,83,0.1119,0.14,nc,nc73930726,2023-08-30T04:03:13.317Z,"5 km NW of Templeton, CA",earthquake,1.55,4.69,0.23,5,automatic,nc,nc
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T16:55:12.950Z,17.9425,-66.9621666666667,6.63,2.63,md,16,217,0.05889,0.07,pr,pr71422548,2023-08-29T17:16:23.490Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.23,0.153665720059205,8,reviewed,pr,pr
 2023-08-29T16:50:24.730Z,38.8196678,-122.7614975,1.07,0.71,md,12,177,0.01263,0.04,nc,nc73930571,2023-08-29T18:10:16.980Z,"3 km W of Cobb, CA",earthquake,0.43,0.61,0.11,12,automatic,nc,nc
 2023-08-29T16:43:18.110Z,35.5105,-118.3971667,6.65,0.83,ml,11,74,0.1644,0.13,ci,ci39654210,2023-08-29T22:24:11.000Z,"12 km SE of Bodfish, CA",earthquake,0.31,1.09,0.124,5,reviewed,ci,ci
-2023-08-29T16:31:07.030Z,19.6393,-65.6536,33,3.66,md,9,301,1.4553,0.22,pr,pr2023241000,2023-08-29T16:57:42.512Z,"135 km N of Suárez, Puerto Rico",earthquake,1.56,17.4,0.09,6,reviewed,pr,pr
