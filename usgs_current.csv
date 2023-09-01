@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-01T13:39:52.816Z,58.2605,-155.1426,2,2.2,ml,,,,0.26,ak,ak023b7r3scx,2023-09-01T13:42:20.434Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-01T13:21:34.172Z,65.7467,-148.6628,12.5,1.1,ml,,,,0.36,ak,ak023b7qzw15,2023-09-01T13:23:27.160Z,"25 km NNW of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-01T12:51:39.504Z,65.6283,-148.8241,13.2,1.6,ml,,,,0.83,ak,ak023b7qkwa1,2023-09-01T12:54:41.242Z,"17 km NW of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-01T12:51:11.705Z,65.7497,-148.6728,10.2,1.4,ml,,,,0.54,ak,ak023b7qku6a,2023-09-01T12:54:49.775Z,"25 km NNW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T09:33:59.350Z,36.42966667,-96.93216667,7.02,0.81,ml,38,60,0.02789452614,0.25,ok,ok2023rcse,2023-09-01T12:04:35.974Z,"Oklahoma",earthquake,,0.4,0.18,12,reviewed,ok,ok
 2023-09-01T09:27:48.373Z,38.6777,-97.5266,8.072,2.6,ml,20,117,0.718,0.41,us,us7000kskr,2023-09-01T11:40:20.040Z,"6 km E of Assaria, Kansas",earthquake,2.34,6.946,0.06,37,reviewed,us,us
 2023-09-01T09:20:56.243Z,61.5011,-148.8323,29.2,2.1,ml,,,,0.5,ak,ak023b7olzlk,2023-09-01T09:22:35.522Z,"6 km NE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2023-09-01T09:13:18.761Z,31.9317627,-102.0195789,9.928629557,2.7,ml,16,57,0.1010632896,0.1,tx,tx2023rcrm,2023-09-01T10:36:49.066Z,"9 km SE of Midland, Texas",earthquake,0.798815756,0.980517681,0.3,12,reviewed,tx,tx
+2023-09-01T09:13:18.761Z,31.9317627,-102.0195789,9.928629557,2.7,ml,16,57,0.1010632896,0.1,tx,tx2023rcrm,2023-09-01T13:40:52.969Z,"9 km SE of Midland, Texas",earthquake,0.798815756,0.980517681,0.3,12,reviewed,tx,tx
 2023-09-01T09:10:55.820Z,33.5021667,-116.4956667,13.26,0.36,ml,12,195,0.06258,0.07,ci,ci39656602,2023-09-01T09:14:32.924Z,"18 km ESE of Anza, CA",earthquake,0.49,0.35,0.097,6,automatic,ci,ci
 2023-09-01T08:56:26.857Z,39.5843,143.2891,28.38,4.4,mb,28,193,2.086,0.43,us,us7000kskn,2023-09-01T12:22:51.040Z,"115 km E of Yamada, Japan",earthquake,9.35,7.246,0.144,14,reviewed,us,us
 2023-09-01T08:50:05.050Z,38.8390007,-122.8238297,1.66,0.65,md,9,92,0.009113,0.01,nc,nc73931626,2023-09-01T09:14:14.668Z,"9 km WNW of Cobb, CA",earthquake,0.38,1.29,0.4,10,automatic,nc,nc
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T14:08:35.334Z,61.6383,-149.6235,28.4,1.8,ml,,,,0.74,ak,ak023b63z6x9,2023-08-31T14:10:09.452Z,"1 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-31T14:04:32.884Z,66.3237,-150.9015,9.4,1.6,ml,,,,0.91,ak,ak023b63ybvc,2023-08-31T14:06:37.685Z,"71 km SSE of Bettles, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-31T13:52:06.470Z,32.9665,-115.8608333,10.76,2.79,ml,66,30,0.03287,0.23,ci,ci39655834,2023-08-31T23:25:34.110Z,"24 km WSW of Westmorland, CA",earthquake,0.19,0.47,0.202,24,reviewed,ci,ci
-2023-08-31T13:36:49.230Z,32.3726667,-115.1146667,10.2,2.32,ml,16,83,0.07537,0.21,ci,ci39655826,2023-08-31T22:21:37.197Z,"8 km ENE of Delta, B.C., MX",earthquake,0.38,0.67,0.226,17,reviewed,ci,ci
