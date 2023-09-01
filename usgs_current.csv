@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-01T23:30:16.160Z,40.6101685,-121.8249969,11.16,3.2,ml,33,64,0.2098,0.16,nc,nc73931886,2023-09-01T23:37:13.450Z,"14 km NNE of Shingletown, CA",earthquake,0.3,1.27,0.227,17,automatic,nc,nc
 2023-09-01T23:06:39.000Z,18.0773333333333,-66.9368333333333,6.99,2.25,md,4,203,0.1155,0.15,pr,pr71423103,2023-09-01T23:23:26.330Z,"2 km E of Sabana Grande, Puerto Rico",earthquake,2.02,2.08,0.00445903530942626,3,reviewed,pr,pr
+2023-09-01T23:01:40.164Z,14.8757,-60.5607,59.41,4.4,mwr,79,58,0.321,0.66,us,us7000kss6,2023-09-01T23:38:39.040Z,"45 km ENE of La Trinité, Martinique",earthquake,2.94,5.65,0.046,46,reviewed,us,us
 2023-09-01T22:55:45.231Z,34.53289032,-97.22438049,1.420225739,1.74,ml,21,76.93695068,0.1172951236,0.7541007833,ok,ok2023rdsq,2023-09-01T23:00:04.342Z,"Oklahoma",earthquake,2.604443825,1.985063121,0.32,9,automatic,ok,ok
 2023-09-01T22:46:27.888Z,56.5207,-158.1394,32.6,2,ml,,,,1.14,ak,ak023b7wi4w4,2023-09-01T22:48:39.078Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-09-01T22:23:12.120Z,38.8343315,-122.8144989,1.58,1.03,md,15,57,0.01145,0.01,nc,nc73931876,2023-09-01T22:25:05.267Z,"8 km W of Cobb, CA",earthquake,0.29,0.64,0.13,18,automatic,nc,nc
@@ -137,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T05:27:36.920Z,46.188499450683594,-122.16533660888672,-1.79999995231628,1.61000001,md,25,82,,0.600000024,uw,uw61947352,2023-09-01T05:29:23.910Z,"Mount St. Helens area, Washington",earthquake,1.03,2.02999997,0.529999971,3,automatic,uw,uw
 2023-09-01T05:14:29.390Z,53.3211666666667,-168.216,3.08,1.27,ml,4,335,,0.28,av,av92025701,2023-09-01T19:18:15.710Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.72,31.61,0.190113015911163,4,reviewed,av,av
 2023-09-01T04:55:01.760Z,53.3776666666667,-168.248833333333,3.72,1.19,ml,4,293,,0.21,av,av91114508,2023-09-01T19:05:01.890Z,"63 km NE of Nikolski, Alaska",earthquake,1.22,0.88,0.0803440792147967,3,reviewed,av,av
-2023-09-01T04:34:02.890Z,40.6038322,-121.8288345,12.84,2.5,md,24,46,0.1756,0.14,nc,nc73931571,2023-09-01T08:31:50.516Z,"13 km NNE of Shingletown, CA",earthquake,0.32,1.51,0.07,20,automatic,nc,nc
+2023-09-01T04:34:02.890Z,40.6038322,-121.8288345,12.84,2.5,md,24,46,0.1756,0.14,nc,nc73931571,2023-09-01T23:37:52.345Z,"13 km NNE of Shingletown, CA",earthquake,0.32,1.51,0.07,20,automatic,nc,nc
 2023-09-01T04:15:51.170Z,63.508,-147.848,3.3,1.6,ml,,,,0.46,ak,ak023b7llqlp,2023-09-01T04:17:47.121Z,"56 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-01T04:07:53.110Z,32.3861667,-115.1426667,11,2.54,ml,26,68,0.068,0.29,ci,ci39656442,2023-09-01T19:37:00.010Z,"6 km NE of Delta, B.C., MX",earthquake,0.45,0.82,0.083,25,reviewed,ci,ci
 2023-09-01T03:52:18.452Z,63.2599,-150.5534,126.5,1.6,ml,,,,0.32,ak,ak023b7l84yd,2023-09-01T03:54:35.130Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -167,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T00:04:57.310Z,19.1319999694824,-155.375335693359,29.8799991607666,2.00999999,md,36,192,,0.0900000036,hv,hv73555557,2023-09-01T00:08:17.330Z,"13 km SE of Pāhala, Hawaii",earthquake,0.66,0.860000014,1.48000002,18,automatic,hv,hv
 2023-08-31T23:55:44.070Z,46.6956666666667,-113.374833333333,1.28,1.41,ml,21,68,0.2345,0.1,mb,mb90026058,2023-09-01T22:18:21.220Z,"17 km W of Drummond, Montana",earthquake,0.24,0.93,0.212471817050047,6,reviewed,mb,mb
 2023-08-31T23:47:11.670Z,51.897,179.581166666667,10.83,0.92,ml,5,203,,0.24,av,av92025526,2023-09-01T00:16:08.470Z,"260 km W of Adak, Alaska",earthquake,1.76,1.29,0.295850337311015,5,reviewed,av,av
-2023-08-31T23:36:00.930Z,19.3905,-155.278166666667,1.92,2.33,md,18,59,,0.09,hv,hv73555482,2023-09-01T00:00:09.730Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.2,0.0264956625288284,4,reviewed,hv,hv
-2023-08-31T23:32:31.021Z,32.00672923,-103.8260399,7.519799805,2.5,ml,20,59,0.02236491663,0.2,tx,tx2023rbyj,2023-09-01T02:38:49.412Z,"33 km SE of Malaga, New Mexico",earthquake,0.746794003,0.9875815183,0.1,13,reviewed,tx,tx
