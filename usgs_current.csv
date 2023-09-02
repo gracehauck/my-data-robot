@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-02T08:22:09.600Z,36.0223333,-117.8766667,1.33,0.86,ml,8,140,0.0871,0.23,ci,ci39657266,2023-09-02T08:25:37.166Z,"7 km ESE of Coso Junction, CA",earthquake,1.06,1.38,0.058,5,automatic,ci,ci
 2023-09-02T08:07:56.920Z,33.5085,-116.4935,15.13,0.53,ml,14,169,0.09186,0.13,ci,ci39657258,2023-09-02T08:11:28.088Z,"18 km ESE of Anza, CA",earthquake,0.57,0.66,0.123,9,automatic,ci,ci
 2023-09-02T07:57:28.110Z,38.8396683,-122.8376694,1.86,1.28,md,26,84,0.002017,0.03,nc,nc73932091,2023-09-02T08:15:14.719Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.41,0.17,26,automatic,nc,nc
 2023-09-02T07:53:30.500Z,36.1471667,-118.176,3.23,1.53,ml,16,147,0.2616,0.2,ci,ci39657250,2023-09-02T07:57:05.853Z,"21 km SW of Olancha, CA",earthquake,0.48,3.12,0.211,10,automatic,ci,ci
@@ -197,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T08:44:29.750Z,33.503,-116.5035,13.25,1.18,ml,43,71,0.05901,0.19,ci,ci39656554,2023-09-01T19:44:51.285Z,"17 km ESE of Anza, CA",earthquake,0.24,0.38,0.176,26,reviewed,ci,ci
 2023-09-01T08:44:00.592Z,38.144,-116.0701,12.6,2.3,ml,12,118.57,0.561,0.2504,nn,nn00865350,2023-09-01T16:07:49.443Z,"62 km NNW of Rachel, Nevada",earthquake,,2.1,0.1,7,reviewed,nn,nn
 2023-09-01T08:34:11.400Z,38.8411674,-122.8793335,2.82,0.58,md,10,98,0.004358,0.01,nc,nc73931616,2023-09-01T08:53:23.545Z,"13 km ENE of Cloverdale, CA",earthquake,0.48,0.66,0.39,11,automatic,nc,nc
-2023-09-01T08:26:35.792Z,-15.6178,-174.5602,202.696,4.5,mb,20,71,3.061,1.13,us,us7000kskk,2023-09-01T12:20:35.040Z,"89 km WNW of Hihifo, Tonga",earthquake,8.89,9.363,0.163,11,reviewed,us,us
