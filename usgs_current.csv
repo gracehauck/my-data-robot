@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T04:54:08.740Z,19.349666595459,-155.30549621582,1.54999995231628,2.33999991,md,30,80,,0.209999993,hv,hv73559382,2023-09-03T04:57:16.820Z,"12 km SW of Volcano, Hawaii",earthquake,0.28,0.479999989,0.75999999,17,automatic,hv,hv
 2023-09-03T04:22:28.880Z,19.2401676177979,-155.399673461914,31.6000003814697,1.73000002,md,22,164,,0.100000001,hv,hv73559332,2023-09-03T04:25:46.570Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.949999988,0.860000014,3,automatic,hv,hv
 2023-09-03T04:11:13.690Z,38.8009987,-122.7536697,3.64,0.73,md,10,98,0.004736,0.02,nc,nc73932441,2023-09-03T04:30:12.737Z,"3 km N of The Geysers, CA",earthquake,0.4,1.21,0.12,10,automatic,nc,nc
 2023-09-03T03:31:03.538Z,61.1656,-150.9579,12,1.4,ml,,,,0.45,ak,ak023baw6brl,2023-09-03T03:32:53.656Z,"7 km ENE of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
