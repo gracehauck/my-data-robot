@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T04:46:28.070Z,35.6326667,-117.4345,7.19,1.24,ml,10,94,0.03354,0.17,ci,ci39658018,2023-09-04T04:49:56.767Z,"15 km S of Searles Valley, CA",earthquake,0.56,0.87,0.185,11,automatic,ci,ci
 2023-09-04T04:40:18.040Z,34.0405,-117.0618333,16.94,1.23,ml,37,36,0.0724,0.26,ci,ci39658010,2023-09-04T04:43:51.729Z,"2 km WNW of Yucaipa, CA",earthquake,0.4,0.73,0.205,29,automatic,ci,ci
 2023-09-04T04:23:43.173Z,58.3495,-154.6767,0,0.9,ml,,,,0.35,ak,ak023bck9h71,2023-09-04T04:25:58.601Z,"Alaska Peninsula",earthquake,,31.7,,,automatic,ak,ak
 2023-09-04T04:22:48.527Z,58.3631,-154.6727,0,1.2,ml,,,,0.48,ak,ak023bck99w7,2023-09-04T04:25:56.816Z,"Alaska Peninsula",earthquake,,4.4,,,automatic,ak,ak
@@ -147,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T10:16:18.758Z,43.5496,-128.5598,10,3,ml,23,283,3.28,0.54,us,us7000kt03,2023-09-03T10:29:56.040Z,"off the coast of Oregon",earthquake,5.03,2.026,0.044,68,reviewed,us,us
 2023-09-03T10:14:22.977Z,61.4197,-149.9206,32.4,1.4,ml,,,,0.53,ak,ak023bb08rbt,2023-09-03T10:16:25.709Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-03T09:59:03.114Z,9.2036,93.8861,10,4.7,mb,54,136,6.649,0.48,us,us7000kt05,2023-09-03T10:38:13.040Z,"299 km SSE of Port Blair, India",earthquake,10.12,1.913,0.085,42,reviewed,us,us
-2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"2 km NW of Anchorage, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-09-03T09:43:41.520Z,61.2362,-149.9336,39.2,2.6,ml,,,,0.8,ak,ak023baztkuz,2023-09-03T19:40:52.140Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-09-03T09:41:28.980Z,17.9325,-65.7473333333333,13.9,2.45,md,8,228,0.1635,0.17,pr,pr71423388,2023-09-03T11:11:55.718Z,"Puerto Rico region",earthquake,0.71,0.84,0.121868972444105,5,reviewed,pr,pr
 2023-09-03T09:31:19.870Z,33.3236667,-116.7856667,12.7,0.51,ml,17,100,0.07103,0.22,ci,ci39657690,2023-09-03T09:34:55.078Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.5,1.18,0.175,11,automatic,ci,ci
 2023-09-03T09:22:56.900Z,18.109,-65.746,19.73,2.27,md,8,143,0.08968,0.14,pr,pr71423383,2023-09-03T10:00:06.410Z,"Puerto Rico region",earthquake,0.72,0.39,0.00390427148370698,5,reviewed,pr,pr
@@ -195,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T05:29:55.590Z,33.5318333,-117.1495,12.48,0.13,ml,12,103,0.07605,0.16,ci,ci39657602,2023-09-03T05:33:17.874Z,"3 km SSE of Murrieta Hot Springs, CA",earthquake,0.35,0.92,0.073,3,automatic,ci,ci
 2023-09-03T05:24:42.650Z,38.7799988,-122.7561646,1.14,1.1,md,12,81,0.01553,0.03,nc,nc73932461,2023-09-03T06:02:12.297Z,"0 km N of The Geysers, CA",earthquake,0.26,0.62,0.26,12,automatic,nc,nc
 2023-09-03T05:22:38.630Z,33.7091667,-116.766,15.89,1.04,ml,41,39,0.04325,0.19,ci,ci39657594,2023-09-03T05:33:03.880Z,"6 km SW of Idyllwild, CA",earthquake,0.22,0.4,0.18,27,automatic,ci,ci
-2023-09-03T04:54:10.710Z,19.3853340148926,-155.266326904297,0.939999997615814,1.85,ml,10,82,,0.159999996,hv,hv73559387,2023-09-03T04:59:45.210Z,"Hawaii region, Hawaii",earthquake,0.41,0.300000012,0.38,5,automatic,hv,hv
-2023-09-03T04:54:08.740Z,19.349666595459,-155.30549621582,1.54999995231628,1.96,ml,30,80,,0.209999993,hv,hv73559382,2023-09-03T04:59:40.190Z,"12 km SW of Volcano, Hawaii",earthquake,0.28,0.479999989,0.2,8,automatic,hv,hv
