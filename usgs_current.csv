@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-04T01:22:03.394Z,10.6576,-62.4364,10,4.5,mb,27,115,3.746,0.33,us,us7000kt3e,2023-09-04T02:08:20.040Z,"17 km WNW of Güiria, Venezuela",earthquake,7.9,1.973,0.181,9,reviewed,us,us
 2023-09-04T01:20:21.504Z,31.36084501,-103.0805919,3.046606445,2.9,ml,24,73,0.02467246733,0.2,tx,tx2023rhok,2023-09-04T02:02:33.130Z,"13 km N of Coyanosa, Texas",earthquake,0.8804698035,1.168409417,0.2,18,reviewed,tx,tx
 2023-09-04T01:20:06.465Z,58.4938,-154.4431,52.6,2.1,ml,,,,1.16,ak,ak023bciggee,2023-09-04T01:22:45.533Z,"Alaska Peninsula",earthquake,,2.3,,,automatic,ak,ak
-2023-09-04T01:19:29.896Z,31.35762592,-103.0800718,3.81784668,2.8,ml,24,72,0.02197546414,0.2,tx,tx2023rhoj,2023-09-04T02:19:35.941Z,"12 km N of Coyanosa, Texas",earthquake,0.9231601397,1.5575960209999997,0.2,18,reviewed,tx,tx
+2023-09-04T01:19:29.896Z,31.35762592,-103.0800718,3.81784668,2.8,ml,24,72,0.02197546414,0.2,tx,tx2023rhoj,2023-09-04T03:17:36.040Z,"12 km N of Coyanosa, Texas",earthquake,0.9231601397,1.5575960209999997,0.2,18,reviewed,tx,tx
 2023-09-04T01:12:26.238Z,61.3034,-146.8753,24.1,1.8,ml,,,,0.76,ak,ak023bcies73,2023-09-04T01:14:20.312Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-04T01:01:14.300Z,38.8411674,-122.8378296,1.76,0.28,md,6,195,0.01759,0.01,nc,nc73932786,2023-09-04T01:23:18.918Z,"10 km NW of The Geysers, CA",earthquake,0.7,1.44,0.16,7,automatic,nc,nc
 2023-09-04T01:00:10.980Z,19.2266674041748,-155.410827636719,34.4700012207031,2.49,ml,51,138,,0.119999997,hv,hv73560637,2023-09-04T03:01:50.040Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.56,0.639999986,2.53,24,automatic,hv,hv
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T04:22:28.880Z,19.2401676177979,-155.399673461914,31.6000003814697,1.73000002,md,22,164,,0.100000001,hv,hv73559332,2023-09-03T04:25:46.570Z,"Hawaii region, Hawaii",earthquake,0.67,0.949999988,0.860000014,3,automatic,hv,hv
 2023-09-03T04:11:13.690Z,38.8009987,-122.7536697,3.64,0.73,md,10,98,0.004736,0.02,nc,nc73932441,2023-09-03T04:30:12.737Z,"3 km N of The Geysers, CA",earthquake,0.4,1.21,0.12,10,automatic,nc,nc
 2023-09-03T03:31:03.538Z,61.1656,-150.9579,12,1.4,ml,,,,0.45,ak,ak023baw6brl,2023-09-03T03:32:53.656Z,"7 km ENE of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-03T03:20:19.380Z,32.8566667,-115.881,7.4,1.05,ml,16,55,0.08007,0.17,ci,ci39657578,2023-09-03T03:23:52.388Z,"17 km NE of Ocotillo, CA",earthquake,0.34,0.8,0.146,8,automatic,ci,ci
-2023-09-03T03:15:09.564Z,61.0983,-150.7699,15.9,1.5,ml,,,,0.57,ak,ak023baw2wrw,2023-09-03T03:17:22.526Z,"17 km ESE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
