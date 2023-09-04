@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-04T22:29:23.842Z,60.5635,-142.7505,18.9,1.1,ml,,,,0.73,ak,ak023bcv0iw0,2023-09-04T22:31:40.076Z,"97 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-04T22:27:27.249Z,58.1657,-155.3729,1.1,0.3,ml,,,,0.5,ak,ak023bcv03pw,2023-09-04T22:28:50.619Z,"85 km NW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-09-04T22:13:47.465Z,60.547,-145.3924,15.6,1.8,ml,,,,0.45,ak,ak023bcux596,2023-09-04T22:15:27.879Z,"20 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-04T22:04:28.239Z,58.1766,-155.3599,0.8,1.2,ml,,,,0.66,ak,ak023bcuv6br,2023-09-04T22:15:14.523Z,"86 km NW of Karluk, Alaska",earthquake,,63.4,,,automatic,ak,ak
 2023-09-04T21:50:44.524Z,63.3154,-145.1923,4.8,1.8,ml,,,,0.74,ak,ak023bcujmx0,2023-09-04T21:52:48.889Z,"32 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
