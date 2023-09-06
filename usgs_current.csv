@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T12:33:52.260Z,38.8353348,-122.7998352,2.13,0.78,md,12,70,0.008023,0.01,nc,nc73933716,2023-09-06T12:35:29.579Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.8,0.12,14,automatic,nc,nc
 2023-09-06T12:23:34.800Z,19.2708339691162,-155.40283203125,30.7700004577637,1.98000002,md,46,121,,0.159999996,hv,hv73565677,2023-09-06T12:29:05.650Z,"10 km NE of Pāhala, Hawaii",earthquake,0.54,0.600000024,0.810000002,23,automatic,hv,hv
 2023-09-06T12:23:29.765Z,66.285,-147.5808,0,1.5,ml,,,,1.23,ak,ak023bg03ly7,2023-09-06T12:25:52.896Z,"11 km SW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-06T12:16:38.340Z,38.7956657,-122.7291641,0.81,0.79,md,10,104,0.01375,0.06,nc,nc73933706,2023-09-06T12:34:14.212Z,"3 km S of Cobb, CA",earthquake,0.36,1,0.09,11,automatic,nc,nc
@@ -57,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T06:51:31.140Z,38.7763329,-122.7294998,1.18,1.21,md,14,71,0.008912,0.11,nc,nc73933616,2023-09-06T09:12:17.087Z,"2 km E of The Geysers, CA",earthquake,0.33,0.63,0.13,14,automatic,nc,nc
 2023-09-06T06:46:05.940Z,38.7971649,-122.7503357,2.53,0.85,md,13,96,0.0081,0.02,nc,nc73933606,2023-09-06T07:02:15.290Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.86,0.21,13,automatic,nc,nc
 2023-09-06T06:44:54.979Z,38.1643,-117.9237,2.8,1.6,ml,12,103.25,0.059,0.289,nn,nn00865459,2023-09-06T06:47:49.973Z,"29 km SSE of Mina, Nevada",earthquake,,1.4,0.58,9,automatic,nn,nn
-2023-09-06T06:38:46.973Z,35.33216476,-97.96078491,2.949552059,2.29,ml,17,77.44143677,0.06868240982,0.7835727155,ok,ok2023rlpx,2023-09-06T06:41:51.843Z,"2 km NW of Minco, Oklahoma",earthquake,2.66717989,2.122346271,0.29,17,automatic,ok,ok
+2023-09-06T06:38:46.869Z,35.33016667,-97.9435,7.17,1.82,ml,88,51,0.0638874631,0.23,ok,ok2023rlpx,2023-09-06T12:42:18.558Z,"Oklahoma",earthquake,,0.3,0.26,42,reviewed,ok,ok
 2023-09-06T06:13:08.100Z,38.8328323,-122.817337,1.72,0.59,md,9,87,0.011,0.02,nc,nc73933601,2023-09-06T06:14:41.697Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.79,0.38,9,automatic,nc,nc
 2023-09-06T06:02:57.810Z,33.1778333,-116.4065,11.88,0.62,ml,13,81,0.09056,0.27,ci,ci39659282,2023-09-06T06:06:30.885Z,"9 km SSW of Borrego Springs, CA",earthquake,0.65,1.65,0.154,8,automatic,ci,ci
 2023-09-06T05:47:17.770Z,38.8326683,-122.8171692,1.57,0.8,md,8,70,0.01548,0.01,nc,nc73933596,2023-09-06T05:48:52.385Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.49,0.22,8,automatic,nc,nc
@@ -217,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T13:15:23.186Z,60.0229,-151.3492,66.3,1.4,ml,,,,0.16,ak,ak023bed3yv2,2023-09-05T13:16:37.223Z,"18 km E of Ninilchik, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-09-05T13:00:57.127Z,60.1853,-152.8764,116.4,1.7,ml,,,,0.22,ak,ak023bed0tqo,2023-09-05T13:02:35.688Z,"68 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-05T12:55:50.940Z,61.1862,-149.722,37.8,1.2,ml,,,,0.87,ak,ak023becr61i,2023-09-05T12:57:39.647Z,"9 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-05T12:42:27.580Z,33.5873333,-116.5966667,14.75,0.5,ml,16,106,0.01083,0.18,ci,ci39658610,2023-09-05T13:16:58.070Z,"8 km ENE of Anza, CA",earthquake,0.57,0.65,0.179,11,reviewed,ci,ci
