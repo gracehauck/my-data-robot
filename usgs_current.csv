@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T17:30:59.708Z,1.5798,99.7027,173.001,4.6,mb,65,43,3.805,0.63,us,us7000kumr,2023-09-09T17:57:13.040Z,"northern Sumatra, Indonesia",earthquake,7.1,5.016,0.08,53,reviewed,us,us
 2023-09-09T17:26:55.235Z,57.573,-155.6132,21.6,2.2,ml,,,,0.17,ak,ak023bl1pilv,2023-09-09T17:27:53.720Z,"69 km W of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-09-09T17:24:21.140Z,33.8193333,-117.0006667,13.52,0.95,ml,30,60,0.1032,0.23,ci,ci39661978,2023-09-09T17:27:58.847Z,"6 km NW of San Jacinto, CA",earthquake,0.3,0.82,0.122,24,automatic,ci,ci
-2023-09-09T17:13:00.530Z,35.3398333,-117.4995,7.19,1.07,ml,20,104,0.2042,0.16,ci,ci39661970,2023-09-09T17:16:37.493Z,"13 km ESE of Johannesburg, CA",earthquake,0.34,13.96,0.174,11,automatic,ci,ci
