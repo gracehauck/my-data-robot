@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T11:51:38.470Z,18.9388333333333,-64.9776666666667,21.18,3.19,md,11,284,0.5837,0.17,pr,pr71424273,2023-09-09T12:17:15.540Z,"66 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1,14.73,0.0910554035071827,5,reviewed,pr,pr
 2023-09-09T11:51:21.532Z,37.545,-115.5774,2.2,1.4,ml,15,221.63,0.44,0.3105,nn,nn00865636,2023-09-09T11:53:45.451Z,"Nevada",earthquake,,13.4,0.79,10,automatic,nn,nn
 2023-09-09T11:47:50.950Z,19.3626670837402,-155.281661987305,2.1800000667572,1.79999995,md,26,120,,0.170000002,hv,hv73571522,2023-09-09T11:51:06.530Z,"10 km SSW of Volcano, Hawaii",earthquake,0.34,0.400000006,0.449999988,15,automatic,hv,hv
-2023-09-09T11:31:17.815Z,43.6101,-70.771,2.982,1.5,ml,15,144,0.487,0.25,us,us7000kure,2023-09-10T10:37:18.040Z,"6 km SSW of Lake Arrowhead, Maine",earthquake,1.5,3.93,0.091,16,reviewed,us,us
