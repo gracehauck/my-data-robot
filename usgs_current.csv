@@ -16,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T18:53:51.070Z,38.8339996,-122.8176651,1.64,1.09,md,19,60,0.01214,0.03,nc,nc73936096,2023-09-12T18:55:28.568Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.54,0.16,19,automatic,nc,nc
 2023-09-12T18:52:41.790Z,34.9913333,-118.1895,-0.9,1.34,ml,27,52,0.1168,0.21,ci,ci39663522,2023-09-12T20:32:52.064Z,"7 km SSW of Mojave, CA",quarry blast,0.38,31.61,0.079,11,reviewed,ci,ci
 2023-09-12T18:33:21.580Z,36.0351667,-117.8271667,1.41,1.28,ml,18,122,0.05462,0.15,ci,ci39663506,2023-09-12T18:56:47.977Z,"11 km E of Coso Junction, CA",earthquake,0.19,0.19,0.203,5,reviewed,ci,ci
+2023-09-12T18:28:55.800Z,46.32083333333333,-122.4085,-0.91,0.91,ml,14,176,0.04865,0.09,uw,uw61950367,2023-09-12T21:02:23.540Z,"23 km SSE of Mossyrock, Washington",explosion,0.35,31.61,0.12538892308672434,6,reviewed,uw,uw
 2023-09-12T18:15:16.617Z,61.4271,-149.3194,33.5,1.1,ml,,,,0.38,ak,ak023bq0uju5,2023-09-12T18:16:44.926Z,"16 km SSW of Gateway, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-09-12T18:12:50.850Z,35.767,-117.5813333,8.31,0.67,ml,13,108,0.1549,0.15,ci,ci39663498,2023-09-12T18:52:58.952Z,"16 km W of Searles Valley, CA",earthquake,0.43,1.4,0.157,5,reviewed,ci,ci
 2023-09-12T18:07:48.342Z,59.7859,-153.3152,114.8,1.4,ml,,,,0.1,ak,ak023bq0swk2,2023-09-12T18:09:14.043Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -180,7 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T21:25:52.040Z,38.8301659,-122.815834,1.87,0.71,md,11,63,0.008121,0.01,nc,nc73935831,2023-09-11T21:27:28.719Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.8,0.46,10,automatic,nc,nc
 2023-09-11T21:23:48.346Z,63.5458,-147.123,5.6,1.3,ml,,,,0.35,ak,ak023bof5ac2,2023-09-11T21:25:38.384Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T21:13:38.500Z,19.2041664123535,-155.477493286133,32.5,2.18,ml,40,94,,0.100000001,hv,hv73575867,2023-09-11T21:19:09.820Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.75999999,4.4,4,automatic,hv,hv
-2023-09-11T21:02:05.610Z,17.7883333333333,-66.9015,8.29,2.7,md,13,271,0.183,0.06,pr,pr71424593,2023-09-11T21:12:53.440Z,"20 km S of Guánica, Puerto Rico",earthquake,0.56,0.72,0.0272118007377271,5,reviewed,pr,pr
-2023-09-11T21:00:51.650Z,51.7338333333333,179.924666666667,14.22,2,ml,12,142,,0.12,av,av91115593,2023-09-12T02:37:56.920Z,"237 km W of Adak, Alaska",earthquake,0.82,0.9,0.38173181053441,12,reviewed,av,av
-2023-09-11T20:58:48.720Z,60.0228333333333,-153.091333333333,0.98,-0.44,ml,6,114,,0.16,av,av91115598,2023-09-12T02:41:17.820Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.38,0.48,0.240746234935645,6,reviewed,av,av
-2023-09-11T20:57:55.912Z,56.0501,-157.2211,19.3,2,ml,,,,0.58,ak,ak023boer9a1,2023-09-11T23:41:03.368Z,"78 km ESE of Chignik, Alaska",earthquake,,4.5,,,reviewed,ak,ak
