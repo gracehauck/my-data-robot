@@ -172,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T10:46:08.234Z,60.8246,-143.2329,17.7,1.2,ml,,,,0.25,ak,ak023bpw9pjr,2023-09-12T10:48:05.924Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-12T10:43:55.597Z,31.8327,140.6105,78.521,4.5,mb,40,102,1.445,0.68,us,us7000kv8v,2023-09-12T11:00:33.040Z,"Izu Islands, Japan region",earthquake,10.63,7.296,0.072,56,reviewed,us,us
 2023-09-12T10:40:11.830Z,44.7261667,-111.0991667,15.33,0.45,ml,9,103,0.07019,0.09,uu,uu60549962,2023-09-12T13:23:46.320Z,"western Montana",earthquake,0.62,1.15,0.375,2,reviewed,uu,uu
-2023-09-12T10:34:14.660Z,37.468,-118.8263333,1.42,0.56,md,19,260,0.117,0.04,nc,nc73936006,2023-09-12T23:04:58.431Z,"17 km SW of Toms Place, CA",earthquake,1.07,2,0.172,16,reviewed,nc,nc
