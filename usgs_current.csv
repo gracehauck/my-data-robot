@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-16T14:28:00.950Z,32.9146667,-116.2375,8.17,2.11,ml,52,55,0.06823,0.19,ci,ci39666978,2023-09-16T14:31:42.107Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.21,1.18,0.168,26,automatic,ci,ci
 2023-09-16T14:03:45.698Z,63.3712,-148.9661,83.2,1.6,ml,,,,0.57,ak,ak023bwkjp1l,2023-09-16T14:05:40.151Z,"2 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-16T14:03:40.720Z,36.5055008,-121.0764999,7.42,1.5,md,8,141,0.0523,0.05,nc,nc73937496,2023-09-16T14:21:15.027Z,"7 km ESE of Pinnacles, CA",earthquake,0.6,1.17,0.24,6,automatic,nc,nc
 2023-09-16T13:48:08.470Z,33.4658333,-116.6008333,3.91,0.52,ml,16,72,0.02881,0.15,ci,ci39666946,2023-09-16T13:51:31.870Z,"12 km SE of Anza, CA",earthquake,0.32,0.53,0.109,13,automatic,ci,ci
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T15:04:50.470Z,38.8354988,-122.8154984,1.6,1.09,md,21,61,0.01281,0.03,nc,nc73937076,2023-09-15T15:06:24.988Z,"8 km W of Cobb, CA",earthquake,0.23,0.38,0.16,22,automatic,nc,nc
 2023-09-15T14:57:10.326Z,-25.2472,-179.4833,416.752,4.3,mb,38,115,4.234,0.69,us,us7000kvyx,2023-09-16T04:56:49.040Z,"south of the Fiji Islands",earthquake,13.45,7.943,0.085,39,reviewed,us,us
 2023-09-15T14:52:38.330Z,17.9655,-67.0806666666667,7.2,2.75,md,14,220,0.03491,0.11,pr,pr71424833,2023-09-15T15:21:39.810Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.4,0.2,0.328408751037825,4,reviewed,pr,pr
-2023-09-15T14:25:32.340Z,46.19616666666667,-122.19416666666666,2.48,0.08,ml,11,101,0.004283,0.08,uw,uw61960016,2023-09-15T15:43:12.240Z,"37 km NNE of Amboy, Washington",earthquake,0.41,0.72,0.15907358188314175,9,reviewed,uw,uw
