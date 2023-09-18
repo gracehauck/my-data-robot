@@ -158,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T10:50:59.058Z,65.1247,-148.643,22.1,1.2,ml,,,,0.27,ak,ak023by5zesk,2023-09-17T10:53:36.393Z,"33 km E of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-17T10:50:40.540Z,38.831501,-122.8174973,1.75,0.44,md,10,71,0.009957,0.01,nc,nc73937816,2023-09-17T10:52:15.775Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.8,0.3,10,automatic,nc,nc
 2023-09-17T10:50:21.650Z,34.1575,-117.4268333,10.09,0.47,ml,14,122,0.1134,0.15,ci,ci39667410,2023-09-17T10:53:59.087Z,"7 km NNE of Fontana, CA",earthquake,0.42,0.75,0.172,6,automatic,ci,ci
-2023-09-17T10:48:37.230Z,46.5935,-112.553333333333,10.92,1.44,ml,32,57,0.0821,0.13,mb,mb90027498,2023-09-17T13:12:21.840Z,"3 km E of Avon, Montana",earthquake,0.26,0.73,0.112512326540264,7,reviewed,mb,mb
