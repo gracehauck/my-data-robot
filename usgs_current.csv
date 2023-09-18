@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T06:48:01.420Z,38.8143349,-122.7996674,2.23,1.13,md,16,63,0.007214,0.03,nc,nc73938246,2023-09-18T06:49:38.398Z,"6 km NW of The Geysers, CA",earthquake,0.28,0.42,0.2,18,automatic,nc,nc
+2023-09-18T06:44:04.840Z,19.22483253479,-155.475997924805,31.25,1.80999994,md,34,138,,0.109999999,hv,hv73579947,2023-09-18T06:47:14.150Z,"2 km N of Pāhala, Hawaii",earthquake,0.68,0.910000026,0.810000002,5,automatic,hv,hv
+2023-09-18T06:43:55.790Z,38.8166656,-122.7990036,1.43,0.79,md,6,85,0.009153,0.01,nc,nc73938241,2023-09-18T06:45:33.049Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.37,0.04,8,automatic,nc,nc
 2023-09-18T06:25:41.770Z,37.6208344,-118.9280014,1.14,0.48,md,13,133,0.01334,0.02,nc,nc73938211,2023-09-18T06:27:17.263Z,"5 km ESE of Mammoth Lakes, CA",earthquake,0.34,0.64,0.12,13,automatic,nc,nc
 2023-09-18T06:24:41.810Z,38.8138351,-122.7968369,-0.74,1.1,md,17,76,0.00598,0.19,nc,nc73938206,2023-09-18T06:33:22.572Z,"5 km NW of The Geysers, CA",earthquake,0.36,1.5,0.14,19,automatic,nc,nc
 2023-09-18T06:23:26.710Z,38.8066673,-122.7926636,0.94,0.3,md,8,64,0.002437,0.01,nc,nc73938201,2023-09-18T06:25:01.810Z,"4 km NW of The Geysers, CA",earthquake,0.49,0.98,0.09,7,automatic,nc,nc
-2023-09-18T06:22:30.130Z,38.8066673,-122.7914963,1.8,1.26,md,14,46,0.003245,0.01,nc,nc73938191,2023-09-18T06:31:55.943Z,"4 km NW of The Geysers, CA",earthquake,0.25,0.57,0.26,16,automatic,nc,nc
-2023-09-18T06:20:52.980Z,38.8115005,-122.793663,1.2,3.49,ml,79,32,0.003753,0.08,nc,nc73938186,2023-09-18T06:35:58.642Z,"5 km NW of The Geysers, CA",earthquake,0.1,0.16,0.237,24,automatic,nc,nc
+2023-09-18T06:22:30.130Z,38.8066673,-122.7914963,1.8,1.26,md,14,46,0.003245,0.01,nc,nc73938191,2023-09-18T06:42:14.216Z,"4 km NW of The Geysers, CA",earthquake,0.25,0.57,0.26,16,automatic,nc,nc
+2023-09-18T06:20:52.980Z,38.8115005,-122.793663,1.2,3.49,ml,79,32,0.003753,0.08,nc,nc73938186,2023-09-18T06:48:16.259Z,"5 km NW of The Geysers, CA",earthquake,0.1,0.16,0.237,24,automatic,nc,nc
 2023-09-18T06:09:43.120Z,60.2568,-152.6606,15.1,3.4,ml,,,,0.46,ak,ak023bzqw7a7,2023-09-18T06:23:21.374Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T05:41:12.930Z,34.1506667,-116.4198333,7.72,1.14,ml,26,54,0.04743,0.15,ci,ci39667794,2023-09-18T05:51:43.100Z,"4 km NNE of Yucca Valley, CA",earthquake,0.23,0.67,0.15,27,automatic,ci,ci
 2023-09-18T05:22:35.021Z,62.3012,-150.01,11.5,1.7,ml,,,,0.68,ak,ak023bzqdjda,2023-09-18T05:32:14.927Z,"5 km ESE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -145,4 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-17T07:09:21.680Z,35.7434998,-117.5643311,1.35,1.82,ml,9,163,0.1386,0.12,ci,ci39667378,2023-09-17T07:12:48.869Z,"15 km W of Searles Valley, CA",earthquake,0.9,0.7,0.371,9,automatic,ci,ci
 2023-09-17T07:08:54.480Z,47.60316666666667,-121.76083333333334,15.79,2.5,ml,66,105,0.1022,0.38,uw,uw61960406,2023-09-18T03:51:39.364Z,"Washington",earthquake,0.37,0.69,0.13993637947726945,49,reviewed,uw,uw
 2023-09-17T06:54:38.130Z,18.9801,-68.38,65,3.57,md,14,285,0.4662,0.49,pr,pr2023260001,2023-09-17T07:31:17.620Z,"44 km N of Punta Cana, Dominican Republic",earthquake,4.61,4.62,0.14,12,reviewed,pr,pr
-2023-09-17T06:49:49.583Z,23.9566,90.6356,10,4,mb,23,154,5.265,0.33,us,us7000kwaj,2023-09-17T11:40:40.412Z,"9 km WNW of Narsingdi, Bangladesh",earthquake,6.9,2,0.15,12,reviewed,us,us
