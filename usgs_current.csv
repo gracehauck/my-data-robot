@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T07:06:58.691Z,58.5249,-154.6537,101.3,1.6,ml,,,,0.24,ak,ak023c1f0dfx,2023-09-19T07:08:31.224Z,"102 km S of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-19T07:00:35.020Z,38.8160019,-122.8273315,2.21,0.75,md,10,96,0.007268,0.02,nc,nc73938871,2023-09-19T07:02:10.431Z,"8 km NW of The Geysers, CA",earthquake,0.46,0.84,0.2,10,automatic,nc,nc
 2023-09-19T07:00:20.340Z,51.9633333333333,178.651,4.57,0.19,ml,4,324,,0.13,av,av91116233,2023-09-20T03:19:46.510Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.43,1.79,0.270962793092676,4,reviewed,av,av
-2023-09-19T06:51:56.177Z,61.9054,-150.4069,50.6,1.7,ml,,,,0.84,ak,ak023c1eokv5,2023-09-19T06:53:44.848Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
