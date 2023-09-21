@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T22:49:19.837Z,-21.8151,-67.1909,189.402,4.6,mb,61,54,1.455,0.63,us,us7000kx90,2023-09-21T23:08:22.040Z,"128 km ESE of Ollagüe, Chile",earthquake,7.14,7.295,0.053,107,reviewed,us,us
 2023-09-21T22:47:49.820Z,61.1919,-151.1992,70.7,1.5,ml,,,,0.51,ak,ak023c4z9c6e,2023-09-21T22:49:50.183Z,"8 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-21T22:43:47.993Z,59.1973,-152.1955,55.2,1.9,ml,,,,0.81,ak,ak023c4z8hgh,2023-09-21T22:46:31.887Z,"23 km SW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-09-21T22:41:40.241Z,79.5655,-18.5546,10,4.7,mb,109,70,5.7,0.47,us,us7000kx8y,2023-09-21T23:49:28.040Z,"eastern Greenland",earthquake,8.13,1.879,0.054,104,reviewed,us,us
+2023-09-21T22:41:40.200Z,79.5681,-18.5787,10,4.7,mb,108,70,5.704,0.48,us,us7000kx8y,2023-09-21T23:50:26.040Z,"eastern Greenland",earthquake,8.1,1.887,0.054,104,reviewed,us,us
 2023-09-21T22:27:13.891Z,63.5189,-148.7316,3.2,1.8,ml,,,,0.88,ak,ak023c4z4z31,2023-09-21T22:29:04.076Z,"17 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-21T22:21:37.728Z,61.5859,-151.8849,95,1.9,ml,,,,0.54,ak,ak023c4z3qmk,2023-09-21T22:23:32.500Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-21T22:17:27.560Z,40.5776672,-124.1371689,19.99,1.95,md,19,171,0.1776,0.15,nc,nc73940046,2023-09-21T22:19:01.711Z,"3 km SE of Fortuna, CA",earthquake,0.85,0.64,0.1,12,automatic,nc,nc
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T15:58:12.500Z,33.993,-116.8491667,6.44,0.79,ml,14,83,0.05431,0.08,ci,ci40569888,2023-09-21T17:14:20.245Z,"8 km NNE of Banning, CA",earthquake,0.18,0.48,0.062,10,reviewed,ci,ci
 2023-09-21T15:58:08.090Z,46.211,-122.19483333333334,6.94,-0.01,ml,11,82,0.0126,0.07,uw,uw61961236,2023-09-21T16:28:30.800Z,"38 km NNE of Amboy, Washington",earthquake,0.44,0.72,0.14572778519381968,5,reviewed,uw,uw
 2023-09-21T15:50:28.380Z,38.8193321,-122.7623367,1.78,0.4,md,8,153,0.0126,0.02,nc,nc73939861,2023-09-21T15:52:05.125Z,"3 km W of Cobb, CA",earthquake,0.46,0.79,0.33,9,automatic,nc,nc
-2023-09-21T15:34:54.837Z,58.1976,-155.3984,1.6,1,ml,,,,0.56,ak,ak023c4v0j0r,2023-09-21T15:36:14.266Z,"89 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-09-21T15:34:54.837Z,58.1976,-155.3984,1.6,1,ml,,,,0.56,ak,ak023c4v0j0r,2023-09-21T23:57:08.040Z,"89 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-21T15:20:26.883Z,-30.6936,-177.9929,4.125,5.7,mww,115,45,1.428,1.71,us,us7000kx4l,2023-09-21T17:23:58.792Z,"Kermadec Islands, New Zealand",earthquake,7.05,3.932,0.073,18,reviewed,us,us
 2023-09-21T15:07:53.580Z,37.5948334,-118.8601685,5.84,1.51,md,14,177,0.02422,0.03,nc,nc73939851,2023-09-21T15:09:29.709Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.71,0.99,0.1,15,automatic,nc,nc
 2023-09-21T15:05:14.470Z,37.5948334,-118.8608322,5.73,2.18,md,22,142,0.02418,0.03,nc,nc73939846,2023-09-21T15:42:36.033Z,"11 km ESE of Mammoth Lakes, CA",earthquake,0.29,0.44,0.18,25,automatic,nc,nc
@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T00:12:45.570Z,38.7975006,-122.7480011,0.8,0.79,md,9,174,0.009668,0.02,nc,nc73939616,2023-09-21T00:14:20.087Z,"2 km NNE of The Geysers, CA",earthquake,0.41,0.77,0.08,8,automatic,nc,nc
 2023-09-21T00:11:51.725Z,59.9425,-151.6583,52.1,1.6,ml,,,,0.22,ak,ak023c4ly38k,2023-09-21T00:13:35.217Z,"4 km E of Happy Valley, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-09-20T23:59:14.729Z,61.0099,-151.4686,59,1.6,ml,,,,0.43,ak,ak023c3cdx68,2023-09-21T00:01:35.046Z,"19 km WSW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2023-09-20T23:55:08.380Z,46.975,-122.20683333333334,-0.36,1.62,ml,41,68,0.01445,0.18,uw,uw61961111,2023-09-21T04:43:42.640Z,"Washington",explosion,0.31,31.61,0.24398324886617884,25,reviewed,uw,uw
