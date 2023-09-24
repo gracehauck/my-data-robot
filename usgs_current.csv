@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-23T10:43:48.010Z,38.8063316,-122.8188324,1.84,1.06,md,13,78,0.008471,0.03,nc,nc73940651,2023-09-23T10:45:26.256Z,"6 km WNW of The Geysers, CA",earthquake,0.31,0.62,0.3,13,automatic,nc,nc
 2023-09-23T10:41:40.715Z,60.2584,-153.0227,131.6,0.9,ml,,,,0.43,ak,ak023c835iwn,2023-09-23T11:14:32.212Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-23T10:40:24.720Z,65.0714,-145.3519,3.5,1.5,ml,,,,0.92,ak,ak023c8359yg,2023-09-23T10:42:14.663Z,"61 km SSW of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-23T10:31:17.140Z,19.2426662445068,-155.42366027832,32.5400009155273,2.1099999,md,42,139,,0.119999997,hv,hv73583822,2023-09-23T10:34:25.350Z,"Hawaii region, Hawaii",earthquake,0.52,0.720000029,0.829999983,19,automatic,hv,hv
