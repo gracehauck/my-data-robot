@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-24T08:51:23.380Z,40.4075012,-124.3658371,17.65,1.67,md,6,299,0.05561,0.09,nc,nc73941176,2023-09-24T08:52:55.212Z,"11 km NW of Petrolia, CA",earthquake,4.37,2.37,0.07,3,automatic,nc,nc
 2023-09-24T08:42:16.301Z,58.3015,-154.9906,0.5,0.9,ml,,,,0.55,ak,ak023c9pi614,2023-09-24T08:44:45.527Z,"87 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T08:42:12.910Z,33.2716667,-116.7816667,11.08,0.26,ml,19,42,0.1062,0.23,ci,ci40571464,2023-09-24T08:45:46.839Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.49,1.09,0.129,5,automatic,ci,ci
 2023-09-24T08:40:53.631Z,57.6684,-149.9204,40.1,2.8,ml,,,,0.93,ak,ak023c9phtgz,2023-09-24T08:43:57.509Z,"141 km E of Chiniak, Alaska",earthquake,,8.6,,,automatic,ak,ak
 2023-09-24T08:39:54.733Z,58.1766,-155.3812,1.1,0.4,ml,,,,0.18,ak,ak023c9phlu9,2023-09-24T08:41:01.854Z,"87 km NW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-09-24T08:39:43.922Z,61.9084,-149.3725,2.7,1.4,ml,,,,0.49,ak,ak023c9phl08,2023-09-24T08:41:14.047Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-24T08:27:05.513Z,61.6679,-146.574,32.1,1.3,ml,,,,0.64,ak,ak023c9pexg7,2023-09-24T08:28:48.599Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-24T08:13:46.143Z,-17.4583,-178.8754,534.162,4.5,mb,33,92,4.787,0.53,us,us7000kxsk,2023-09-24T08:51:18.040Z,"Fiji region",earthquake,15.97,12.383,0.102,31,reviewed,us,us
 2023-09-24T08:04:48.320Z,35.6316667,-117.4221667,9.79,1.39,ml,14,111,0.03339,0.19,ci,ci40571456,2023-09-24T08:08:14.593Z,"15 km S of Searles Valley, CA",earthquake,0.51,0.83,0.262,14,automatic,ci,ci
 2023-09-24T07:56:53.740Z,37.4488335,-121.3058319,-0.37,1.62,md,7,171,0.0659,0.27,nc,nc73941166,2023-09-24T07:58:29.692Z,"14 km SW of Westley, CA",earthquake,1.38,5.92,0.21,4,automatic,nc,nc
 2023-09-24T07:54:54.256Z,60.2879,-152.5424,87.6,1.4,ml,,,,0.69,ak,ak023c9ozdxt,2023-09-24T07:57:45.975Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -139,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-23T17:22:55.015Z,38.1674,-117.8895,7,1.6,ml,12,127.64,0.081,0.2401,nn,nn00866300,2023-09-23T17:25:40.476Z,"31 km SE of Mina, Nevada",earthquake,,0.5,0.33,10,automatic,nn,nn
 2023-09-23T17:19:00.230Z,34.4968333,-118.7046667,18.91,1.34,ml,20,52,0.08065,0.2,ci,ci40571096,2023-09-23T17:22:31.572Z,"8 km W of Castaic, CA",earthquake,0.43,1.03,0.294,29,automatic,ci,ci
 2023-09-23T17:01:38.793Z,62.5624,-151.0509,79.2,1.3,ml,,,,0.72,ak,ak023c872zcn,2023-09-23T17:04:03.199Z,"16 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-23T17:01:36.223Z,42.8536,17.5603,14.914,4,mb,30,30,1.324,0.7,us,us7000kxnx,2023-09-24T07:05:38.499Z,"8 km SSW of Neum, Bosnia and Herzegovina",earthquake,4.81,1.973,0.299,3,reviewed,us,us
+2023-09-23T17:01:36.223Z,42.8536,17.5603,14.914,4,mb,30,30,1.324,0.7,us,us7000kxnx,2023-09-24T08:53:47.335Z,"8 km SSW of Neum, Bosnia and Herzegovina",earthquake,4.81,1.973,0.299,3,reviewed,us,us
 2023-09-23T16:57:28.160Z,35.4976667,-118.0981667,3.91,0.92,ml,13,81,0.05193,0.12,ci,ci40571072,2023-09-23T17:01:20.600Z,"31 km WSW of Inyokern, CA",earthquake,0.25,0.5,0.15,10,automatic,ci,ci
 2023-09-23T16:53:59.390Z,33.2768333,-116.7785,9.54,0.65,ml,14,85,0.04397,0.12,ci,ci40571064,2023-09-23T16:57:36.096Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.34,0.91,0.16,12,automatic,ci,ci
 2023-09-23T16:50:00.646Z,64.0732,-151.5212,18,1.6,ml,,,,0.89,ak,ak023c86ryw0,2023-09-23T16:51:44.342Z,"44 km ENE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
