@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-24T15:09:11.180Z,37.7301674,-122.133667,4.08,1.78,md,28,73,0.01288,0.09,nc,nc73941291,2023-09-24T15:10:48.776Z,"2 km ENE of San Leandro, CA",earthquake,0.22,0.37,0.14,21,automatic,nc,nc
+2023-09-24T15:09:11.180Z,37.7301674,-122.133667,4.08,1.78,md,28,73,0.01288,0.09,nc,nc73941291,2023-09-24T15:19:08.930Z,"2 km ENE of San Leandro, CA",earthquake,0.22,0.37,0.14,21,automatic,nc,nc
+2023-09-24T15:01:37.370Z,52.6072,-171.8369,109.128,5,mb,66,99,1.502,1.04,us,us7000kxtv,2023-09-24T15:23:18.395Z,"167 km ENE of Atka, Alaska",earthquake,7.02,7.628,0.023,600,reviewed,us,us
 2023-09-24T14:51:59.090Z,38.8188324,-122.76017,1.82,0.71,md,10,121,0.01389,0.01,nc,nc73941286,2023-09-24T14:53:32.472Z,"3 km W of Cobb, CA",earthquake,0.36,0.61,0.1,11,automatic,nc,nc
 2023-09-24T14:48:39.440Z,58.2693,-154.9438,7.8,0.6,ml,,,,1.45,ak,ak023c9t43rt,2023-09-24T14:51:13.676Z,"83 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T14:48:06.163Z,58.2799,-154.9688,4.4,0.2,ml,,,,0.32,ak,ak023c9t4160,2023-09-24T14:50:02.963Z,"84 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-24T14:47:43.998Z,58.2587,-154.9247,1.1,0.2,ml,,,,0.51,ak,ak023c9t3wdb,2023-09-24T14:48:45.907Z,"Alaska Peninsula",earthquake,,3.1,,,automatic,ak,ak
+2023-09-24T14:30:36.773Z,35.3848,141.3354,33.073,4.6,mb,16,162,2.786,1.02,us,us7000kxtt,2023-09-24T15:25:01.040Z,"59 km SE of Hasaki, Japan",earthquake,11.9,8.119,0.244,5,reviewed,us,us
 2023-09-24T14:26:26.919Z,60.1045,-152.8914,122,1.1,ml,,,,0.5,ak,ak023c9szd0j,2023-09-24T14:28:46.208Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-24T14:22:12.410Z,38.8198318,-122.8003311,2.83,0.77,md,12,66,0.008401,0.03,nc,nc73941276,2023-09-24T14:23:48.093Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.56,0.07,16,automatic,nc,nc
 2023-09-24T14:12:35.940Z,32.7871667,-115.7745,6.47,1.04,ml,11,157,0.1312,0.34,ci,ci40571584,2023-09-24T14:16:04.706Z,"20 km W of El Centro, CA",earthquake,1,4.89,0.259,11,automatic,ci,ci
