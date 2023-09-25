@@ -1,10 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T23:36:38.640Z,38.8341675,-122.7898331,1.72,1.11,md,16,57,0.004254,0.01,nc,nc73941921,2023-09-25T23:38:16.271Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.6,0.14,16,automatic,nc,nc
 2023-09-25T23:29:34.900Z,38.7796669,-122.7161636,1.75,1.25,md,6,196,0.01646,0.01,nc,nc73941906,2023-09-25T23:31:10.331Z,"2 km WNW of Anderson Springs, CA",earthquake,1.12,2.22,0.38,7,automatic,nc,nc
-2023-09-25T23:28:11.070Z,34.039,-117.2658333,16.84,1.3,ml,38,42,0.1017,0.18,ci,ci40572480,2023-09-25T23:31:41.504Z,"1 km SSW of Loma Linda, CA",earthquake,0.24,0.55,0.203,29,automatic,ci,ci
+2023-09-25T23:29:31.910Z,17.9285,-66.2868333333333,13.9,2.34,md,8,215,0.2218,0.08,pr,pr71425948,2023-09-25T23:43:16.970Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.48,3.65,0.0608034965473494,5,reviewed,pr,pr
+2023-09-25T23:28:10.910Z,34.0343333,-117.2616667,17.03,1.13,ml,33,63,0.08144,0.12,ci,ci40572480,2023-09-25T23:42:21.190Z,"2 km S of Loma Linda, CA",earthquake,0.18,0.35,0.22,26,reviewed,ci,ci
 2023-09-25T23:27:06.090Z,38.8320007,-122.8180008,1.57,0.73,md,11,83,0.01059,0.02,nc,nc73941901,2023-09-25T23:28:40.258Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.8,0.37,11,automatic,nc,nc
+2023-09-25T23:25:07.070Z,17.8993333333333,-66.8385,11.31,2.5,md,21,206,0.08472,0.11,pr,pr71425938,2023-09-25T23:43:10.950Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.41,0.3,0.100935855868276,5,reviewed,pr,pr
 2023-09-25T23:24:21.913Z,58.1674,-155.2312,0,0.9,ml,,,,0.57,ak,ak023cblv64v,2023-09-25T23:26:16.927Z,"Alaska Peninsula",earthquake,,4,,,automatic,ak,ak
 2023-09-25T23:11:17.735Z,64.9947,-147.4879,0,1.5,ml,,,,0.99,ak,ak023cblsdi5,2023-09-25T23:13:01.768Z,"7 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-25T23:10:54.760Z,35.6766667,-117.555,9.95,0.8,ml,13,129,0.09128,0.13,ci,ci40572472,2023-09-25T23:33:41.108Z,"13 km ENE of Ridgecrest, CA",earthquake,0.46,0.82,0.116,5,reviewed,ci,ci
+2023-09-25T23:04:32.058Z,24.4831,122.7399,99.749,4.3,mb,59,55,0.248,0.51,us,us7000ky2c,2023-09-25T23:39:21.040Z,"26 km W of Yonakuni, Japan",earthquake,5.05,4.597,0.086,38,reviewed,us,us
 2023-09-25T23:03:04.460Z,33.197,-116.3863333,13.56,0.85,ml,27,73,0.07556,0.2,ci,ci40572464,2023-09-25T23:21:49.802Z,"7 km S of Borrego Springs, CA",earthquake,0.31,0.8,0.165,12,reviewed,ci,ci
 2023-09-25T22:59:29.980Z,38.8226662,-122.8059998,2.56,1.07,md,15,41,0.003265,0.01,nc,nc73941891,2023-09-25T23:01:05.121Z,"7 km NW of The Geysers, CA",earthquake,0.28,1.07,0.17,17,automatic,nc,nc
 2023-09-25T22:48:43.143Z,62.0811,-150.9617,9.9,1.3,ml,,,,0.71,ak,ak023cblexcq,2023-09-25T22:50:42.710Z,"24 km ENE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
