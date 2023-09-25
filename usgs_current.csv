@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T14:39:48.180Z,38.8051682,-122.7803345,1.19,0.77,md,7,189,0.008084,0.01,nc,nc73941766,2023-09-25T14:41:24.770Z,"4 km NW of The Geysers, CA",earthquake,0.75,0.89,0.12,8,automatic,nc,nc
 2023-09-25T14:02:25.220Z,17.9476666666667,-66.84,11.95,2.3,md,8,211,0.04624,0.08,pr,pr71425838,2023-09-25T14:16:02.260Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.66,0.51,0.0280951373381284,5,reviewed,pr,pr
 2023-09-25T13:58:01.830Z,38.8009987,-122.7738342,1.14,0.64,md,8,93,0.01104,0.02,nc,nc73941746,2023-09-25T13:59:34.811Z,"3 km NNW of The Geysers, CA",earthquake,0.4,0.7,0.16,9,automatic,nc,nc
 2023-09-25T13:44:25.890Z,38.8348351,-122.8183365,1.75,1.05,md,14,63,0.01312,0.01,nc,nc73941741,2023-09-25T13:45:59.826Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.68,0.33,14,automatic,nc,nc
@@ -163,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T19:28:54.310Z,38.2355003,-122.7490005,4.36,2.21,md,4,204,0.5727,0.05,nc,nc73941381,2023-09-24T19:50:35.072Z,"10 km W of Petaluma, CA",earthquake,1.5,9.34,,1,automatic,nc,nc
 2023-09-24T19:28:43.740Z,38.8308334,-122.8170013,1.73,1.29,md,22,50,0.009189,0.02,nc,nc73941376,2023-09-24T19:30:18.366Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.38,0.11,23,automatic,nc,nc
 2023-09-24T19:28:20.700Z,38.8406677,-122.8099976,1.95,0.96,md,14,51,0.01725,0.01,nc,nc73941371,2023-09-24T19:29:58.075Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.62,0.25,14,automatic,nc,nc
-2023-09-24T19:15:00.571Z,34.96301651,-97.54867554,3.390022755,2.2,ml,11,93.90550232,0.0622532405,0.4862806762,ok,ok2023stlx,2023-09-24T19:26:26.050Z,"10 km SE of Dibble, Oklahoma",earthquake,3.203492442,2.797535984,0.3,10,automatic,ok,ok
+2023-09-24T19:15:00.390Z,34.97333333,-97.55966667,4.9,1.73,ml,60,44,0.06568710995,0.3,ok,ok2023stlx,2023-09-25T14:43:42.371Z,"9 km SE of Dibble, Oklahoma",earthquake,,0.6,0.19,6,reviewed,ok,ok
 2023-09-24T19:14:15.078Z,58.1852,-155.3491,1.1,0.8,ml,,,,0.38,ak,ak023c9vvxj7,2023-09-25T00:56:15.160Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-09-24T19:03:58.880Z,46.8868333333333,-112.537666666667,7.51,0.84,ml,8,123,0.06186,0.15,mb,mb90028078,2023-09-25T14:13:13.180Z,"13 km SE of Lincoln, Montana",earthquake,0.63,0.87,0.135994403131192,2,reviewed,mb,mb
 2023-09-24T18:53:59.552Z,39.735,-120.5597,3.6,1.6,ml,9,153.06,0.202,0.0743,nn,nn00866317,2023-09-24T18:56:06.399Z,"0 km ESE of Valley Ranch, California",earthquake,,13.3,0.21,7,automatic,nn,nn
