@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T18:56:27.768Z,61.2727,-150.3633,41.6,2,ml,,,,0.43,ak,ak023cbj2vh4,2023-09-25T18:58:38.768Z,"22 km WSW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-25T18:49:53.710Z,38.7885017,-122.7598343,1.21,1.56,md,24,66,0.01211,0.05,nc,nc73941841,2023-09-25T18:51:30.977Z,"1 km NNW of The Geysers, CA",earthquake,0.24,0.37,0.2,27,automatic,nc,nc
 2023-09-25T18:40:34.640Z,33.2058333,-116.0601667,8.22,1.52,ml,40,53,0.07627,0.19,ci,ci40572280,2023-09-25T18:51:09.150Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.27,0.94,0.158,29,automatic,ci,ci
-2023-09-25T18:40:09.010Z,33.2123333,-116.0556667,8.38,1,ml,22,61,0.07596,0.21,ci,ci40572272,2023-09-25T18:43:52.547Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.39,1,0.173,19,automatic,ci,ci
+2023-09-25T18:40:08.850Z,33.213,-116.0583333,9.28,0.98,ml,16,63,0.07822,0.11,ci,ci40572272,2023-09-25T20:46:11.676Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.23,0.63,0.096,12,reviewed,ci,ci
 2023-09-25T18:24:01.335Z,61.2485,-148.6667,26.9,1.1,ml,,,,0.56,ak,ak023cbivyit,2023-09-25T18:25:46.995Z,"26 km SSE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-25T18:13:02.037Z,61.7781,-149.5171,5.4,0.9,ml,,,,0.58,ak,ak023cbitlp7,2023-09-25T18:14:28.054Z,"Southern Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-09-25T18:10:11.669Z,34.07033333,-97.43233333,6.31,2.51,ml,77,46,0,0.37,ok,ok2023svfh,2023-09-25T18:25:07.040Z,"10 km S of Wilson, Oklahoma",earthquake,,0.9,0.24,22,reviewed,ok,ok
@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T21:16:21.860Z,35.3193333,-119.4021667,22.74,1.56,ml,26,125,0.03502,0.19,ci,ci40571776,2023-09-25T19:21:53.353Z,"11 km SE of Buttonwillow, CA",earthquake,0.33,0.54,0.185,15,reviewed,ci,ci
 2023-09-24T21:07:34.900Z,33.5635,-116.6475,14.91,0.66,ml,25,42,0.03112,0.13,ci,ci40571760,2023-09-25T19:15:43.719Z,"3 km ENE of Anza, CA",earthquake,0.21,0.36,0.068,12,reviewed,ci,ci
 2023-09-24T21:01:43.966Z,6.9695,94.5565,10,4.5,mb,50,72,6.017,0.63,us,us7000kxvg,2023-09-25T15:27:15.040Z,"146 km NW of Sabang, Indonesia",earthquake,10.06,1.88,0.089,37,reviewed,us,us
-2023-09-24T20:50:41.640Z,17.9498333333333,-66.931,18.79,1.62,md,3,218,0.05527,0.01,pr,pr71425718,2023-09-24T21:13:04.140Z,"Puerto Rico region",earthquake,3.24,1.2,0.0235756087536789,3,reviewed,pr,pr
-2023-09-24T20:49:29.220Z,17.9481666666667,-66.93,17.06,2.24,md,4,213,0.05521,0.03,pr,pr71425713,2023-09-24T21:07:42.830Z,"3 km SW of Guánica, Puerto Rico",earthquake,2.39,0.97,0.012901610743195,3,reviewed,pr,pr
-2023-09-24T20:48:02.840Z,17.9581666666667,-66.9296666666667,16.19,2.28,md,7,202,0.05084,0.09,pr,pr71425708,2023-09-24T20:59:37.040Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.67,1.06,0.0219765806885499,4,reviewed,pr,pr
