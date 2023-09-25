@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T08:53:43.090Z,38.7798347,-122.7085037,2.13,1.09,md,9,118,0.01369,0.02,nc,nc73941681,2023-09-25T08:55:16.099Z,"2 km WNW of Anderson Springs, CA",earthquake,0.54,0.9,0.07,8,automatic,nc,nc
+2023-09-25T08:48:32.981Z,68.8932,-147.3165,0.1,1.7,ml,,,,0.79,ak,ak023cbd2u2c,2023-09-25T08:51:07.107Z,"112 km NW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-25T08:23:43.379Z,64.447,-146.8299,9.4,0.5,ml,,,,0.16,ak,ak023cbcxhvu,2023-09-25T08:26:49.049Z,"9 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-25T08:12:17.230Z,35.6183333,-117.4251667,0.28,0.89,ml,10,144,0.1055,0.18,ci,ci40572064,2023-09-25T08:19:23.248Z,"17 km S of Searles Valley, CA",earthquake,0.66,31.61,0.162,5,automatic,ci,ci
 2023-09-25T08:01:14.890Z,60.8606,-152.4671,115.1,1.5,ml,,,,0.55,ak,ak023cbcsq0o,2023-09-25T08:03:49.209Z,"66 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -213,8 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T09:21:47.090Z,38.8175011,-122.7634964,1.68,1.13,md,20,112,0.01389,0.05,nc,nc73941196,2023-09-24T09:23:21.910Z,"4 km W of Cobb, CA",earthquake,0.27,0.4,0.14,20,automatic,nc,nc
 2023-09-24T09:21:41.111Z,13.7868,-90.6787,89.327,4.2,mb,51,150,0.881,0.53,us,us7000kxt1,2023-09-24T09:34:28.040Z,"offshore Guatemala",earthquake,8.38,9.543,0.06,79,reviewed,us,us
 2023-09-24T09:16:03.863Z,62.2202,-151.0064,75.5,1.2,ml,,,,0.26,ak,ak023c9py01u,2023-09-24T09:17:50.796Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-24T08:55:35.779Z,39.4051,-120.2182,11.6,0.3,ml,6,218.21,0.18,0.1058,nn,nn00866316,2023-09-24T18:48:47.994Z,"9 km NNW of Truckee, California",earthquake,,4.2,0.32,4,reviewed,nn,nn
-2023-09-24T08:55:06.090Z,58.1831666666667,-155.2725,1.55,-0.19,ml,7,148,,0.09,av,av92056236,2023-09-24T21:08:16.590Z,"83 km NW of Karluk, Alaska",earthquake,0.39,1.11,0.313320194697167,8,reviewed,av,av
-2023-09-24T08:54:04.810Z,19.1660003662109,-155.492492675781,31.5599994659424,1.99,ml,45,112,,0.150000006,hv,hv73584502,2023-09-24T08:59:42.470Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.57,0.810000002,4.43,7,automatic,hv,hv
-2023-09-24T08:51:23.380Z,40.4075012,-124.3658371,17.65,1.67,md,6,299,0.05561,0.09,nc,nc73941176,2023-09-24T08:52:55.212Z,"11 km NW of Petrolia, CA",earthquake,4.37,2.37,0.07,3,automatic,nc,nc
-2023-09-24T08:50:17.845Z,32.686,-100.691,6.0159,2.9,ml(texnet),13,82,0.1,0.2,tx,tx2023ssri,2023-09-24T09:07:14.184Z,"8 km NE of Hermleigh, Texas",earthquake,1.292914036,2.036013163,0.1,9,reviewed,tx,tx
