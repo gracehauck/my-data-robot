@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T15:25:09.906Z,58.9221,-153.231,78.5,1.9,ml,,,,0.44,ak,ak023cd4n8ku,2023-09-26T15:28:34.169Z,"Kodiak Island region, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-26T15:07:45.171Z,58.1697,-155.4,0,1,ml,,,,0.45,ak,ak023cd4jget,2023-09-26T15:09:26.629Z,"87 km NW of Karluk, Alaska",earthquake,,25.4,,,automatic,ak,ak
 2023-09-26T15:06:58.471Z,61.5191,-149.8731,34,1.8,ml,,,,0.32,ak,ak023cd4j9pz,2023-09-26T15:08:19.511Z,"4 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-26T15:01:26.270Z,59.8866,-152.2956,77.5,2.1,ml,,,,0.16,ak,ak023cd4i4nn,2023-09-26T15:14:51.040Z,"28 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -49,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T09:03:21.897Z,57.4013,-155.6486,13.8,2.5,ml,,,,0.39,ak,ak023cd0xy4d,2023-09-26T09:06:39.777Z,"73 km WSW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T09:01:30.636Z,62.9548,-149.5167,81.2,1.6,ml,,,,0.23,ak,ak023cd0xjd3,2023-09-26T09:03:40.839Z,"56 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T08:40:14.180Z,33.8476667,-116.8686667,16.26,1,ml,39,27,0.06098,0.23,ci,ci40572632,2023-09-26T08:43:48.159Z,"9 km S of Banning, CA",earthquake,0.28,0.61,0.186,27,automatic,ci,ci
-2023-09-26T08:37:16.090Z,33.659,-116.7616667,14.68,0.96,ml,34,54,0.06886,0.23,ci,ci40572624,2023-09-26T08:40:54.653Z,"10 km SSW of Idyllwild, CA",earthquake,0.3,0.49,0.208,26,automatic,ci,ci
+2023-09-26T08:37:16.070Z,33.658,-116.7601667,14.88,0.95,ml,43,56,0.06892,0.16,ci,ci40572624,2023-09-26T15:27:42.310Z,"10 km SSW of Idyllwild, CA",earthquake,0.19,0.3,0.204,23,reviewed,ci,ci
 2023-09-26T08:29:08.500Z,33.67,-116.7406667,15.68,0.48,ml,13,94,0.0501,0.16,ci,ci40572616,2023-09-26T13:03:30.234Z,"8 km SSW of Idyllwild, CA",earthquake,0.41,0.81,0.057,11,reviewed,ci,ci
 2023-09-26T08:24:33.460Z,35.8726667,-117.661,6.82,0.92,ml,12,164,0.1059,0.21,ci,ci40572608,2023-09-26T08:28:01.355Z,"23 km ESE of Little Lake, CA",earthquake,0.56,1.64,0.08,8,automatic,ci,ci
 2023-09-26T08:18:00.108Z,-28.7581,-71.4165,28.239,4.1,mwr,21,143,0.677,0.63,us,us7000ky58,2023-09-26T08:40:55.040Z,"67 km WSW of Vallenar, Chile",earthquake,6.58,4.242,0.071,19,reviewed,us,us
@@ -68,11 +69,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T06:42:21.759Z,62.1683,-149.4537,34.6,2.6,ml,,,,0.56,ak,ak023ccze06z,2023-09-26T07:14:28.040Z,"20 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-26T06:38:20.180Z,37.4603333,-113.9676667,-1.6,1.2,md,7,236,0.08815,0.08,uu,uu60550877,2023-09-26T13:14:42.170Z,"Utah",earthquake,0.95,2.18,0.196,6,reviewed,uu,uu
 2023-09-26T06:37:49.160Z,17.9431666666667,-66.848,14.45,2.48,md,12,213,0.04349,0.17,pr,pr71426003,2023-09-26T06:55:51.470Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.87,0.65,0.0735109545834418,5,reviewed,pr,pr
-2023-09-26T06:37:20.080Z,33.2725,-116.7801667,12.34,0.52,ml,17,100,0.0406,0.16,ci,ci40572592,2023-09-26T06:40:47.760Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.35,0.79,0.092,10,automatic,ci,ci
+2023-09-26T06:37:19.940Z,33.2731667,-116.7741667,12.94,0.58,ml,27,53,0.03927,0.13,ci,ci40572592,2023-09-26T15:33:57.742Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.2,0.43,0.091,10,reviewed,ci,ci
 2023-09-26T06:32:19.900Z,18.4893333333333,-66.1171666666667,103.14,3.22,md,18,187,0.1821,0.14,pr,pr71425993,2023-09-26T07:59:23.078Z,"Puerto Rico region",earthquake,1.23,0.67,0.0841071786146323,8,reviewed,pr,pr
 2023-09-26T06:28:45.660Z,38.7773323,-122.7229996,2,0.96,md,7,76,0.01224,0.01,nc,nc73942036,2023-09-26T06:30:23.569Z,"3 km W of Anderson Springs, CA",earthquake,0.99,2.24,0.33,8,automatic,nc,nc
 2023-09-26T06:21:39.065Z,15.0589,-104.4707,10,5.4,mww,103,181,5.514,0.68,us,us7000ky4p,2023-09-26T08:23:35.301Z,"off the coast of Michoacan, Mexico",earthquake,11.31,1.938,0.075,17,reviewed,us,us
-2023-09-26T06:00:18.100Z,33.5155,-116.502,13.66,0.66,ml,18,81,0.06423,0.16,ci,ci40572584,2023-09-26T06:03:48.423Z,"16 km ESE of Anza, CA",earthquake,0.29,0.69,0.233,14,automatic,ci,ci
+2023-09-26T06:00:17.950Z,33.515,-116.5015,14.18,0.58,ml,28,81,0.06388,0.13,ci,ci40572584,2023-09-26T15:28:22.266Z,"17 km ESE of Anza, CA",earthquake,0.17,0.4,0.188,11,reviewed,ci,ci
 2023-09-26T05:54:15.556Z,60.3269,-143.099,13.5,2,ml,,,,0.47,ak,ak023ccyv4qb,2023-09-26T05:55:32.871Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-09-26T05:53:29.930Z,33.272,-116.7775,12.44,0.57,ml,32,34,0.03921,0.14,ci,ci40572576,2023-09-26T15:22:55.229Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.2,0.48,0.184,10,reviewed,ci,ci
 2023-09-26T05:47:39.398Z,68.0007,-157.558,0,2.4,ml,,,,0.56,ak,ak023ccytok3,2023-09-26T05:51:36.384Z,"102 km N of Ambler, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -150,6 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T21:46:45.960Z,60.0163,-139.5237,0,1.7,ml,,,,0.92,ak,ak023cbkt2u9,2023-09-25T21:49:44.113Z,"53 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-25T21:42:05.940Z,38.8413315,-122.8253326,1.89,1.04,md,14,103,0.00839,0.02,nc,nc73941871,2023-09-25T21:43:40.444Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.47,0.13,15,automatic,nc,nc
 2023-09-25T21:37:54.209Z,31.61,-104.261,6.6714,1.8,ml(texnet),21,70,0.1,0.2,tx,tx2023svmd,2023-09-26T13:26:56.544Z,"55 km NW of Toyah, Texas",earthquake,1.214100441,1.716464403,0,7,reviewed,tx,tx
+2023-09-25T20:43:15.529Z,36.02633333,-96.54116667,0,1.87,ml,29,109,0.1979611533,0.28,ok,ok2023svki,2023-09-26T15:35:10.129Z,"Oklahoma",quarry blast,,0.4,0.1,7,reviewed,ok,ok
 2023-09-25T20:34:36.860Z,17.8766666666667,-66.843,11.56,1.9,md,5,243,0.1038,0.16,pr,pr71425893,2023-09-25T21:08:11.630Z,"Puerto Rico region",earthquake,2.63,3.5,0.207970219326,4,reviewed,pr,pr
 2023-09-25T20:18:54.900Z,33.3265,-116.931,6.7,0.73,ml,20,54,0.06328,0.15,ci,ci40572368,2023-09-25T21:26:45.391Z,"7 km WSW of Palomar Observatory, CA",earthquake,0.23,0.47,0.169,14,reviewed,ci,ci
 2023-09-25T19:52:26.630Z,35.0525,-118.3521667,-0.93,1.35,ml,21,44,0.06237,0.18,ci,ci40572328,2023-09-25T21:21:44.859Z,"12 km SE of Tehachapi, CA",quarry blast,0.35,31.61,0.137,20,reviewed,ci,ci
