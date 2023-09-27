@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:21:45.970Z,43.6046666666667,-110.499833333333,1.78,0.57,ml,7,272,0.07591,0.06,mb,mb90028258,2023-09-26T16:59:28.760Z,"10 km ESE of Kelly, Wyoming",earthquake,0.78,0.67,0.137472831418359,5,reviewed,mb,mb
 2023-09-26T12:20:26.620Z,38.8520012,-122.7768326,1.22,0.39,md,8,162,0.009392,0.03,nc,nc73942096,2023-09-26T12:22:00.673Z,"6 km NW of Cobb, CA",earthquake,0.4,0.52,0.29,8,automatic,nc,nc
 2023-09-26T12:15:28.568Z,36.7283,-116.1501,2.4,0,ml,6,138.37,0.018,0.0813,nn,nn00866370,2023-09-26T17:11:40.269Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.8,0.02,3,reviewed,nn,nn
-2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"16 km ESE of Lincoln, Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
+2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"Western Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
 2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-26T11:57:29.570Z,58.1746666666667,-155.333333333333,2.18,-0.19,ml,9,78,,0.07,av,av92059471,2023-09-27T01:56:04.680Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.4,0.222069324021699,9,reviewed,av,av
@@ -217,8 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T03:43:17.308Z,36.6836,-116.3258,9.4,-0.2,ml,11,106.98,0.03,0.0477,nn,nn00866355,2023-09-26T04:40:28.963Z,"46 km ESE of Beatty, Nevada",earthquake,,1.4,0.59,3,reviewed,nn,nn
 2023-09-26T03:42:16.020Z,38.7885017,-122.6921692,3.82,1.02,md,5,180,0.02104,0.01,nc,nc73941991,2023-09-26T03:43:50.589Z,"2 km N of Anderson Springs, CA",earthquake,3.72,7.06,0.4,7,automatic,nc,nc
 2023-09-26T03:34:28.210Z,34.0248333,-117.2508333,17.62,1.03,ml,33,88,0.08138,0.18,ci,ci40572520,2023-09-26T14:25:27.603Z,"3 km SSE of Loma Linda, CA",earthquake,0.25,0.46,0.148,4,reviewed,ci,ci
-2023-09-26T03:10:46.470Z,61.5209,-149.9227,48.4,1.1,ml,,,,0.43,ak,ak023ccxewef,2023-09-26T03:12:40.202Z,"1 km E of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-09-26T03:10:29.784Z,-35.2766,-71.1042,100.006,4.3,mb,31,116,0.548,0.47,us,us7000ky43,2023-09-27T00:39:14.040Z,"24 km SE of Molina, Chile",earthquake,4.74,6.612,0.217,6,reviewed,us,us
-2023-09-26T03:04:24.930Z,36.0166667,-118.358,5.17,1.42,ml,22,113,0.249,0.1,ci,ci40572512,2023-09-26T14:16:06.768Z,"30 km NNE of Kernville, CA",earthquake,0.17,0.93,0.247,10,reviewed,ci,ci
-2023-09-26T03:02:05.040Z,58.1705,-155.333,2.31,0.42,ml,11,74,,0.1,av,av92058641,2023-09-27T00:43:07.940Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.4,0.301952954243025,12,reviewed,av,av
-2023-09-26T02:57:59.443Z,59.3119,-152.8124,77.4,1.9,ml,,,,0.43,ak,ak023ccx3kgg,2023-09-26T02:59:21.282Z,"50 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
