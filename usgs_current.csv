@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T18:59:19.833Z,-8.228,129.0028,10,4.2,mb,14,116,5.042,0.88,us,us6000lb6d,2023-09-27T19:18:42.040Z,"223 km E of Lospalos, Timor Leste",earthquake,9.86,1.877,0.199,8,reviewed,us,us
 2023-09-27T18:23:41.411Z,63.6094,-147.8641,5.9,1.2,ml,,,,0.32,ak,ak023cetyivx,2023-09-27T18:25:24.904Z,"53 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-27T18:00:40.586Z,-18.9362,-178.0347,613.082,4.8,mb,60,48,3.467,0.56,us,us6000lb63,2023-09-27T18:17:34.040Z,"295 km ESE of Levuka, Fiji",earthquake,9.35,8.364,0.048,132,reviewed,us,us
 2023-09-27T17:52:22.440Z,34.97083333,-97.56,4.94,1.39,ml,60,52,0.06298763968,0.53,ok,ok2023syvs,2023-09-27T18:02:31.953Z,"9 km SE of Dibble, Oklahoma",earthquake,,1.1,0.23,21,reviewed,ok,ok
@@ -71,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-27T07:26:58.790Z,33.8806667,-116.1946667,10.19,1.17,ml,32,75,0.04804,0.19,ci,ci40573280,2023-09-27T13:34:38.360Z,"18 km N of Indio, CA",earthquake,0.32,0.53,0.22,26,reviewed,ci,ci
 2023-09-27T07:22:59.716Z,61.0526,-147.2767,34.8,1.2,ml,,,,1.09,ak,ak023cenekxf,2023-09-27T07:24:59.408Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-27T07:21:37.589Z,38.5009,-119.5363,6.1,1.3,ml,10,81.78,0.077,0.1643,nn,nn00866424,2023-09-27T17:59:39.170Z,"5 km WSW of Walker, California",earthquake,,1.9,0.45,3,reviewed,nn,nn
+2023-09-27T07:21:31.420Z,38.4923333,-112.8378333,0.12,-0.02,md,9,102,0.02595,0.08,uu,uu60550942,2023-09-27T19:13:09.670Z,"18 km NE of Milford, Utah",earthquake,0.29,6.75,0.327,4,reviewed,uu,uu
 2023-09-27T07:20:20.930Z,38.4923333,-112.8373333,0.06,1.38,md,11,97,0.0261,0.1,uu,uu60550937,2023-09-27T19:09:27.180Z,"18 km NE of Milford, Utah",earthquake,0.26,31.61,0.312,7,reviewed,uu,uu
 2023-09-27T07:15:28.947Z,65.0119,-147.4927,0,1.3,ml,,,,1.23,ak,ak023cend0jw,2023-09-27T07:18:45.110Z,"8 km NE of Fox, Alaska",earthquake,,15.5,,,automatic,ak,ak
 2023-09-27T07:13:23.828Z,62.556,-151.277,92.7,1.5,ml,,,,0.77,ak,ak023cenckpq,2023-09-27T07:15:18.526Z,"27 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -183,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T19:34:29.147Z,60.4877,-143.0943,13.6,0.6,ml,,,,0.7,ak,ak023cd72xxe,2023-09-26T19:36:38.984Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-26T19:25:16.190Z,38.8481674,-122.8170013,1.25,0.97,md,16,58,0.008161,0.04,nc,nc73942231,2023-09-26T19:26:52.330Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.58,0.24,16,automatic,nc,nc
 2023-09-26T19:25:01.861Z,1.1721,-79.1001,41.186,4.5,mb,46,145,1.266,0.68,us,us6000layf,2023-09-26T21:47:00.040Z,"15 km WSW of Valdez, Ecuador",earthquake,5.97,6.542,0.104,30,reviewed,us,us
-2023-09-26T19:10:51.971Z,31.706,-104.165,6.4915,2.6,ml(texnet),19,52,0.1,0.1,tx,tx2023sxcu,2023-09-27T12:07:32.366Z,"53 km W of Mentone, Texas",earthquake,0.8191983737,1.137363396,0.1,7,reviewed,tx,tx
