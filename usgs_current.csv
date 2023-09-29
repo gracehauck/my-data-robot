@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T23:29:53.871Z,63.2732,-149.7153,81.9,1.2,ml,,,,0.37,ak,ak023ci81p5n,2023-09-29T23:31:34.642Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T23:05:15.621Z,61.3753,-146.4033,32.5,1.2,ml,,,,0.64,ak,ak023ci7wh0q,2023-09-29T23:07:32.337Z,"27 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T23:01:10.790Z,59.1782,-152.9346,69.8,2.1,ml,,,,0.33,ak,ak023ci7vls7,2023-09-29T23:16:00.040Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T22:52:52.551Z,62.4489,-151.3153,84.8,1.2,ml,,,,0.38,ak,ak023ci7l6x3,2023-09-29T22:54:49.234Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -41,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T19:02:53.780Z,46.0066666666667,-112.461666666667,-2,1.67,ml,16,81,0.06479,0.12,mb,mb90028893,2023-09-29T19:57:43.600Z,"western Montana",quarry blast,0.45,31.61,0.253261233304445,16,reviewed,mb,mb
 2023-09-29T18:58:12.510Z,17.9433333333333,-67.0196666666667,10.28,2.41,md,14,231,0.03493,0.09,pr,pr71426523,2023-09-29T19:34:18.000Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.45,0.3,0.0229679418967026,4,reviewed,pr,pr
 2023-09-29T18:43:12.370Z,36.7461662,-121.6053314,-0.23,1.96,md,21,86,0.0371,0.24,nc,nc73943461,2023-09-29T18:44:47.801Z,"7 km ESE of Prunedale, CA",earthquake,0.53,2.27,0.13,12,automatic,nc,nc
+2023-09-29T18:42:03.530Z,44.56483333333333,-122.5465,3.18,0.55,ml,4,115,0.1428,0.06,uw,uw61963001,2023-09-29T23:39:29.470Z,"15 km E of Lacomb, Oregon",earthquake,0.29,8.85,0.06001169561389941,3,reviewed,uw,uw
 2023-09-29T18:21:01.877Z,23.0866,143.1469,59.67,4.8,mb,80,112,9.587,0.74,us,us6000lbrs,2023-09-29T18:56:17.040Z,"Volcano Islands, Japan region",earthquake,10.99,7.328,0.068,72,reviewed,us,us
 2023-09-29T18:19:54.810Z,33.2723333,-116.7805,12.32,0.77,ml,31,54,0.04057,0.14,ci,ci40574544,2023-09-29T21:02:28.956Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.19,0.48,0.119,10,reviewed,ci,ci
 2023-09-29T18:18:07.138Z,63.3118,-145.3537,5.8,1.3,ml,,,,0.52,ak,ak023ci502nd,2023-09-29T18:20:04.073Z,"27 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -139,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T08:22:37.333Z,57.9765,-154.4933,250,1.4,ml,,,,0.74,ak,ak023chz2nsl,2023-09-29T08:25:43.861Z,"45 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-29T08:16:38.220Z,33.3115,-116.2376667,4.51,1.74,ml,52,24,0.1193,0.2,ci,ci40574288,2023-09-29T12:58:55.350Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.93,0.158,27,reviewed,ci,ci
 2023-09-29T08:14:19.400Z,18.0343333333333,-66.7975,17.05,2.08,md,6,146,0.09762,0.09,pr,pr71426458,2023-09-29T08:23:14.120Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.56,0.98,0.0216757970324064,5,reviewed,pr,pr
+2023-09-29T08:10:39.600Z,60.5173333333333,-152.7415,4.16,-0.28,ml,7,121,,0.04,av,av92066721,2023-09-29T23:34:22.840Z,"78 km W of Salamatof, Alaska",earthquake,0.29,0.7,0.250938177866698,7,reviewed,av,av
 2023-09-29T08:09:55.350Z,37.5701667,-118.827,5.39,0.37,md,9,279,0.0199,0.01,nc,nc73943221,2023-09-29T09:27:40.845Z,"13 km W of Toms Place, CA",earthquake,2.19,2.17,0.194,9,reviewed,nc,nc
 2023-09-29T08:05:50.078Z,61.437,-149.9849,164.6,2,ml,,,,1,ak,ak023chyz1lr,2023-09-29T08:09:03.725Z,"8 km N of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-29T08:00:12.742Z,37.5257,-117.9572,0,1.7,ml,12,94.49,0.158,0.1478,nn,nn00866534,2023-09-29T16:15:05.827Z,"18 km SSE of Dyer, Nevada",earthquake,,4.1,0.59,10,reviewed,nn,nn
@@ -226,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T23:48:41.393Z,63.2382,-150.703,125.5,1.4,ml,,,,0.23,ak,ak023cgkmeaz,2023-09-28T23:58:41.364Z,"61 km SE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-09-28T23:44:53.320Z,31.8246667,-116.1605,5.37,2.49,ml,17,76,0.2548,0.38,ci,ci40574184,2023-09-29T21:54:16.044Z,"40 km ENE of Maneadero, B.C., MX",earthquake,0.55,31.61,0.138,59,reviewed,ci,ci
 2023-09-28T23:41:04.960Z,60.0228333333333,-153.075666666667,5.46,-0.51,ml,5,98,,0.16,av,av92066121,2023-09-29T17:13:41.750Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.72,1.23,0.22270658773676,5,reviewed,av,av
-2023-09-28T23:34:06.653Z,60.4545,-152.0082,72,1.4,ml,,,,0.39,ak,ak023cgkjbll,2023-09-28T23:36:40.142Z,"39 km W of Kalifornsky, Alaska",earthquake,,0.6,,,automatic,ak,ak
