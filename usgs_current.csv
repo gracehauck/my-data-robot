@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-29T02:35:49.972Z,58.3468,-133.287,0,2.7,ml,,,,0.94,ak,ak023chvkvg5,2023-09-29T02:38:06.897Z,"66 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-29T02:45:36.155Z,60.6074,-151.7714,78.5,1.1,ml,,,,0.37,ak,ak023chvmzjj,2023-09-29T02:47:23.626Z,"24 km W of Salamatof, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-09-29T02:35:49.972Z,58.3468,-133.287,0,2.7,ml,,,,0.94,ak,ak023chvkvg5,2023-09-29T02:47:09.040Z,"66 km E of Juneau, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-29T02:34:49.330Z,19.3295001983643,-155.195999145508,-0.769999980926514,2.43000007,md,48,112,,0.209999993,hv,hv73587807,2023-09-29T02:41:43.040Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.170000002,0.699999988,37,automatic,hv,hv
 2023-09-29T02:09:05.230Z,17.9451666666667,-66.2743333333333,8.26,2.98,md,13,191,0.1607,0.27,pr,pr71426433,2023-09-29T02:38:15.530Z,"4 km SE of Salinas, Puerto Rico",earthquake,0.66,1.26,0.140782789895796,9,reviewed,pr,pr
 2023-09-29T02:05:55.310Z,19.1438331604004,-155.373504638672,29.8500003814697,2.1099999,md,45,194,,0.100000001,hv,hv73587802,2023-09-29T02:37:57.620Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.64,0.959999979,1.15999997,22,automatic,hv,hv
