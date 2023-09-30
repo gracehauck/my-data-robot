@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T03:13:06.780Z,33.7116667,-116.7635,10.51,0.63,ml,12,68,0.04308,0.17,ci,ci40574720,2023-09-30T03:16:43.518Z,"5 km SW of Idyllwild, CA",earthquake,0.51,0.76,0.204,15,automatic,ci,ci
 2023-09-30T03:11:16.620Z,38.8190002,-122.82267,2.07,0.62,md,9,119,0.01049,0.02,nc,nc73943596,2023-09-30T03:12:53.509Z,"7 km NW of The Geysers, CA",earthquake,0.53,1.02,0.19,10,automatic,nc,nc
 2023-09-30T03:07:24.541Z,43.3862,143.8979,10,4.4,mb,36,144,1.196,0.67,us,us6000lbui,2023-09-30T04:02:45.040Z,"15 km SE of Rikubetsu, Japan",earthquake,7.52,1.888,0.114,22,reviewed,us,us
+2023-09-30T03:05:58.010Z,44.3553333333333,-115.198,6.36,1.34,ml,10,63,0.7863,0.15,mb,mb90028908,2023-09-30T14:19:10.370Z,"southern Idaho",earthquake,0.39,1.46,0.21430665374929,10,reviewed,mb,mb
 2023-09-30T02:57:50.850Z,61.5416,-150.5898,44.5,1.9,ml,,,,0.65,ak,ak023cjj8xqa,2023-09-30T02:59:32.102Z,"4 km W of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-30T02:42:39.220Z,19.147,-155.372333333333,29.77,3.17,ml,62,182,,0.12,hv,hv73588382,2023-09-30T03:10:15.981Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.4,0.48,0.152552057449013,44,reviewed,hv,hv
 2023-09-30T02:41:32.185Z,63.3703,-150.1421,115.8,2.4,ml,,,,0.26,ak,ak023cjj5gv1,2023-09-30T03:52:17.040Z,"59 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T14:33:01.470Z,51.9218333333333,179.580833333333,5.52,0.83,ml,5,105,,0.04,av,av92066981,2023-09-30T00:26:18.040Z,"260 km W of Adak, Alaska",earthquake,0.31,0.65,0.269445572626557,6,reviewed,av,av
 2023-09-29T14:28:56.480Z,58.2901666666667,-154.977,2.51,0.15,ml,11,132,,0.07,av,av92066976,2023-09-30T00:19:40.510Z,"86 km NNW of Karluk, Alaska",earthquake,0.24,0.37,0.279101886413278,11,reviewed,av,av
 2023-09-29T14:27:05.780Z,38.8343315,-122.8198318,1.35,0.7,md,7,110,0.01294,0.02,nc,nc73943356,2023-09-29T14:28:39.656Z,"8 km NW of The Geysers, CA",earthquake,0.48,1.52,0.36,8,automatic,nc,nc
-2023-09-29T14:24:21.290Z,19.1700000762939,-155.498992919922,31.1299991607666,2,md,45,203,,0.159999996,hv,hv73588042,2023-09-29T14:27:24.000Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.689999998,1.69000006,15,automatic,hv,hv
