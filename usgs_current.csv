@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-01T20:34:29.985Z,61.6553,-150.2944,5.6,1.8,ml,,,,0.2,ak,ak023clhd42e,2023-10-01T20:36:16.185Z,"16 km NE of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-01T20:32:59.290Z,36.9928322,-121.2108307,2.17,1.14,md,7,151,0.06283,0.08,nc,nc73944301,2023-10-01T20:34:33.842Z,"23 km NE of Hollister, CA",earthquake,0.52,3.77,0.04,3,automatic,nc,nc
 2023-10-01T20:23:03.430Z,38.7799988,-122.7204971,0.91,1.05,md,12,85,0.02036,0.04,nc,nc73944296,2023-10-01T20:24:39.837Z,"2 km WNW of Anderson Springs, CA",earthquake,0.29,1.01,0.09,12,automatic,nc,nc
 2023-10-01T20:13:33.840Z,38.7813339,-122.7183304,1.13,1.02,md,9,91,0.0145,0.04,nc,nc73944291,2023-10-01T20:15:09.367Z,"2 km WNW of Anderson Springs, CA",earthquake,0.29,0.74,0.28,8,automatic,nc,nc
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T20:56:33.240Z,33.0188333,-116.3481667,9.92,0.97,ml,16,143,0.07039,0.18,ci,ci40574960,2023-09-30T21:00:09.681Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.4,0.66,0.258,15,automatic,ci,ci
 2023-09-30T20:56:07.800Z,38.6850014,-122.4941635,1.88,1.12,md,6,111,0.09117,0.07,nc,nc73943916,2023-09-30T20:57:44.668Z,"13 km NNW of Angwin, CA",earthquake,0.52,8.23,0.2,6,automatic,nc,nc
 2023-09-30T20:55:03.766Z,63.1405,-150.8495,24.7,1.6,ml,,,,1.69,ak,ak023cjty7l4,2023-09-30T20:57:00.493Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-30T20:37:04.620Z,36.5826683,-121.2106705,6.87,1.95,md,25,108,0.0231,0.19,nc,nc73943911,2023-09-30T20:39:55.611Z,"8 km NW of Pinnacles, CA",earthquake,0.41,1.1,0.16,24,automatic,nc,nc
