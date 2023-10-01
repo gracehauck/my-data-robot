@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-01T05:50:56.827Z,38.1851,-117.8271,5,1.1,ml,8,116.7,0.125,0.0914,nn,nn00866602,2023-10-01T05:53:31.207Z,"33 km SE of Mina, Nevada",earthquake,,1.5,0.35,5,automatic,nn,nn
 2023-10-01T05:25:26.353Z,36.9015,-115.9277,14,0.3,ml,8,198.64,0.056,0.2931,nn,nn00866601,2023-10-01T05:27:31.188Z,"43 km NNW of Indian Springs, Nevada",earthquake,,1.5,0.13,3,automatic,nn,nn
 2023-10-01T05:21:57.720Z,38.8216667,-122.8528366,2.76,0.88,md,9,107,0.006663,0.02,nc,nc73944051,2023-10-01T05:23:34.941Z,"10 km WNW of The Geysers, CA",earthquake,0.45,1.97,0.3,9,automatic,nc,nc
 2023-10-01T05:21:48.080Z,38.8224983,-122.8515015,2.45,1.61,md,26,59,0.006557,0.02,nc,nc73944046,2023-10-01T05:23:25.082Z,"10 km WNW of The Geysers, CA",earthquake,0.2,0.38,0.28,27,automatic,nc,nc
