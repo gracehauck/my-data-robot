@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-02T02:18:54.015Z,63.1231,-151.4682,2.6,2.6,ml,,,,0.62,ak,ak023cmu3a2f,2023-10-02T02:20:51.497Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-02T02:06:10.733Z,-57.0907,-30.2108,10,5.1,mb,36,68,4.531,0.74,us,us6000lc6e,2023-10-02T02:20:51.040Z,"South Sandwich Islands region",earthquake,12.02,1.908,0.101,32,reviewed,us,us
 2023-10-02T01:47:45.833Z,62.2078,-148.6517,33.5,1.9,ml,,,,0.3,ak,ak023cmto1lj,2023-10-02T01:49:18.292Z,"46 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-02T01:18:34.910Z,38.8253326,-122.7986679,2.86,0.82,md,14,61,0.009117,0.02,nc,nc73944381,2023-10-02T01:20:10.353Z,"6 km NW of The Geysers, CA",earthquake,0.32,0.65,0.19,16,automatic,nc,nc
 2023-10-02T01:15:22.743Z,60.0939,-151.7554,40.7,1.7,ml,,,,0.4,ak,ak023cmth4wi,2023-10-02T01:17:18.091Z,"6 km NW of Ninilchik, Alaska",earthquake,,2.5,,,automatic,ak,ak
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T16:28:01.980Z,38.8443336,-122.8373337,1.92,0.66,md,11,94,0.005915,0.01,nc,nc73944216,2023-10-01T16:29:38.332Z,"10 km WNW of Cobb, CA",earthquake,0.31,0.67,0.11,12,automatic,nc,nc
 2023-10-01T16:23:34.903Z,60.3107,-152.8248,118.1,2.3,ml,,,,1.23,ak,ak023clex15l,2023-10-01T16:26:20.997Z,"70 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-01T16:19:14.390Z,38.8156662,-122.8256683,2.26,1.12,md,19,56,0.007321,0.03,nc,nc73944211,2023-10-01T16:20:47.902Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.46,0.12,21,automatic,nc,nc
-2023-10-01T16:17:57.908Z,59.0031,-154.662,137.6,2.1,ml,,,,0.21,ak,ak023clevsmm,2023-10-01T17:21:13.040Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-10-01T16:17:57.908Z,59.0031,-154.662,137.6,2.1,ml,,,,0.21,ak,ak023clevsmm,2023-10-01T17:21:13.040Z,"49 km S of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-01T16:01:30.540Z,38.8433342,-122.7699966,1.06,0.71,md,7,211,0.005052,0.02,nc,nc73944206,2023-10-01T16:03:08.113Z,"5 km WNW of Cobb, CA",earthquake,0.9,0.58,0.24,8,automatic,nc,nc
 2023-10-01T15:58:30.030Z,38.8429985,-122.7698364,0.88,1.02,md,15,154,0.005139,0.02,nc,nc73944201,2023-10-01T16:00:07.694Z,"5 km WNW of Cobb, CA",earthquake,0.26,0.34,0.11,16,automatic,nc,nc
 2023-10-01T15:54:44.200Z,32.9128333,-116.2506667,10.36,0.74,ml,18,95,0.06083,0.22,ci,ci40575168,2023-10-01T15:58:16.690Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.51,0.72,0.172,6,automatic,ci,ci
@@ -209,7 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T02:32:42.140Z,17.9053333333333,-66.8511666666667,12.27,2.86,md,22,218,0.07432,0.11,pr,pr71426768,2023-10-01T02:47:17.620Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.34,0.180819631003882,8,reviewed,pr,pr
 2023-10-01T02:29:28.020Z,17.9178333333333,-66.8506666666667,13.03,2.68,md,7,225,0.06308,0.08,pr,pr71426763,2023-10-01T02:55:47.480Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.75,0.32,0.139678002009046,7,reviewed,pr,pr
 2023-10-01T02:28:51.530Z,17.8953333333333,-66.8486666666667,11.95,2.01,md,7,235,0.08447,0.1,pr,pr71426758,2023-10-01T02:59:08.250Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.58,0.0324298870609392,3,reviewed,pr,pr
-2023-10-01T02:22:42.640Z,17.8898333333333,-66.8501666666667,11.68,3.18,md,23,223,0.08917,0.15,pr,pr71426748,2023-10-01T02:47:49.520Z,"Puerto Rico region",earthquake,0.49,0.36,0.117185937478606,15,reviewed,pr,pr
-2023-10-01T02:19:33.290Z,17.9241666666667,-66.852,13.78,2.25,md,8,221,0.05687,0.15,pr,pr71426743,2023-10-01T02:47:24.720Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.96,0.43,0.0993646079011654,3,reviewed,pr,pr
-2023-10-01T02:17:09.335Z,61.2827,-146.8229,29.1,1.6,ml,,,,0.24,ak,ak023cl6jmet,2023-10-01T02:18:21.678Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-01T02:10:10.440Z,33.2773333,-116.7845,11.53,0.55,ml,18,67,0.04654,0.28,ci,ci40575000,2023-10-01T02:13:48.349Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.58,1.05,0.135,10,automatic,ci,ci
