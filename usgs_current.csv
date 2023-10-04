@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-04T21:01:00.408Z,36.75240326,-98.06005859,3.469218731,2.18,ml,29,101.7354493,0.09660706669,0.406384517,ok,ok2023tlwl,2023-10-04T21:06:34.260Z,"8 km E of Nescatunga, Oklahoma",earthquake,2.292835801,2.058403641,0.16,24,automatic,ok,ok
+2023-10-04T20:55:52.610Z,36.291832,-121.734169,11.71,1.44,md,10,126,0.06916,0.09,nc,nc73945476,2023-10-04T20:57:29.527Z,"15 km E of Point Sur, CA",earthquake,0.67,1.24,0.09,7,automatic,nc,nc
 2023-10-04T20:33:59.250Z,19.3313333333333,-155.142,1.55,2.77,ml,56,93,,0.18,hv,hv73591952,2023-10-04T20:50:26.760Z,"Hawaii region, Hawaii",earthquake,0.21,0.3,0.143257964452525,41,reviewed,hv,hv
 2023-10-04T20:33:25.200Z,19.3306666666667,-155.146833333333,1.33,0.96,md,22,99,,0.17,hv,hv73591947,2023-10-04T20:43:40.510Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.5,0.219699477225963,9,reviewed,hv,hv
 2023-10-04T20:28:25.060Z,33.3315,-116.8243333,6.88,0.69,ml,15,113,0.11,0.25,ci,ci40577160,2023-10-04T20:40:36.199Z,"5 km SE of Palomar Observatory, CA",earthquake,0.65,1.77,0.138,16,automatic,ci,ci
@@ -193,6 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T00:49:00.790Z,38.8361664,-122.8075027,2.61,0.7,md,13,53,0.01291,0.04,nc,nc73945146,2023-10-04T00:50:35.343Z,"8 km WNW of Cobb, CA",earthquake,0.4,0.78,0.34,14,automatic,nc,nc
 2023-10-04T00:33:18.295Z,31.668,-104.506,6.2601,2.1,ml(texnet),21,71,0,0.2,tx,tx2023tkhy,2023-10-04T13:04:37.306Z,"57 km SSW of Whites City, New Mexico",earthquake,1.629768748,0.9151075553,0,6,reviewed,tx,tx
 2023-10-04T00:22:06.840Z,54.7426666666667,-163.971833333333,4.92,2.1,ml,7,85,,0.27,av,av91117293,2023-10-04T03:15:56.520Z,"Unimak Island region, Alaska",earthquake,0.78,1.86,0.232898279115795,7,reviewed,av,av
+2023-10-04T00:17:47.820Z,60.045,-153.063166666667,-0.25,-0.57,ml,5,142,,0.07,av,av92072346,2023-10-04T20:58:51.060Z,"Southern Alaska",earthquake,0.78,1.45,0.440431621634986,5,reviewed,av,av
 2023-10-04T00:13:45.603Z,30.0215,140.1089,10,5.5,mww,86,98,4.92,1.02,us,us6000lcnc,2023-10-04T20:51:55.040Z,"Izu Islands, Japan region",earthquake,8.6,1.843,0.065,23,reviewed,us,us
 2023-10-04T00:08:13.000Z,61.9508,-149.2972,42.6,3.8,ml,,,,0.59,ak,ak023cq3wvg8,2023-10-04T16:39:22.678Z,"23 km N of Fishhook, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-10-04T00:05:47.680Z,38.8406677,-122.8361664,1.61,0.66,md,12,118,0.002142,0.01,nc,nc73945136,2023-10-04T00:42:14.232Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.71,0.44,12,automatic,nc,nc
