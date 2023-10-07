@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T09:09:58.107Z,61.8074,-159.4096,249.4,3.5,ml,,,,1.11,ak,ak023cv7w4n6,2023-10-07T09:13:21.182Z,"26 km NNE of Aniak, Alaska",earthquake,,10.2,,,automatic,ak,ak
+2023-10-07T08:56:09.680Z,19.3815002441406,-155.280838012695,0.829999983310699,1.86000001,md,11,163,,0.109999999,hv,hv73598377,2023-10-07T09:01:39.740Z,"8 km SW of Volcano, Hawaii",earthquake,0.26,0.310000002,1.13999999,13,automatic,hv,hv
+2023-10-07T08:40:13.595Z,-5.4921,146.1753,74.044,6.7,mww,112,19,6.105,0.75,us,us6000ldqf,2023-10-07T09:07:38.158Z,"52 km SE of Madang, Papua New Guinea",earthquake,7.95,6.215,0.083,14,reviewed,us,us
 2023-10-07T08:38:31.213Z,61.5269,-146.5462,34,1.5,ml,,,,0.81,ak,ak023cv7guq9,2023-10-07T08:40:11.091Z,"45 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T08:36:09.564Z,59.8617,-151.6838,52.4,1.7,ml,,,,0.76,ak,ak023cv7gdmk,2023-10-07T08:38:18.986Z,"6 km NW of Nikolaevsk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-07T08:34:26.734Z,-5.5997,146.1315,53.498,6.7,mww,110,19,6.171,0.96,us,us6000ldqd,2023-10-07T08:56:25.912Z,"56 km SE of Madang, Papua New Guinea",earthquake,7.87,5.613,0.054,33,reviewed,us,us
@@ -266,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T09:24:10.443Z,39.9662,-120.0198,8,1.7,ml,12,157.91,0.151,0.1313,nn,nn00866893,2023-10-07T02:04:20.071Z,"9 km SE of Doyle, California",earthquake,,2.8,0.18,8,reviewed,nn,nn
 2023-10-06T09:16:27.040Z,17.944,-66.9478333333333,9.78,2.35,md,7,217,0.07221,0.13,pr,pr71427643,2023-10-06T10:16:32.560Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.92,1.03,0.115548722146093,2,reviewed,pr,pr
 2023-10-06T09:15:50.840Z,38.8373337,-122.7996674,2.42,1.07,md,15,67,0.00736,0.01,nc,nc73946181,2023-10-06T11:51:12.373Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.57,0.22,14,automatic,nc,nc
-2023-10-06T09:13:55.990Z,19.3470001220703,-155.294830322266,2.52999997138977,1.98,ml,36,116,,0.189999998,hv,hv73595812,2023-10-06T09:19:27.360Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.50999999,0.06,3,automatic,hv,hv
-2023-10-06T09:10:51.210Z,19.3601665496826,-155.289337158203,1.60000002384186,1.82000005,md,16,123,,0.129999995,hv,hv73595807,2023-10-06T09:13:42.560Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.419999987,0.540000021,13,automatic,hv,hv
