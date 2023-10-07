@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-07T02:20:22.616Z,63.1132,-151.5409,0,2.1,ml,,,,0.52,ak,ak023cv3sdjp,2023-10-07T02:22:18.467Z,"48 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-07T02:16:20.798Z,61.2428,-152.4379,0.2,1.9,ml,,,,0.68,ak,ak023cv3rijj,2023-10-07T02:18:45.777Z,"72 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-07T01:59:31.670Z,19.171667098999,-155.476669311523,32.9599990844727,2.01999998,md,33,130,,0.100000001,hv,hv73597757,2023-10-07T02:02:40.390Z,"3 km S of Pāhala, Hawaii",earthquake,0.71,0.800000012,1.38,7,automatic,hv,hv
 2023-10-07T01:38:55.210Z,35.6588333,-117.4491667,1.96,1.82,ml,23,65,0.02166,0.16,ci,ci40578384,2023-10-07T01:49:45.170Z,"13 km SSW of Searles Valley, CA",earthquake,0.32,0.66,0.192,20,automatic,ci,ci
