@@ -115,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T07:50:42.590Z,46.200833333333335,-122.18,2.55,-0.02,ml,9,139,0.02667,0.12,uw,uw61965286,2023-10-10T20:32:35.050Z,"38 km NNE of Amboy, Washington",earthquake,0.34,1.55,0.18324432988387293,8,reviewed,uw,uw
 2023-10-10T07:43:04.610Z,19.367000579834,-155.291000366211,0.740000009536743,1.83,ml,23,109,,0.209999993,hv,hv73602867,2023-10-10T07:48:35.600Z,"10 km SW of Volcano, Hawaii",earthquake,0.25,0.400000006,0.28,4,automatic,hv,hv
 2023-10-10T07:36:56.830Z,46.9115,-112.541333333333,9.94,1.53,ml,19,133,0.078,0.13,mb,mb90029353,2023-10-10T14:19:45.620Z,"11 km ESE of Lincoln, Montana",earthquake,0.38,0.68,0.227247512966683,8,reviewed,mb,mb
+2023-10-10T07:34:20.594Z,29.195,-97.611,7.0185,2.1,ml(texnet),14,95,0,0.3,tx,tx2023tvuw,2023-10-10T20:56:24.023Z,"8 km SSE of Smiley, Texas",earthquake,3.975721733,2.071818095,0.3,12,reviewed,tx,tx
 2023-10-10T07:28:55.920Z,36.6982,-116.2814,5.8,-0.4,ml,8,213.65,0.041,0.0719,nn,nn00867078,2023-10-10T13:51:15.916Z,"California-Nevada border region",earthquake,,2.1,0.37,5,reviewed,nn,nn
 2023-10-10T07:21:32.234Z,-15.545,-174.2009,25.023,5.7,mww,57,57,3.092,1.21,us,us6000leg0,2023-10-10T09:25:10.694Z,"62 km NW of Hihifo, Tonga",earthquake,7.49,5.196,0.089,12,reviewed,us,us
 2023-10-10T07:19:26.980Z,40.3120003,-124.3486633,5.2,1.49,md,7,213,0.02399,0.04,nc,nc73948411,2023-10-10T09:54:14.355Z,"6 km WSW of Petrolia, CA",earthquake,1.77,1.71,0.02,5,automatic,nc,nc
@@ -196,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T21:09:58.850Z,38.7854996,-122.7366638,1.8,0.71,md,8,103,0.00226,0.02,nc,nc73948256,2023-10-09T21:33:13.317Z,"2 km ENE of The Geysers, CA",earthquake,0.34,0.88,0.07,8,automatic,nc,nc
 2023-10-09T21:05:54.258Z,61.7284,-149.7832,34.4,1.4,ml,,,,0.66,ak,ak023cyq35q9,2023-10-09T21:08:01.141Z,"11 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-09T21:05:37.820Z,38.6879997,-122.4981689,7.77,1.82,md,20,57,0.09547,0.08,nc,nc73948251,2023-10-09T23:00:13.029Z,"12 km SE of Middletown, CA",earthquake,0.32,1.18,0.11,20,automatic,nc,nc
-2023-10-09T20:57:50.244Z,63.3464,-151.4244,4.5,1.4,ml,,,,0.23,ak,ak023cypsv1s,2023-10-09T20:59:41.758Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-09T20:48:22.640Z,36.502,-98.70183333,7.57,1.38,ml,18,125,0.01349735136,0.12,ok,ok2023tuzo,2023-10-10T13:26:20.458Z,"Oklahoma",earthquake,,0.3,0.18,4,reviewed,ok,ok
