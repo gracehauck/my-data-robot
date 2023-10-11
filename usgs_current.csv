@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T04:19:15.610Z,34.1578331,-117.5749969,10.37,2.35,ml,110,26,0.04546,0.23,ci,ci40581000,2023-10-11T05:07:31.010Z,"4 km N of Rancho Cucamonga, CA",earthquake,0.19,0.39,0.328,22,automatic,ci,ci
 2023-10-11T04:15:10.960Z,34.003334,-117.8333359,4.38,1.24,ml,21,138,0.03209,0.16,ci,ci40580992,2023-10-11T04:17:30.438Z,"4 km ESE of Walnut, CA",earthquake,0.43,0.72,0.299,7,automatic,ci,ci
 2023-10-11T04:10:35.652Z,-15.9117,-69.6393,229.29,4.8,mb,64,102,1.498,0.98,us,us6000lepk,2023-10-11T04:25:55.040Z,"16 km SSE of Taquile, Peru",earthquake,7.79,2.942,0.026,445,reviewed,us,us
-2023-10-11T04:05:28.110Z,19.3390007019043,-155.299331665039,3.07999992370605,1.87,ml,32,118,,0.189999998,hv,hv73604342,2023-10-11T04:10:58.650Z,"13 km SSW of Volcano, Hawaii",earthquake,0.34,0.680000007,0.3,15,automatic,hv,hv
+2023-10-11T04:05:28.110Z,19.3390007019043,-155.299331665039,3.07999992370605,1.87,ml,32,118,,0.189999998,hv,hv73604342,2023-10-11T04:10:58.650Z,"Hawaii region, Hawaii",earthquake,0.34,0.680000007,0.3,15,automatic,hv,hv
 2023-10-11T04:04:53.450Z,35.6246681,-117.4698334,4.91,1.46,ml,18,74,0.05513,0.13,ci,ci40580984,2023-10-11T04:07:00.256Z,"17 km SSW of Searles Valley, CA",earthquake,0.37,0.89,0.086,4,automatic,ci,ci
 2023-10-11T03:59:39.260Z,38.8003349,-122.7523346,3.78,0.79,md,13,150,0.02564,0.02,nc,nc73948766,2023-10-11T04:15:10.532Z,"3 km N of The Geysers, CA",earthquake,0.52,1.16,0.15,12,automatic,nc,nc
 2023-10-11T03:58:14.210Z,35.9684982,-120.5298309,9.56,1.08,md,15,115,0.01863,0.07,nc,nc73948761,2023-10-11T04:20:16.563Z,"12 km NW of Parkfield, CA",earthquake,0.6,0.46,0.26,7,automatic,nc,nc
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T09:39:51.837Z,31.651,-104.005,6.5686,2.1,ml(texnet),15,45,0,0.1,tx,tx2023tvza,2023-10-10T19:51:07.410Z,"38 km W of Mentone, Texas",earthquake,2.123234545,1.687657742,0.1,6,reviewed,tx,tx
 2023-10-10T09:35:14.060Z,35.839,-117.679,8.85,1.09,ml,17,154,0.07612,0.11,ci,ci40580384,2023-10-10T15:49:01.077Z,"23 km ESE of Little Lake, CA",earthquake,0.27,0.51,0.185,6,reviewed,ci,ci
 2023-10-10T09:29:55.364Z,61.4088,-150.0853,32.6,1.6,ml,,,,0.44,ak,ak023d06mg8g,2023-10-10T09:31:13.792Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-10T09:26:59.520Z,38.7916679,-122.7483368,1.31,0.75,md,8,118,0.01238,0.04,nc,nc73948436,2023-10-10T11:53:18.025Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.95,0.11,6,automatic,nc,nc
