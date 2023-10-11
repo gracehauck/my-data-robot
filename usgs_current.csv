@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-11T17:26:03.190Z,33.0465012,-115.6094971,6.85,1.76,ml,27,69,0.02459,0.23,ci,ci40581208,2023-10-11T17:28:26.610Z,"2 km NE of Westmorland, CA",earthquake,0.42,0.91,0.287,28,automatic,ci,ci
+2023-10-11T17:19:12.910Z,34.095665,-118.1016693,3.95,1.41,ml,14,119,0.04828,0.23,ci,ci40581200,2023-10-11T17:21:26.556Z,"0 km E of San Gabriel, CA",earthquake,0.53,1.58,0.097,4,automatic,ci,ci
+2023-10-11T17:18:15.425Z,37.0384,-116.7386,4,1.1,ml,15,111.05,0.106,0.2167,nn,nn00867151,2023-10-11T17:20:15.811Z,"14 km N of Beatty, Nevada",earthquake,,13,0.85,9,automatic,nn,nn
+2023-10-11T17:16:38.618Z,64.837,-148.8022,13.3,1.4,ml,,,,0.55,ak,ak023d1yufxy,2023-10-11T17:26:03.175Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-11T17:00:34.970Z,19.3621673583984,-155.286666870117,1.12000000476837,1.96,ml,31,116,,0.219999999,hv,hv73605302,2023-10-11T17:06:06.950Z,"10 km SSW of Volcano, Hawaii",earthquake,0.28,0.419999987,0.34,12,automatic,hv,hv
 2023-10-11T16:35:35.305Z,57.748,-155.7162,88.5,1.7,ml,,,,0.16,ak,ak023d1yd2pm,2023-10-11T16:37:05.321Z,"77 km WNW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-11T16:26:57.200Z,19.1526660919189,-155.49983215332,31.7700004577637,2.33,ml,47,131,,0.100000001,hv,hv73605242,2023-10-11T16:32:29.110Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.43,0.600000024,3.27,14,automatic,hv,hv
@@ -6,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T16:04:35.290Z,19.3733329772949,-155.279006958008,1.97000002861023,2.12,ml,28,103,,0.239999995,hv,hv73605207,2023-10-11T16:10:06.860Z,"9 km SSW of Volcano, Hawaii",earthquake,0.28,0.400000006,0.36,11,automatic,hv,hv
 2023-10-11T15:46:19.210Z,33.3656654,-116.30867,14.22,1.11,ml,24,100,0.2005,0.22,ci,ci40581128,2023-10-11T16:04:28.518Z,"14 km NNE of Borrego Springs, CA",earthquake,0.55,1.65,0.228,4,automatic,ci,ci
 2023-10-11T15:42:45.800Z,19.1136665344238,-155.445007324219,27.6100006103516,1.96000004,md,41,178,,0.170000002,hv,hv73605187,2023-10-11T15:45:56.250Z,"10 km SSE of Pāhala, Hawaii",earthquake,0.67,1.03999996,0.270000011,5,automatic,hv,hv
-2023-10-11T15:35:45.860Z,34.079834,-118.0978317,9.4,2.86,ml,97,42,0.03228,0.24,ci,ci40581104,2023-10-11T17:17:16.729Z,"2 km SSE of San Gabriel, CA",earthquake,0.24,0.43,0.31,16,automatic,ci,ci
+2023-10-11T15:35:45.860Z,34.079834,-118.0978317,9.4,2.86,ml,97,42,0.03228,0.24,ci,ci40581104,2023-10-11T17:22:28.185Z,"2 km SSE of San Gabriel, CA",earthquake,0.24,0.43,0.31,16,automatic,ci,ci
 2023-10-11T15:35:42.510Z,33.3246651,-116.4004974,8.2,1.28,ml,40,54,0.028,0.22,ci,ci40581112,2023-10-11T15:37:58.159Z,"8 km NNW of Borrego Springs, CA",earthquake,0.34,0.88,0.193,9,automatic,ci,ci
 2023-10-11T15:05:11.929Z,62.0065,-149.4398,32.9,1.5,ml,,,,1.09,ak,ak023d1xl5tk,2023-10-11T15:07:18.340Z,"27 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-11T15:02:17.000Z,19.3626670837402,-155.074172973633,4.46999979019165,1.97,ml,41,158,,0.319999993,hv,hv73605132,2023-10-11T15:07:48.170Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.71,0.589999974,0.44,5,automatic,hv,hv
@@ -52,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T09:45:09.713Z,39.6365,-119.6483,11.9,2,ml,16,72.91,0.193,0.3326,nn,nn00867136,2023-10-11T09:47:10.871Z,"Nevada",earthquake,,0.5,0.38,9,automatic,nn,nn
 2023-10-11T09:43:04.440Z,17.9438333333333,-66.921,17.35,1.99,md,3,231,0.05043,0.05,pr,pr71428223,2023-10-11T09:59:44.360Z,"Puerto Rico region",earthquake,2.96,0.91,0.165023338747983,3,reviewed,pr,pr
 2023-10-11T09:36:19.492Z,61.306,-150.1288,35.2,1.6,ml,,,,0.58,ak,ak023d1u77z1,2023-10-11T09:38:33.538Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-11T09:33:46.742Z,39.6308,-119.6409,0,1.9,ml,15,75.2,0.194,0.2056,nn,nn00867132,2023-10-11T09:35:40.049Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,4.4,0.4,9,automatic,nn,nn
+2023-10-11T09:33:47.941Z,39.6327,-119.6502,8.8,2,ml,24,75.65,0.122,0.1668,nn,nn00867132,2023-10-11T17:28:02.886Z,"Nevada",earthquake,,1.6,0.33,8,reviewed,nn,nn
 2023-10-11T09:33:14.920Z,64.824,-151.542,15.9,1.3,ml,,,,0.38,ak,ak023d1u6kh0,2023-10-11T09:34:47.756Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-11T09:00:23.970Z,17.885,-66.916,13.41,2.44,md,9,243,0.08701,0.08,pr,pr71428208,2023-10-11T09:13:36.730Z,"Puerto Rico region",earthquake,0.88,0.34,0.124993240596019,6,reviewed,pr,pr
 2023-10-11T08:54:28.520Z,19.1616668701172,-155.494003295898,30.5799999237061,2.25,md,42,155,,0.129999995,hv,hv73604647,2023-10-11T08:59:59.130Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.59,0.709999979,0.370000005,17,automatic,hv,hv
