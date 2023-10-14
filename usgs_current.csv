@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-14T10:49:50.660Z,34.1553333,-116.9178333,13.26,1.36,ml,49,29,0.06342,0.18,ci,ci40582472,2023-10-14T10:53:29.693Z,"10 km S of Big Bear Lake, CA",earthquake,0.22,0.4,0.147,26,automatic,ci,ci
+2023-10-14T10:39:50.205Z,64.3428,-151.4371,12.2,1.8,ml,,,,0.35,ak,ak023d6tfeks,2023-10-14T10:52:07.636Z,"66 km NE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-14T10:30:33.448Z,63.5031,-151.0049,0,1.6,ml,,,,1.01,ak,ak023d6tdfu8,2023-10-14T10:32:22.848Z,"36 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-14T09:56:26.972Z,63.3994,-149.8735,141.5,3.2,ml,,,,0.85,ak,ak023d6sxiv9,2023-10-14T10:09:07.976Z,"46 km W of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-14T09:51:41.204Z,60.0545,-152.9328,111.1,2.6,ml,,,,0.42,ak,ak023d6swivc,2023-10-14T10:01:14.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -174,6 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-13T11:15:44.110Z,38.7578,-118.8206,11.1,0.7,ml,6,128.83,0.267,0.1012,nn,nn00867240,2023-10-14T02:04:37.821Z,"13 km NNW of Walker Lake, Nevada",earthquake,,6,0.44,2,reviewed,nn,nn
 2023-10-13T11:13:30.979Z,34.7942,61.8689,10,4.2,mb,37,115,5.918,0.51,us,us6000lfc3,2023-10-13T12:00:00.040Z,"18 km SSE of Qarah Bāgh, Afghanistan",earthquake,5.57,1.951,0.11,23,reviewed,us,us
 2023-10-13T11:13:14.820Z,47.818333333333335,-122.84916666666666,24.04,1.06,ml,11,87,0.01716,0.17,uw,uw61965746,2023-10-13T17:49:05.520Z,"Puget Sound region, Washington",earthquake,0.61,0.65,0.16536231106603644,8,reviewed,uw,uw
-2023-10-13T10:49:22.668Z,59.5527,-151.3555,34.5,2,ml,,,,0.56,ak,ak023d55y54a,2023-10-13T10:51:48.290Z,"8 km WSW of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-13T10:48:29.710Z,60.0673333333333,-153.062166666667,4.91,-0.31,ml,5,257,,0.2,av,av92082621,2023-10-13T21:07:27.640Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.07,0.89,0.0715377565987824,5,reviewed,av,av
-2023-10-13T10:47:39.480Z,33.3426667,-116.3191667,13.85,0.94,ml,48,51,0.04319,0.21,ci,ci40582016,2023-10-13T22:26:32.952Z,"11 km NNE of Borrego Springs, CA",earthquake,0.25,0.56,0.144,19,reviewed,ci,ci
