@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-14T09:42:29.540Z,34.1425,-117.4121667,2.27,0.89,ml,19,47,0.05155,0.13,ci,ci40582456,2023-10-14T09:46:07.031Z,"6 km NW of Rialto, CA",earthquake,0.25,0.33,0.09,25,automatic,ci,ci
 2023-10-14T08:49:30.080Z,19.3355007171631,-155.300994873047,2.66000008583069,1.87,md,18,126,,0.159999996,hv,hv73608152,2023-10-14T08:55:02.180Z,"13 km SSW of Volcano, Hawaii",earthquake,0.37,0.74000001,0.639999986,10,automatic,hv,hv
 2023-10-14T08:44:36.990Z,36.7565002,-121.2761688,7.8,1.26,md,9,139,0.03397,0.04,nc,nc73947040,2023-10-14T09:15:12.451Z,"5 km SE of Tres Pinos, CA",earthquake,0.46,0.78,0.06,7,automatic,nc,nc
 2023-10-14T08:41:15.127Z,64.4685,-149.4192,7.4,1.3,ml,,,,0.44,ak,ak023d6s8w3l,2023-10-14T08:43:58.904Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T04:33:13.692Z,32.6693,140.8365,56.954,4.8,mb,55,135,0.969,0.68,us,us6000lfh9,2023-10-14T05:00:47.040Z,"271 km SSE of Tateyama, Japan",earthquake,3.73,6.631,0.044,158,reviewed,us,us
 2023-10-14T04:20:10.434Z,34.435,24.2608,10,4.1,mb,29,184,0.996,1.21,us,us6000lfh7,2023-10-14T05:09:51.040Z,"47 km SSE of Kastrí, Greece",earthquake,7.24,1.937,0.174,11,reviewed,us,us
 2023-10-14T04:01:53.370Z,33.1163333,-116.0293333,10.94,0.96,ml,27,56,0.07157,0.24,ci,ci40582392,2023-10-14T04:05:30.304Z,"10 km ESE of Ocotillo Wells, CA",earthquake,0.35,0.79,0.19,14,automatic,ci,ci
-2023-10-14T03:51:30.558Z,17.6164,-68.1956,10,3.2,ml,16,217,0.523,0.61,us,us6000lfh6,2023-10-14T04:02:17.040Z,"95 km SSE of Boca de Yuma, Dominican Republic",earthquake,4.82,1.999,0.064,32,reviewed,us,us
+2023-10-14T03:51:34.070Z,17.9761666666667,-68.3063333333333,11.95,3.74,md,18,216,0.3708,0.19,pr,pr71428468,2023-10-14T09:42:05.010Z,"54 km SE of Boca de Yuma, Dominican Republic",earthquake,0.89,0.73,0.0941547183601759,12,reviewed,pr,pr
 2023-10-14T03:41:44.530Z,62.4589,-149.3001,6.4,1.7,ml,,,,0.67,ak,ak023d6p9r87,2023-10-14T03:43:37.981Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-14T03:33:49.120Z,38.8300018,-122.8525009,1.89,0.26,md,7,96,0.004205,0.02,nc,nc73946995,2023-10-14T05:41:12.208Z,"10 km NW of The Geysers, CA",earthquake,0.47,1.33,0.16,10,automatic,nc,nc
 2023-10-14T03:14:28.260Z,32.0548333,-116.7811667,18.66,1.64,ml,8,292,0.2761,0.14,ci,ci40582384,2023-10-14T03:17:53.523Z,"20 km NNW of El Sauzal, B.C., MX",earthquake,8.43,1.92,0.168,11,automatic,ci,ci
