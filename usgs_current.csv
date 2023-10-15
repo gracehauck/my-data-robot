@@ -166,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T06:54:33.878Z,64.0235,-147.5036,4,1.4,ml,,,,0.39,ak,ak023d6r4umz,2023-10-14T06:56:52.369Z,"58 km SW of Harding-Birch Lakes, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-14T06:54:09.950Z,19.1996669769287,-155.378494262695,29.3099994659424,1.84,ml,45,163,,0.119999997,hv,hv73608092,2023-10-14T06:59:41.260Z,"10 km E of Pāhala, Hawaii",earthquake,0.5,0.75999999,4.26,4,automatic,hv,hv
 2023-10-14T06:51:58.520Z,37.6173333,-118.8276667,3.28,0.22,md,7,174,0.01446,0.03,nc,nc73947030,2023-10-14T22:14:10.968Z,"14 km E of Mammoth Lakes, CA",earthquake,0.63,1.01,0.255,7,reviewed,nc,nc
-2023-10-14T06:43:58.040Z,38.7841682,-122.7146683,2.18,0.96,md,6,212,0.01726,0.01,nc,nc73947020,2023-10-14T07:30:13.844Z,"2 km WNW of Anderson Springs, CA",earthquake,1.26,2.82,0.45,7,automatic,nc,nc
-2023-10-14T06:41:56.750Z,19.3401660919189,-155.303665161133,3.24000000953674,1.74,ml,24,80,,0.119999997,hv,hv73608082,2023-10-14T06:47:26.830Z,"13 km SSW of Volcano, Hawaii",earthquake,0.33,0.839999974,0.17,8,automatic,hv,hv
