@@ -26,6 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T06:18:48.260Z,19.3683338165283,-155.289993286133,0.860000014305115,1.74,ml,17,125,,0.25,hv,hv73611267,2023-10-17T06:24:19.040Z,"Hawaii region, Hawaii",earthquake,0.37,0.550000012,2.52,8,automatic,hv,hv
 2023-10-17T06:17:34.308Z,63.4676,-146.194,0,1.6,ml,,,,0.42,ak,ak023dbpiynq,2023-10-17T06:19:54.384Z,"51 km NW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-17T06:13:50.570Z,19.3641662597656,-155.283828735352,1.95000004768372,1.76999998,md,18,117,,0.209999993,hv,hv73611262,2023-10-17T06:19:21.700Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.409999996,13,automatic,hv,hv
+2023-10-17T06:12:20.706Z,31.606,-103.969,8.8952,2.1,ml(texnet),22,58,0,0.1,tx,tx2023uims,2023-10-17T09:55:43.970Z,"36 km NNW of Toyah, Texas",earthquake,0.4386158558,0.4509295647,0.2,17,reviewed,tx,tx
 2023-10-17T06:11:52.517Z,59.4291,-153.2485,91.6,1.7,ml,,,,0.09,ak,ak023dbphprn,2023-10-17T06:13:51.277Z,"62 km SE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-17T06:03:06.770Z,18.7811666666667,-67.0751666666667,14.07,2.83,md,16,250,0.4713,0.17,pr,pr71428908,2023-10-17T06:15:37.930Z,"31 km N of Isabela, Puerto Rico",earthquake,0.61,0.85,0.0937205076949881,10,reviewed,pr,pr
 2023-10-17T06:01:14.870Z,36.8984985,-121.6266632,5.4,1.84,md,28,81,0.03115,0.09,nc,nc73948145,2023-10-17T07:55:10.852Z,"2 km NE of Aromas, CA",earthquake,0.25,0.43,0.18,27,automatic,nc,nc
@@ -114,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T18:16:27.810Z,33.5033333,-116.5706667,12.37,0.78,ml,15,90,0.08058,0.11,ci,ci40583120,2023-10-16T18:44:15.817Z,"11 km ESE of Anza, CA",earthquake,0.23,0.63,0.116,10,reviewed,ci,ci
 2023-10-16T17:59:04.365Z,61.6761,-150.9165,51,1.8,ml,,,,0.15,ak,ak023da8sbl0,2023-10-16T18:00:15.073Z,"26 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-16T17:54:28.660Z,33.5068333,-115.8623333,4.67,2.03,ml,43,44,0.02186,0.19,ci,ci40583112,2023-10-16T18:33:31.040Z,"7 km ESE of North Shore, CA",earthquake,0.18,0.46,0.171,23,reviewed,ci,ci
-2023-10-16T17:49:26.605Z,32.687,-100.694,5.649,2.7,ml(texnet),15,82,0,0.2,tx,tx2023uhof,2023-10-16T18:03:51.353Z,"8 km NE of Hermleigh, Texas",earthquake,0.9203036883,1.393168726,0.1,8,reviewed,tx,tx
+2023-10-16T17:49:26.546Z,32.686,-100.691,5.7224,2.6,ml(texnet),18,82,0,0.2,tx,tx2023uhof,2023-10-17T09:47:02.841Z,"western Texas",earthquake,0.7766673926,1.16803424,0.2,17,reviewed,tx,tx
 2023-10-16T17:46:10.870Z,38.8300018,-122.7976685,1.42,1.09,md,18,36,0.01016,0.01,nc,nc73947995,2023-10-16T20:11:14.855Z,"6 km W of Cobb, CA",earthquake,0.21,0.42,0.15,19,automatic,nc,nc
 2023-10-16T17:41:04.880Z,38.8058319,-122.7955017,3.36,1.33,md,26,37,0.002139,0.02,nc,nc73947990,2023-10-16T19:39:14.672Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.43,0.17,26,automatic,nc,nc
 2023-10-16T17:36:41.360Z,17.929,-66.8483333333333,18.82,2.27,md,5,220,0.05445,0.06,pr,pr71428853,2023-10-16T17:51:07.040Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.94,0.65,0.119066201118492,5,reviewed,pr,pr
@@ -188,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-16T10:12:05.636Z,57.689,-155.9156,1.7,2.1,ml,,,,0.42,ak,ak023da4c7sj,2023-10-16T10:13:32.337Z,"88 km W of Karluk, Alaska",earthquake,,15.2,,,automatic,ak,ak
 2023-10-16T10:05:48.805Z,-25.154,70.0503,10,4.7,mb,28,180,13.745,0.34,us,us6000lfvg,2023-10-16T11:07:08.040Z,"Mid-Indian Ridge",earthquake,14.08,1.963,0.118,22,reviewed,us,us
 2023-10-16T10:02:39.460Z,34.95266667,-97.57416667,6.99,1.25,ml,82,39,0.0413918775,0.41,ok,ok2023ugyt,2023-10-16T12:46:19.423Z,"10 km SSE of Dibble, Oklahoma",earthquake,,0.8,0.14,23,reviewed,ok,ok
-2023-10-16T09:52:44.390Z,38.8214989,-122.8079987,2.57,1.08,md,28,38,0.002493,0.02,nc,nc73947810,2023-10-16T10:09:15.227Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.36,0.13,28,automatic,nc,nc
