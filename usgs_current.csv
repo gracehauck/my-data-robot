@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T12:57:12.993Z,61.4311,-150.6382,59.4,3,ml,,,,0.48,ak,ak023ddgvfs3,2023-10-18T12:58:53.692Z,"14 km SSW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-10-18T12:51:50.210Z,19.367000579834,-155.289169311523,1.30999994277954,1.77999997,md,19,110,,0.209999993,hv,hv73613307,2023-10-18T12:55:02.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.340000004,0.75,12,automatic,hv,hv
+2023-10-18T12:44:05.530Z,19.363166809082,-155.276672363281,2.45000004768372,1.73,ml,22,123,,0.180000007,hv,hv73613292,2023-10-18T12:49:37.860Z,"9 km SSW of Volcano, Hawaii",earthquake,0.35,0.349999994,2.15,9,automatic,hv,hv
 2023-10-18T12:05:24.120Z,19.3386669158936,-155.300338745117,2.55999994277954,1.76999998,md,25,116,,0.150000006,hv,hv73613262,2023-10-18T12:08:25.280Z,"13 km SSW of Volcano, Hawaii",earthquake,0.31,0.579999983,0.600000024,17,automatic,hv,hv
 2023-10-18T11:45:55.120Z,34.5203333,-116.5456667,1.28,1.45,ml,19,86,0.1393,0.19,ci,ci40583728,2023-10-18T11:59:42.687Z,"40 km ENE of Lucerne Valley, CA",earthquake,0.39,0.67,0.198,28,automatic,ci,ci
 2023-10-18T11:17:47.261Z,63.7901,-148.9257,25,1.5,ml,,,,0.57,ak,ak023ddg1i6e,2023-10-18T11:19:44.864Z,"6 km N of Denali Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -12,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T10:17:10.316Z,61.8133,-150.7389,52.3,1.5,ml,,,,0.52,ak,ak023ddffzpz,2023-10-18T10:19:00.739Z,"32 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-18T10:16:23.140Z,37.4853325,-118.8368301,5.12,1.26,md,17,230,0.1047,0.03,nc,nc73948595,2023-10-18T11:07:15.572Z,"16 km WSW of Toms Place, CA",earthquake,0.81,2.05,0.15,16,automatic,nc,nc
 2023-10-18T10:12:19.601Z,39.6329,-119.649,10.4,2,ml,15,75.7,0.19,0.205,nn,nn00867558,2023-10-18T10:14:53.728Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,0.8,0.41,10,automatic,nn,nn
-2023-10-18T10:09:16.540Z,38.7876663,-122.7365036,1.59,2.12,md,35,54,0.02228,0.07,nc,nc73948585,2023-10-18T10:56:14.506Z,"2 km NE of The Geysers, CA",earthquake,0.23,0.37,0.15,34,automatic,nc,nc
+2023-10-18T10:09:16.540Z,38.7876663,-122.7365036,1.59,2.12,md,35,54,0.02228,0.07,nc,nc73948585,2023-10-18T12:56:12.229Z,"2 km NE of The Geysers, CA",earthquake,0.23,0.37,0.15,34,automatic,nc,nc
 2023-10-18T10:05:23.140Z,31.675,-104.371,5.3603,3.1,ml(texnet),19,72,0,0.2,tx,tx2023ukqa,2023-10-18T10:15:24.940Z,"western Texas",earthquake,0.8769904306,1.157664523,0.1,11,reviewed,tx,tx
 2023-10-18T10:03:33.588Z,61.6834,-151.73,100.6,1.9,ml,,,,0.48,ak,ak023ddfd1hq,2023-10-18T10:05:41.227Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-18T09:34:30.750Z,38.8359985,-122.8111649,2.05,0.28,md,11,76,0.01261,0.01,nc,nc73948575,2023-10-18T10:05:12.187Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.77,0.17,11,automatic,nc,nc
@@ -185,6 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T13:13:14.980Z,64.2883,-145.4008,7.3,1.5,ml,,,,0.57,ak,ak023dbto3je,2023-10-17T13:16:10.154Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-17T13:05:23.410Z,45.6741666666667,-111.491833333333,10,1.1,ml,6,146,0.1237,0.1,mb,mb90030233,2023-10-17T14:21:42.550Z,"16 km SW of Amsterdam, Montana",earthquake,0.69,1.56,0.216120013394712,4,reviewed,mb,mb
 2023-10-17T13:05:01.006Z,60.3267,-150.7722,62.7,2,ml,,,,0.32,ak,ak023dbtmcqc,2023-10-17T13:06:43.937Z,"19 km S of Funny River, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-10-17T13:00:33.660Z,38.8476677,-122.817337,1.65,0.5,md,7,111,0.008414,0.01,nc,nc73948230,2023-10-17T13:34:12.827Z,"9 km WNW of Cobb, CA",earthquake,0.67,0.97,0.35,7,automatic,nc,nc
-2023-10-17T12:55:58.135Z,63.2378,-151.1032,0,1.5,ml,,,,0.59,ak,ak023dbtbrc5,2023-10-17T12:57:43.970Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-17T12:54:27.250Z,51.6273333333333,-178.791666666667,15.28,1.23,ml,6,155,,0.27,av,av92086166,2023-10-18T01:50:02.330Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,2.09,1.83,0.303539554726339,6,reviewed,av,av
