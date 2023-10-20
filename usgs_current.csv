@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-20T02:34:18.620Z,35.24528885,-98.05007935,5,2.41,ml,24,50.14718628,0.1794175804,0.9849827528,ok,ok2023unrz,2023-10-20T02:37:56.722Z,"10 km WNW of Pocasset, Oklahoma",earthquake,2.350273472,,0.27,24,automatic,ok,ok
-2023-10-20T02:33:24.830Z,38.8256683,-122.7655029,2.06,0.78,md,10,125,0.01715,0.02,nc,nc73949170,2023-10-20T02:35:00.994Z,"4 km W of Cobb, CA",earthquake,0.37,0.74,0.08,13,automatic,nc,nc
-2023-10-20T02:30:20.080Z,33.7853333,-116.1173333,4.73,1.99,ml,45,41,0.08751,0.17,ci,ci40584496,2023-10-20T02:34:00.944Z,"12 km NE of Indio, CA",earthquake,0.19,0.71,0.132,26,automatic,ci,ci
+2023-10-20T02:33:24.830Z,38.8256683,-122.7655029,2.06,0.78,md,10,125,0.01715,0.02,nc,nc73949170,2023-10-20T02:44:11.355Z,"4 km W of Cobb, CA",earthquake,0.37,0.74,0.08,13,automatic,nc,nc
+2023-10-20T02:30:20.080Z,33.7853333,-116.1173333,4.73,1.99,ml,45,41,0.08751,0.17,ci,ci40584496,2023-10-20T02:41:12.290Z,"12 km NE of Indio, CA",earthquake,0.19,0.71,0.132,26,automatic,ci,ci
 2023-10-20T02:21:57.400Z,36.0491667,-117.8621667,0.83,1.64,ml,17,92,0.06853,0.21,ci,ci40584488,2023-10-20T02:25:39.624Z,"8 km E of Coso Junction, CA",earthquake,0.35,0.6,0.128,14,automatic,ci,ci
 2023-10-20T02:18:16.550Z,35.9038333,-117.7115,5.79,0.78,ml,12,160,0.09744,0.13,ci,ci40584480,2023-10-20T02:22:02.376Z,"18 km ESE of Little Lake, CA",earthquake,0.45,0.97,0.159,6,automatic,ci,ci
 2023-10-20T02:03:19.915Z,-20.4037,-68.9309,114.213,4.5,mb,30,60,0.772,0.71,us,us6000lgse,2023-10-20T02:27:47.040Z,"76 km E of La Tirana, Chile",earthquake,5.91,6.807,0.113,23,reviewed,us,us
@@ -14,10 +14,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T01:03:37.910Z,38.8154984,-122.8193359,2.47,1.07,md,12,71,0.01015,0.02,nc,nc73949150,2023-10-20T01:20:13.909Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.71,0.29,13,automatic,nc,nc
 2023-10-20T00:49:44.748Z,61.5095,-151.1225,78.7,1.7,ml,,,,0.47,ak,ak023dgkra8a,2023-10-20T00:51:50.995Z,"32 km W of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-20T00:23:53.550Z,33.1318333,-116.139,11.44,1.16,ml,28,76,0.03397,0.17,ci,ci40584472,2023-10-20T00:33:04.568Z,"1 km SSW of Ocotillo Wells, CA",earthquake,0.28,0.5,0.156,16,reviewed,ci,ci
-2023-10-20T00:22:45.449Z,36.6548,-116.4147,16,0.4,ml,8,285.4,0.062,0.2912,nn,nn00867646,2023-10-20T00:24:42.416Z,"41 km SE of Beatty, Nevada",earthquake,,2.7,0.03,2,automatic,nn,nn
+2023-10-20T00:22:45.449Z,36.6548,-116.4147,16,0.4,ml,8,285.4,0.062,0.2912,nn,nn00867646,2023-10-20T00:24:42.416Z,"Nevada",earthquake,,2.7,0.03,2,automatic,nn,nn
 2023-10-20T00:10:45.672Z,31.716,-103.996,8.3039,2.4,ml(texnet),47,45,0,0.2,tx,tx2023unng,2023-10-20T00:34:00.203Z,"western Texas",earthquake,0.3770113243,0.570598234,0.2,34,reviewed,tx,tx
 2023-10-20T00:10:43.570Z,19.4271666666667,-155.5735,37.65,2.17,ml,37,58,,0.13,hv,hv73614552,2023-10-20T02:34:21.630Z,"26 km NNW of Pāhala, Hawaii",earthquake,0.45,0.58,0.122185270663161,24,reviewed,hv,hv
-2023-10-20T00:07:39.200Z,38.7821655,-122.7574997,1.26,1.11,md,17,67,0.01312,0.03,nc,nc73949145,2023-10-20T00:32:14.650Z,"0 km N of The Geysers, CA",earthquake,0.23,0.42,0.14,17,automatic,nc,nc
+2023-10-20T00:07:39.200Z,38.7821655,-122.7574997,1.26,1.11,md,17,67,0.01312,0.03,nc,nc73949145,2023-10-20T02:48:10.377Z,"0 km N of The Geysers, CA",earthquake,0.23,0.42,0.14,17,automatic,nc,nc
 2023-10-20T00:04:24.677Z,12.4098,143.3744,35,5.8,mww,118,28,1.87,0.57,us,us6000lgrt,2023-10-20T02:14:37.254Z,"169 km SW of Merizo Village, Guam",earthquake,8.16,1.825,0.089,12,reviewed,us,us
 2023-10-20T00:03:42.049Z,63.0077,-151.5717,1.4,1.1,ml,,,,0.63,ak,ak023dgkhf32,2023-10-20T00:06:40.119Z,"59 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T00:02:02.818Z,35.25107956,-98.02406311,2.054378986,2.21,ml,33,47.37120056,0.1647276729,0.8576074235,ok,ok2023unmz,2023-10-20T00:13:40.912Z,"9 km NW of Pocasset, Oklahoma",earthquake,2.061773891,1.577979057,0.25,23,automatic,ok,ok
@@ -179,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T07:50:54.230Z,33.3028333,-115.7036667,2.46,1.78,ml,45,72,0.05549,0.2,ci,ci40584136,2023-10-19T14:38:02.776Z,"6 km SSE of Bombay Beach, CA",earthquake,0.16,0.3,0.15,43,reviewed,ci,ci
 2023-10-19T07:44:47.430Z,44.6643333333333,-114.375,8.76,2.06,ml,18,79,0.3701,0.14,mb,mb90030413,2023-10-19T13:59:15.430Z,"21 km NNW of Challis, Idaho",earthquake,0.38,0.8,0.310619127870671,16,reviewed,mb,mb
 2023-10-19T07:43:59.757Z,61.5883,-146.5857,27.4,1.9,ml,,,,0.49,ak,ak023df1cptz,2023-10-19T07:45:52.671Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-19T07:43:04.369Z,39.621,-119.6343,10.5,3.6,mw,38,72.6,0.135,0.1509,nn,nn00867596,2023-10-20T02:05:04.700Z,"Nevada",earthquake,,0.9,,,reviewed,nn,nn
+2023-10-19T07:43:04.369Z,39.621,-119.6343,10.5,3.6,mw,38,72.6,0.135,0.1509,nn,nn00867596,2023-10-20T02:45:15.348Z,"Nevada",earthquake,,0.9,,,reviewed,nn,nn
 2023-10-19T07:37:54.080Z,41.0701675,-123.9938354,19.36,2.32,md,4,170,0.0902,0,nc,nc73948875,2023-10-19T09:21:13.294Z,"10 km ENE of Westhaven-Moonstone, CA",earthquake,2.16,0.92,0.03,4,automatic,nc,nc
 2023-10-19T07:30:10.599Z,39.6245,-119.6388,10.3,1.8,ml,18,73.55,0.134,0.1424,nn,nn00867594,2023-10-20T02:04:28.115Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.5,0.33,9,reviewed,nn,nn
 2023-10-19T07:15:44.390Z,51.8476666666667,-178.106166666667,5.42,1.43,ml,5,159,,0.2,av,av92087691,2023-10-19T19:43:19.610Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.65,1.06,0.210651785416914,5,reviewed,av,av
