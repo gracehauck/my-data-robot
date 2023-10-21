@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-21T08:43:11.790Z,36.6638336,-121.3115005,4.57,1.91,md,25,66,0.05184,0.16,nc,nc73949645,2023-10-21T08:44:47.501Z,"14 km S of Tres Pinos, CA",earthquake,0.36,1.14,0.17,22,automatic,nc,nc
+2023-10-21T08:43:11.790Z,36.6638336,-121.3115005,4.57,1.91,md,25,66,0.05184,0.16,nc,nc73949645,2023-10-21T09:01:14.049Z,"14 km S of Tres Pinos, CA",earthquake,0.36,1.14,0.17,22,automatic,nc,nc
 2023-10-21T08:37:24.640Z,19.3414993286133,-155.306167602539,1.3400000333786,1.72000003,md,21,70,,0.25999999,hv,hv73615812,2023-10-21T08:40:23.980Z,"Hawaii region, Hawaii",earthquake,0.39,0.610000014,0.550000012,11,automatic,hv,hv
+2023-10-21T08:33:40.686Z,-22.8108,-68.5187,123.761,4.3,mb,22,66,0.344,0.71,us,us6000lh4h,2023-10-21T08:56:59.040Z,"34 km WNW of San Pedro de Atacama, Chile",earthquake,7.58,6.355,0.161,11,reviewed,us,us
 2023-10-21T08:31:37.924Z,61.2386,-150.6717,34.1,1.5,ml,,,,0.42,ak,ak023dicy85c,2023-10-21T08:33:41.903Z,"24 km ENE of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-21T08:22:02.152Z,63.0632,-150.9747,132.7,1.9,ml,,,,0.28,ak,ak023dicw7xw,2023-10-21T08:24:18.372Z,"64 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-21T08:21:06.345Z,14.4583,-93.3461,42.278,4.4,mb,46,191,2.156,0.68,us,us6000lh4d,2023-10-21T08:50:23.040Z,"103 km WSW of Puerto Madero, Mexico",earthquake,9.53,12.261,0.08,45,reviewed,us,us
@@ -111,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T19:51:56.837Z,0.7796,125.2204,65.26,5.1,mb,101,56,2.146,0.97,us,us6000lh0e,2023-10-21T01:15:13.950Z,"67 km SSE of Tondano, Indonesia",earthquake,7.14,6.581,0.065,77,reviewed,us,us
 2023-10-20T19:45:30.050Z,17.9371666666667,-66.9435,10.89,2.81,md,20,202,0.04812,0.08,pr,pr71429333,2023-10-20T20:03:25.180Z,"Puerto Rico region",earthquake,0.4,0.32,0.0182322206546632,5,reviewed,pr,pr
 2023-10-20T19:40:06.940Z,38.8378334,-122.8356705,1.78,0.74,md,6,106,0.000768,0.01,nc,nc73949440,2023-10-20T20:01:10.414Z,"10 km NW of The Geysers, CA",earthquake,0.42,1.02,0.47,8,automatic,nc,nc
-2023-10-20T19:39:41.964Z,52.2896,-169.5049,45.087,4.3,mb,50,139,0.515,0.76,us,us6000lh09,2023-10-20T20:14:07.557Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,5.67,5.898,0.075,50,reviewed,us,us
+2023-10-20T19:39:41.964Z,52.2896,-169.5049,45.087,4.3,mb,50,139,0.515,0.76,us,us6000lh09,2023-10-20T20:11:05.420Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,5.67,5.898,0.075,50,reviewed,us,us
 2023-10-20T19:37:44.930Z,38.8283348,-122.8554993,2.33,0.77,md,18,61,0.001332,0.02,nc,nc73949435,2023-10-20T19:56:10.387Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.17,18,automatic,nc,nc
 2023-10-20T19:36:47.290Z,38.796833,-122.7496643,1.3,1.35,md,19,95,0.008717,0.03,nc,nc73949430,2023-10-20T23:45:13.795Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.42,0.14,20,automatic,nc,nc
 2023-10-20T19:34:02.111Z,-5.4912,150.2567,124.504,4.9,mb,42,82,2.298,0.76,us,us6000lh06,2023-10-20T19:48:04.040Z,"14 km ENE of Kimbe, Papua New Guinea",earthquake,10.89,7.699,0.102,30,reviewed,us,us
@@ -224,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T09:13:37.790Z,38.7568321,-122.7358322,1.47,1.1,md,8,133,0.009807,0.02,nc,nc73949265,2023-10-20T10:53:14.151Z,"3 km SE of The Geysers, CA",earthquake,0.33,0.55,0.07,9,automatic,nc,nc
 2023-10-20T09:10:55.683Z,31.656,-104.657,5.0261,2,ml(texnet),19,84,0.1,0.1,tx,tx2023uofb,2023-10-20T12:40:54.086Z,"western Texas",earthquake,2.925715751,1.790766146,0.1,7,reviewed,tx,tx
 2023-10-20T09:06:45.590Z,38.814167,-122.817337,0.96,1.51,md,25,51,0.01066,0.02,nc,nc73949260,2023-10-20T10:25:12.982Z,"7 km NW of The Geysers, CA",earthquake,0.16,0.3,0.13,27,automatic,nc,nc
-2023-10-20T09:04:25.660Z,35.26766667,-98.02583333,9.87,1.99,ml,87,56,0.1520701586,0.27,ok,ok2023uoew,2023-10-20T12:34:06.024Z,"Oklahoma",earthquake,,1.2,0.22,46,reviewed,ok,ok
-2023-10-20T08:59:37.130Z,38.7741661,-122.7360001,3.05,1.09,md,12,79,0.01528,0.02,nc,nc73949255,2023-10-20T09:54:12.810Z,"2 km E of The Geysers, CA",earthquake,0.32,0.77,0.16,12,automatic,nc,nc
