@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-21T14:36:17.428Z,62.6734,-152.1786,4.7,1,ml,,,,0.54,ak,ak023digjury,2023-10-21T14:38:12.927Z,"75 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-21T14:21:07.130Z,19.3841667175293,-155.276840209961,1.02999997138977,1.93,ml,17,71,,0.119999997,hv,hv73616222,2023-10-21T14:26:37.190Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.219999999,0.2,9,automatic,hv,hv
 2023-10-21T14:17:19.970Z,19.3850002288818,-155.276672363281,0.75,2.15,ml,32,62,,0.319999993,hv,hv73616217,2023-10-21T14:22:51.180Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.319999993,0.23,9,automatic,hv,hv
 2023-10-21T13:45:33.780Z,62.8173,-149.4457,65.8,2.9,ml,,,,0.58,ak,ak023dig0dty,2023-10-21T13:47:30.981Z,"53 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T14:55:38.640Z,58.4368333333333,-154.8625,4.22,-0.41,ml,9,84,,0.18,av,av92089176,2023-10-20T23:37:14.470Z,"99 km NNW of Karluk, Alaska",earthquake,0.52,1.39,0.151199659338523,9,reviewed,av,av
 2023-10-20T14:49:35.063Z,61.3635,-150.0604,33.2,1.5,ml,,,,0.51,ak,ak023dgt3bya,2023-10-20T14:51:30.026Z,"4 km W of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-20T14:48:30.461Z,36.6241,-116.2474,5,0.2,ml,12,108.6,0.077,0.0692,nn,nn00867657,2023-10-21T02:15:48.229Z,"51 km NNW of Pahrump, Nevada",earthquake,,2.1,0.14,8,reviewed,nn,nn
-2023-10-20T14:38:57.420Z,32.7975,-115.5628333,11.57,1.72,ml,22,64,0.05316,0.22,ci,ci40584576,2023-10-20T15:49:55.960Z,"1 km NNW of El Centro, CA",earthquake,0.36,0.41,0.333,13,reviewed,ci,ci
