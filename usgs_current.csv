@@ -153,4 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T11:24:40.570Z,35.9451675,-120.465332,6.32,0.43,md,11,107,0.005389,0.16,nc,nc73949995,2023-10-22T11:36:10.383Z,"6 km NNW of Parkfield, CA",earthquake,1.21,2.69,0.22,2,automatic,nc,nc
 2023-10-22T11:05:01.270Z,35.6838333,-117.5376667,2.42,1.32,ml,15,131,0.09465,0.15,ci,ci40584896,2023-10-22T13:40:38.822Z,"14 km ENE of Ridgecrest, CA",earthquake,0.45,0.71,0.147,14,reviewed,ci,ci
 2023-10-22T10:50:12.389Z,38.1147,-118.0206,2,1.8,ml,15,105.26,0.089,0.342,nn,nn00867736,2023-10-22T10:52:48.018Z,"31 km SSE of Mina, Nevada",earthquake,,1.6,1.29,6,automatic,nn,nn
-2023-10-22T10:47:30.403Z,62.1636,-148.388,26.5,1.7,ml,,,,0.56,ak,ak023dk1ruq8,2023-10-22T10:49:34.323Z,"41 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
