@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-24T11:34:50.900Z,32.539,-115.2716667,17.77,2.44,ml,31,58,0.1224,0.29,ci,ci40586000,2023-10-24T11:38:33.428Z,"8 km ESE of Puebla, B.C., MX",earthquake,0.48,1.47,0.278,26,automatic,ci,ci
+2023-10-24T11:48:43.160Z,38.8308334,-122.8143311,1.75,1.06,md,18,48,0.008138,0.01,nc,nc73950710,2023-10-24T11:50:20.445Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.39,0.12,19,automatic,nc,nc
+2023-10-24T11:48:32.190Z,35.8696667,-117.7285,3.68,0.99,ml,14,112,0.06776,0.25,ci,ci40586008,2023-10-24T11:52:10.939Z,"18 km ESE of Little Lake, CA",earthquake,0.44,0.99,0.243,8,automatic,ci,ci
+2023-10-24T11:43:44.580Z,38.8305016,-122.8131638,1.62,1.69,md,30,42,0.007495,0.03,nc,nc73950705,2023-10-24T11:51:11.148Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.29,0.16,31,automatic,nc,nc
+2023-10-24T11:34:50.900Z,32.539,-115.2716667,17.77,2.44,ml,31,58,0.1224,0.29,ci,ci40586000,2023-10-24T11:45:09.740Z,"8 km ESE of Puebla, B.C., MX",earthquake,0.48,1.47,0.278,26,automatic,ci,ci
+2023-10-24T11:32:13.833Z,39.2654,97.3075,10,5.5,mww,123,33,6.051,0.7,us,us7000l5yp,2023-10-24T11:51:33.942Z,"Gansu, China",earthquake,8.27,1.837,0.071,19,reviewed,us,us
 2023-10-24T11:22:09.600Z,38.8364983,-122.8116684,1.83,0.59,md,7,103,0.01314,0.01,nc,nc73950700,2023-10-24T11:34:10.913Z,"8 km WNW of Cobb, CA",earthquake,0.43,1.45,0.36,9,automatic,nc,nc
 2023-10-24T11:17:46.600Z,33.3145,-116.3228333,7.69,0.68,ml,19,69,0.2724,0.21,ci,ci40585992,2023-10-24T11:21:21.083Z,"8 km NE of Borrego Springs, CA",earthquake,0.36,13.14,0.086,12,automatic,ci,ci
 2023-10-24T11:06:10.930Z,35.8808333,-117.7056667,9.78,0.65,ml,10,183,0.08669,0.12,ci,ci40585984,2023-10-24T11:09:42.054Z,"19 km ESE of Little Lake, CA",earthquake,0.44,0.74,0.022,2,automatic,ci,ci
