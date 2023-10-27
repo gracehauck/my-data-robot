@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-27T09:31:16.170Z,19.3596668243408,-155.289001464844,2.49000000953674,1.97000003,md,24,116,,0.129999995,hv,hv73627112,2023-10-27T09:34:23.080Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.460000008,0.74000001,17,automatic,hv,hv
 2023-10-27T09:30:16.013Z,58.7596,-154.1226,0,1.6,ml,,,,0.49,ak,ak023dsarhb5,2023-10-27T09:32:05.356Z,"Alaska Peninsula",earthquake,,3.8,,,automatic,ak,ak
+2023-10-27T09:28:54.940Z,17.903,-66.1408333333333,13.78,2.32,md,5,298,0.07006,0.07,pr,pr71430018,2023-10-27T09:43:28.690Z,"6 km SSE of Jobos, Puerto Rico",earthquake,0.73,0.32,0.289550304749081,2,reviewed,pr,pr
 2023-10-27T09:24:15.770Z,17.9995,-66.8053333333333,17.09,2.25,md,9,174,0.07444,0.09,pr,pr71430008,2023-10-27T09:37:08.560Z,"1 km ENE of Indios, Puerto Rico",earthquake,0.69,0.84,0.0511580923579462,7,reviewed,pr,pr
 2023-10-27T09:20:36.020Z,19.3253326416016,-155.203826904297,3.23000001907349,1.94,ml,43,171,,0.180000007,hv,hv73627087,2023-10-27T09:26:07.490Z,"13 km SSE of Volcano, Hawaii",earthquake,0.35,1.25999999,2.24,15,automatic,hv,hv
 2023-10-27T09:03:58.820Z,17.902,-66.1511666666667,13.44,2.11,md,9,255,0.07594,0.1,pr,pr71429998,2023-10-27T09:15:02.990Z,"6 km SSE of Jobos, Puerto Rico",earthquake,0.66,0.26,0.142820064630393,4,reviewed,pr,pr
@@ -81,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-27T01:42:07.770Z,33.1848333,-115.9981667,6.54,1.23,ml,29,37,0.02053,0.21,ci,ci40588888,2023-10-27T01:53:07.540Z,"13 km SSW of Salton City, CA",earthquake,0.34,0.66,0.17,23,automatic,ci,ci
 2023-10-27T01:31:00.434Z,63.4603,-146.0601,4.3,1.4,ml,,,,0.63,ak,ak023ds606zf,2023-10-27T01:32:37.698Z,"47 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-27T01:30:17.777Z,61.1404,-148.2366,4.3,0.7,ml,,,,0.68,ak,ak023ds600ma,2023-10-27T01:33:53.091Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-27T01:30:00.750Z,38.7828333,-122.7421667,0.85,0.21,md,15,79,0.004272,0.03,nc,nc73951905,2023-10-27T09:33:58.476Z,"1 km ENE of The Geysers, CA",earthquake,0.22,0.2,0.177,9,reviewed,nc,nc
+2023-10-27T01:30:00.750Z,38.7828333,-122.7421667,0.85,0.21,md,15,79,0.004272,0.03,nc,nc73951905,2023-10-27T09:43:11.460Z,"1 km ENE of The Geysers, CA",earthquake,0.22,0.2,0.177,9,reviewed,nc,nc
 2023-10-27T01:09:12.360Z,19.362,-155.291833333333,1.66,0.42,md,18,112,,0.1,hv,hv73626377,2023-10-27T01:39:35.160Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.36,0.080642781115225,4,reviewed,hv,hv
 2023-10-27T00:29:35.608Z,62.3245,-151.4295,84.4,1.5,ml,,,,0.46,ak,ak023ds5eens,2023-10-27T00:31:43.137Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-27T00:01:19.057Z,60.1916,-152.6198,94.3,0.9,ml,,,,0.29,ak,ak023ds58dc1,2023-10-27T00:02:56.927Z,"55 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
