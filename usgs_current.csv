@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T07:11:46.250Z,34.6801667,-116.2905,2.66,1.21,ml,6,103,0.1147,0.07,ci,ci40591224,2023-10-30T07:15:18.070Z,"13 km WSW of Ludlow, CA",earthquake,0.35,0.61,0.161,10,automatic,ci,ci
 2023-10-30T06:58:19.960Z,19.3478336334229,-155.290832519531,2.99000000953674,1.72,ml,20,129,,0.159999996,hv,hv73632247,2023-10-30T07:03:56.680Z,"12 km SSW of Volcano, Hawaii",earthquake,0.37,0.75999999,0.23,4,automatic,hv,hv
 2023-10-30T06:57:51.372Z,61.6425,-150.8509,50.6,1.8,ml,,,,0.71,ak,ak023dx7r31d,2023-10-30T07:00:14.490Z,"21 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-10-30T06:57:00.890Z,37.8966675,-122.2006683,4.85,1.28,md,11,119,,0.02,nc,nc73953600,2023-10-30T06:58:36.587Z,"3 km NW of Orinda, CA",earthquake,0.34,0.47,0.03,7,automatic,nc,nc
+2023-10-30T06:57:00.890Z,37.8966675,-122.2006683,4.85,1.28,md,11,119,,0.02,nc,nc73953600,2023-10-30T07:08:11.405Z,"3 km NW of Orinda, CA",earthquake,0.34,0.47,0.03,7,automatic,nc,nc
 2023-10-30T06:53:08.210Z,19.191499710083,-155.501159667969,35.1599998474121,2.28999996,md,47,71,,0.100000001,hv,hv73632242,2023-10-30T06:56:21.080Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.46,0.75,1.84000003,26,automatic,hv,hv
 2023-10-30T06:38:49.878Z,62.2589,-149.2792,43.7,1.4,ml,,,,0.4,ak,ak023dx7n0bf,2023-10-30T06:40:49.337Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-10-30T06:23:00.760Z,19.1790008544922,-155.495498657227,34.0900001525879,1.85000002,md,42,159,,0.109999999,hv,hv73632212,2023-10-30T06:26:22.410Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.800000012,0.180000007,5,automatic,hv,hv
@@ -76,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T22:21:24.280Z,47.849833333333336,-123.98366666666666,28.73,2.17,ml,28,35,0.03598,0.36,uw,uw61960312,2023-10-30T02:46:40.320Z,"32 km ESE of Forks, Washington",earthquake,0.66,1.17,0.15508278462836378,14,reviewed,uw,uw
 2023-10-29T22:16:42.827Z,63.8978,-148.3281,7.5,1.6,ml,,,,0.63,ak,ak023dvthv7e,2023-10-29T22:18:35.255Z,"31 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-29T22:04:56.900Z,38.8310013,-122.8184967,1.64,0.72,md,14,60,0.01513,0.02,nc,nc73953450,2023-10-29T22:16:10.403Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.54,0.11,14,automatic,nc,nc
-2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"Alaska Peninsula",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
+2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
 2023-10-29T21:53:39.092Z,66.4034,-153.0299,0,1.8,ml,,,,0.68,ak,ak023dvt4ct1,2023-10-29T21:56:13.944Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T21:44:01.310Z,33.6893333,-117.634,0.85,1.47,ml,9,129,0.2248,0.23,ci,ci40590928,2023-10-29T21:47:45.436Z,"2 km E of Foothill Ranch, CA",earthquake,0.85,31.61,0.324,10,automatic,ci,ci
 2023-10-29T21:39:43.120Z,38.7916679,-122.7263336,-0.4,1.04,md,8,127,0.0117,0.02,nc,nc73953440,2023-10-29T21:51:10.279Z,"3 km ENE of The Geysers, CA",earthquake,0.24,1.74,0.58,9,automatic,nc,nc
