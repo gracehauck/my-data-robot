@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-30T06:23:00.760Z,19.1790008544922,-155.495498657227,34.0900001525879,1.85000002,md,42,159,,0.109999999,hv,hv73632212,2023-10-30T06:26:22.410Z,"3 km SW of Pāhala, Hawaii",earthquake,0.59,0.800000012,0.180000007,5,automatic,hv,hv
 2023-10-30T05:54:42.076Z,62.1425,-148.0272,39.5,1.4,ml,,,,0.32,ak,ak023dx74zkf,2023-10-30T05:56:33.005Z,"42 km NNW of Glacier View, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-30T05:38:57.900Z,33.7018333,-116.752,15.55,1.02,ml,36,43,0.03288,0.16,ci,ci40591200,2023-10-30T05:49:21.640Z,"5 km SW of Idyllwild, CA",earthquake,0.23,0.36,0.19,28,automatic,ci,ci
 2023-10-30T05:36:34.427Z,64.5097,-149.3927,14.1,1.3,ml,,,,0.29,ak,ak023dx71436,2023-10-30T05:38:31.930Z,"15 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T22:21:24.280Z,47.849833333333336,-123.98366666666666,28.73,2.17,ml,28,35,0.03598,0.36,uw,uw61960312,2023-10-30T02:46:40.320Z,"32 km ESE of Forks, Washington",earthquake,0.66,1.17,0.15508278462836378,14,reviewed,uw,uw
 2023-10-29T22:16:42.827Z,63.8978,-148.3281,7.5,1.6,ml,,,,0.63,ak,ak023dvthv7e,2023-10-29T22:18:35.255Z,"31 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-29T22:04:56.900Z,38.8310013,-122.8184967,1.64,0.72,md,14,60,0.01513,0.02,nc,nc73953450,2023-10-29T22:16:10.403Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.54,0.11,14,automatic,nc,nc
-2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"Alaska Peninsula",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
+2023-10-29T21:57:08.840Z,58.2428333333333,-155.145,-2.18,0.11,ml,6,147,,0.14,av,av92100401,2023-10-30T00:24:41.330Z,"85 km NNW of Karluk, Alaska",earthquake,0.37,2.6,0.129901273511482,6,reviewed,av,av
 2023-10-29T21:53:39.092Z,66.4034,-153.0299,0,1.8,ml,,,,0.68,ak,ak023dvt4ct1,2023-10-29T21:56:13.944Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-29T21:44:01.310Z,33.6893333,-117.634,0.85,1.47,ml,9,129,0.2248,0.23,ci,ci40590928,2023-10-29T21:47:45.436Z,"2 km E of Foothill Ranch, CA",earthquake,0.85,31.61,0.324,10,automatic,ci,ci
 2023-10-29T21:39:43.120Z,38.7916679,-122.7263336,-0.4,1.04,md,8,127,0.0117,0.02,nc,nc73953440,2023-10-29T21:51:10.279Z,"3 km ENE of The Geysers, CA",earthquake,0.24,1.74,0.58,9,automatic,nc,nc
@@ -205,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T07:02:58.900Z,57.0401666666667,-135.6395,7.18,-0.1,ml,4,178,,0.08,av,av92099886,2023-10-29T13:24:09.870Z,"18 km W of Sitka, Alaska",earthquake,1.26,0.9,0.190234061526465,4,reviewed,av,av
 2023-10-29T06:39:29.680Z,53.9,-167.924,5.08,1.5,ml,6,163,,0.11,av,av92099881,2023-10-29T13:22:33.510Z,"90 km W of Dutch Harbor, Alaska",earthquake,1.49,2.57,0.384235116735048,6,reviewed,av,av
 2023-10-29T06:35:02.470Z,33.8443333,-117.7466667,7.71,1.13,ml,20,60,0.03898,0.21,ci,ci40590592,2023-10-29T06:38:34.651Z,"7 km ENE of Villa Park, CA",earthquake,0.4,0.77,0.255,19,automatic,ci,ci
-2023-10-29T06:29:12.070Z,33.7951667,-116.9323333,12.79,0.39,ml,10,135,0.1042,0.15,ci,ci40590584,2023-10-29T13:29:37.929Z,"3 km ENE of San Jacinto, CA",earthquake,0.58,1.02,0.108,5,reviewed,ci,ci
-2023-10-29T06:28:19.950Z,19.3408336639404,-155.30583190918,2.61999988555908,2.03999996,md,26,107,,0.109999999,hv,hv73630632,2023-10-29T06:31:28.420Z,"13 km SW of Volcano, Hawaii",earthquake,0.32,0.779999971,0.959999979,15,automatic,hv,hv
