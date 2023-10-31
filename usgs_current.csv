@@ -197,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T04:50:20.540Z,38.8313332,-122.8184967,1.63,0.19,md,9,70,0.01512,0.01,nc,nc73953570,2023-10-30T05:02:11.682Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.06,0.07,9,automatic,nc,nc
 2023-10-30T04:50:12.300Z,37.284,-121.6596667,2.77,0.97,md,26,54,0.02718,0.06,nc,nc73953575,2023-10-30T19:01:09.489Z,"16 km E of Seven Trees, CA",earthquake,0.16,0.3,0.106,20,reviewed,nc,nc
 2023-10-30T04:49:07.990Z,46.19733333333333,-122.1825,0.65,0.79,ml,20,81,0.003545,0.09,uw,uw61960372,2023-10-30T15:28:35.670Z,"37 km NNE of Amboy, Washington",earthquake,0.23,0.29,0.2808148938188816,16,reviewed,uw,uw
-2023-10-30T04:48:26.279Z,43.7744,147.8506,35,4.3,mb,29,189,3.813,0.94,us,us7000l7h5,2023-10-30T05:12:53.040Z,"90 km E of Shikotan, Russia",earthquake,10.7,1.986,0.137,15,reviewed,us,us
+2023-10-30T04:48:26.019Z,43.7937,147.8451,35,4.3,mb,31,189,3.806,0.75,us,us7000l7h5,2023-10-31T03:24:49.040Z,"Kuril Islands",earthquake,5.89,1.979,0.129,17,reviewed,us,us
 2023-10-30T04:42:26.420Z,37.1113333,-121.8371667,2.21,0.72,md,13,65,0.03357,0.04,nc,nc73953565,2023-10-30T18:57:11.470Z,"9 km NNE of Day Valley, CA",earthquake,0.22,0.64,0.283,10,reviewed,nc,nc
 2023-10-30T04:39:01.932Z,63.2537,-148.3879,89.4,1.8,ml,,,,0.26,ak,ak023dx6g91b,2023-10-30T04:40:26.976Z,"32 km ESE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T04:22:29.077Z,23.8715,141.9729,131.541,4.9,mb,61,134,9.953,0.57,us,us7000l7h1,2023-10-31T03:15:14.040Z,"Volcano Islands, Japan region",earthquake,11.58,8.104,0.03,336,reviewed,us,us
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T03:52:40.170Z,19.4148333333333,-155.592666666667,41.85,1.89,md,20,61,,0.22,hv,hv73631997,2023-10-31T03:08:47.347Z,"Island of Hawaii, Hawaii",earthquake,0.89,0.95,0.232526490188245,12,reviewed,hv,hv
 2023-10-30T03:43:55.530Z,38.7508316,-122.6996689,2.22,0.84,md,7,218,0.01732,0.02,nc,nc73953545,2023-10-30T04:26:11.478Z,"3 km SSW of Anderson Springs, CA",earthquake,0.8,1.58,0.19,7,automatic,nc,nc
 2023-10-30T03:43:42.840Z,34.6846667,-116.2835,2.22,2.02,ml,28,63,0.1089,0.17,ci,ci40591160,2023-10-30T19:13:59.500Z,"12 km WSW of Ludlow, CA",earthquake,0.17,0.45,0.144,40,reviewed,ci,ci
-2023-10-30T03:27:38.640Z,34.6795,-116.2926667,2.98,0.88,ml,5,140,0.1165,0.04,ci,ci40591152,2023-10-30T19:12:30.933Z,"13 km WSW of Ludlow, CA",earthquake,0.21,0.66,0.052,3,reviewed,ci,ci
