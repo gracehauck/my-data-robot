@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T03:20:22.561Z,61.4245,-146.6583,27.2,1.8,ml,,,,0.46,ak,ak023e0gthhs,2023-11-01T03:21:51.617Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T03:15:09.109Z,66.2856,-150.1845,9.9,1.5,ml,,,,0.74,ak,ak023e0gsdvi,2023-11-01T03:16:59.000Z,"northern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T03:06:28.531Z,61.0493,-150.4944,57.1,1.2,ml,,,,0.1,ak,ak023e0gqhxh,2023-11-01T03:08:09.605Z,"17 km NE of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-01T03:03:52.150Z,33.3435,-116.9231667,15.19,0.64,ml,18,61,0.1745,0.14,ci,ci40593392,2023-11-01T03:07:30.110Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.25,0.8,0.102,11,automatic,ci,ci
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T01:41:05.963Z,59.8086,-153.4803,119.4,2,ml,,,,0.4,ak,ak023e0fr31g,2023-11-01T01:43:48.486Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-01T01:38:00.031Z,61.6011,-149.8586,27.2,2.3,ml,,,,0.68,ak,ak023e0fqcc6,2023-11-01T01:39:23.798Z,"3 km SSW of Houston, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T01:32:02.007Z,60.9119,-150.305,45.7,1.6,ml,,,,0.49,ak,ak023e0fp5ag,2023-11-01T01:34:06.463Z,"20 km E of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-01T01:24:39.490Z,37.9716682,-122.0455017,16.55,2.67,md,72,49,,0.17,nc,nc73954420,2023-11-01T02:46:50.636Z,"3 km W of Concord, CA",earthquake,0.26,0.38,0.12,72,automatic,nc,nc
+2023-11-01T01:24:39.490Z,37.9716682,-122.0455017,16.55,2.67,md,72,49,,0.17,nc,nc73954420,2023-11-01T03:18:30.081Z,"3 km W of Concord, CA",earthquake,0.26,0.38,0.12,72,automatic,nc,nc
 2023-11-01T01:12:46.240Z,33.6963333,-116.8413333,-0.21,0.58,ml,16,107,0.06638,0.3,ci,ci40593336,2023-11-01T01:16:19.269Z,"8 km SE of Valle Vista, CA",earthquake,0.66,31.61,0.197,11,automatic,ci,ci
 2023-11-01T01:11:01.329Z,38.3491,-118.8983,12.9,2,ml,13,66.05,0.324,0.1889,nn,nn00868237,2023-11-01T01:13:33.551Z,"30 km SW of Hawthorne, Nevada",earthquake,,0.8,0.23,9,automatic,nn,nn
 2023-11-01T01:09:44.415Z,62.8689,-151.0007,102.2,1.4,ml,,,,0.28,ak,ak023e0fkb3d,2023-11-01T01:11:54.411Z,"43 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T00:30:39.282Z,63.1406,-151.3243,9.5,1.1,ml,,,,0.65,ak,ak023e0f3d4o,2023-11-01T00:32:44.028Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-01T00:15:20.000Z,35.6808333,-117.4178333,7.01,1.44,ml,15,103,0.0164,0.12,ci,ci40593320,2023-11-01T00:22:01.935Z,"10 km S of Searles Valley, CA",earthquake,0.34,0.51,0.161,13,reviewed,ci,ci
 2023-11-01T00:08:06.800Z,38.8188324,-122.7624969,2.06,0.37,md,9,118,0.01299,0.01,nc,nc73954365,2023-11-01T00:58:11.541Z,"3 km W of Cobb, CA",earthquake,0.4,0.86,0.22,10,automatic,nc,nc
-2023-11-01T00:02:43.490Z,38.8363342,-122.7853317,1.11,1.7,md,25,66,0.004429,0.03,nc,nc73954355,2023-11-01T00:33:10.411Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.28,0.15,27,automatic,nc,nc
+2023-11-01T00:02:43.490Z,38.8363342,-122.7853317,1.11,1.7,md,25,66,0.004429,0.03,nc,nc73954355,2023-11-01T03:26:10.417Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.28,0.15,27,automatic,nc,nc
 2023-11-01T00:01:17.120Z,33.9771667,-116.5481667,2.59,0.95,ml,29,107,0.04797,0.13,ci,ci40593304,2023-11-01T00:20:20.818Z,"5 km WNW of Desert Hot Springs, CA",earthquake,0.16,0.36,0.151,21,reviewed,ci,ci
 2023-11-01T00:01:01.283Z,60.3076,-150.8906,52.6,1.5,ml,,,,0.39,ak,ak023e0ex2fk,2023-11-01T00:03:22.906Z,"21 km E of Kasilof, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-31T23:58:51.140Z,19.2181663513184,-155.481170654297,32.9300003051758,1.84000003,md,39,99,,0.119999997,hv,hv73634917,2023-11-01T00:02:38.920Z,"1 km N of Pāhala, Hawaii",earthquake,0.6,0.870000005,0.170000002,9,automatic,hv,hv
