@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-02T02:32:53.860Z,31.6613,-104.1939,5.465,2.5,ml,27,65,0.262,0.61,us,us7000l88e,2023-11-02T02:44:58.040Z,"western Texas",earthquake,1.08,4.093,0.057,40,reviewed,us,us
+2023-11-02T02:32:54.074Z,31.671,-104.181,3.8461,2.5,ml(texnet),22,103,0.1,0.5,tx,tx2023vllm,2023-11-02T02:53:51.457Z,"54 km NW of Toyah, Texas",earthquake,0,1.229753607,0.2,16,automatic,tx,tx
+2023-11-02T02:32:53.918Z,31.674,-104.181,6.3886,2.6,ml(texnet),25,64,0.1,0.2,tx,tx2023vlln,2023-11-02T02:53:04.458Z,"western Texas",earthquake,0.7204721256,0.9931162644,0.2,32,reviewed,tx,tx
 2023-11-02T02:27:45.510Z,38.8216667,-122.8535004,2.56,0.77,md,17,92,0.006434,0.01,nc,nc73954890,2023-11-02T02:44:12.337Z,"10 km WNW of The Geysers, CA",earthquake,0.27,0.53,0.19,18,automatic,nc,nc
 2023-11-02T02:26:34.670Z,33.6715,-116.7516667,15.08,0.65,ml,23,70,0.05043,0.26,ci,ci40594712,2023-11-02T02:30:12.047Z,"8 km SSW of Idyllwild, CA",earthquake,0.53,0.71,0.096,12,automatic,ci,ci
 2023-11-02T02:25:34.334Z,61.3467,-146.9233,20.7,1.8,ml,,,,0.65,ak,ak023e23shvd,2023-11-02T02:27:29.553Z,"39 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T00:15:30.860Z,19.6996666666667,-156.067833333333,29.73,2.95,ml,55,195,,0.17,hv,hv73636232,2023-11-02T01:22:46.909Z,"9 km WSW of Kalaoa, Hawaii",earthquake,0.53,0.86,0.136992788495856,23,reviewed,hv,hv
 2023-11-02T00:02:14.840Z,37.1069984,-121.8274994,-0.39,1.86,md,18,57,0.04019,0.13,nc,nc73954835,2023-11-02T00:15:10.416Z,"8 km NNE of Day Valley, CA",earthquake,0.43,1.23,0.14,15,automatic,nc,nc
 2023-11-02T00:02:00.897Z,60.4688,-149.7328,42.9,1.9,ml,,,,0.5,ak,ak023e22gmm1,2023-11-02T00:03:51.773Z,"5 km ESE of Cooper Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-01T23:55:51.730Z,18.0265,-66.7713333333333,12.67,2.18,md,12,160,0.02028,0.23,pr,pr71430578,2023-11-02T00:16:04.990Z,"Puerto Rico",earthquake,0.72,0.65,0.104200947102403,5,reviewed,pr,pr
+2023-11-01T23:55:51.730Z,18.0265,-66.7713333333333,12.67,2.18,md,12,160,0.02028,0.23,pr,pr71430578,2023-11-02T00:16:04.990Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.72,0.65,0.104200947102403,5,reviewed,pr,pr
 2023-11-01T23:52:58.360Z,33.6755,-116.7275,14.13,0.22,ml,19,102,0.03727,0.11,ci,ci40594584,2023-11-02T01:06:26.436Z,"7 km S of Idyllwild, CA",earthquake,0.29,0.46,0.092,9,reviewed,ci,ci
 2023-11-01T23:50:32.060Z,33.6726667,-116.73,14.47,0.58,ml,22,74,0.04061,0.1,ci,ci40594576,2023-11-02T01:03:24.266Z,"8 km S of Idyllwild, CA",earthquake,0.25,0.39,0.138,13,reviewed,ci,ci
 2023-11-01T23:48:48.750Z,33.4191667,-116.3746667,12.42,1.61,ml,51,62,0.1124,0.21,ci,ci40594568,2023-11-02T00:54:35.850Z,"18 km N of Borrego Springs, CA",earthquake,0.26,0.77,0.15,26,reviewed,ci,ci
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T03:03:52.150Z,33.3435,-116.9231667,15.19,0.64,ml,18,61,0.1745,0.14,ci,ci40593392,2023-11-01T16:16:39.181Z,"6 km WSW of Palomar Observatory, CA",earthquake,0.25,0.8,0.102,11,reviewed,ci,ci
 2023-11-01T03:00:31.757Z,31.639,-104.176,4.4863,1.8,ml(texnet),25,63,0.1,0.2,tx,tx2023vjqx,2023-11-01T13:14:56.945Z,"51 km NW of Toyah, Texas",earthquake,0.5871480856,1.120971258,0.2,19,reviewed,tx,tx
 2023-11-01T02:57:10.340Z,19.407,-155.291666666667,7.4,2,md,13,94,,0.1,hv,hv73635132,2023-11-01T03:40:14.070Z,"7 km WSW of Volcano, Hawaii",earthquake,0.51,0.63,0.00835473475477178,2,reviewed,hv,hv
-2023-11-01T02:51:13.443Z,53.3941,-165.7998,41.2,2.3,ml,,,,0.38,ak,ak023e0gek01,2023-11-01T04:43:47.819Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-11-01T02:47:30.620Z,33.8926667,-117.8885,9.8,2.01,ml,59,76,0.03518,0.21,ci,ci40593384,2023-11-01T16:43:53.440Z,"3 km NW of Placentia, CA",earthquake,0.25,0.44,0.185,24,reviewed,ci,ci
