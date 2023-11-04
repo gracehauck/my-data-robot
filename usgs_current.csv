@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T21:51:40.096Z,60.7585,-150.6338,33.4,1.4,ml,,,,0.38,ak,ak023e5qc0ex,2023-11-04T21:53:51.128Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-04T21:50:54.672Z,61.6583,-150.9237,68.5,1.3,ml,,,,0.56,ak,ak023e5qbttn,2023-11-04T21:52:28.834Z,"25 km WNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-11-04T21:48:32.400Z,33.548,-116.7076667,4.15,0.6,ml,10,122,0.03022,0.1,ci,ci39707954,2023-11-04T21:52:06.819Z,"3 km WSW of Anza, CA",earthquake,0.53,0.43,0.323,9,automatic,ci,ci
-2023-11-04T21:36:05.530Z,38.8294983,-122.8215027,3.13,0.58,md,8,87,0.01081,0.01,nc,nc73956120,2023-11-04T23:33:10.954Z,"8 km NW of The Geysers, CA",earthquake,1.08,2.6,0.35,9,automatic,nc,nc
+2023-11-04T21:36:05.530Z,38.8294983,-122.8215027,3.13,0.58,md,8,87,0.01081,0.01,nc,nc73956120,2023-11-04T23:45:14.014Z,"8 km NW of The Geysers, CA",earthquake,1.08,2.6,0.35,9,automatic,nc,nc
 2023-11-04T21:15:44.660Z,32.7493333,-115.4173333,9.03,1.49,ml,16,159,0.0611,0.3,ci,ci39707930,2023-11-04T21:19:21.645Z,"8 km SSW of Holtville, CA",earthquake,1.16,1.88,0.178,15,automatic,ci,ci
 2023-11-04T21:13:06.082Z,61.8121,-150.7436,52,1.1,ml,,,,0.53,ak,ak023e5q3s6d,2023-11-04T21:16:04.752Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-11-04T21:12:41.170Z,33.4908333,-116.4185,6.75,1.11,ml,41,63,0.03303,0.18,ci,ci39707914,2023-11-04T21:16:14.628Z,"22 km SSW of La Quinta, CA",earthquake,0.22,0.56,0.204,27,automatic,ci,ci
@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T00:18:29.503Z,1.0637,125.6396,65.088,4.5,mb,24,82,1.751,0.87,us,us7000l8s4,2023-11-04T02:48:07.009Z,"70 km SE of Bitung, Indonesia",earthquake,10.4,10.919,0.125,19,reviewed,us,us
 2023-11-03T23:57:40.980Z,17.9926666666667,-67.1596666666667,14.43,2.36,md,10,262,0.04957,0.12,pr,pr71430703,2023-11-04T00:12:14.800Z,"3 km NE of Pole Ojea, Puerto Rico",earthquake,0.73,0.46,0.0396154304194565,4,reviewed,pr,pr
 2023-11-03T23:52:03.161Z,41.9493,-119.6282,1.3,1.6,ml,4,128.04,0.504,0.13,nn,nn00868423,2023-11-04T00:28:10.466Z,"44 km ENE of Fort Bidwell, California",earthquake,,4.8,0.57,4,reviewed,nn,nn
-2023-11-03T23:40:43.376Z,31.669,-104.19,4.3412,1.7,ml(texnet),19,105,0.1,0.2,tx,tx2023vowu,2023-11-04T00:04:23.085Z,"54 km NW of Toyah, Texas",earthquake,0,1.404898948,0.2,14,automatic,tx,tx
