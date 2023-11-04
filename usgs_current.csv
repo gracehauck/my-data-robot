@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-04T12:18:33.010Z,38.7849998,-122.7233353,1,1.52,md,15,85,0.01061,0.03,nc,nc73955965,2023-11-04T12:20:07.603Z,"3 km WNW of Anderson Springs, CA",earthquake,0.26,0.59,0.11,17,automatic,nc,nc
+2023-11-04T12:43:25.057Z,58.1593,-155.3423,6.8,0.2,ml,,,,0.4,ak,ak023e5kxd4o,2023-11-04T12:45:25.605Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2023-11-04T12:18:33.010Z,38.7849998,-122.7233353,1,1.52,md,15,85,0.01061,0.03,nc,nc73955965,2023-11-04T12:35:13.106Z,"3 km WNW of Anderson Springs, CA",earthquake,0.26,0.59,0.11,17,automatic,nc,nc
 2023-11-04T12:14:38.963Z,36.39974594,-98.43932343,4.109548092,1.66,ml,11,112.5816803,0.1235802844,0.224739165,ok,ok2023vpvr,2023-11-04T12:18:24.871Z,"0 km S of Cleo Springs, Oklahoma",earthquake,3.903077664,2.653147605,0.2,6,automatic,ok,ok
 2023-11-04T12:03:57.930Z,37.5805016,-118.8796692,3.65,0.91,md,12,208,0.04065,0.02,nc,nc73955960,2023-11-04T12:20:11.015Z,"11 km SE of Mammoth Lakes, CA",earthquake,1.1,0.89,0.12,11,automatic,nc,nc
 2023-11-04T11:50:14.782Z,63.5473,-150.84,0,1.6,ml,,,,0.69,ak,ak023e5kdep2,2023-11-04T11:52:18.530Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T10:00:13.370Z,18.0211666666667,-66.7746666666667,14.9,2.84,md,18,152,0.01609,0.15,pr,pr71430743,2023-11-04T10:18:38.320Z,"0 km NW of Magas Arriba, Puerto Rico",earthquake,0.31,0.43,0.146030643841454,8,reviewed,pr,pr
 2023-11-04T09:59:48.016Z,-5.9481,131.1265,101.529,4.5,mb,30,116,1.867,0.57,us,us7000l8up,2023-11-04T10:18:27.040Z,"Banda Sea",earthquake,9.46,7.13,0.105,27,reviewed,us,us
 2023-11-04T09:49:43.120Z,38.7913322,-122.7596664,0.85,0.89,md,13,69,0.009279,0.02,nc,nc73955920,2023-11-04T10:30:13.353Z,"2 km N of The Geysers, CA",earthquake,0.23,0.67,0.15,13,automatic,nc,nc
-2023-11-04T09:43:38.320Z,35.5113335,-120.8126678,5.27,1.74,md,17,66,,0.08,nc,nc73955915,2023-11-04T10:20:12.297Z,"10 km NE of Cayucos, CA",earthquake,0.29,1.12,0.14,9,automatic,nc,nc
+2023-11-04T09:43:38.320Z,35.5113335,-120.8126678,5.27,1.74,md,17,66,,0.08,nc,nc73955915,2023-11-04T12:40:10.131Z,"10 km NE of Cayucos, CA",earthquake,0.29,1.12,0.14,9,automatic,nc,nc
 2023-11-04T09:40:02.380Z,38.802166,-122.8111649,2.42,0.41,md,6,141,0.01368,0,nc,nc73955910,2023-11-04T12:13:09.980Z,"6 km WNW of The Geysers, CA",earthquake,0.67,1.8,0.16,8,automatic,nc,nc
 2023-11-04T09:39:52.150Z,38.8163338,-122.7953339,2.67,0.77,md,11,64,0.008354,0.01,nc,nc73955905,2023-11-04T12:02:11.925Z,"6 km NW of The Geysers, CA",earthquake,0.37,1.06,0.46,14,automatic,nc,nc
 2023-11-04T09:38:38.192Z,20.1401,147.7574,10,5,mb,64,83,7.077,0.78,us,us7000l8um,2023-11-04T11:48:46.327Z,"Mariana Islands region",earthquake,10.92,1.864,0.033,287,reviewed,us,us
@@ -220,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-03T12:51:20.810Z,38.7994995,-122.81633,0.97,0.75,md,13,82,0.01372,0.03,nc,nc73955495,2023-11-03T13:17:17.870Z,"6 km WNW of The Geysers, CA",earthquake,0.27,0.61,0.19,15,automatic,nc,nc
 2023-11-03T12:51:02.400Z,38.8003349,-122.8160019,1.02,0.75,md,8,79,0.01336,0.02,nc,nc73955490,2023-11-03T15:14:10.536Z,"6 km WNW of The Geysers, CA",earthquake,0.3,0.87,0.17,9,automatic,nc,nc
 2023-11-03T12:47:01.796Z,31.604,-103.958,8.5096,1.8,ml(texnet),15,57,0,0.1,tx,tx2023vobg,2023-11-03T19:29:19.227Z,"35 km NNW of Toyah, Texas",earthquake,0.4359541611,0.4769370207,0.2,19,reviewed,tx,tx
-2023-11-03T12:44:27.880Z,33.7696667,-116.9338333,13.09,0.68,ml,28,93,0.08279,0.13,ci,ci39706274,2023-11-03T17:45:55.643Z,"3 km SE of San Jacinto, CA",earthquake,0.22,0.43,0.081,10,reviewed,ci,ci
-2023-11-03T12:41:11.160Z,19.4388333333333,-155.6145,24.88,1.48,md,22,110,,0.2,hv,hv73638077,2023-11-03T22:07:09.600Z,"Island of Hawaii, Hawaii",earthquake,0.54,0.9,0.234111234003964,13,reviewed,hv,hv
-2023-11-03T12:36:14.932Z,61.8988,-149.7939,26.3,2.1,ml,,,,0.87,ak,ak023e3xchvw,2023-11-03T12:44:43.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
