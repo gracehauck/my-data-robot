@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-05T16:08:11.787Z,61.5098,-150.1872,33.4,1.8,ml,,,,0.43,ak,ak023e7amwwq,2023-11-05T16:09:59.543Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-11-05T16:08:11.787Z,61.5098,-150.1872,33.4,1.8,ml,,,,0.43,ak,ak023e7amwwq,2023-11-05T16:09:59.543Z,"12 km W of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-05T15:52:14.500Z,35.7323333,-118.0636667,0.26,0.58,ml,11,121,0.15,0.23,ci,ci39708642,2023-11-05T15:55:50.928Z,"25 km WNW of Inyokern, CA",earthquake,0.5,31.61,0.094,7,automatic,ci,ci
 2023-11-05T15:48:20.942Z,31.675,-104.425,6.0287,2.9,ml(texnet),20,67,0,0.2,tx,tx2023vryf,2023-11-05T16:18:17.258Z,"55 km S of Whites City, New Mexico",earthquake,0.8451204549,0.6477928469,0.1,16,reviewed,tx,tx
 2023-11-05T15:40:42.980Z,32.8563333,-115.7408333,7.77,1.39,ml,33,45,0.01196,0.27,ci,ci39708626,2023-11-05T15:51:58.000Z,"16 km W of Imperial, CA",earthquake,0.39,0.83,0.204,24,automatic,ci,ci
@@ -102,9 +102,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T05:25:35.930Z,37.5621667,-118.8318333,3.96,-0.02,md,10,206,0.0279,0.03,nc,nc71131779,2023-11-05T07:22:36.535Z,"13 km W of Toms Place, CA",earthquake,1.12,1,0.153,8,reviewed,nc,nc
 2023-11-05T05:25:11.280Z,37.6396667,-119.07,-0.21,0.16,md,6,151,0.01047,0.01,nc,nc71131774,2023-11-05T09:42:10.530Z,"8 km W of Mammoth Lakes, CA",earthquake,0.66,0.65,0.276,7,reviewed,nc,nc
 2023-11-05T05:24:29.350Z,36.4393333,-120.3236667,6.03,1.54,md,22,183,0.04812,0.14,nc,nc73956275,2023-11-05T10:23:17.756Z,"7 km S of Cantua Creek, CA",earthquake,0.6,0.31,0.241,16,reviewed,nc,nc
-2023-11-05T05:16:42.756Z,39.884,143.1796,36.777,4.6,mb,33,149,1.852,0.57,us,us7000l8yj,2023-11-05T05:46:15.040Z,"109 km ENE of Miyako, Japan",earthquake,7.58,8.474,0.112,25,reviewed,us,us
+2023-11-05T05:16:42.756Z,39.884,143.1796,36.777,4.6,mb,33,149,1.852,0.57,us,us7000l8yj,2023-11-05T17:19:10.701Z,"109 km ENE of Miyako, Japan",earthquake,7.58,8.474,0.112,25,reviewed,us,us
 2023-11-05T05:14:26.950Z,32.8651667,-115.7466667,9.45,2.65,ml,39,58,0.0212,0.23,ci,ci39708274,2023-11-05T05:34:07.040Z,"17 km W of Imperial, CA",earthquake,0.3,0.66,0.181,30,automatic,ci,ci
-2023-11-05T05:12:57.650Z,32.8643333,-115.7388333,13.16,3.87,ml,70,39,0.01633,0.31,ci,ci39708250,2023-11-05T16:10:37.889Z,"16 km W of Imperial, CA",earthquake,0.24,0.52,0.163,138,reviewed,ci,ci
+2023-11-05T05:12:57.650Z,32.8643333,-115.7388333,13.16,3.87,ml,70,39,0.01633,0.31,ci,ci39708250,2023-11-05T17:18:52.193Z,"16 km W of Imperial, CA",earthquake,0.24,0.52,0.163,138,reviewed,ci,ci
 2023-11-05T05:02:12.958Z,61.6327,-149.6487,29.8,1.5,ml,,,,0.55,ak,ak023e741v1r,2023-11-05T05:04:24.976Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-05T04:58:56.440Z,62.967,-148.3758,44.6,1.8,ml,,,,0.77,ak,ak023e73siwc,2023-11-05T05:02:13.425Z,"55 km SSE of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-11-05T04:57:56.490Z,18.0281666666667,-66.774,11.78,2.06,md,9,159,0.1132,0.15,pr,pr71430768,2023-11-05T05:14:11.850Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.51,1.39,0.0126179697160975,4,reviewed,pr,pr
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T17:37:58.762Z,37.0825,-116.198,7.5,0.6,ml,33,51.82,0.065,0.1943,nn,nn00868442,2023-11-04T22:35:29.706Z,"53 km ENE of Beatty, Nevada",earthquake,,1.2,0.38,24,reviewed,nn,nn
 2023-11-04T17:34:14.363Z,58.7363,-153.5736,78.4,1.4,ml,,,,0.34,ak,ak023e5nuli7,2023-11-04T19:27:33.270Z,"Kodiak Island region, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2023-11-04T17:25:39.015Z,31.667,-104.186,4.4005,1.7,ml(texnet),19,62,0.1,0.3,tx,tx2023vqfz,2023-11-04T17:53:30.068Z,"54 km NW of Toyah, Texas",earthquake,0,1.206462837,0.2,14,automatic,tx,tx
-2023-11-04T17:11:33.477Z,57.8236,-153.3854,47.5,2.2,ml,,,,0.39,ak,ak023e5npotz,2023-11-04T17:15:27.650Z,"30 km W of Port Lions, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-11-04T17:08:13.460Z,38.7966652,-122.8154984,3.14,0.74,md,8,92,0.01279,0.02,nc,nc73956025,2023-11-04T17:58:13.972Z,"6 km WNW of The Geysers, CA",earthquake,0.46,1.55,0.44,10,automatic,nc,nc
