@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-05T21:27:13.070Z,36.3725014,-120.9304962,12.74,1.65,md,15,112,0.05552,0.07,nc,nc73956530,2023-11-05T21:28:52.379Z,"24 km WSW of New Idria, CA",earthquake,0.47,1.24,0.21,10,automatic,nc,nc
 2023-11-05T21:15:01.684Z,63.1353,-151.3316,2.4,2.3,ml,,,,0.42,ak,ak023e7dnk60,2023-11-05T21:16:58.938Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-05T21:13:57.850Z,38.8138351,-122.8280029,1.84,0.73,md,7,85,0.005044,0.01,nc,nc73956520,2023-11-05T21:15:32.322Z,"7 km WNW of The Geysers, CA",earthquake,0.42,1.01,0.3,9,automatic,nc,nc
+2023-11-05T21:13:57.850Z,38.8138351,-122.8280029,1.84,0.73,md,7,85,0.005044,0.01,nc,nc73956520,2023-11-05T21:28:10.833Z,"7 km WNW of The Geysers, CA",earthquake,0.42,1.01,0.3,9,automatic,nc,nc
 2023-11-05T21:00:51.640Z,34.6473333,-116.293,3.01,1.72,ml,18,78,0.122,0.18,ci,ci39708850,2023-11-05T21:04:26.569Z,"15 km SW of Ludlow, CA",earthquake,0.31,1.51,0.128,26,automatic,ci,ci
 2023-11-05T20:58:16.978Z,57.9388,-156.0843,9.7,1.4,ml,,,,0.17,ak,ak023e7dbdj5,2023-11-05T21:00:08.803Z,"82 km ESE of Egegik, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-11-05T20:53:08.251Z,60.0487,-152.1191,75.8,1.9,ml,,,,0.46,ak,ak023e7daaa1,2023-11-05T20:56:01.868Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-05T20:49:45.880Z,38.8311653,-122.8089981,2.51,0.71,md,11,67,0.007804,0.02,nc,nc73956515,2023-11-05T21:02:11.679Z,"8 km W of Cobb, CA",earthquake,0.31,0.84,0.16,11,automatic,nc,nc
+2023-11-05T20:49:45.880Z,38.8311653,-122.8089981,2.51,0.71,md,11,67,0.007804,0.02,nc,nc73956515,2023-11-05T21:30:11.845Z,"8 km W of Cobb, CA",earthquake,0.31,0.84,0.16,11,automatic,nc,nc
 2023-11-05T20:42:34.069Z,12.6579,-90.4237,10,4.4,mb,54,165,1.372,0.63,us,us7000l926,2023-11-05T21:02:20.040Z,"121 km SSW of Acajutla, El Salvador",earthquake,5.73,1.886,0.063,74,reviewed,us,us
 2023-11-05T20:37:09.990Z,36.3720016,-120.9433365,10.78,1.4,md,14,109,0.05237,0.13,nc,nc73956510,2023-11-05T21:10:11.845Z,"24 km NE of King City, CA",earthquake,0.52,1.16,0.22,10,automatic,nc,nc
 2023-11-05T20:36:36.680Z,35.0333333,-116.976,3.25,2.1,ml,26,54,0.1586,0.15,ci,ci39708834,2023-11-05T20:47:35.580Z,"16 km NNE of Barstow, CA",earthquake,0.23,1.13,0.133,26,automatic,ci,ci
@@ -14,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T19:56:53.420Z,33.9311667,-116.7531667,17.59,0.95,ml,29,62,0.104,0.19,ci,ci39708818,2023-11-05T20:00:27.172Z,"4 km ENE of Cabazon, CA",earthquake,0.33,0.74,0.228,19,automatic,ci,ci
 2023-11-05T19:45:33.853Z,36.9652,-116.257,5,0.8,ml,15,107.18,0.017,0.152,nn,nn00868486,2023-11-05T19:47:40.111Z,"California-Nevada border region",earthquake,,0.7,0.3,10,automatic,nn,nn
 2023-11-05T19:44:10.808Z,60.9864,-141.2028,16.1,1,ml,,,,0.29,ak,ak023e7cmxfc,2023-11-05T19:45:47.658Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-05T19:12:01.640Z,38.7923317,-122.7598343,0.78,0.82,md,17,72,0.008282,0.02,nc,nc73956495,2023-11-05T19:31:11.168Z,"2 km N of The Geysers, CA",earthquake,0.21,0.47,0.28,16,automatic,nc,nc
+2023-11-05T19:12:01.640Z,38.7923317,-122.7598343,0.78,0.82,md,17,72,0.008282,0.02,nc,nc73956495,2023-11-05T21:28:11.085Z,"2 km N of The Geysers, CA",earthquake,0.21,0.47,0.28,16,automatic,nc,nc
 2023-11-05T19:01:55.949Z,61.0609,-148.3857,0,1.2,ml,,,,0.63,ak,ak023e7cdt37,2023-11-05T21:17:08.926Z,"35 km NNE of Whittier, Alaska",ice quake,,0,,,reviewed,ak,ak
 2023-11-05T19:00:27.880Z,38.8358345,-122.8191681,2.23,0.83,md,9,92,0.01304,0.02,nc,nc73956490,2023-11-05T21:02:11.799Z,"8 km W of Cobb, CA",earthquake,0.38,1.36,0.23,10,automatic,nc,nc
 2023-11-05T18:57:53.760Z,19.2434997558594,-155.401992797852,31.3400001525879,1.98000002,md,32,150,,0.119999997,hv,hv73639772,2023-11-05T19:00:55.370Z,"Hawaii region, Hawaii",earthquake,0.83,0.75,0.660000026,13,automatic,hv,hv
