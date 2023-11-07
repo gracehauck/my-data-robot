@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-07T21:38:38.540Z,38.7898331,-122.7365036,2.02,0.25,md,8,91,0.006589,0.01,nc,nc73957430,2023-11-07T21:40:14.154Z,"2 km NE of The Geysers, CA",earthquake,0.34,1.45,0.08,8,automatic,nc,nc
+2023-11-07T21:35:28.290Z,38.8341675,-122.7931671,1.64,0.52,md,7,81,0.004775,0.01,nc,nc73957420,2023-11-07T21:37:05.357Z,"6 km WNW of Cobb, CA",earthquake,0.5,1.33,0.18,8,automatic,nc,nc
+2023-11-07T21:33:04.610Z,38.8181648,-122.7949982,1.98,0.25,md,11,63,0.01018,0.01,nc,nc73957415,2023-11-07T21:34:39.097Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.79,0.09,12,automatic,nc,nc
+2023-11-07T21:31:11.670Z,38.8251648,-122.7923355,2.58,1.36,md,13,103,0.01332,0.07,nc,nc73957410,2023-11-07T21:32:49.126Z,"6 km W of Cobb, CA",earthquake,0.74,1.06,0.23,13,automatic,nc,nc
 2023-11-07T21:15:16.324Z,58.85,-153.6365,6.2,1.9,ml,,,,0.54,ak,ak023eaoqaa8,2023-11-07T21:17:35.562Z,"92 km SE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-07T21:06:42.962Z,61.4583,-146.5513,28,1.5,ml,,,,1.19,ak,ak023eaooew8,2023-11-07T21:08:59.738Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-07T20:46:37.430Z,19.2418327331543,-155.437835693359,-0.769999980926514,1.95000005,md,29,129,,0.270000011,hv,hv73641107,2023-11-07T20:49:56.700Z,"Island of Hawaii, Hawaii",earthquake,0.59,0.25999999,1.40999997,10,automatic,hv,hv
