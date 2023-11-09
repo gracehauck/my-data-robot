@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-09T21:47:56.810Z,33.7173347,-117.3476639,3.22,1.21,ml,22,62,0.04519,0.19,ci,ci39710962,2023-11-09T21:50:01.846Z,"6 km NNW of Lake Elsinore, CA",earthquake,0.46,0.62,0.273,10,automatic,ci,ci
+2023-11-09T21:46:39.340Z,33.8651657,-116.604332,18.22,1.11,ml,29,91,0.07396,0.1,ci,ci39710954,2023-11-09T21:48:44.470Z,"7 km SW of Garnet, CA",earthquake,0.31,0.52,0.169,7,automatic,ci,ci
 2023-11-09T21:39:55.820Z,38.8308334,-122.814003,1.65,0.7,md,11,79,0.008037,0.01,nc,nc73960631,2023-11-09T21:41:31.366Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.96,0.09,11,automatic,nc,nc
-2023-11-09T21:37:56.490Z,36.5356674,-120.6993332,8.15,2.13,md,11,197,0.1888,0.1,nc,nc73960621,2023-11-09T21:39:36.327Z,"13 km N of New Idria, CA",earthquake,0.78,1.32,0.12,11,automatic,nc,nc
+2023-11-09T21:37:56.490Z,36.5356674,-120.6993332,8.15,2.13,md,11,197,0.1888,0.1,nc,nc73960621,2023-11-09T21:42:10.844Z,"13 km N of New Idria, CA",earthquake,0.78,1.32,0.12,11,automatic,nc,nc
 2023-11-09T21:16:27.380Z,38.795166,-122.7678299,3.26,0.59,md,8,108,0.008364,0.01,nc,nc73960611,2023-11-09T21:29:11.792Z,"2 km NNW of The Geysers, CA",earthquake,0.98,2.21,0.16,7,automatic,nc,nc
+2023-11-09T21:16:03.690Z,33.492,-116.505,9.07,0.39,ml,15,133,0.06884,0.13,ci,ci39710930,2023-11-09T21:49:16.371Z,"17 km ESE of Anza, CA",earthquake,0.3,0.56,0.097,8,reviewed,ci,ci
 2023-11-09T20:53:46.445Z,-5.4497,145.9148,64.221,5.4,mww,106,25,5.961,0.8,us,us7000l9xx,2023-11-09T21:37:36.827Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.13,6.31,0.062,25,reviewed,us,us
 2023-11-09T20:41:49.529Z,31.634,-103.984,4.8148,1.6,ml(texnet),13,87,0,0.2,tx,tx2023vzpy,2023-11-09T21:25:43.975Z,"western Texas",earthquake,0,1.525168272,0.2,10,automatic,tx,tx
 2023-11-09T20:25:45.290Z,41.5423333,-111.7076667,10.44,1.35,md,19,72,0.06793,0.12,uu,uu60553952,2023-11-09T21:15:10.000Z,"8 km E of Avon, Utah",earthquake,0.27,0.49,0.083,10,reviewed,uu,uu
