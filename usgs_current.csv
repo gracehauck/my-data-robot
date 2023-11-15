@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T09:13:07.166Z,59.6363,-153.1038,111.2,2.3,ml,,,,0.55,ak,ak023em2c2cc,2023-11-14T09:14:51.863Z,"58 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-14T09:09:56.186Z,51.7711,178.3105,122.154,4.3,mb,45,196,0.246,0.63,us,usd00103yk,2023-11-14T17:53:39.430Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,9.91,6.876,0.054,99,reviewed,us,us
 2023-11-14T09:07:27.269Z,60.2155,-151.0953,48.1,2.5,ml,,,,0.3,ak,ak023em2atli,2023-11-14T09:08:54.677Z,"16 km E of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-11-14T08:42:45.422Z,-58.5708,-24.7367,10,4.9,mb,50,79,7.8,1.01,us,usd00103yf,2023-11-14T09:44:43.040Z,"South Sandwich Islands region",earthquake,6.65,1.76,0.108,32,reviewed,us,us
