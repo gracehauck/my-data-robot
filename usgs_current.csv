@@ -228,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T09:09:56.186Z,51.7711,178.3105,122.154,4.3,mb,45,196,0.246,0.63,us,usd00103yk,2023-11-14T17:53:39.430Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,9.91,6.876,0.054,99,reviewed,us,us
 2023-11-14T09:07:27.269Z,60.2155,-151.0953,48.1,2.5,ml,,,,0.3,ak,ak023em2atli,2023-11-14T09:08:54.677Z,"16 km E of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-14T08:42:45.422Z,-58.5708,-24.7367,10,4.9,mb,50,79,7.8,1.01,us,usd00103yf,2023-11-14T09:44:43.040Z,"South Sandwich Islands region",earthquake,6.65,1.76,0.108,32,reviewed,us,us
-2023-11-14T08:12:28.958Z,61.3439,-151.5595,62.4,1.6,ml,,,,0.14,ak,ak023em1qgpb,2023-11-14T08:14:12.879Z,"34 km NW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-11-14T08:08:16.940Z,38.1041667,-113.1841667,3.05,2.01,ml,25,90,0.1473,0.15,uu,uu60554187,2023-11-14T14:40:09.380Z,"25 km WSW of Minersville, Utah",earthquake,0.5,3.15,0.228,5,reviewed,uu,uu
-2023-11-14T07:59:27.630Z,19.5513,-66.144,42,3.66,md,12,282,1.1413,0.25,pr,pr2023318000,2023-11-15T07:35:00.040Z,"120 km N of San Juan, Puerto Rico",earthquake,1.81,10.63,0.03,5,reviewed,pr,pr
