@@ -10,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T10:16:43.534Z,31.633,-104.13,6.0766,1.7,ml(texnet),18,66,0.1,0.7,tx,tx2023wuti,2023-11-21T10:52:56.978Z,"47 km NW of Toyah, Texas",earthquake,0,2.584860125,0.3,13,automatic,tx,tx
 2023-11-21T10:15:57.420Z,35.7543335,-121.2503357,6.52,2.5,md,37,182,0.1066,0.1,nc,nc73965251,2023-11-21T10:22:13.228Z,"13 km NNW of San Simeon, CA",earthquake,0.42,1.13,0.11,46,automatic,nc,nc
 2023-11-21T10:07:48.510Z,19.1963329315186,-155.353668212891,26.9899997711182,1.88999999,md,35,185,,0.109999999,hv,hv73655282,2023-11-21T10:11:09.570Z,"13 km E of Pāhala, Hawaii",earthquake,0.61,0.819999993,2.00999999,4,automatic,hv,hv
+2023-11-21T10:05:50.341Z,-19.0375,-67.2759,246.344,4.4,mb,47,52,1.917,0.9,us,us6000lpsr,2023-11-21T11:52:50.040Z,"55 km WSW of Challapata, Bolivia",earthquake,8.04,9.008,0.085,40,reviewed,us,us
 2023-11-21T09:33:37.820Z,38.7898331,-122.7721634,2,1.03,md,16,80,0.01276,0.03,nc,nc73965246,2023-11-21T09:50:12.044Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.52,0.26,16,automatic,nc,nc
 2023-11-21T09:33:20.000Z,19.2478332519531,-155.466003417969,32.5699996948242,1.82000005,md,27,96,,0.0900000036,hv,hv73655262,2023-11-21T09:36:19.700Z,"5 km NNE of Pāhala, Hawaii",earthquake,0.57,0.879999995,0.720000029,3,automatic,hv,hv
 2023-11-21T09:31:43.800Z,34.2306667,-116.8456667,3.18,2.07,ml,87,29,0.06974,0.12,ci,ci39716002,2023-11-21T09:42:18.390Z,"3 km S of Big Bear City, CA",earthquake,0.09,0.3,0.15,23,automatic,ci,ci
@@ -186,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-20T12:00:53.880Z,19.3041667938232,-155.427993774414,11.0100002288818,2.17,ml,8,159,,0.209999993,hv,hv73653862,2023-11-20T12:06:25.080Z,"12 km NNE of Pāhala, Hawaii",earthquake,1.13,1.69000006,0.27,3,automatic,hv,hv
 2023-11-20T11:57:18.430Z,36.0116653,-120.57267,2.51,0.88,md,8,112,0.02932,0.05,nc,nc73964936,2023-11-20T13:46:11.598Z,"18 km NW of Parkfield, CA",earthquake,0.4,0.82,0.03,3,automatic,nc,nc
 2023-11-20T11:54:33.960Z,39.117,-111.4501667,-0.73,1.48,ml,10,105,0.1389,0.12,uu,uu60554702,2023-11-20T19:34:41.130Z,"22 km E of Mayfield, Utah",earthquake,0.54,31.61,0.116,3,reviewed,uu,uu
-2023-11-20T11:53:06.047Z,61.4178,-152.3449,108.6,1.6,ml,,,,0.25,ak,ak023ew0zl2k,2023-11-20T11:54:50.788Z,"74 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-20T11:50:24.467Z,31.763,-103.831,4.5377,1.8,ml(texnet),20,60,0,0.2,tx,tx2023wtay,2023-11-20T19:49:36.932Z,"22 km WNW of Mentone, Texas",earthquake,0.819199161,0.9475594108,0,6,reviewed,tx,tx
