@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T07:27:46.012Z,60.4612,-151.7469,67.3,1.7,ml,,,,0.55,ak,ak023ez9j23t,2023-11-22T07:28:59.984Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-11-22T07:25:21.530Z,37.9551659,-122.0981674,8.07,1.33,md,11,99,0.05603,0.05,nc,nc73965831,2023-11-22T07:26:56.039Z,"3 km WNW of Pleasant Hill, CA",earthquake,0.29,0.79,0.2,9,automatic,nc,nc
+2023-11-22T07:20:46.030Z,19.2748336791992,-155.43049621582,28.7800006866455,1.76999998,md,26,124,,0.159999996,hv,hv73657207,2023-11-22T07:23:45.540Z,"9 km NNE of Pāhala, Hawaii",earthquake,0.65,1.05999994,0.879999995,3,automatic,hv,hv
 2023-11-22T07:15:58.580Z,19.1846675872803,-155.496505737305,32.5800018310547,1.92999995,md,37,150,,0.140000001,hv,hv73657202,2023-11-22T07:19:15.540Z,"Island of Hawaii, Hawaii",earthquake,0.71,0.980000019,0.99000001,7,automatic,hv,hv
 2023-11-22T06:55:19.529Z,60.2144,-151.7677,34.6,1.6,ml,,,,0.76,ak,ak023ez93kgk,2023-11-22T06:57:30.527Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-22T06:39:12.705Z,61.6937,-149.9106,33.8,2.3,ml,,,,0.4,ak,ak023ez904iu,2023-11-22T06:40:51.302Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -290,6 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T07:52:20.370Z,33.6983333,-116.7223333,17.75,0.7,ml,26,59,0.0145,0.12,ci,ci39715970,2023-11-21T18:14:07.115Z,"5 km S of Idyllwild, CA",earthquake,0.23,0.37,0.121,8,reviewed,ci,ci
 2023-11-21T07:46:07.730Z,33.1496667,-119.0488333,5.78,2.6,ml,11,262,0.4542,0.25,ci,ci39715962,2023-11-21T17:57:26.131Z,"36 km S of Santa Barbara Is., CA",earthquake,1.1,31.61,0.136,119,reviewed,ci,ci
 2023-11-21T07:35:35.005Z,60.9913,-152.3118,5.5,1.6,ml,,,,1.07,ak,ak023exm1eho,2023-11-21T23:55:01.600Z,"64 km W of Tyonek, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2023-11-21T07:30:17.320Z,38.8134995,-122.8161697,2.86,1.24,md,23,52,0.01097,0.02,nc,nc73965221,2023-11-21T08:36:11.650Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.44,0.18,24,automatic,nc,nc
-2023-11-21T07:26:23.160Z,37.6186667,-122.3711667,11,1.4,md,53,27,0.04861,0.1,nc,nc73965211,2023-11-21T13:00:12.214Z,"3 km NNE of Millbrae, CA",earthquake,0.13,0.28,0.282,40,reviewed,nc,nc
-2023-11-21T07:25:57.500Z,37.618,-122.3731667,11.07,1.08,md,37,28,0.04945,0.09,nc,nc73965216,2023-11-21T10:12:13.170Z,"2 km NNE of Millbrae, CA",earthquake,0.17,0.31,0.21,26,reviewed,nc,nc
