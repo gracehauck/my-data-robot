@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-22T07:35:27.160Z,19.3478336334229,-155.295333862305,3.01999998092651,1.73,ml,18,63,,0.230000004,hv,hv73657232,2023-11-22T07:40:59.100Z,"12 km SSW of Volcano, Hawaii",earthquake,0.5,0.829999983,3.35,4,automatic,hv,hv
+2023-11-22T07:33:52.030Z,59.2366,-153.8086,122.6,2.4,ml,,,,0.61,ak,ak023ez9kcos,2023-11-22T07:36:39.996Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-22T07:27:46.012Z,60.4612,-151.7469,67.3,1.7,ml,,,,0.55,ak,ak023ez9j23t,2023-11-22T07:28:59.984Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-11-22T07:25:21.530Z,37.9551659,-122.0981674,8.07,1.33,md,11,99,0.05603,0.05,nc,nc73965831,2023-11-22T07:26:56.039Z,"3 km WNW of Pleasant Hill, CA",earthquake,0.29,0.79,0.2,9,automatic,nc,nc
+2023-11-22T07:25:21.530Z,37.9551659,-122.0981674,8.07,1.33,md,11,99,0.05603,0.05,nc,nc73965831,2023-11-22T07:34:09.736Z,"3 km WNW of Pleasant Hill, CA",earthquake,0.29,0.79,0.2,9,automatic,nc,nc
+2023-11-22T07:21:03.199Z,-22.9125,-69.0802,107.766,4.8,mb,40,91,0.498,0.93,us,us6000lq0y,2023-11-22T07:33:08.040Z,"52 km SSW of Calama, Chile",earthquake,5.34,6.708,0.109,26,reviewed,us,us
 2023-11-22T07:20:46.030Z,19.2748336791992,-155.43049621582,28.7800006866455,1.76999998,md,26,124,,0.159999996,hv,hv73657207,2023-11-22T07:23:45.540Z,"9 km NNE of Pāhala, Hawaii",earthquake,0.65,1.05999994,0.879999995,3,automatic,hv,hv
 2023-11-22T07:15:58.580Z,19.1846675872803,-155.496505737305,32.5800018310547,1.92999995,md,37,150,,0.140000001,hv,hv73657202,2023-11-22T07:19:15.540Z,"Island of Hawaii, Hawaii",earthquake,0.71,0.980000019,0.99000001,7,automatic,hv,hv
 2023-11-22T06:55:19.529Z,60.2144,-151.7677,34.6,1.6,ml,,,,0.76,ak,ak023ez93kgk,2023-11-22T06:57:30.527Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -292,4 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T08:01:57.770Z,38.8288345,-122.8150024,2.01,0.77,md,13,65,0.006657,0.02,nc,nc73965226,2023-11-21T08:47:13.706Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.66,0.15,14,automatic,nc,nc
 2023-11-21T07:52:20.370Z,33.6983333,-116.7223333,17.75,0.7,ml,26,59,0.0145,0.12,ci,ci39715970,2023-11-21T18:14:07.115Z,"5 km S of Idyllwild, CA",earthquake,0.23,0.37,0.121,8,reviewed,ci,ci
 2023-11-21T07:46:07.730Z,33.1496667,-119.0488333,5.78,2.6,ml,11,262,0.4542,0.25,ci,ci39715962,2023-11-21T17:57:26.131Z,"36 km S of Santa Barbara Is., CA",earthquake,1.1,31.61,0.136,119,reviewed,ci,ci
-2023-11-21T07:35:35.005Z,60.9913,-152.3118,5.5,1.6,ml,,,,1.07,ak,ak023exm1eho,2023-11-21T23:55:01.600Z,"64 km W of Tyonek, Alaska",earthquake,,3.2,,,automatic,ak,ak
