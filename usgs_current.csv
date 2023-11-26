@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T02:55:56.310Z,38.8313332,-122.8519974,1.09,0.56,md,7,110,0.01479,0.03,nc,nc73967481,2023-11-26T02:57:32.280Z,"10 km NW of The Geysers, CA",earthquake,0.39,1.04,0.24,8,automatic,nc,nc
 2023-11-26T02:39:29.959Z,61.91,-146.7759,31.9,1.7,ml,,,,0.79,ak,ak023f5srter,2023-11-26T02:41:10.007Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-26T02:38:09.926Z,64.9267,-148.6164,23.2,1,ml,,,,0.3,ak,ak023f5srk5c,2023-11-26T02:39:59.573Z,"29 km WNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-26T02:30:53.772Z,61.5844,-146.293,30.8,1.6,ml,,,,0.54,ak,ak023f5spxsx,2023-11-26T02:32:39.885Z,"50 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -222,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T03:07:43.016Z,40.7778,-119.2511,1.5,1.6,ml,6,220.26,0.709,0.0903,nn,nn00869291,2023-11-25T15:19:02.022Z,"2 km WNW of Burning Man Earth, Nevada",earthquake,,2.3,0.26,5,reviewed,nn,nn
 2023-11-25T02:58:57.178Z,61.649,-150.99,53.1,2,ml,,,,0.34,ak,ak023f45clmd,2023-11-25T03:00:26.080Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-25T02:58:26.829Z,39.1676,-119.6638,6.4,0.5,ml,8,149.7,0.189,0.1329,nn,nn00869290,2023-11-25T15:15:54.244Z,"Nevada",earthquake,,3.6,0,1,reviewed,nn,nn
-2023-11-25T02:54:28.900Z,38.8286667,-122.8205032,1.47,0.81,md,10,108,0.009699,0.01,nc,nc73967056,2023-11-25T05:35:11.264Z,"8 km NW of The Geysers, CA",earthquake,0.45,0.65,0.18,10,automatic,nc,nc
