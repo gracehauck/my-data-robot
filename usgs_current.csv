@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T14:53:52.580Z,38.8153343,-122.8246689,2.05,0.83,md,18,54,0.007355,0.02,nc,nc73968451,2023-11-27T14:55:25.619Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.42,0.15,20,automatic,nc,nc
+2023-11-27T14:48:06.127Z,39.5489,-119.8255,6.9,1.2,ml,10,86.73,0.041,0.1483,nn,nn00869346,2023-11-27T14:50:08.801Z,"2 km NNW of Reno, Nevada",earthquake,,0.5,0.18,5,automatic,nn,nn
 2023-11-27T14:35:55.365Z,63.0315,-150.2509,100.6,1.5,ml,,,,0.18,ak,ak023f7nfk9c,2023-11-27T14:37:36.137Z,"65 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-11-27T14:33:52.130Z,39.677166,-123.4416656,8.64,1.79,md,15,78,0.0403,0.16,nc,nc73968441,2023-11-27T14:43:11.092Z,"4 km ESE of Laytonville, CA",earthquake,0.5,0.99,0.21,8,automatic,nc,nc
 2023-11-27T14:17:30.710Z,38.8286667,-122.8014984,1.67,1.23,md,19,36,0.008519,0.01,nc,nc73968431,2023-11-27T14:39:14.070Z,"7 km W of Cobb, CA",earthquake,0.2,0.36,0.22,21,automatic,nc,nc
@@ -14,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T12:18:33.678Z,31.674,-104.479,6.7362,2,ml(texnet),8,92,0,0.2,tx,tx2023xfwk,2023-11-27T12:46:14.020Z,"56 km S of Whites City, New Mexico",earthquake,0,3.336958789,0.2,6,automatic,tx,tx
 2023-11-27T12:11:29.156Z,31.629,-104.057,11.1562,2.6,ml(texnet),4,105,0.3,0.7,tx,tx2023xfwe,2023-11-27T12:25:43.761Z,"western Texas",earthquake,0,7.60242836,2.6,3,automatic,tx,tx
 2023-11-27T12:09:47.950Z,35.3968333,-118.746,7.59,1.47,ml,35,68,0.06821,0.16,ci,ci39718338,2023-11-27T12:20:57.840Z,"22 km NE of Lamont, CA",earthquake,0.2,0.64,0.139,19,automatic,ci,ci
-2023-11-27T12:07:45.300Z,37.7976685,-119.4065018,2.35,1.62,md,12,192,0.3021,0.06,nc,nc73968391,2023-11-27T12:30:12.971Z,"16 km ENE of Yosemite Valley, CA",earthquake,1.12,7.39,0.18,8,automatic,nc,nc
+2023-11-27T12:07:45.300Z,37.7976685,-119.4065018,2.35,1.62,md,12,192,0.3021,0.06,nc,nc73968391,2023-11-27T14:55:10.173Z,"16 km ENE of Yosemite Valley, CA",earthquake,1.12,7.39,0.18,8,automatic,nc,nc
 2023-11-27T12:03:11.970Z,41.0960007,-123.2545013,27.3,2.61,md,14,161,0.4228,0.19,nc,nc73968381,2023-11-27T14:09:11.490Z,"36 km ENE of Willow Creek, CA",earthquake,1.37,2.45,0.18,11,automatic,nc,nc
 2023-11-27T11:53:17.648Z,64.8925,-149.2582,16.6,1.5,ml,,,,0.28,ak,ak023f7lr1f8,2023-11-27T11:55:27.486Z,"29 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-27T11:52:53.041Z,31.602,-104.02,4.6677,1.8,ml(texnet),16,60,0,0.5,tx,tx2023xfvn,2023-11-27T12:23:33.441Z,"western Texas",earthquake,0,1.245497414,0.2,13,automatic,tx,tx
@@ -28,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T10:51:02.412Z,63.8807,-151.7755,7.6,2,ml,,,,0.68,ak,ak023f7l557l,2023-11-27T10:53:27.710Z,"Central Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-27T10:44:09.061Z,44.4757,149.1178,49.099,4.7,mb,57,137,4.698,0.66,us,us6000lr12,2023-11-27T10:59:58.040Z,"128 km SE of Kuril’sk, Russia",earthquake,9.23,6.282,0.048,131,reviewed,us,us
 2023-11-27T10:37:53.500Z,44.7635,-110.966,7.03,1.03,ml,13,103,0.02891,0.15,uu,uu60555182,2023-11-27T14:13:15.510Z,"15 km NE of West Yellowstone, Montana",earthquake,0.49,1.03,0.29,3,reviewed,uu,uu
-2023-11-27T10:37:40.590Z,35.5239983,-118.3831635,4.38,3.47,ml,84,21,0.157,0.19,ci,ci39718330,2023-11-27T14:36:16.605Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.83,0.246,18,reviewed,ci,ci
+2023-11-27T10:37:40.590Z,35.5239983,-118.3831635,4.38,3.47,ml,84,21,0.157,0.19,ci,ci39718330,2023-11-27T14:52:42.824Z,"12 km SE of Bodfish, CA",earthquake,0.17,0.83,0.246,18,reviewed,ci,ci
 2023-11-27T10:33:31.290Z,33.525,-116.5285,12.57,0.63,ml,36,68,0.03248,0.14,ci,ci39718322,2023-11-27T10:39:41.230Z,"14 km ESE of Anza, CA",earthquake,0.2,0.3,0.193,14,automatic,ci,ci
 2023-11-27T10:20:36.920Z,18.9983,-64.9958,27,3.57,md,12,285,0.6458,0.29,pr,pr2023331000,2023-11-27T11:45:16.040Z,"72 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.69,19.41,0.14,4,reviewed,pr,pr
 2023-11-27T10:10:58.108Z,31.668,-104.193,4.2154,1.5,ml(texnet),19,70,0.1,0.2,tx,tx2023xfsf,2023-11-27T11:02:38.369Z,"54 km NW of Toyah, Texas",earthquake,0,1.178020892,0.2,15,automatic,tx,tx
