@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T03:13:32.930Z,38.8349991,-122.8016663,2.24,1.09,md,20,58,0.009475,0.02,nc,nc73968161,2023-11-27T03:22:11.500Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.48,0.13,20,automatic,nc,nc
 2023-11-27T02:46:07.176Z,37.3077,-117.575,4,1.2,ml,13,170.67,0.094,0.2617,nn,nn00869330,2023-11-27T02:48:24.461Z,"49 km S of Silver Peak, Nevada",earthquake,,2.4,0.36,7,automatic,nn,nn
 2023-11-27T02:36:27.775Z,-24.3263,-67.0085,174.4,4.7,mb,30,102,1.739,0.87,us,us6000lqyt,2023-11-27T02:52:20.040Z,"71 km W of San Antonio de los Cobres, Argentina",earthquake,8.76,5.594,0.035,247,reviewed,us,us
 2023-11-27T02:34:45.390Z,-26.1482,70.7528,10,5.6,mww,72,50,22.829,0.59,us,us6000lqyw,2023-11-27T02:59:35.243Z,"Indian Ocean Triple Junction",earthquake,10.86,1.782,0.086,13,reviewed,us,us
