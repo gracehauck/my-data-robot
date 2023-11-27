@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T09:32:08.007Z,60.1935,-151.2832,21.7,2.1,ml,,,,0.83,ak,ak023f7kfnfk,2023-11-27T09:34:35.620Z,"7 km SE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-27T09:26:21.610Z,38.7849998,-122.7639999,1.09,1.09,md,12,91,0.01432,0.04,nc,nc73968321,2023-11-27T09:35:10.741Z,"1 km NW of The Geysers, CA",earthquake,0.3,0.66,0.17,11,automatic,nc,nc
 2023-11-27T09:19:41.810Z,39.8893318,-121.0283356,0.22,2,md,9,155,0.3701,0.22,nc,nc73968316,2023-11-27T09:24:10.668Z,"6 km SSE of Meadow Valley, CA",earthquake,1.16,18.54,0.15,2,automatic,nc,nc
 2023-11-27T09:18:00.270Z,40.9418335,-121.567337,3.9,2.09,md,7,133,0.2988,0.09,nc,nc73968311,2023-11-27T09:24:09.668Z,"10 km NE of Burney, CA",earthquake,0.8,8.73,0.02,2,automatic,nc,nc
 2023-11-27T09:00:59.690Z,33.6733333,-116.9536667,5.46,1.06,ml,54,40,0.02841,0.17,ci,ci39718314,2023-11-27T09:07:34.139Z,"8 km SSE of Hemet, CA",earthquake,0.16,0.4,0.197,28,automatic,ci,ci
@@ -156,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T14:38:47.479Z,58.3492,-154.9025,110.9,1.4,ml,,,,0.3,ak,ak023f5zwuaz,2023-11-26T18:02:26.040Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-11-26T14:31:45.280Z,36.7873333,-121.3478333,6.64,1.09,md,23,96,0.03139,0.05,nc,nc73967696,2023-11-27T07:01:13.914Z,"2 km W of Tres Pinos, CA",earthquake,0.18,0.46,0.202,20,reviewed,nc,nc
 2023-11-26T14:30:56.984Z,4.3382,-76.1781,137.356,4.1,mb,17,106,1.951,0.69,us,us6000lqvk,2023-11-26T17:54:35.040Z,"0 km E of Bolívar, Colombia",earthquake,9.09,11.883,0.157,11,reviewed,us,us
-2023-11-26T14:27:13.550Z,37.5083333,-121.8233333,4.53,2.01,md,88,38,0.00902,0.09,nc,nc73967691,2023-11-27T09:13:10.605Z,"12 km NE of Milpitas, CA",earthquake,0.1,0.19,0.257,74,reviewed,nc,nc
+2023-11-26T14:27:13.550Z,37.5083333,-121.8233333,4.53,2.01,md,88,38,0.00902,0.09,nc,nc73967691,2023-11-27T09:26:12.679Z,"12 km NE of Milpitas, CA",earthquake,0.1,0.19,0.257,74,reviewed,nc,nc
 2023-11-26T14:13:52.110Z,19.2929992675781,-155.384994506836,3.5,1.73000002,md,32,115,,0.270000011,hv,hv73663867,2023-11-26T14:17:09.990Z,"14 km NE of Pāhala, Hawaii",earthquake,0.57,2.38000011,1.59000003,6,automatic,hv,hv
 2023-11-26T14:07:23.140Z,38.8426666,-122.841835,1.96,0.78,md,12,138,0.006415,0.01,nc,nc73967686,2023-11-26T14:31:14.127Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.46,0.18,14,automatic,nc,nc
 2023-11-26T14:01:18.580Z,38.8419991,-122.8404999,1.82,2,md,33,90,0.005189,0.03,nc,nc73967681,2023-11-26T16:46:12.838Z,"10 km NW of The Geysers, CA",earthquake,0.17,0.26,0.2,37,automatic,nc,nc
@@ -210,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T09:49:17.420Z,33.7528333,-116.9328333,17.61,0.83,ml,37,57,0.06601,0.18,ci,ci39718090,2023-11-26T16:17:18.930Z,"4 km E of Hemet, CA",earthquake,0.27,0.47,0.21,9,reviewed,ci,ci
 2023-11-26T09:39:48.735Z,26.8824,126.9829,109.963,5.2,mww,109,47,1.153,0.72,us,us6000lquh,2023-11-26T20:22:31.311Z,"84 km WNW of Ie, Japan",earthquake,6.02,4.965,0.06,27,reviewed,us,us
 2023-11-26T09:36:49.400Z,32.7476667,-115.4181667,12.61,1.19,ml,20,78,0.06234,0.3,ci,ci39718082,2023-11-26T09:42:52.951Z,"8 km SSW of Holtville, CA",earthquake,0.58,1.17,0.115,8,automatic,ci,ci
-2023-11-26T09:27:18.646Z,59.9796,-153.5088,164.7,2.3,ml,,,,0.62,ak,ak023f5wv8wm,2023-11-26T09:34:19.040Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
