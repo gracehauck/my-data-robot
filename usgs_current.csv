@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-28T11:22:11.140Z,38.8138351,-122.8123322,2.38,0.76,md,12,78,0.009708,0.02,nc,nc73968981,2023-11-28T11:23:47.701Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.64,0.15,12,automatic,nc,nc
+2023-11-28T11:03:03.122Z,2.1866,129.0781,10.167,5.2,mb,80,79,2.214,0.54,us,us7000leau,2023-11-28T11:20:27.040Z,"129 km ENE of Tobelo, Indonesia",earthquake,7.08,4.202,0.073,62,reviewed,us,us
 2023-11-28T10:36:40.091Z,60.4922,-144.2785,0,1.2,ml,,,,0.42,ak,ak023f98ld8z,2023-11-28T10:39:38.669Z,"81 km E of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-28T10:35:35.647Z,60.5907,-144.0429,0.3,1.8,ml,,,,0.91,ak,ak023f98l4w3,2023-11-28T10:42:34.579Z,"Southern Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-11-28T10:34:43.396Z,62.6979,-151.6529,1.1,2.2,ml,,,,0.61,ak,ak023f98kxoz,2023-11-28T10:37:09.682Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
