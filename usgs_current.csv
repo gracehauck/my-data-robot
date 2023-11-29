@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-29T04:22:53.600Z,33.2418333,-116.0868333,4.89,0.92,ml,50,50,0.09282,0.2,ci,ci39719402,2023-11-29T04:29:05.886Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.17,0.64,0.156,20,automatic,ci,ci
 2023-11-29T04:13:24.787Z,59.9823,-152.6047,60.3,1.2,ml,,,,0.31,ak,ak023fasf4wv,2023-11-29T04:15:56.157Z,"Southern Alaska",earthquake,,3.5,,,automatic,ak,ak
-2023-11-29T04:08:13.980Z,32.9286667,-116.2485,8.39,2.54,ml,89,43,0.0529,0.26,ci,ci39719394,2023-11-29T04:19:05.230Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.72,0.093,26,automatic,ci,ci
+2023-11-29T04:08:13.980Z,32.9286667,-116.2485,8.39,2.54,ml,89,43,0.0529,0.26,ci,ci39719394,2023-11-29T04:41:02.251Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.72,0.093,26,automatic,ci,ci
 2023-11-29T04:02:10.283Z,-3.4736,139.7437,19.022,4.5,mb,19,83,1.351,0.57,us,us7000legr,2023-11-29T04:24:48.040Z,"138 km SW of Abepura, Indonesia",earthquake,7.83,3.571,0.163,11,reviewed,us,us
 2023-11-29T04:00:43.789Z,62.1102,-147.4936,20.5,2.8,ml,,,,0.7,ak,ak023fasce9i,2023-11-29T04:07:07.040Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T03:58:26.046Z,61.3495,-150.0193,27.1,1.6,ml,,,,0.59,ak,ak023fas3css,2023-11-29T04:00:11.237Z,"2 km WSW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -210,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T04:56:50.111Z,61.0335,-150.0347,42.8,1.6,ml,,,,0.53,ak,ak023f9552c3,2023-11-28T04:58:27.227Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T04:56:16.230Z,53.3483333333333,-168.258666666667,7.12,1.17,ml,6,314,,0.24,av,av92135266,2023-11-29T02:27:38.720Z,"60 km NE of Nikolski, Alaska",earthquake,2.16,2.21,0.117894547571475,4,reviewed,av,av
 2023-11-28T04:56:05.680Z,35.6066667,-117.4185,9.22,0.78,ml,21,53,0.04091,0.13,ci,ci39718698,2023-11-28T14:27:31.496Z,"18 km SSW of Trona, CA",earthquake,0.21,0.37,0.085,5,reviewed,ci,ci
-2023-11-28T04:44:38.810Z,38.8325005,-122.8198318,1.8,0.36,md,8,67,0.01186,0.01,nc,nc73968886,2023-11-28T07:14:12.134Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.27,0.23,10,automatic,nc,nc
-2023-11-28T04:40:29.396Z,62.2803,-152.0333,113.3,1.8,ml,,,,0.53,ak,ak023f951la3,2023-11-28T04:43:13.403Z,"46 km NW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
