@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-01T21:37:10.901Z,31.602,-104.111,6.1019,2.1,ml,16,60,0,0.4,tx,tx2023xnwv,2023-12-01T21:47:11.709Z,"western Texas",earthquake,0,2.654517113,0.3,13,automatic,tx,tx
+2023-12-01T21:25:22.600Z,37.4291667,-113.1195,10.7,1.81,ml,17,95,0.07309,0.14,uu,uu60555642,2023-12-01T21:47:48.930Z,"Utah",earthquake,0.32,0.62,0.308,8,reviewed,uu,uu
 2023-12-01T21:16:08.990Z,19.3906669616699,-155.246002197266,1.70000004768372,1.96,ml,18,76,,0.200000003,hv,hv73668657,2023-12-01T21:21:40.910Z,"5 km SSW of Volcano, Hawaii",earthquake,0.33,0.230000004,0.22,7,automatic,hv,hv
 2023-12-01T21:04:25.730Z,38.8261681,-122.8551636,2.58,1.23,md,22,63,0.001917,0.02,nc,nc73970521,2023-12-01T21:35:19.821Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.45,0.14,22,automatic,nc,nc
 2023-12-01T21:04:14.600Z,38.8264999,-122.8529968,2.56,0.63,md,6,131,0.003202,0.01,nc,nc73970516,2023-12-01T21:27:13.774Z,"10 km WNW of The Geysers, CA",earthquake,0.8,1.38,0.36,8,automatic,nc,nc
@@ -122,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T08:27:19.660Z,37.4363333,-113.12,12.41,2.58,ml,21,77,0.08021,0.16,uu,uu60555602,2023-12-01T20:01:51.758Z,"12 km SSE of Kanarraville, Utah",earthquake,0.33,0.56,0.175,10,reviewed,uu,uu
 2023-12-01T08:16:01.153Z,65.4194,-148.028,12.8,1.6,ml,,,,0.28,ak,ak023fe5w5tf,2023-12-01T08:17:54.528Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-01T08:10:10.440Z,33.9316667,-117.8091667,11.75,0.55,ml,16,109,0.07009,0.17,ci,ci39720730,2023-12-01T18:07:23.715Z,"5 km N of Yorba Linda, CA",earthquake,0.39,0.63,0.017,6,reviewed,ci,ci
+2023-12-01T08:10:00.050Z,54.7491666666667,-163.986666666667,0.4,0.97,ml,4,104,,0.25,av,av91123013,2023-12-01T21:39:08.390Z,"38 km WSW of False Pass, Alaska",earthquake,0.87,0.51,0.207732067287773,4,reviewed,av,av
 2023-12-01T08:09:17.640Z,38.4896667,-112.845,0.67,-0.68,md,10,97,0.02207,0.05,uu,uu60555597,2023-12-01T16:46:05.170Z,"Utah",earthquake,0.23,1.25,0.33,3,reviewed,uu,uu
 2023-12-01T08:06:18.494Z,31.626,-104.506,8.0854,2,ml,16,75,0,0.1,tx,tx2023xmwb,2023-12-01T15:33:33.084Z,"western Texas",earthquake,0.8913037385,0.5225275828,0.2,16,reviewed,tx,tx
 2023-12-01T08:05:40.960Z,33.0343333,-116.4183333,8.97,1.14,ml,30,103,0.04598,0.16,ci,ci39720722,2023-12-01T14:23:59.618Z,"18 km ESE of Julian, CA",earthquake,0.25,0.56,0.25,11,reviewed,ci,ci
@@ -164,7 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T05:54:38.051Z,31.635,-104.01,5.3909,1.6,ml,15,80,0,0.2,tx,tx2023xmru,2023-12-01T06:08:03.362Z,"western Texas",earthquake,0,2.08248135,0.2,13,automatic,tx,tx
 2023-12-01T05:52:46.550Z,36.5453333333333,-89.6781666666667,9.2,2.46,md,49,48,0.01699,0.09,nm,nm60561381,2023-12-01T21:07:47.904Z,"6 km WNW of Marston, Missouri",earthquake,0.24,0.48,0.101147530913434,42,reviewed,nm,nm
 2023-12-01T05:52:23.329Z,-18.2638,-178.2271,500.488,4.4,mb,30,66,3.578,0.85,us,us7000lf15,2023-12-01T06:15:46.040Z,"260 km E of Levuka, Fiji",earthquake,14.1,9.094,0.102,28,reviewed,us,us
-2023-12-01T05:50:26.290Z,62.955,-150.4446,100.1,5,mww,,,,0.68,ak,ak023fe4b796,2023-12-01T21:00:11.133Z,"53 km NNE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-12-01T05:50:26.290Z,62.955,-150.4446,100.1,5,mww,,,,0.68,ak,ak023fe4b796,2023-12-01T21:42:47.950Z,"53 km NNE of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-12-01T05:42:00.260Z,17.9883333333333,-66.8078333333333,15.86,1.95,md,7,186,0.06925,0.11,pr,pr71432693,2023-12-01T05:52:05.650Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.93,0.87,0.186907559979073,5,reviewed,pr,pr
 2023-12-01T05:41:14.280Z,36.3069992,-119.7645035,19.73,2.53,md,12,90,0.2863,0.19,nc,nc73970266,2023-12-01T09:22:14.360Z,"2 km ENE of Lemoore, CA",earthquake,1.95,1.74,0.19,5,automatic,nc,nc
 2023-12-01T05:37:39.620Z,19.2193336486816,-155.434494018555,-0.219999998807907,2.3,ml,35,141,,0.209999993,hv,hv73668007,2023-12-01T05:43:10.250Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.45,0.230000004,2.72,11,automatic,hv,hv
@@ -245,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-30T22:13:39.740Z,45.0808333333333,-111.735333333333,-2,1.2,ml,8,135,0.2643,0.19,mb,mb90034478,2023-12-01T15:32:06.950Z,"western Montana",quarry blast,1.06,31.61,0.148559411485154,3,reviewed,mb,mb
 2023-11-30T22:12:46.302Z,64.7691,-148.9542,18.1,1.3,ml,,,,0.6,ak,ak023fcqo4ez,2023-11-30T22:16:22.830Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-30T21:53:47.644Z,31.803,-104.288,6.3501,2,ml,14,62,0.1,0.3,tx,tx2023xmbw,2023-12-01T15:55:25.144Z,"42 km SSE of Whites City, New Mexico",earthquake,2.421158463,0.9242839782,0.2,7,reviewed,tx,tx
-2023-11-30T21:46:02.930Z,32.8696667,-116.2503333,13.79,1.07,ml,28,54,0.09573,0.16,ci,ci39720466,2023-11-30T23:03:53.961Z,"27 km ENE of Pine Valley, CA",earthquake,0.24,0.47,0.124,15,reviewed,ci,ci
-2023-11-30T21:45:35.329Z,35.12666667,-97.55716667,5.61,1.69,ml,92,41,0.06118799283,0.36,ok,ok2023xmbp,2023-12-01T13:05:44.180Z,"Oklahoma",earthquake,,0.7,0.24,41,reviewed,ok,ok
