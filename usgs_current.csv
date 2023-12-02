@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-02T07:26:12.150Z,33.902,-116.2803333,5.97,0.87,ml,40,43,0.09195,0.15,ci,ci39721394,2023-12-02T07:32:22.876Z,"14 km NE of Thousand Palms, CA",earthquake,0.19,0.67,0.158,19,automatic,ci,ci
 2023-12-02T07:14:57.140Z,19.158166885376,-155.359497070312,28.9300003051758,1.78,ml,50,180,,0.119999997,hv,hv73669002,2023-12-02T07:22:49.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,0.819999993,4.7,5,automatic,hv,hv
 2023-12-02T07:12:11.760Z,19.1671657562256,-155.500671386719,29.0200004577637,1.88,md,21,114,,0.119999997,hv,hv73668997,2023-12-02T07:15:20.650Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,1.14999998,1.07000005,3,automatic,hv,hv
 2023-12-02T07:05:33.584Z,18.4222,-69.1559,108.17,4.3,mb,31,171,0.724,0.66,us,us7000lfb2,2023-12-02T07:18:24.303Z,"Dominican Republic",earthquake,7.55,6.643,0.161,12,reviewed,us,us
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T05:05:11.580Z,38.8111649,-122.7724991,1.03,0.26,md,6,130,0.006728,0.01,nc,nc73970661,2023-12-02T06:11:20.700Z,"4 km NNW of The Geysers, CA",earthquake,0.57,1.37,0.05,8,automatic,nc,nc
 2023-12-02T05:03:54.894Z,-56.2017,-27.8006,143.648,5,mb,52,112,5.329,0.83,us,us7000lfai,2023-12-02T05:22:18.040Z,"South Sandwich Islands region",earthquake,12.56,7.663,0.071,63,reviewed,us,us
 2023-12-02T04:53:06.700Z,19.1746673583984,-155.49333190918,32.3499984741211,1.71000004,md,31,98,,0.0900000036,hv,hv73668872,2023-12-02T04:56:25.900Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.71,1.17999995,1.71000004,4,automatic,hv,hv
-2023-12-02T04:51:37.120Z,38.6860008,-122.5031662,1.88,1.23,md,7,174,0.09193,0.02,nc,nc73970651,2023-12-02T05:08:12.339Z,"12 km SE of Middletown, CA",earthquake,0.35,8.29,0.11,8,automatic,nc,nc
+2023-12-02T04:51:37.120Z,38.6860008,-122.5031662,1.88,1.23,md,7,174,0.09193,0.02,nc,nc73970651,2023-12-02T07:29:15.191Z,"12 km SE of Middletown, CA",earthquake,0.35,8.29,0.11,8,automatic,nc,nc
 2023-12-02T04:48:53.700Z,32.7346667,-115.8715,3.55,1.44,ml,31,46,0.09687,0.21,ci,ci39721338,2023-12-02T04:55:13.069Z,"11 km E of Ocotillo, CA",earthquake,0.22,0.54,0.191,21,automatic,ci,ci
 2023-12-02T04:16:50.760Z,38.7765007,-122.7113342,1.77,1.13,md,10,101,0.01256,0.01,nc,nc73970641,2023-12-02T07:10:11.063Z,"2 km W of Anderson Springs, CA",earthquake,0.33,0.58,0.17,11,automatic,nc,nc
 2023-12-02T04:06:17.320Z,19.2165,-64.456,124,3.65,md,4,307,0.8178,0.4,pr,pr2023336001,2023-12-02T04:29:23.254Z,"Virgin Islands region",earthquake,15.61,11.91,0.13,3,reviewed,pr,pr
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T03:45:19.800Z,62.9701,-150.4863,100.2,1.9,ml,,,,0.27,ak,ak023ffqmlho,2023-12-02T03:46:53.267Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-02T03:36:23.570Z,32.7318333,-115.8795,3.99,1.55,ml,32,46,0.09149,0.21,ci,ci39721330,2023-12-02T03:42:44.836Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.8,0.137,18,automatic,ci,ci
 2023-12-02T03:35:57.310Z,32.7425,-115.8738333,1.33,1.12,ml,18,48,0.1031,0.15,ci,ci39721322,2023-12-02T03:41:58.835Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.42,0.248,9,automatic,ci,ci
-2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T07:19:42.149Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
+2023-12-02T03:35:32.303Z,23.1236,90.9449,38.525,5.5,mww,111,32,4.147,0.63,us,us7000lfaa,2023-12-02T07:26:54.615Z,"10 km ENE of Rāmganj, Bangladesh",earthquake,7.96,5.508,0.073,18,reviewed,us,us
 2023-12-02T03:29:14.451Z,32.7425,-100.5327,9.338,3,mb_lg,21,90,0.759,0.59,us,us7000lfa8,2023-12-02T04:12:18.516Z,"western Texas",earthquake,1.87,7.797,0.058,78,reviewed,us,us
 2023-12-02T03:21:33.685Z,63.1761,-150.5978,130.5,1.9,ml,,,,0.2,ak,ak023ffqhhdk,2023-12-02T03:23:30.833Z,"69 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-02T03:15:09.320Z,38.8001671,-122.7393341,1.01,1.1,md,8,106,0.01593,0.02,nc,nc73970636,2023-12-02T06:35:13.837Z,"3 km SSW of Cobb, CA",earthquake,0.34,0.69,0.13,8,automatic,nc,nc
@@ -217,7 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-01T07:43:27.480Z,32.7518333,-115.8728333,8.69,4.77,mw,95,29,0.1121,0.26,ci,ci39720706,2023-12-02T07:24:56.567Z,"11 km E of Ocotillo, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2023-12-01T07:40:36.642Z,31.609,-104.395,5.7717,1.7,ml,20,70,0.1,0.2,tx,tx2023xmvf,2023-12-01T14:54:49.836Z,"62 km S of Whites City, New Mexico",earthquake,1.250855302,1.420005858,0.1,6,reviewed,tx,tx
 2023-12-01T07:35:43.430Z,32.7515,-115.869,8.62,3.18,ml,91,28,0.113,0.24,ci,ci39720698,2023-12-01T22:29:42.114Z,"12 km E of Ocotillo, CA",earthquake,0.16,0.56,0.159,176,reviewed,ci,ci
-2023-12-01T07:33:53.020Z,35.8366667,-119.9653333,9.41,2.41,md,54,72,0.1523,0.19,nc,nc73970291,2023-12-02T06:21:12.760Z,"19 km S of Kettleman City, CA",earthquake,0.25,0.76,0.148,59,reviewed,nc,nc
-2023-12-01T07:33:38.250Z,59.7795,-153.3033,93,2.4,ml,,,,0.96,ak,ak023fe5eg8x,2023-12-01T07:35:58.196Z,"45 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-12-01T07:29:12.190Z,37.4346667,-113.1176667,10.6,1.68,ml,13,95,0.07867,0.09,uu,uu60555587,2023-12-01T17:02:56.124Z,"12 km SSE of Kanarraville, Utah",earthquake,0.28,0.75,0.298,3,reviewed,uu,uu
-2023-12-01T07:25:24.748Z,-21.4085,-66.6477,229.13,4.2,mb,30,68,2.091,0.49,us,us7000lf24,2023-12-01T08:34:09.040Z,"68 km SW of Atocha, Bolivia",earthquake,8.85,4.318,0.128,17,reviewed,us,us
