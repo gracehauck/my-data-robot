@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-03T06:39:21.160Z,38.793499,-122.7648315,2.77,1.29,md,21,77,0.01804,0.03,nc,nc73971061,2023-12-03T06:40:57.039Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.62,0.21,21,automatic,nc,nc
+2023-12-03T06:53:35.790Z,36.9976654,-121.4609985,5.89,1.64,md,28,103,0.03346,0.11,nc,nc73971066,2023-12-03T06:55:11.251Z,"10 km E of Gilroy, CA",earthquake,0.31,0.67,0.25,22,automatic,nc,nc
+2023-12-03T06:39:21.160Z,38.793499,-122.7648315,2.77,1.29,md,21,77,0.01804,0.03,nc,nc73971061,2023-12-03T06:49:10.513Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.62,0.21,21,automatic,nc,nc
 2023-12-03T06:37:32.451Z,59.9571,-152.982,108.7,2.4,ml,,,,0.91,ak,ak023fhfwk1p,2023-12-03T06:40:25.420Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T06:36:58.385Z,60.1609,-141.5288,13.5,1.5,ml,,,,0.53,ak,ak023fhfweby,2023-12-03T06:38:36.017Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-03T06:32:33.970Z,33.3383333,-116.4103333,10.83,1.06,ml,71,20,0.03797,0.18,ci,ci39721978,2023-12-03T06:43:33.120Z,"10 km NNW of Borrego Springs, CA",earthquake,0.15,0.28,0.143,27,automatic,ci,ci
@@ -293,6 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T07:05:33.584Z,18.4222,-69.1559,108.17,4.3,mb,31,171,0.724,0.66,us,us7000lfb2,2023-12-02T12:53:59.402Z,"Dominican Republic",earthquake,7.55,6.643,0.161,12,reviewed,us,us
 2023-12-02T06:59:55.810Z,32.7391667,-115.8706667,3.4,1.15,ml,22,48,0.1012,0.23,ci,ci39721386,2023-12-02T07:06:03.072Z,"12 km E of Ocotillo, CA",earthquake,0.27,0.66,0.225,8,automatic,ci,ci
 2023-12-02T06:57:56.120Z,33.0116667,-116.4298333,5.9,1.12,ml,53,47,0.0429,0.19,ci,ci39721378,2023-12-02T07:03:57.911Z,"18 km ESE of Julian, CA",earthquake,0.17,0.4,0.176,20,automatic,ci,ci
-2023-12-02T06:55:25.270Z,54.7386666666667,-164.105166666667,8.03,1.49,ml,4,286,,0.26,av,av92141101,2023-12-02T21:42:09.810Z,"Unimak Island region, Alaska",earthquake,2.08,31.61,0.268924898202771,4,reviewed,av,av
-2023-12-02T06:54:44.514Z,39.9163,-120.8356,6.8,1.8,ml,11,263.57,0.317,0.1686,nn,nn00869549,2023-12-03T03:39:00.652Z,"4 km WNW of Spring Garden, California",earthquake,,1.9,0.3,6,reviewed,nn,nn
-2023-12-02T06:50:02.085Z,39.5501,-119.8026,4.6,1.4,ml,24,76.99,0.014,0.1597,nn,nn00869547,2023-12-03T03:39:06.743Z,"Nevada",earthquake,,0.7,0.3,6,reviewed,nn,nn
