@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-03T06:01:44.670Z,32.7356667,-115.881,4.91,1.58,ml,41,41,0.09454,0.24,ci,ci39721970,2023-12-03T06:12:23.170Z,"10 km E of Ocotillo, CA",earthquake,0.23,0.64,0.148,26,automatic,ci,ci
+2023-12-03T06:01:44.670Z,32.7356667,-115.881,4.91,1.58,ml,41,41,0.09454,0.24,ci,ci39721970,2023-12-03T06:14:32.276Z,"10 km E of Ocotillo, CA",earthquake,0.23,0.64,0.148,26,automatic,ci,ci
 2023-12-03T06:00:29.950Z,64.3835,-145.7586,41.1,1.5,ml,,,,1.22,ak,ak023fhfomcz,2023-12-03T06:02:42.426Z,"26 km N of Big Delta, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-12-03T05:47:06.596Z,64.6359,-149.3483,17.9,1.1,ml,,,,0.19,ak,ak023fhfd7lv,2023-12-03T06:00:09.618Z,"11 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-03T05:43:42.956Z,8.6521,126.6735,60.283,5.5,mb,105,44,1.91,0.78,us,us7000lfrl,2023-12-03T06:08:23.072Z,"Mindanao, Philippines",earthquake,7.89,5.706,0.039,230,reviewed,us,us
