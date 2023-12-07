@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-07T15:53:46.985Z,60.609,-151.8811,93,1.5,ml,,,,0.64,ak,ak023fo7ib1m,2023-12-07T15:56:21.417Z,"30 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-12-07T15:51:54.777Z,61.1208,-150.2421,57.1,2.3,ml,,,,0.21,ak,ak023fo7hw7p,2023-12-07T15:53:31.806Z,"21 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
+2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.960Z,19.2993335723877,-155.379501342773,2.26999998092651,2.51,ml,41,117,,0.200000003,hv,hv73675837,2023-12-07T15:12:48.710Z,"14 km NE of Pāhala, Hawaii",earthquake,0.38,0.600000024,0.16,3,automatic,hv,hv
 2023-12-07T15:06:58.800Z,19.2961673736572,-155.383666992188,2.28999996185303,2.25,ml,8,194,,0.0599999987,hv,hv73675832,2023-12-07T15:12:29.010Z,"14 km NE of Pāhala, Hawaii",earthquake,0.61,0.779999971,3.17,5,automatic,hv,hv
 2023-12-07T14:49:02.089Z,12.1512,47.5191,10,5.1,mb,28,137,4.616,1.03,us,us7000lgxl,2023-12-07T15:04:08.040Z,"132 km NW of Las Khorey, Somalia",earthquake,7.61,1.937,0.117,24,reviewed,us,us
@@ -189,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T16:52:37.330Z,37.6156654,-119.0090027,0.82,0.77,md,9,158,0.01019,0.02,nc,nc73972501,2023-12-06T18:25:11.097Z,"4 km SW of Mammoth Lakes, CA",earthquake,0.99,0.86,0.31,8,automatic,nc,nc
 2023-12-06T16:15:50.262Z,31.575,-103.91,4.9715,1.7,ml,15,91,0.1,0.2,tx,tx2023xwpt,2023-12-06T16:32:03.386Z,"30 km NNW of Toyah, Texas",earthquake,0,1.253704304,0.1,13,automatic,tx,tx
 2023-12-06T15:59:45.980Z,36.006,-117.8098333,3.18,1.29,ml,25,101,0.02347,0.13,ci,ci40616880,2023-12-06T16:05:42.770Z,"12 km NE of Little Lake, CA",earthquake,0.2,0.27,0.175,11,automatic,ci,ci
-2023-12-06T15:55:11.321Z,58.2701,-153.8872,54.8,2.8,ml,,,,0.74,ak,ak023fmjzaff,2023-12-06T16:00:43.674Z,"62 km WNW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-12-06T15:54:24.730Z,55.0603,-155.9827,65,3.7,ml,,,,0.87,ak,ak023fmjz5jv,2023-12-07T00:16:19.499Z,"205 km SE of Chignik, Alaska",earthquake,,0,,,reviewed,ak,ak
