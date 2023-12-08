@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-08T06:38:50.690Z,19.3705005645752,-155.282501220703,1.97000002861023,2.3900001,md,31,111,,0.230000004,hv,hv73677507,2023-12-08T06:41:55.120Z,"9 km SSW of Volcano, Hawaii",earthquake,0.31,0.319999993,1.28999996,18,automatic,hv,hv
+2023-12-08T06:38:50.690Z,19.3705005645752,-155.282501220703,1.97000002861023,2.21,ml,31,111,,0.230000004,hv,hv73677507,2023-12-08T06:44:21.450Z,"9 km SSW of Volcano, Hawaii",earthquake,0.31,0.319999993,0.31,9,automatic,hv,hv
 2023-12-08T06:29:56.158Z,59.2247,-152.7665,69.3,2.1,ml,,,,0.34,ak,ak023fppjmm7,2023-12-08T06:31:53.969Z,"50 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-08T06:12:38.490Z,38.8025017,-122.8186646,3,0.75,md,16,74,0.01039,0.02,nc,nc73973096,2023-12-08T06:35:12.899Z,"6 km WNW of The Geysers, CA",earthquake,0.29,0.78,0.29,18,automatic,nc,nc
 2023-12-08T06:08:16.480Z,18.392,-66.158,63,3.47,md,15,214,0.1115,0.07,pr,pr2023342000,2023-12-08T06:41:17.263Z,"0 km SSW of Bayamón, Puerto Rico",earthquake,0.73,0.74,0.13,14,reviewed,pr,pr
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T04:45:58.000Z,62.5215,-152.858,10.7,1.8,ml,,,,0.68,ak,ak0234d4shxd8,2023-12-08T04:49:04.382Z,"94 km SE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-08T04:33:29.550Z,33.1868333,-115.5978333,2.03,1.55,ml,40,87,0.01761,0.2,ci,ci40617448,2023-12-08T04:40:19.743Z,"9 km SW of Niland, CA",earthquake,0.2,0.23,0.169,27,automatic,ci,ci
 2023-12-08T04:24:23.059Z,52.8666,-167.7997,49.3,2.1,ml,,,,0.41,ak,ak023fpobktp,2023-12-08T04:41:47.488Z,"71 km E of Nikolski, Alaska",earthquake,,6.1,,,reviewed,ak,ak
-2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T06:39:10.919Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
+2023-12-08T04:20:50.410Z,38.7883339,-122.7669983,1.82,0.73,md,13,77,0.01353,0.02,nc,nc73973081,2023-12-08T06:47:12.960Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.62,0.16,14,automatic,nc,nc
 2023-12-08T04:18:11.374Z,60.0972,-152.5374,102.1,1.9,ml,,,,0.1,ak,ak023fpoab2p,2023-12-08T04:38:36.040Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-12-08T04:08:59.370Z,19.064,-155.429666666667,52.16,2.07,md,32,198,,0.13,hv,hv73677272,2023-12-08T06:00:35.850Z,"15 km E of Naalehu, Hawaii",earthquake,0.88,0.71,0.157101658067344,17,reviewed,hv,hv
 2023-12-08T04:01:40.880Z,19.0746666666667,-155.441666666667,41.86,1.91,md,26,193,,0.14,hv,hv73677257,2023-12-08T05:54:40.820Z,"14 km E of Naalehu, Hawaii",earthquake,0.98,0.7,0.161481925098362,12,reviewed,hv,hv
@@ -175,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T15:38:05.751Z,4.1846,127.8335,116.281,4.5,mb,31,83,3.422,0.49,us,us7000lgxv,2023-12-07T18:02:07.040Z,"272 km N of Tobelo, Indonesia",earthquake,9.53,8.907,0.108,29,reviewed,us,us
 2023-12-07T15:23:35.923Z,10.6797,-65.0735,10,4.6,mb,46,64,5.591,0.73,us,us7000lgxw,2023-12-07T21:07:48.401Z,"68 km NW of Lecherías, Venezuela",earthquake,9.28,1.92,0.097,36,reviewed,us,us
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
-2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"109 km ENE of Angoram, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
+2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
 2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.810Z,19.2905,-155.384833333333,2.2,2.3,ml,12,108,,0.09,hv,hv73675837,2023-12-07T17:39:00.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.3,0.6,0.265732610999115,11,reviewed,hv,hv
 2023-12-07T15:06:58.620Z,19.2875,-155.385833333333,1.61,1.63,ml,10,129,,0.09,hv,hv73675832,2023-12-07T17:47:13.070Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.65,0.00638374230567051,1,reviewed,hv,hv
