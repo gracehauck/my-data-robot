@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-10T03:26:41.112Z,62.1783,-150.0206,39.4,2,ml,,,,0.69,ak,ak023fsytcfj,2023-12-10T03:28:03.445Z,"9 km WNW of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-10T03:18:14.190Z,39.3655014,-123.2910004,4,2.17,md,23,74,0.1094,0.06,nc,nc73974016,2023-12-10T03:25:11.282Z,"7 km SE of Willits, CA",earthquake,0.23,1.55,0.15,16,automatic,nc,nc
 2023-12-10T02:47:50.180Z,38.8288345,-122.814003,2.03,1.07,md,23,44,0.01739,0.01,nc,nc73974011,2023-12-10T03:09:14.180Z,"8 km NW of The Geysers, CA",earthquake,0.18,0.47,0.1,23,automatic,nc,nc
 2023-12-10T02:46:55.678Z,56.5839,-34.6153,10,4.9,mb,47,71,7.235,0.8,us,us7000lhut,2023-12-10T03:10:09.040Z,"Reykjanes Ridge",earthquake,6.7,1.832,0.066,73,reviewed,us,us
