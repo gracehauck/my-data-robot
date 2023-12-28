@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-28T20:27:49.960Z,38.8175011,-122.8125,2.78,0.96,md,17,44,0.01562,0.01,nc,nc73982151,2023-12-28T20:29:24.883Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.72,0.32,18,automatic,nc,nc
 2023-12-28T20:09:02.036Z,62.9459,-150.9591,115.2,1.9,ml,,,,0.25,ak,ak023gn0i8gr,2023-12-28T20:11:45.354Z,"51 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-28T20:01:56.129Z,62.0281,-150.2968,26.1,1.5,ml,,,,0.69,ak,ak023gn0gmws,2023-12-28T20:03:50.538Z,"27 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-28T20:01:25.880Z,34.987,-118.1876667,-0.92,1.29,ml,33,37,0.113,0.25,ci,ci40452159,2023-12-28T20:07:59.736Z,"7 km S of Mojave, CA",earthquake,0.28,0.66,0.125,16,automatic,ci,ci
@@ -228,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T20:42:47.852Z,62.8737,-151.3703,120.5,1.5,ml,,,,0.6,ak,ak023gld624x,2023-12-27T20:45:00.605Z,"52 km NW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-12-27T20:38:16.272Z,61.4936,-150.6796,81.1,1.9,ml,,,,0.52,ak,ak023gld54u3,2023-12-27T20:40:29.324Z,"10 km WSW of Susitna, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-12-27T20:34:23.170Z,38.836834,-122.7919998,2.18,1.22,md,13,76,0.01348,0.01,nc,nc73981871,2023-12-27T23:33:11.474Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.56,0.24,13,automatic,nc,nc
-2023-12-27T20:21:43.170Z,47.455,-113.538833333333,4.69,1.63,ml,15,158,0.2155,0.09,mb,mb90037268,2023-12-27T21:14:42.220Z,"15 km ESE of Condon, Montana",earthquake,0.49,6.33,0.178666181362477,7,reviewed,mb,mb
