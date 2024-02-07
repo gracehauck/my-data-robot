@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-06T07:02:37.333Z,36.7434,-116.2884,9.3,0.8,ml,25,80.5,0.014,0.0919,nn,nn00872971,2024-02-06T17:00:39.230Z,"45 km ESE of Beatty, Nevada",earthquake,,0.6,0.25,7,reviewed,nn,nn
 2024-02-06T07:01:14.410Z,64.6984,-149.1186,19,1.1,ml,,,,0.27,ak,ak0241pb24c1,2024-02-06T07:03:29.701Z,"10 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-06T06:52:53.242Z,64.4832,-146.9583,5,1.2,ml,,,,0.42,ak,ak0241parp8s,2024-02-06T06:54:20.922Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-06T06:38:28.960Z,44.4458333333333,-114.487833333333,6.54,2.07,ml,22,42,0.4263,0.24,mb,mb90039948,2024-02-06T13:36:14.870Z,"21 km WSW of Challis, Idaho",earthquake,0.49,1.21,0.190179128482873,26,reviewed,mb,mb
