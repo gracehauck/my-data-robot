@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-01T21:35:29.530Z,33.5223351,-116.5143356,12.78,1.07,ml,24,61,0.03773,0.11,ci,ci40679792,2024-03-01T21:37:31.964Z,"15 km ESE of Anza, CA",earthquake,0.36,0.68,0.2,7,automatic,ci,ci
+2024-03-01T21:35:29.470Z,33.5203333,-116.5165,13.18,0.9,ml,25,52,0.039,0.11,ci,ci40679792,2024-03-01T21:41:44.089Z,"15 km ESE of Anza, CA",earthquake,0.21,0.33,0.172,22,automatic,ci,ci
 2024-03-01T21:18:41.010Z,38.838665,-122.8431702,4.06,0.85,md,13,150,0.006001,0.05,nc,nc74010421,2024-03-01T21:20:13.514Z,"10 km NW of The Geysers, CA",earthquake,0.45,0.94,0.26,15,automatic,nc,nc
 2024-03-01T21:06:02.710Z,33.5896667,-116.8138333,4.34,0.37,ml,17,101,0.04921,0.21,ci,ci40679784,2024-03-01T21:12:11.803Z,"14 km WNW of Anza, CA",earthquake,0.38,0.76,0.073,6,automatic,ci,ci
 2024-03-01T21:00:30.360Z,33.8643333,-117.5005,1.91,1.25,ml,40,47,0.06574,0.2,ci,ci40679776,2024-03-01T21:07:04.261Z,"2 km SE of Home Gardens, CA",earthquake,0.22,0.35,0.314,37,automatic,ci,ci
@@ -203,6 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T01:15:23.530Z,38.8253326,-122.8088303,2,1.09,md,21,50,0.002165,0.01,nc,nc74010056,2024-03-01T01:16:59.340Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.46,0.13,23,automatic,nc,nc
 2024-03-01T01:14:29.570Z,38.8266678,-122.8010025,1.57,2.5,md,49,30,0.007803,0.07,nc,nc74010051,2024-03-01T01:17:30.316Z,"7 km NW of The Geysers, CA",earthquake,0.15,0.22,0.17,60,automatic,nc,nc
 2024-03-01T01:13:33.980Z,38.4928333333333,-112.8985,2,0.52,md,16,48,0.009668,0.09,uu,uu80055466,2024-03-01T21:01:42.170Z,"14 km NE of Milford, Utah",earthquake,0.27,0.39,0.102350884574425,6,reviewed,uu,uu
+2024-03-01T01:12:33.660Z,38.4928333333333,-112.8935,1.89,0.77,md,16,51,0.008056,0.13,uu,uu80055456,2024-03-01T21:46:04.490Z,"14 km NE of Milford, Utah",earthquake,0.32,0.47,0.616053921505979,6,reviewed,uu,uu
 2024-03-01T01:08:11.690Z,38.4938333333333,-112.894333333333,2.27,-0.13,md,8,145,0.009179,0.06,uu,uu80055446,2024-03-01T21:12:01.010Z,"14 km NE of Milford, Utah",earthquake,0.35,0.53,0.554515856462736,2,reviewed,uu,uu
 2024-03-01T01:06:37.380Z,46.8635,-121.75283333333333,2.58,0.64,ml,11,84,0.01588,0.07,uw,uw61986666,2024-03-01T17:02:46.340Z,"24 km ENE of Ashford, Washington",earthquake,0.3,0.61,0.27653418742925967,5,reviewed,uw,uw
 2024-03-01T01:06:09.770Z,17.9285,-66.2933333333333,12.71,2.34,md,10,213,0.1145,0.23,pr,pr71441548,2024-03-01T01:18:32.990Z,"5 km S of Salinas, Puerto Rico",earthquake,0.98,0.63,0.294117201697041,5,reviewed,pr,pr
@@ -242,4 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T22:04:31.150Z,38.4915,-112.8985,2.21,0.03,md,9,180,0.008618,0.05,uu,uu80055161,2024-02-29T23:13:10.020Z,"14 km NE of Milford, Utah",earthquake,0.5,0.58,0.305473013442691,3,reviewed,uu,uu
 2024-02-29T21:57:08.670Z,35.325,-118.1706667,8.38,1.79,ml,37,30,0.1553,0.12,ci,ci40679168,2024-03-01T00:58:40.370Z,"28 km NW of California City, CA",earthquake,0.13,0.51,0.216,25,reviewed,ci,ci
 2024-02-29T21:53:30.400Z,33.6948333,-116.8315,16.77,0.33,ml,10,163,0.06608,0.17,ci,ci40679160,2024-03-01T00:49:11.255Z,"8 km SE of Valle Vista, CA",earthquake,0.75,0.86,0.066,5,reviewed,ci,ci
-2024-02-29T21:47:09.950Z,33.881,-116.8953333,13.35,1.29,ml,43,36,0.09424,0.14,ci,ci40679152,2024-03-01T00:47:18.290Z,"5 km SSW of Banning, CA",earthquake,0.16,0.46,0.125,21,reviewed,ci,ci
