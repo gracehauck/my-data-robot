@@ -14,13 +14,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T13:34:07.740Z,40.3089981,-122.0414963,17.76,1.91,md,7,119,0.1192,0.12,nc,nc74012091,2024-03-05T13:35:43.299Z,"19 km SW of Manton, CA",earthquake,2.86,3.04,0.11,5,automatic,nc,nc
 2024-03-05T13:33:50.080Z,38.8344994,-122.7961655,0.37,1.1,md,13,52,0.005993,0.06,nc,nc74012086,2024-03-05T13:35:23.316Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.65,0.15,13,automatic,nc,nc
 2024-03-05T13:21:28.139Z,61.1738,-151.9104,102.3,1.9,ml,,,,0.46,ak,ak0242zpsr65,2024-03-05T13:24:02.923Z,"43 km WNW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-03-05T13:20:12.334Z,39.5581,-119.9344,7.8,0.7,ml,5,190.35,0.054,0.0586,nn,nn00874201,2024-03-05T15:35:10.053Z,"4 km N of Mogul, Nevada",earthquake,,1.8,0.11,4,reviewed,nn,nn
 2024-03-05T13:17:51.479Z,35.3114,27.4964,10,4.3,mb,69,92,1.034,0.73,us,us6000mgv7,2024-03-05T15:31:31.040Z,"33 km SE of Karpathos, Greece",earthquake,3.35,1.85,0.076,52,reviewed,us,us
 2024-03-05T13:15:11.690Z,38.8118324,-122.8288345,1.6,1.08,md,20,58,0.002972,0.03,nc,nc74012076,2024-03-05T13:16:48.198Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.32,0.15,22,automatic,nc,nc
 2024-03-05T13:12:24.320Z,38.5033333333333,-112.892833333333,2.11,0.38,md,17,56,0.005165,0.11,uu,uu80061441,2024-03-05T14:46:55.710Z,"15 km NE of Milford, Utah",earthquake,0.26,0.42,0.120447204509879,5,reviewed,uu,uu
 2024-03-05T13:10:50.750Z,61.1949,-150.1688,40.2,1.6,ml,,,,0.49,ak,ak0242zpqg1f,2024-03-05T13:12:45.918Z,"14 km W of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T13:08:52.695Z,59.7547,-152.65,96.2,2.2,ml,,,,0.27,ak,ak0242zpq0r9,2024-03-05T13:16:01.040Z,"46 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-05T13:05:17.310Z,38.8153343,-122.8251648,1.94,0.49,md,8,91,0.007178,0.01,nc,nc74012066,2024-03-05T13:06:53.009Z,"7 km NW of The Geysers, CA",earthquake,0.6,0.94,0.29,9,automatic,nc,nc
-2024-03-05T12:57:50.743Z,44.3874,-116.0745,15.879,3.4,ml,36,62,0.386,0.53,us,us6000mgv4,2024-03-05T15:16:18.120Z,"9 km N of Smiths Ferry, Idaho",earthquake,2.44,8.258,0.028,164,reviewed,us,us
+2024-03-05T12:57:50.743Z,44.3874,-116.0745,15.879,3.4,ml,36,62,0.386,0.53,us,us6000mgv4,2024-03-05T15:35:18.795Z,"9 km N of Smiths Ferry, Idaho",earthquake,2.44,8.258,0.028,164,reviewed,us,us
 2024-03-05T12:50:01.898Z,36.7359,-116.1949,1.7,-0.2,ml,8,88.69,0.016,0.0971,nn,nn00874198,2024-03-05T15:22:38.302Z,"50 km WNW of Indian Springs, Nevada",earthquake,,3.6,0.18,3,reviewed,nn,nn
 2024-03-05T12:45:08.919Z,61.2612,-152.1984,0.1,1.4,ml,,,,0.93,ak,ak0242zpcatc,2024-03-05T12:47:20.847Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-05T12:45:01.490Z,35.67416667,-97.40366667,6.2,2.43,ml,79,39,0.03419329011,0.19,ok,ok2024enxl,2024-03-05T13:42:03.738Z,"7 km W of Arcadia, Oklahoma",earthquake,,0.4,0.21,28,reviewed,ok,ok
@@ -56,6 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T09:43:18.263Z,31.665,-104.452,6.0999,1.6,ml,23,68,0,0.3,tx,tx2024enrl,2024-03-05T10:29:03.389Z,"57 km S of Whites City, New Mexico",earthquake,1.0050677842622078,0.7958294028833687,0.1,19,reviewed,tx,tx
 2024-03-05T09:29:31.541Z,39.4106,-119.7046,10.3,1.5,ml,10,66.49,0.051,0.1408,nn,nn00874188,2024-03-05T09:31:53.291Z,"12 km NNW of Virginia City, Nevada",earthquake,,0.8,0.31,7,automatic,nn,nn
 2024-03-05T09:29:23.975Z,56.8644,-33.7105,10,4.8,mb,51,125,9.935,1.01,us,us6000mgud,2024-03-05T09:57:47.040Z,"Reykjanes Ridge",earthquake,11.88,1.944,0.053,108,reviewed,us,us
+2024-03-05T09:28:47.390Z,38.4893333333333,-112.901,2.63,-0.18,md,11,98,0.008744,0.06,uu,uu80061291,2024-03-05T15:41:30.760Z,"14 km NE of Milford, Utah",earthquake,0.26,0.46,0.561877722208779,3,reviewed,uu,uu
 2024-03-05T09:20:08.940Z,17.9523333333333,-66.9843333333333,14.82,2.75,md,14,210,0.05949,0.14,pr,pr71442128,2024-03-05T09:35:30.590Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,0.51,0.49,0.130155276772645,7,reviewed,pr,pr
 2024-03-05T09:06:51.970Z,38.8266678,-122.8519974,1.54,1.38,md,25,75,0.003908,0.05,nc,nc74012016,2024-03-05T09:08:26.802Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.33,0.15,26,automatic,nc,nc
 2024-03-05T09:00:06.430Z,38.7734985,-122.7360001,1.87,2.11,md,40,66,0.02179,0.08,nc,nc74012006,2024-03-05T09:03:10.870Z,"2 km ESE of The Geysers, CA",earthquake,0.23,0.37,0.15,43,automatic,nc,nc
