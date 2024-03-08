@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-08T05:32:33.520Z,35.9545,-117.9305,7.65,0.95,ml,8,166,0.06229,0.03,ci,ci40683360,2024-03-08T05:38:24.283Z,"3 km NW of Little Lake, CA",earthquake,0.43,0.79,0.182,12,automatic,ci,ci
 2024-03-08T05:25:03.107Z,-20.9238,-68.9139,121.852,4.3,mb,18,60,0.549,0.79,us,us7000m42m,2024-03-08T05:36:06.040Z,"76 km WNW of Ollagüe, Chile",earthquake,6.63,7.329,0.187,8,reviewed,us,us
 2024-03-08T05:14:09.450Z,38.8243332,-122.8138351,0.8,0.64,md,10,71,0.0166,0.03,nc,nc74013516,2024-03-08T05:15:41.627Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.89,0.13,10,automatic,nc,nc
 2024-03-08T05:12:45.020Z,33.6658333,-116.7521667,13.57,1.01,ml,28,66,0.05521,0.12,ci,ci40683352,2024-03-08T05:21:09.334Z,"9 km SSW of Idyllwild, CA",earthquake,0.23,0.38,0.242,14,automatic,ci,ci
