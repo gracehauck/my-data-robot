@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-15T13:42:30.680Z,61.1141,-147.6369,0,1.8,ml,,,,0.96,ak,ak0243g9aqcc,2024-03-15T13:44:31.448Z,"58 km WNW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-15T13:15:37.640Z,38.8313332,-122.8150024,1.55,0.68,md,10,76,0.008812,0.01,nc,nc74017856,2024-03-15T13:17:10.153Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.11,0.07,11,automatic,nc,nc
 2024-03-15T13:13:50.200Z,46.695167541503906,-121.90533447265625,4.05000019073486,1.33000004,md,37,55,,0.0700000003,uw,uw61989911,2024-03-15T13:16:05.380Z,"11 km SE of Ashford, Washington",earthquake,0.26,0.839999974,,1,automatic,uw,uw
 2024-03-15T13:10:54.735Z,61.5077,-146.3807,25.6,1.3,ml,,,,0.54,ak,ak0243g93xa9,2024-03-15T13:12:55.907Z,"42 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-14T14:02:47.680Z,33.0148333,-116.4751667,11.55,0.85,ml,23,82,0.06915,0.16,ci,ci40687104,2024-03-14T16:33:47.767Z,"14 km ESE of Julian, CA",earthquake,0.24,0.57,0.078,8,reviewed,ci,ci
 2024-03-14T14:02:24.300Z,35.12066667,-98.0035,7.2,1.27,ml,65,85,0.1133777514,0.26,ok,ok2024feln,2024-03-15T12:55:22.290Z,"8 km ENE of Verden, Oklahoma",earthquake,,0.5,0.24,28,reviewed,ok,ok
 2024-03-14T13:57:59.746Z,39.5963,-119.7566,13.4,-0.1,ml,4,206.06,0.158,0.1662,nn,nn00874768,2024-03-15T02:04:14.426Z,"1 km E of Sun Valley, Nevada",earthquake,,5.5,0,1,reviewed,nn,nn
-2024-03-14T13:46:04.215Z,62.0364,-148.8465,20,1.4,ml,,,,0.4,ak,ak0243els6o5,2024-03-14T13:47:32.638Z,"29 km N of Sutton-Alpine, Alaska",earthquake,,0.7,,,automatic,ak,ak
