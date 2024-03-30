@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-29T06:50:05.470Z,39.2373352,-123.1648331,5.97,1.53,md,8,136,0.1105,0.03,nc,nc74025821,2024-03-29T07:59:52.436Z,"5 km SE of Redwood Valley, CA",earthquake,0.31,1.85,0.06,5,automatic,nc,nc
 2024-03-29T06:49:25.990Z,19.3926666666667,-155.279833333333,1.23,1.33,md,15,44,0.006356,0.1,hv,hv74153567,2024-03-29T21:17:50.860Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.154039379045518,20,reviewed,hv,hv
 2024-03-29T06:49:05.389Z,63.2297,-151.1096,0,1.4,ml,,,,0.69,ak,ak02443ap02y,2024-03-29T06:50:48.957Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-29T06:46:49.220Z,44.7453333333333,-110.9645,6.73,0.05,md,8,162,0.03282,0.28,uu,uu80063451,2024-03-29T15:32:25.880Z,"14 km NE of West Yellowstone, Montana",earthquake,0.98,1.61,0.41275024571788,4,reviewed,uu,uu
