@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-23T03:25:11.150Z,38.8306656,-122.8164978,1.81,1.69,md,32,47,0.008825,0.03,nc,nc74039556,2024-04-23T03:26:45.585Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.28,0.14,34,automatic,nc,nc
+2024-04-23T03:25:11.150Z,38.8306656,-122.8164978,1.81,1.69,md,32,47,0.008825,0.03,nc,nc74039556,2024-04-23T03:28:04.833Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.28,0.14,34,automatic,nc,nc
 2024-04-23T03:22:04.742Z,60.9072,-147.6113,17.5,1.6,ml,,,,0.83,ak,ak02458l6l8a,2024-04-23T03:24:58.651Z,"50 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-23T03:18:30.736Z,62.2815,-151.3385,85.9,1.2,ml,,,,0.13,ak,ak02458l5sdd,2024-04-23T03:20:23.251Z,"32 km N of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-23T03:01:32.720Z,38.8110008,-122.7705002,15.48,1.88,md,8,159,0.01961,0.06,nc,nc74039546,2024-04-23T03:03:05.266Z,"4 km NNW of The Geysers, CA",earthquake,3.75,4.2,0.79,2,automatic,nc,nc
@@ -307,7 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T03:50:48.841Z,61.5619,-151.3549,86,1,ml,,,,0.58,ak,ak02456xtc6s,2024-04-22T03:52:11.235Z,"44 km W of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-22T03:37:49.704Z,31.71,-103.992,7.1765,1.9,ml,24,45,0,0.1,tx,tx2024hwxo,2024-04-22T15:07:28.731Z,"37 km W of Mentone, Texas",earthquake,0.509587306854267,0.6510986875704544,0.2,22,reviewed,tx,tx
 2024-04-22T03:37:01.369Z,36.9403,-116.1558,4.8,0.4,ml,25,47.339999999999975,0.058,0.1342,nn,nn00876685,2024-04-22T16:15:44.562Z,"53 km E of Beatty, Nevada",earthquake,,1.2,0.21,14,reviewed,nn,nn
-2024-04-22T03:35:56.491Z,61.9335,-147.3366,38.4,1.3,ml,,,,0.77,ak,ak02456xq51d,2024-04-22T03:38:44.296Z,"8 km W of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-22T03:35:18.834Z,60.871,-149.5792,32.1,1.5,ml,,,,1.21,ak,ak02456xq23n,2024-04-22T03:38:40.233Z,"6 km SSE of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-22T03:35:17.977Z,29.098,-97.899,6.6008,1.6,ml,10,110,0.1,0.8,tx,tx2024hwxl,2024-04-22T03:58:25.642Z,"16 km SSE of Stockdale, Texas",earthquake,0,3.55993426101509,0.1,8,automatic,tx,tx
-2024-04-22T03:27:39.680Z,34.005,-117.1715,11.69,0.68,ml,22,94,0.05773,0.15,ci,ci40554375,2024-04-22T20:39:00.223Z,"6 km S of Redlands, CA",earthquake,0.27,0.77,0.128,11,reviewed,ci,ci
