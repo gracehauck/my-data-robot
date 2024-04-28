@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-28T03:35:24.173Z,60.2597,-151.0896,35.5,1.6,ml,,,,0.33,ak,ak0245guy5i9,2024-04-28T03:36:40.095Z,"13 km SE of Kasilof, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-04-28T03:17:21.630Z,19.156665802002,-155.504837036133,34.0299987792969,2.27999997,md,39,121,0.04041,0.140000001,hv,hv74190762,2024-04-28T03:19:06.810Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.51,0.660000026,0.0500000007,5,automatic,hv,hv
 2024-04-28T03:02:29.867Z,66.7958,-153.9611,5.4,1.3,ml,,,,0.92,ak,ak0245gur3be,2024-04-28T03:04:47.373Z,"61 km WNW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-28T02:58:43.970Z,38.8349991,-122.8071671,2.13,1.1,md,11,53,0.01181,0.01,nc,nc74042256,2024-04-28T03:00:17.705Z,"7 km W of Cobb, CA",earthquake,0.34,1.13,0.18,14,automatic,nc,nc
