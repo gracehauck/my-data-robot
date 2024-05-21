@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-21T23:16:41.840Z,38.8231658935547,-122.763664245605,2.45000004768372,0.84,md,6,137,0.008777,0.01,nc,nc75010331,2024-05-21T23:18:19.423Z,"4 km WNW of Cobb, CA",earthquake,0.62,1.51999998,0.26,8,automatic,nc,nc
 2024-05-21T23:14:16.305Z,61.9219,-148.0334,14.9,2.1,ml,,,,0.74,ak,ak0246j83abi,2024-05-21T23:16:08.978Z,"23 km WNW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-05-21T23:12:44.380Z,35.8915,-117.6968333,4.66,0.59,ml,19,98,0.06774,0.12,ci,ci40595319,2024-05-21T23:18:33.657Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.37,0.115,4,automatic,ci,ci
 2024-05-21T22:40:42.020Z,33.671,-116.774,18.12,1.52,ml,72,19,0.06398,0.19,ci,ci40595279,2024-05-21T22:51:17.300Z,"9 km SSW of Idyllwild, CA",earthquake,0.15,0.24,0.198,27,automatic,ci,ci
 2024-05-21T22:36:59.390Z,38.8368339538574,-122.803169250488,1.78999996185303,0.74,md,12,82,0.01014,0.03,nc,nc75010316,2024-05-21T22:38:35.084Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.540000021,0.16,13,automatic,nc,nc
 2024-05-21T22:35:23.900Z,38.8370018005371,-122.80249786377,2.01999998092651,0.71,md,10,86,0.009595,0.01,nc,nc75010311,2024-05-21T22:37:00.109Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.810000002,0.12,10,automatic,nc,nc
@@ -251,8 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T23:37:26.510Z,38.7978324890137,-122.815498352051,3.30999994277954,0.44,md,11,86,0.01358,0.01,nc,nc75009921,2024-05-20T23:39:03.914Z,"6 km NW of The Geysers, CA",earthquake,0.44,0.930000007,0.24,10,automatic,nc,nc
 2024-05-20T23:27:02.310Z,38.813835144043,-122.820831298828,2.65000009536743,0.81,md,20,71,0.008193,0.02,nc,nc75009916,2024-05-20T23:28:38.375Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.519999981,0.19,21,automatic,nc,nc
 2024-05-20T23:26:48.076Z,59.6318,-152.8755,79.7,1.9,ml,,,,0.34,ak,ak0246hkmkvb,2024-05-20T23:28:49.027Z,"60 km WSW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-20T23:24:48.840Z,57.1327,-156.3886,70.7,3.1,ml,,,,0.4,ak,ak0246hkm5gu,2024-05-20T23:32:36.040Z,"74 km SE of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-05-20T23:24:20.790Z,60.0378333333333,-153.0895,0.59,-0.61,ml,5,106,0.0235,0.09,av,av93133976,2024-05-21T06:14:30.560Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.27,1.13,0.370044050360139,5,reviewed,av,av
-2024-05-20T23:22:44.991Z,39.2141,-119.731,0,1.5,ml,6,68.81,0.025,0.1401,nn,nn00877943,2024-05-21T01:18:40.887Z,"6 km NNE of Carson City, Nevada",explosion,,0,0.09,2,reviewed,nn,nn
-2024-05-20T23:20:30.370Z,38.8139991760254,-122.83699798584,2.20000004768372,0.71,md,5,135,0.007974,0.01,nc,nc75009906,2024-05-20T23:22:07.604Z,"8 km NW of The Geysers, CA",earthquake,0.86,1.73000002,0.31,7,automatic,nc,nc
-2024-05-20T23:20:09.570Z,37.3913333333333,-118.680833333333,11.25,1.05,md,17,90,0.1011,0.04,nc,nc75009911,2024-05-21T06:31:36.368Z,"8 km W of Round Valley, CA",earthquake,0.37,1.35,0.133,12,reviewed,nc,nc
