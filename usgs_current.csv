@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-17T18:42:49.310Z,33.8898315,-116.8973312,12.73,1.5,ml,34,62,0.1003,0.14,ci,ci40801224,2024-06-17T18:53:25.170Z,"4 km SSW of Banning, CA",earthquake,0.29,1.16,0.26,18,automatic,ci,ci
-2024-06-17T18:39:37.510Z,35.0343323,-117.6741638,6.96,1.6,ml,26,52,0.1014,0.31,ci,ci40801216,2024-06-17T18:41:41.174Z,"4 km NNW of Boron, CA",earthquake,0.62,1.99,0.157,13,automatic,ci,ci
+2024-06-17T19:05:51.140Z,38.4378318786621,-122.481163024902,3.59999990463257,1.19,md,7,189,0.2927,0.19,nc,nc75023327,2024-06-17T19:07:28.262Z,"6 km ENE of Kenwood, CA",earthquake,6.77,14.21,,1,automatic,nc,nc
+2024-06-17T18:42:56.340Z,33.4943333,-116.9358333,8.09,0.95,ml,9,155,0.1069,0.18,ci,ci40801232,2024-06-17T19:02:42.744Z,"9 km NW of Aguanga, CA",earthquake,0.91,3.21,0.19,19,automatic,ci,ci
+2024-06-17T18:42:49.340Z,33.8878333,-116.899,12.84,1.45,ml,56,29,0.09811,0.17,ci,ci40801224,2024-06-17T19:02:54.744Z,"5 km SSW of Banning, CA",earthquake,0.15,0.48,0.305,26,automatic,ci,ci
+2024-06-17T18:39:36.940Z,35.0311667,-117.674,-0.84,1.52,ml,34,39,0.09827,0.28,ci,ci40801216,2024-06-17T18:58:01.717Z,"4 km NNW of Boron, CA",earthquake,0.4,1.15,0.087,31,automatic,ci,ci
 2024-06-17T18:38:23.960Z,37.9828338623047,-122.454170227051,1.51999998092651,1.4,md,7,109,0.02506,0.03,nc,nc75023322,2024-06-17T18:51:53.990Z,"6 km ESE of Santa Venetia, CA",earthquake,0.72,0.579999983,0.01,7,automatic,nc,nc
 2024-06-17T17:52:52.469Z,34.98566667,-96.876,12.48,1.78,ml,62,39,0.1664673334,0.27,ok,ok2024lwhx,2024-06-17T18:07:49.356Z,"4 km E of Asher, Oklahoma",earthquake,,1.6,0.27,29,reviewed,ok,ok
 2024-06-17T17:31:48.762Z,65.4196,-144.7587,4.9,1.2,ml,,,,0.62,ak,ak0247rs4rp8,2024-06-17T17:33:45.235Z,"17 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-17T17:18:24.330Z,33.4631667,-116.5703333,9.16,1.63,ml,73,22,0.04121,0.17,ci,ci40801104,2024-06-17T18:53:57.698Z,"14 km SE of Anza, CA",earthquake,0.12,0.27,0.209,27,automatic,ci,ci
+2024-06-17T17:18:24.330Z,33.4631667,-116.5703333,9.16,1.63,ml,73,22,0.04121,0.17,ci,ci40801104,2024-06-17T18:55:37.580Z,"14 km SE of Anza, CA",earthquake,0.12,0.27,0.209,27,reviewed,ci,ci
 2024-06-17T17:15:28.488Z,51.6951,-175.0431,10,3.7,mb,17,221,0.729,0.88,us,us7000mt1l,2024-06-17T17:39:21.040Z,"80 km SW of Atka, Alaska",earthquake,6.52,2.013,0.099,26,reviewed,us,us
 2024-06-17T17:04:43.190Z,33.1175,-116.3756667,8.06,1.47,ml,65,29,0.06605,0.2,ci,ci40801088,2024-06-17T18:53:32.980Z,"15 km S of Borrego Springs, CA",earthquake,0.17,0.66,0.152,24,reviewed,ci,ci
 2024-06-17T16:55:10.682Z,62.3743,-150.7805,55.3,1.8,ml,,,,0.31,ak,ak0247rroecc,2024-06-17T16:57:13.170Z,"13 km S of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
