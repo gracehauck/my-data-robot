@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-25T03:40:35.630Z,34.0405006,-116.8526688,13.07,1.19,ml,36,38,0.03766,0.19,ci,ci40809824,2024-06-25T03:42:38.072Z,"13 km N of Banning, CA",earthquake,0.26,0.74,0.083,5,automatic,ci,ci
+2024-06-25T03:40:35.630Z,34.037,-116.8493333,12.66,1.14,ml,45,70,0.03456,0.14,ci,ci40809824,2024-06-25T03:46:46.275Z,"13 km NNE of Banning, CA",earthquake,0.13,0.34,0.151,29,automatic,ci,ci
 2024-06-25T03:11:36.420Z,33.2695,-116.4238333,4.99,0.84,ml,35,30,0.005739,0.23,ci,ci40809808,2024-06-25T03:17:31.509Z,"5 km WNW of Borrego Springs, CA",earthquake,0.23,0.38,0.163,17,automatic,ci,ci
 2024-06-25T03:00:50.660Z,35.1095,-119.0916667,4.31,2.09,ml,39,44,0.05119,0.28,ci,ci40809800,2024-06-25T03:32:21.800Z,"23 km SW of Lamont, CA",earthquake,0.31,2.52,0.15,26,automatic,ci,ci
 2024-06-25T02:57:40.695Z,62.2782,-154.1858,8.8,1.2,ml,,,,0.61,ak,ak02484rnlkl,2024-06-25T02:59:35.431Z,"82 km S of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -103,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-24T18:26:07.488Z,61.9451,-150.8703,61.3,1.6,ml,,,,0.41,ak,ak02483dggzw,2024-06-24T18:28:07.105Z,"28 km E of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-24T18:25:40.330Z,33.5491667,-117.0381667,8.53,1.38,ml,55,41,0.0629,0.23,ci,ci40809232,2024-06-24T18:34:32.740Z,"11 km E of Murrieta Hot Springs, CA",earthquake,0.19,0.62,0.204,27,automatic,ci,ci
 2024-06-24T18:24:27.715Z,64.4972,-146.8873,5,1.1,ml,,,,0.53,ak,ak02483dg2xu,2024-06-24T18:26:35.184Z,"3 km SSE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-06-24T18:00:13.610Z,51.9716666666667,178.602666666667,9.07,0.47,ml,4,302,0.02507,0.1,av,av93177426,2024-06-25T03:46:51.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.7,0.75,0.288011574250057,4,reviewed,av,av
 2024-06-24T17:54:47.132Z,38.3227,73.6779,131.526,4.3,mb,40,133,1.865,0.61,us,us6000n7z8,2024-06-24T18:08:00.040Z,"30 km WNW of Murghob, Tajikistan",earthquake,5.99,7.384,0.082,42,reviewed,us,us
 2024-06-24T17:53:55.100Z,37.6515007019043,-118.912170410156,-0.720000028610229,1.74,md,17,62,0.0061,0.04,nc,nc75026637,2024-06-24T17:55:33.683Z,"6 km E of Mammoth Lakes, CA",earthquake,0.25,0.159999996,0.2,17,automatic,nc,nc
 2024-06-24T17:48:20.100Z,35.9728333,-117.776,7.35,0.9,ml,18,77,0.05299,0.1,ci,ci40809160,2024-06-24T20:16:55.769Z,"12 km ENE of Little Lake, CA",earthquake,0.16,0.43,0.201,9,reviewed,ci,ci
